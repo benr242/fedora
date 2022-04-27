@@ -1,0 +1,111 @@
+Bookie
+
+Menu
+User, roles
+Log Monolog chat
+Game status
+
+symfony doctrine:schema:drop --full-database [--force]
+
+Entities
+
+👍🏽 League
+Slug
+Name
+€OtM Team
+
+👍Team
+Location
+Slug
+Name
+€MtO League
+
+Player
+username
+stash
+
+Game
+ATS
+Moneyldne
+AbstractBetSide
+€OtO Gamo
+>resolve
+BetATSSide
+
+
+--------
+
+Bet i
+Game
+isBookie?
+Player1 o
+Player2 o
+Team1
+Team2
+Spread
+Money
+Processed
+
+Games
+Week
+Time
+Home
+Away
+Result
+
+CustomGames
+Time
+Favorite(-x)
+Underdog
+Spread
+Result
+
+Conference
+Name
+Init
+€OtM Division
+
+Division
+Name
+Init
+€MtO Conference
+€OtM Team
+
+Team
+Name
+Init
+Location
+€MtO League
+
+PAGE
+
+Login
+FOSUserBundle
+make:user
+//Create login form
+php bin/console make:auth
+
+php bin/console doctrine:database:create
+
+
+Players
+Login on click, if not already
+Propose Bet on other player
+Propose general but for anyone
+Make Bet on book
+
+Bet
+List games
+Choose team
+Set spread
+
+ListBets
+
+ADMIN
+
+BookieSetSpread(Game)
+
+LockFinals(page)
+
+ProcessBets()
+
