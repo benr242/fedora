@@ -1,175 +1,3 @@
-pwd
-mv .bashrc .bashrc.real
-cp tmp/.bashrc .
-source .bashrc
-vi .bashrc .bashrc.real 
-source .bashrc
-exit
-.
-vi .bashrc .bash_aliases 
-vi .bash_aliases 
-source .bashrc 
-vi .bashrc 
-c
-source .bashrc 
-vi .bash_aliases 
-source .bashrc 
-vi .bashrc 
-source .bashrc 
-vi .bashrc 
-source .bashrc 
-cp .bashrc .bashrc.bk
-source .bashrc
-rm .bashrc.bk 
-cp .bashrc .bashrc.bk
-source .bashrc
-vi .bashrc.swp 
-c
-source .bashrc
-exit
-vi /etc/bashrc 
-cp /etc/bashrc tmp/
-vi tasks/howto/fedora/setup.txt 
-source .bashrc
-ls
-ls tasks/
-ls tasks/howto/
-cd tasks/
-ls
-vi howto/fedora/setup.txt 
-cd
-vi .bashrc 
-vi .bashrc .bashrc.real 
-vi .bashrc
-vi .bashrc .bashrc.real 
-touch .bash_aliases
-ls -l
-ls -al
-c
-vi .bashrc
-alias
-vi .bash_aliases 
-vi .bashrc
-mv .bash_aliases .bash_aliase
-mv .bash_aliase .bash_aliases
-vi .bashrc
-ls -a
-vi .bash_aliases 
-source .bashrc
-vi .bashrc
-vi .bash_aliases 
-source .bashrc
-cp .bashrc.done .bashrc
-source .bashrc
-vi .bashrc
-source .bashrc
-vi .bashrc
-source .bashrc
-vi .bashrc
-source .bashrc
-vi .bashrc
-source .bashrc
-exit
-vi /etc/skel/.bashrc 
-echo /etc/skel/.bashrc 
-echo /etc/skel/.bashrc >> tasks/howto/fedora/info.txt 
-source .bashrc
-cp .bashrc .bashrc.maybe
-source .bashrc
-c
-clear
-source .bashrc
-cp .bashrc .bashrc.done
-la
-ls
-ls -a
-exit
-source .bashrc
-vi .bashrc
-source .bashrc
-vi .bashrc
-source .bashrc
-vi .bashrc
-ls -a
-vi .bashrc .bash_aliases 
-source .bashrc
-cp .bashrc.done .bashrc
-source .bashrc
-vi .bashrc
-source .bashrc
-vi .bashrc
-source .bashrc
-vi .bashrc
-vi .bash_aliases 
-c
-source .bashrc
-vi .bashrc
-source .bashrc
-exit
-source .bashrc
-vi .bashrc
-vi .bash
-vi .bash_aliases 
-..
-cd tmp/
-..
-cd ..
-ls -a
-source .bashrc
-vi .bashrc
-vi .bash_aliases 
-cd tmp/
-..
-vi .bash_aliases 
-source .bashrc
-cd /etc/
-.
-cp .bashrc .bashrc.good
-cp .bash_aliases .bash_aliases.good
-mv .bashrc.good .bashrc.bk
-mv .bash_aliases.good .bash_aliases.bk
-cd /etc/
-ls
-cd ostree/
-.
-exit
-mkdir bk
-cp .bashrc .bash_aliases bk
-sudo dnf upgrade
-cd tasks/howto/
-ls
-cd fedora/
-ls
-echo sudo dnf upgrade
-echo sudo dnf upgrade >> setup.txt 
-vi setup.txt 
-.
-sudo dnf install vim
-echo sudo dnf install vim
-echo sudo dnf install vim >> tasks/howto/fedora/setup.txt 
-vim tasks/howto/fedora/setup.txt 
-vim tasks/todo.txt 
-vim tasks/howto/fedora/setup.txt 
-vim tasks/todo.txt 
-dnf search phpstorm
-sudo dnf -y install https://rpms.remirepo.net/fedora/remi-release-35.rpm
-vim tasks/howto/fedora/setup.txt 
-echo sudo dnf -y install https://rpms.remirepo.net/fedora/remi-release-35.rpm
-echo sudo dnf -y install https://rpms.remirepo.net/fedora/remi-release-35.rpm >> tasks/howto/fedora/setup.txt 
-vim tasks/howto/fedora/setup.txt 
-c
-sudo dnf config-manager --set-enabled remi
-echo sudo dnf config-manager --set-enabled remi
-echo sudo dnf config-manager --set-enabled remi >> tasks/howto/fedora/setup.txt 
-sudo  dnf module reset php
-echo sudo  dnf module reset php >> tasks/howto/fedora/setup.txt 
-vi tasks/howto/fedora/setup.txt 
-sudo dnf module install php:remi-7.4
-echo sudo dnf module install php:remi-7.4
-echo sudo dnf module install php:remi-7.4 >> tasks/howto/fedora/setup.txt 
-c
-php -v
-vim tasks/howto/fedora/setup.txt 
 exit
 cd tasks/howto/fedora/
 vi setup.txt 
@@ -997,4 +825,176 @@ vi bin/ctg
 vi Repos/fedora/root/home/benr242/bin/ctg 
 echo Repos/fedora/root/home/benr242/bin/ctg 
 vi Repos/fedora/root/home/benr242/bin/ctg 
+exit
+cd
+vi TOK/PAT 
+vi /home/benr242/TOK/PAT 
+cd
+vi /home/benr242/TOK/PAT 
+cd Repos/fedora/
+git status
+pwd
+git status
+pwd
+cp /home/benr242/bin/ctg .
+git status
+git add .
+c
+git status
+git commit -m "ctg"
+git status
+ght
+git status
+git push origin main
+git status
+c
+git status
+ght
+git push origin main
+vi /home/benr242/TOK/PAT 
+git push origin main
+ls
+rm ctg 
+c
+git status
+git commit -m "oops"
+git status
+git push origin main
+c
+git status
+git push origin main
+ght
+git push origin main
+c
+ctg 
+git status
+ls
+vi notes/todo.txt 
+vi tasks/todo.txt 
+sudo dnf install plex
+dnf search plex
+clear
+dnf search plex
+sudo dnf remove plex
+dnf search plex-media
+flatpak install plex-media-player
+flatpak install plex
+flatpak list
+c
+flatpak list
+c
+flatpak search plex
+sudo tee /etc/yum.repos.d/plex.repo<<EOF
+[Plexrepo]
+name=plexrepo
+baseurl=https://downloads.plex.tv/repo/rpm/\$basearch/
+enabled=1
+gpgkey=https://downloads.plex.tv/plex-keys/PlexSign.key
+gpgcheck=1
+EOF
+
+sudo dnf install plexmediaserver -y
+c
+systemctl status plexmediaserver
+echo sudo tee /etc/yum.repos.d/plex.repo<<EOF
+[Plexrepo]
+name=plexrepo
+baseurl=https://downloads.plex.tv/repo/rpm/\$basearch/
+enabled=1
+gpgkey=https://downloads.plex.tv/plex-keys/PlexSign.key
+gpgcheck=1
+EOF
+
+clear
+echo sudo tee /etc/yum.repos.d/plex.repo<<EOF
+[Plexrepo]
+name=plexrepo
+baseurl=https://downloads.plex.tv/repo/rpm/\$basearch/
+enabled=1
+gpgkey=https://downloads.plex.tv/plex-keys/PlexSign.key
+gpgcheck=1
+EOF
+
+echo sudo tee /etc/yum.repos.d/plex.repo<<EOF
+[Plexrepo]
+name=plexrepo
+baseurl=https://downloads.plex.tv/repo/rpm/\$basearch/
+enabled=1
+gpgkey=https://downloads.plex.tv/plex-keys/PlexSign.key
+gpgcheck=1
+EOF
+
+c
+echo sudo tee /etc/yum.repos.d/plex.repo<<EOF
+[Plexrepo]
+name=plexrepo
+baseurl=https://downloads.plex.tv/repo/rpm/\$basearch/
+enabled=1
+gpgkey=https://downloads.plex.tv/plex-keys/Ple
+c
+cd tasks/howto/
+ls
+cd fedora/
+vi
+vi setup.txt
+echo sudo tee /etc/yum.repos.d/plex.repo<<EOF
+[Plexrepo]
+name=plexrepo
+baseurl=https://downloads.plex.tv/repo/rpm/\$basearch/
+enabled=1
+gpgkey=https://downloads.plex.tv/plex-keys/PlexSign.key
+gpgcheck=1
+EOF
+
+>> setup.txt
+vi setup.txt
+echo sudo tee /etc/yum.repos.d/plex.repo<<EOF
+[Plexrepo]
+name=plexrepo
+baseurl=https://downloads.plex.tv/repo/rpm/\$basearch/
+enabled=1
+gpgkey=https://downloads.plex.tv/plex-keys/PlexSign.key
+gpgcheck=1
+EOF >> setup.txt
+
+
+
+clear
+echo sudo tee /etc/yum.repos.d/plex.repo<<EOF
+[Plexrepo]
+name=plexrepo
+baseurl=https://downloads.plex.tv/repo/rpm/\$basearch/
+enabled=1
+gpgkey=https://downloads.plex.tv/plex-keys/PlexSign.key
+gpgcheck=1
+EOF
+
+vi setup.txt
+pwd
+..
+clear
+plexmediaplayer 
+
+vi tasks/howto/fedora/setup.txt
+ctg 
+cd Repos/fedora/
+git status
+git add .
+git status
+vi tasks/howto/fedora/setup.txt 
+pwd
+git status
+pwd
+git push origin main
+pwd
+cp -R /home/benr242/TOK/ .
+c
+git status
+git add .
+git status
+git commit -m "tok odded"
+ls
+ls root/home/benr242/
+git push origin main
+ls
 exit

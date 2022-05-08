@@ -3,3 +3,4 @@ vlc
 setup backup
 system backup softwace
 setup plex
+setup plex
