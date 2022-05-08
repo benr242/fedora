@@ -61,34 +61,3 @@ sudo dnf install thunderbird
 
 sudo sudo dnf install snapd
 sudo snap install youtube-music-desktop-app
-
-flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
-
-----------
-WINE
-sudo dnf -y install dnf-plugins-core
-sudo dnf config-manager --add-repo https://dl.winehq.org/wine-builds/fedora/35/winehq.repo
-sudo dnf -y install winehq-stable
-
-get repository
-sudo dnf install protonvpn
-
------------
-PLEX
-$ sudo tee /etc/yum.repos.d/plex.repo<<EOF
-[Plexrepo]
-name=plexrepo
-baseurl=https://downloads.plex.tv/repo/rpm/\$basearch/
-enabled=1
-gpgkey=https://downloads.plex.tv/plex-keys/PlexSign.key
-gpgcheck=1
-EOF
-
-$ sudo dnf install plexmediaserver -y
-
-$ sudo systemctl start plexmediaserver
-$ sudo systemctl enable plexmediaserver
-$ systemctl status plexmediaserver
-
-----------------
-test
