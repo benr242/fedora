@@ -1,125 +1,3 @@
-cd usb/
-ls
-ls hiddev1 
-..
-cd
-ls Documents/
-ls
-mv setup.txt Documents/
-c
-cd /run/media/
-cd benr242/
-ls
-cd 1234-5678/
-ls
-mkdir /home/benr242/Videos/Foundation
-ls
-cp * /home/benr242/Videos/Foundation/
-cp -r * /home/benr242/Videos/Foundation/
-c
-cp -rv * /home/benr242/Videos/Foundation/
-exit
-mkdir Docuumentation
-ls
-ls Documents/
-mv Documents/* Docuumentation/
-mv Docuumentation/ Doc
-cd Doc
-ls
-mkdir Symfony
-mkdir Fedora
-ls
-mv info.txt setup.txt Fedora/
-c
-exit
-mv Doc Howto
-c
-ls
-exit
-ls
-mv Howto/ howto
-cd howto/
-ls
-mv Fedora/ fedora
-mv Symfony/ symfony
-vi fedora/setup.txt 
-l.
-..
-l.
-vi .bashrc 
-source .bashrc 
-vi .bashrc 
-\vi
-\vi .bashrc 
-sourch .bashrc 
-source .bashrc 
-c
-vi .bashrc 
-\vi .bashrc 
-c
-source .bashrc 
-vi .bashrc 
-\vi .bashrc 
-source .bashrc 
-vi .bashrc 
-\vi .bashrc 
-h
-c
-exit
-cd
-vi /etc/sudoers
-sudo usermod -aG wheel benr242
-vi /etc/sudoers
-sudo vi /etc/sudoers
-echo sudo usermod -aG wheel benr242
-echo sudo usermod -aG wheel benr242 >> howto/fedora/setup.txt 
-vi howto/fedora/setup.txt 
-c
-sudo vi /etc/sudoers
-mkdir tasks
-mv howto/ tasks/
-cd tasks/
-ls
-vi todo.txt
-.
-cd
-vi .bashrc 
-sudo dnf repolist
-c
-sudo dnf repolist
-cd tasks/howto/
-cd ~
-vi .bashrc 
-source .bashrc 
-cd tasks/
-.
-touch .bash_aliases
-ls -a
-c
-l.
-vi tasks/todo.txt 
-exit
-cd howto/
-cd fedora/
-ls
-vi info.txt 
-cd
-vi .bashrc 
-ls
-cd howto/
-ls
-cd fedora/
-ls
-vi setup.txt 
-c
-uname -mrs
-echo uname -mrs
-vi info.txt 
-echo uname -mrs >> info.txt 
-vi info.txt 
-exit
-vi /etc/skel/.bashrc 
-cp /etc/skel/.bashrc tmp/
 pwd
 mv .bashrc .bashrc.real
 cp tmp/.bashrc .
@@ -997,4 +875,126 @@ vi todo.txt
 c
 cd howto/fedora/
 vi setup.txt
+exit
+cd
+vi TOK/PAT 
+cp -R tasks/ Repos/fedora/
+cp /home/benr242/.bashrc /home/benr242/Repos/fedora/root/home/benr242/
+echo cp /home/benr242/.bashrc /home/benr242/Repos/fedora/root/home/benr242/
+ls
+ls -a .bash*
+vi .bash_profile 
+vi .bash_aliases
+ctg
+cd Repos/fedora/root/home/benr242/
+vi .bash_profile 
+vi .bash_aliases 
+..
+git status
+vi root/home/benr242/.bash_aliases 
+ls
+pwd
+cd root/home/benr242/
+ls
+pwd
+c\
+ls
+ls -a
+mkdir bin
+cp /home/benr242/bin/ctg bin/
+cd bin/
+ls
+..
+git status
+git add .
+c
+git status
+git commit -m "config"
+vi /home/benr242/.bash_aliases
+ght
+git push origin main
+ cd
+cd tmp/
+mkdir tasks
+..
+cp -R tasks/* tmp/tasks/
+cd tmp
+cd tasks/
+ls
+cd howto/
+ls
+cd
+vi bin/ctg 
+cp -R /home/benr242/tasks/* /home/benr242/Repos/fedora/tasks/
+echo cp -R /home/benr242/tasks/* /home/benr242/Repos/fedora/tasks/
+echo cp -R /home/benr242/tasks/* /home/benr242/Repos/fedora/tasks/ >> bin/ctg 
+vi bin/ctg 
+ls Repos/fedora/
+vi bin/ctg 
+vi tasks/howto/fedora/setup.txt
+ctg 
+vi bin/ctg 
+cp /home/benr242/bin/ctg /home/benr242/Repos/fedora/
+echo cp /home/benr242/bin/ctg /home/benr242/Repos/fedora/
+vi bin/ctg 
+ctg
+vi Repos/fedora/ctg 
+vi .bash_aliases
+vi TOK/PAT 
+vi bin/ctg 
+ctg 
+vx bin/ctg 
+vi bin/ctg 
+ctg 
+vi Repos/fedora/root/home/benr242/bin/ctg 
+cd Repos/fedora/
+git status
+git add .
+git status
+git commit -m "check"
+ght
+git push origin main
+exit
+systemctl status plexmediaserver
+sudo dnf install plex-media-server
+sudo dnf install plex
+sudo dnf upgrade
+pwd
+ls
+cd
+cp .bashrc .bash_aliases .bash_profile Repos/fedora/root/home/benr242/
+vi .bash
+cp .bash Repos/fedora/root/home/benr242/
+cd Repos/fedora/
+git add .
+c
+git status 
+git commit -m "bash"
+git status 
+git push origin master
+git push origin main
+git status
+git add .
+git status
+rm tasks/*bk
+rm tasks/howto/fedora/setup.txt.bk 
+rm tasks/howto/fedora/info.txt.bk 
+git status
+git commit -m "tasks"
+git status
+git push origin main
+cd
+cd bin/
+ls
+ls -a
+mv .ctg ctg
+vi ctg 
+ls
+..
+sudo git upgrade
+sudo dnf upgrade
+vi bin/ctg 
+vi Repos/fedora/root/home/benr242/bin/ctg 
+echo Repos/fedora/root/home/benr242/bin/ctg 
+vi Repos/fedora/root/home/benr242/bin/ctg 
 exit
