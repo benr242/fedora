@@ -1,0 +1,6 @@
+cp /home/benr242/.bash /home/benr242/Repos/fedora/root/home/benr242/
+cp /home/benr242/.bashrc /home/benr242/Repos/fedora/root/home/benr242/
+cp /home/benr242/.bash_aliases /home/benr242/Repos/fedora/root/home/benr242/
+cp /home/benr242/.bash_profile /home/benr242/Repos/fedora/root/home/benr242/
+cp /home/benr242/.bash_history /home/benr242/Repos/fedora/root/home/benr242/
+
