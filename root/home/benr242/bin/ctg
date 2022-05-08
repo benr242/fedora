@@ -1,6 +1,10 @@
+cp /home/benr242/bin/ctg /home/benr242/Repos/fedora/root/home/benr242/bin/
+
+
 cp /home/benr242/.bash /home/benr242/Repos/fedora/root/home/benr242/
 cp /home/benr242/.bashrc /home/benr242/Repos/fedora/root/home/benr242/
 cp /home/benr242/.bash_aliases /home/benr242/Repos/fedora/root/home/benr242/
 cp /home/benr242/.bash_profile /home/benr242/Repos/fedora/root/home/benr242/
 cp /home/benr242/.bash_history /home/benr242/Repos/fedora/root/home/benr242/
 
+cp -R /home/benr242/tasks/howto /home/benr242/tasks/todo.txt /home/benr242/Repos/fedora/tasks/
