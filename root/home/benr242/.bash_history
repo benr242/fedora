@@ -1,15 +1,3 @@
-ls
-sudo rpm -Uvh code-1.66.0-1648620680.el7.x86_64.rpm 
-exit
-ls
-mkdir Projects
-cd Projects/
-mkdir symfony
-cd symfony/
-git clone https://github.com/benr242/Bookies.git
-ls
-cd Bookies/
-cd
 sudo dnf upgrade --refresh -y
 sudo dnf install http://rpms.remirepo.net/fedora/remi-release-35.rpm
 echo sudo dnf install http://rpms.remirepo.net/fedora/remi-release-35.rpm
@@ -997,4 +985,16 @@ exit
 vi tasks/howto/fedora/setup.txt
 systemctl status plexmediaserver
 plexmediaplayer 
+exit
+plexmediaplayer 
+sudo dnf groupinstall multimedia
+echo sudo dnf groupinstall multimedia >> tasks/howto/fedora/setup.txt
+ctg
+vi .bashrc
+ctg
+cd Repos/fedora/
+c
+git status
+git add .
+git commit -m "check"
 exit

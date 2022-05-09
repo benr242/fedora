@@ -26,6 +26,10 @@ sudo dnf config-manager --set-enabled remi
 sudo dnf module reset php
 sudo dnf module install php:remi-7.4
 
+sudo dnf install composer
+
+#install GitHub Desktop
+
 sudo dnf install gnome-tweak-tool
 sudo dnf install transmission
 
@@ -34,6 +38,7 @@ sudo dnf install http://rpms.remirepo.net/fedora/remi-release-35.rpm
 
 #install RPMFusion free repo
 sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-35.noarch.rpm https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-35.noarch.rpm
+
 
 #install HandBreak for video type switching
 sudo dnf install handbrake-gui
@@ -69,6 +74,7 @@ WINE
 sudo dnf -y install dnf-plugins-core
 sudo dnf config-manager --add-repo https://dl.winehq.org/wine-builds/fedora/35/winehq.repo
 sudo dnf -y install winehq-stable
+sudo dnf install bottles
 
 get repository
 sudo dnf install protonvpn
