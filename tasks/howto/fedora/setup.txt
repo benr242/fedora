@@ -91,6 +91,6 @@ $ sudo systemctl enable plexmediaserver
 $ systemctl status plexmediaserver
 
 ----------------
-test
 
 sudo dnf groupinstall KDE Plasma Workspaces
+sudo dnf groupinstall multimedia

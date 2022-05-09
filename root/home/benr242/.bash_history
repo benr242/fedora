@@ -1,64 +1,3 @@
-exit
-cd tasks/howto/fedora/
-vi setup.txt 
-exit
-dnf seach atom
-sudo dnf install atom
-ls
-mkdir Software
-sudo dnf install wget
-ls
-cd Downloads/
-ls
-sudo dnf install httpd -y
-ls
-.
-cd Downloads/
-ls
-sudo tar -xzf jetbrains-toolbox-1.23.11680.tar.gz -C /opt
-mv jetbrains-toolbox-1.23.11680.tar.gz /home/benr242/Software/
-cd /opt/jetbrains-toolbox-1.23.11680/
-pwd
-c
-pwd
-ls
-./jetbrains-toolbox 
-cd
-mkdir tmp/
-cd tmp/
-mkdir benr242
-cd tmp benr242/
-cd benr242/
-pwd
-cp /home/benr242/.bashrc /home/benr242/.bash
-cp /home/benr242/.bashrc /home/benr242/.bash_aliases.
-c
-l- -a
-ls -a
-pwd
-cp /home/benr242/.bashrc /home/benr242/.bash_aliases .
-c
-ls -a
-c
-git init
-c
-git statis
-c
-git status
-git add .
-c
-git status
-git add .
-git status
-5wd
-pwd
-c
-pwd
-exit
-git --version
-git config --global user.name "benr242"
-git config --global user.email "benr242@mail.com"
-cd Downloads/
 ls
 sudo rpm -Uvh code-1.66.0-1648620680.el7.x86_64.rpm 
 exit
@@ -997,4 +936,65 @@ ls
 ls root/home/benr242/
 git push origin main
 ls
+exit
+cd Repos/fedora/root/home/benr242/bin/
+git rm ctg 
+..
+git status
+git add .
+git status
+git commuit -m "sae"
+git status
+ght
+git commit -m "check"
+git status
+git push origin main
+vi /home/benr242/TOK/PAT 
+git status
+ght
+git commit -m "check"
+git status
+git add .
+git status
+git commit -m "check"
+git status
+git push origin main
+cd
+cd Repos/fedora/
+c
+git status
+cd
+c
+plexmediaplayer 
+ls
+mkdir Notes
+vi Notes/plex_crash
+cd tasks/howto/fedora/
+vi setup.txt
+$ systemctl status plexmediaserver
+systemctl status plexmediaserver
+exit
+sudo dnf groupinstall "KDE Plasma Workspaces"
+echo sudo dnf groupinstall "KDE Plasma Workspaces"
+echo sudo dnf groupinstall "KDE Plasma Workspaces" >> tasks/howto/fedora/setup.txt
+vi tasks/howto/fedora/setup.txt
+exit
+cd
+vi tasks/todo.txt 
+ctg
+cd Repos/fedora/
+git status
+ctg
+c
+git status
+ght
+git add .
+git status
+git commit -m "kde"
+git status
+git push origin main
+exit
+vi tasks/howto/fedora/setup.txt
+systemctl status plexmediaserver
+plexmediaplayer 
 exit
