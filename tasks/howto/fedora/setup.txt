@@ -92,3 +92,5 @@ $ systemctl status plexmediaserver
 
 ----------------
 test
+
+sudo dnf groupinstall KDE Plasma Workspaces
