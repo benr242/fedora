@@ -60,6 +60,10 @@ sudo dnf install plexmediaserver
 sudo systemctl start plexmediaserver
 sudo systemctl enable plexmediaserver
 sudo dnf install plex-media-player
+#enable on system boot
+sudo systemctl enable plexmediaserver
+#browser
+localhost:32400/web/index.html#!/setup
 ----------
 
 sudo dnf install thunderbird
