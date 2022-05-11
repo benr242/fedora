@@ -1,28 +1,3 @@
-sudo dnf upgrade --refresh -y
-sudo dnf install http://rpms.remirepo.net/fedora/remi-release-35.rpm
-echo sudo dnf install http://rpms.remirepo.net/fedora/remi-release-35.rpm
-c
-ls
-cd tasks/howto/fedora/
-ls
-echo sudo dnf install http://rpms.remirepo.net/fedora/remi-release-35.rpm >> setup.txt 
-vi setup.txt 
-php --version
-vi setup.txt 
-c
-dnf repolist | grep remi
-sudo dnf remove php php-fpm -y
-sudo dnf remove php* -y
-sudo dnf module list reset php -y
-sudo dnf module list php
-sudo dnf module enable php:remi-8.1
-php --version
-ls
-..
-sudo dnf install gvim
-.
-vi .bash_aliases
-source .bashrc
 vi .bash_aliases
 source .bashrc
 vi .bash_aliases
@@ -997,4 +972,29 @@ c
 git status
 git add .
 git commit -m "check"
+exit
+vi .bash_aliases
+sudo dnf upgrade
+exit
+cd
+cd plex/
+ls
+mkdir Music
+cd
+exit
+sudo dnf search Bottles
+sudo dnf install Bottles
+sudo dnf install bottles
+sudo dnf upgrade
+cd tasks/
+ls
+couch command.txt
+touch commands.txt
+vi howto/fedora/setup.txt commands.txt 
+vi /home/benr242/bin/ctg 
+sudo dnf install bottles
+echo sudo dnf install bottles >> howto/fedora/setup.txt
+vi howto/fedora/setup.txt
+c
+sudo dnf upgrade
 exit
