@@ -1,56 +1,3 @@
-vi .bash_aliases
-source .bashrc
-vi .bash_aliases
-exit
-exit
-cd Projects/symfony/Bookies/
-php bin/console server:start
-composer incstall
-.
-cd Projects/symfony/Bookies/
-c
-composer install
-composer update
-exit
-vi .bash_aliases
-source .bashrc
-vi .bash_aliases
-source .bashrc
-exit
-source .bashrc
-vi tasks/todo.txt 
-exit
-vi howto/fedora/setup.txt 
-sudo dnf repolist
-sudo dnf install handbreak-gui
-sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
-ls
-cd Documents/
-ls
-..
-ls
-cd tasks/
-ls
-cd howto/
-ls
-echo sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
-clear
-echo sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
-echo sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm >> fedora/setup.txt 
-vi fedora/setup.txt 
- sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
-sudo dnf install handbrake-gui
-echo sudo dnf install handbrake-gui >> fedora/setup.txt 
-vi fedora/setup.txt 
-c
-cd
-..
-cd
-ls
-cd Videos/
-ls
-cd Foundation/
-ls
 ..
 cp -R Foundation/ /home/benr242/tmp/
 c
@@ -997,4 +944,57 @@ echo sudo dnf install bottles >> howto/fedora/setup.txt
 vi howto/fedora/setup.txt
 c
 sudo dnf upgrade
+exit
+cd
+cd Notes/
+vi plex_crash 
+cd
+cd Repos/
+git status
+cd fedora/
+git status
+git add .
+git status
+git commit -m "check"
+ght
+git push origin main
+ls
+vi tasks/howto/fedora/setup.txt
+cd
+ls
+cd bin/
+ls
+pwd
+vi ctg 
+cd
+ls plex/Shows/
+cd Downloads/Good\ Will\ Hunting\ \(1997\)\ \[1080p\]/
+ls
+c
+ls
+ls -lh
+..
+ls
+cd Good\ Will\ Hunting\ \(1997\)\ \[1080p\]/
+c
+ls
+vlc Good.Will.Hunting.1997.1080p.BrRip.x264.YIFY.mp4 
+ls
+..
+cp -R Good\ Will\ Hunting\ \(1997\)\ \[1080p\]/ /home/benr242/plex/Movies/
+exit
+cd
+cd plex/
+ls 
+cd Shows/
+ls
+cd Lasso/
+ls
+cd Ted\ Lasso\ Season\ 1
+cd Ted\ Lasso\ Season\ 1\ Mp4\ 1080p/
+ls
+plexmediaplayer Ted\ Lasso\ S01E10.mp4 
+vlc Ted\ Lasso\ S01E02.mp4 
+..
+pwd
 exit

@@ -14,7 +14,21 @@ ALIASES
 
 sudo dnf upgrade
 sudo dnf makecache
-sudo dnf install vim
+
+LAMP
+--------------
+#sudo dnf install vim
+sudo dnf install vim bash-completion curl wget telnet
+
+sudo dnf -y install httpd
+sudo systemctl start httpd
+sudo systemctl enable http
+sudo dnf -y install php php-cli php-php-gettext php-mbstring php-mcrypt php-mysqlnd php-pear php-curl php-gd php-xml php-bcmath php-zip
+date.timezone = Africa/Nairobi
+sudo dnf install mariadb-server
+#enable to start on boot
+sudo systemctl start mariadb
+sudo systemctl enable mariadb
 
 # install flatpak? repositorie
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
