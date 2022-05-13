@@ -118,3 +118,8 @@ $ systemctl status plexmediaserver
 
 sudo dnf groupinstall KDE Plasma Workspaces
 sudo dnf groupinstall multimedia
+$ groups plex
+	plex : plex video
+
+#add user to group
+sudo usermod -a -G plex benr242
