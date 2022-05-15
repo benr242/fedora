@@ -123,3 +123,8 @@ $ groups plex
 
 #add user to group
 sudo usermod -a -G plex benr242
+
+--setup ownership of the paths
+sudo chown -R plex.plex /home/benr242/plexmedialibrary/Movies
+--setup permissions of the paths
+sudo find /home/benr242/plexmedialibrary/Movies -type d -exec chmod 775 {} ;
