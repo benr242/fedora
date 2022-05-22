@@ -14,21 +14,7 @@ ALIASES
 
 sudo dnf upgrade
 sudo dnf makecache
-
-LAMP
---------------
-#sudo dnf install vim
-sudo dnf install vim bash-completion curl wget telnet
-
-sudo dnf -y install httpd
-sudo systemctl start httpd
-sudo systemctl enable http
-sudo dnf -y install php php-cli php-php-gettext php-mbstring php-mcrypt php-mysqlnd php-pear php-curl php-gd php-xml php-bcmath php-zip
-date.timezone = Africa/Nairobi
-sudo dnf install mariadb-server
-#enable to start on boot
-sudo systemctl start mariadb
-sudo systemctl enable mariadb
+sudo dnf install vim
 
 # install flatpak? repositorie
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
@@ -114,17 +100,8 @@ $ sudo systemctl start plexmediaserver
 $ sudo systemctl enable plexmediaserver
 $ systemctl status plexmediaserver
 
+plex port for remote access: 32400
 ----------------
 
 sudo dnf groupinstall KDE Plasma Workspaces
 sudo dnf groupinstall multimedia
-$ groups plex
-	plex : plex video
-
-#add user to group
-sudo usermod -a -G plex benr242
-
---setup ownership of the paths
-sudo chown -R plex.plex /home/benr242/plexmedialibrary/Movies
---setup permissions of the paths
-sudo find /home/benr242/plexmedialibrary/Movies -type d -exec chmod 775 {} ;
