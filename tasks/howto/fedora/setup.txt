@@ -43,6 +43,10 @@ sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-rele
 #install HandBreak for video type switching
 sudo dnf install handbrake-gui
 
+#install nodejs
+dnf module list nodejs
+sudo dnf module install nodejs:16
+
 #Plex
 sudo dnf upgrade --refresh -y
 

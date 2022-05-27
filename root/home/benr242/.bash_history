@@ -1,248 +1,3 @@
-..
-cp -R Foundation/ /home/benr242/tmp/
-c
-cd
-cd t
-cd tmp/
-ls
-..
-ls
-ls Videos/Foundation/Foundation\ 2021\ S01/
-dnf search vlc
-sudo dnf install vlc
-sudo dnf repolist
-vlc Videos/Foundation/Foundation\ 2021\ S01/S01E01\ Foundation\ 2021\ 1080p.mkv 
-vi .bash_aliases
-cd /home/
-cd
-sudo dnf search transmission
-sudo dnf install transmission
-transmission-gtk 
-mkdir plex
-mv Videos/Foundation/ plex/
-cd plex/
-ls
-cd Foundation/
-ls
-cd
-transmission-gtk 
-cd Downloads/
-c
-ls
-cd Ted\ Lasso\ Season\ 1\ Mp4\ 1080p/
-ls
-vlc Ted\ Lasso\ S01E01.mp4 
-cd
-c
-ls
-ls Downloads/
-ls plex/
-mkdir plex/TedLasso
-cp -R Downloads/Ted\ Lasso\ Season\ * plex/
-cd plex/
-ls
-mkdir Lasso
-mv Ted* Lasso/
-ls
-cd Lasso/
-ls
-vlc Ted\ Lasso\ Season\ 1\ Mp4\ 1080p/Ted\ Lasso\ S01E04.mp4 
-c
-df
-c
-df -T
-df -H
-c
-df -H
-gedit 
-cd
-ls
-cd Documents/
-ls
-..
-cd tasks/
-ls
-ls howto/
-vi howto/fedora/info.txt 
-cat /etc/os-release
-c
-cat /etc/os-release
-cd
-ls
-cd tasks/
-ls
-vi todo.txt 
-vi howto/fedora/setup.txt 
-sudo dnf upgrade --refresh -y
-echo sudo dnf upgrade --refresh -y
-echo sudo dnf upgrade --refresh -y >> howto/fedora/setup.txt 
-vi howto/symfony/
-vi howto/fedora/setup.txt 
-sudo tee /etc/yum.repos.d/plex.repo<<EOF
-c
-sudo tee /etc/yum.repos.d/plex.repo<<EOF
-[Plexrepo]
-name=plexrepo
-baseurl=https://downloads.plex.tv/repo/rpm/\$basearch/
-enabled=1
-gpgkey=https://downloads.plex.tv/plex-keys/PlexSign.key
-gpgcheck=1
-EOF
-
-echo sudo tee /etc/yum.repos.d/plex.repo<<EOF
-[Plexrepo]
-name=plexrepo
-baseurl=https://downloads.plex.tv/repo/rpm/\$basearch/
-enabled=1
-gpgkey=https://downloads.plex.tv/plex-keys/PlexSign.key
-gpgcheck=1
-EOF
-
-A
-c
-echo sudo tee /etc/yum.repos.d/plex.repo<<EOF
-[Plexrepo]
-name=plexrepo
-baseurl=https://downloads.plex.tv/repo/rpm/\$basearch/
-enabled=1
-gpgkey=https://downloads.plex.tv/plex-keys/PlexSign.key
-gpgcheck=1
-EOF
-
-sudo dnf install plexmediaserver
-echo sudo dnf install plexmediaserver >> howto/fedora/setup.txt 
-vi howto/fedora/setup.txt 
-cd howto/fedora/
-sudo systemctl start plexmediaserver
-echo sudo systemctl start plexmediaserver >> setup.txt 
-sudo systemctl enable plexmediaserver
-echo sudo systemctl enable plexmediaserver >> setup.txt 
-vi setup.txt 
-ls
-sudo dnf install plex-media-player
-echo sudo dnf install plex-media-player >> setup.txt 
-vi setup.txt 
-c
-plexmediaplayer 
-c
-systemctl list-units --type=service
-c
-cd
-cd Downloads/
-ls
-sudo rpm -Uvh plexmediaserver-1.26.0.5715-8cf78dab3.x86_64.rpm 
-..
-cd tasks/howto/
-ls
-cd fedora/
-ls 
-cp setup.txt setup.txt.bk
-cp info.txt info.txt.bk
-c
-ls
-sudo dnf install thunderbird
-echo sudo dnf install thunderbird >> setup.txt 
-vi setup.txt
-sudo dnf install evolution
-sudo sudo dnf install snapd
-echo sudo sudo dnf install snapd >> setup.txt
-sudo snap install youtube-music-desktop-app
-echo sudo snap install youtube-music-desktop-app >> setup.txt
-vi setup.txt
-flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
-vi setup.txt
-c
-echo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
-echo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo >> setup.txt
-vi setup.txt
-flatpak remote-add --if-not-exists fedora oci+https://registry.fedoraproject.org
-echo flatpak remote-add --if-not-exists fedora oci+https://registry.fedoraproject.org
-echo flatpak remote-add --if-not-exists fedora oci+https://registry.fedoraproject.org >> setup.txt
-vi setup.txt
-cp setup.txt setup.txt.bk 
-cd
-cp -R TOK/ tmp
-cd tmp
-ls
-vi TOK/PAT 
-exit
-cd
-vi .bash_aliases
-cp .bash_aliases .bash_aliases2
-vi .bash_aliases
-source .bash_aliases
-ghc
-exit
-cd
-cd tmp
-git clone https://github.com/benr242/fedora.git
-cd fedora/
-cp -R /home/benr242/tmp/Notes/root/ .
-c
-git add .
-git status
-git commit -m "check"
-git push origin main
-ght
-git push origin main
-cp -R /home/benr242/tmp/Notes/notes/howto/fedora/howto.txt .
-ls
-rm howto.txt 
-cp -R /home/benr242/tmp/Notes/notes/ .
-ls
-git add .
-git status
-git commit -m "check"
-git push origin main
-pwd
-ls
-cd notes/
-ls
-cd howto/
-ls
-git rm symfony/
-git rm -r symfony/
-git mv fedora/* .
-ls
-git rm fedora/
-git rm fedora
-git rmdir fedora
-rm fedora/
-rmdir fedora/
-..
-git status
-git add .
-ght
-git push origin main
-git commit -m "check"
-git push origin main
-pwd
-cd ../Notes/
-ls
-..
-mkdir repo
-ls
-mv Notes/ fedora/ repo/
-cd repo/Notes/
-ls
-cd notes/howto/fedora/
-vi setup.txt
-git status
-git add .
-git status
-..
-mv repo/ git_repo
-ls
-cd git_repo/Notes/
-ls
-vi Info.txt
-git status
-git add .
-git status
-git commit -m "check"
-ght
-git push origin main
-cd
 cd tmp/Notes/
 c
 git stotus
@@ -998,3 +753,248 @@ vlc Ted\ Lasso\ S01E02.mp4
 ..
 pwd
 exit
+git status
+ctg
+git status
+cd
+$ systemctl status plexmediaserver
+systemctl status plexmediaserver
+c
+sudo systemctl start plexmediaserver
+systemctl status plexmediaserver
+c
+du -h
+c
+df -h
+dnf search Disk Usage
+sudo dnf upgrade
+cd tasks/howto/fedora/
+ls
+vi setup.txt
+sudo tee /etc/yum.repos.d/plex.repo<<EOF
+[Plexrepo]
+name=plexrepo
+baseurl=https://downloads.plex.tv/repo/rpm/\$basearch/
+enabled=1
+gpgkey=https://downloads.plex.tv/plex-keys/PlexSign.key
+gpgcheck=1
+EOF
+
+sudo dnf update --refresh
+sudo dnf install plexmediaserver
+systemctl status plexmediaserver
+sudo systemctl enable plexmediaserver
+vi setup.txt
+ctg
+git status
+pwd
+vi setup.txt
+pwd
+..
+cd Repos/
+cd fedora/
+ctg
+git status
+exit
+cd
+httd -h
+httpd -h
+c
+httpd -h
+httpd -v
+sudo dnf -y install vim bash-completion curl wget telnet
+sudo dnf install vim bash-completion curl wget telnet
+echo sudo dnf install vim bash-completion curl wget telnet >> /home/benr242/Repos/fedora/tasks/howto/fedora/setup.txt
+vi  /home/benr242/Repos/fedora/tasks/howto/fedora/setup.txt
+c
+sudo sestatus 
+vi  /home/benr242/Repos/fedora/tasks/howto/fedora/setup.txt
+sudo dnf -y install php php-cli php-php-gettext php-mbstring php-mcrypt php-mysqlnd php-pear php-curl php-gd php-xml php-bcmath php-zip
+vi  /home/benr242/Repos/fedora/tasks/howto/fedora/setup.txt
+sudo dnf install mariadb-server
+vi  /home/benr242/Repos/fedora/tasks/howto/fedora/setup.txt
+sudo systemctl start mariadb
+sudo systemctl enable mariadb
+cd Repos/fedora/
+git status
+git add .
+git status
+git commit -m "set up lamp"
+git status
+c
+ght
+git push origin main
+exit
+cd
+cd plex/
+cd Movies/
+ls
+cp Kingdom\ of\ Heaven\ \(2005\)\ Directors\ Cut/Kingdom\ of\ Heaven\ 2005\ Directors\ Cut.720p.BrRip.x264.YIFY.mp4 .
+ls
+ls Good\ Will\ Hunting\ \(1997\)\ \[1080p\]/
+c
+cat /etc/passwd
+sudo vi /etc/passwd
+c
+groups
+..
+ls -l
+sudo dnf upgrade -y
+exit
+cd
+usermod -a -G video benr242
+sudo usermod -a -G video benr242
+groups
+groups benr242
+sudo chown -R plex.plex /home/benr242/plexmedialibrary/Movies
+sudo chown -R plex.plex /home/benr242/plexmedialibrary/Shows
+sudo chown -R plex.plex /home/benr242/plexmedialibrary/Music
+echo sudo chown -R plex.plex /home/benr242/plexmedialibrary/Movies >> Repos/fedora/tasks/howto/fedora/setup.txt
+vi Repos/fedora/tasks/howto/fedora/setup.txt
+php -v
+cd Repos/fedora/
+git status
+vi tasks/howto/symfony/
+vi tasks/howto/fedora/setup.txt
+pwd
+git status
+git add .
+git status
+git commit -m "plex progress"
+git status
+ght
+vi tasks/howto/fedora/setup.txt
+git push origin main
+ls
+cd root/home/benr242/
+pwd
+mkdir bin
+ls bin/
+pwd
+cd
+cd Repos/fedora/
+ght
+ctg
+git status
+git add .
+git status
+git commit -m "check"
+git status
+cd
+cd Downloads/
+ls
+cd Serenity\ \(2005\)\ \[1080p\]/
+c
+ls
+vlc Serenity.2005.1080p.BrRip.x264.YIFY.bitloks.mkv 
+..
+cp -R Serenity\ \(2005\)\ \[1080p\]/ /home/benr242/plex/Movies/
+cd
+cd plexmedialibrary/
+ls
+ls -l
+groups
+sudo dnf install composer
+echo sudo dnf install composer >> tasks/howto/fedora/setup.txt
+vi tasks/howto/fedora/setup.txt
+ctg 
+ls
+cd plex/
+ls
+cd Movies/
+pwd
+..
+cd Shows/
+pwd
+cd
+cd Downloads/
+ls
+c
+ls
+cd Kingdom\ of\ Heaven\ \(2005\)\ Directors\ Cut/
+ls
+c
+ls
+vlc Kingdom\ of\ Heaven\ 2005\ Directors\ Cut.720p.BrRip.x264.YIFY.mp4 
+..
+cp -R Kingdom\ of\ Heaven\ \(2005\)\ Directors\ Cut/ /home/benr242/plex/Movies/
+ls /home/benr242/plex/Movies/
+c
+ls
+cd /home/benr242/plex/Movies/
+c
+ls
+..
+ls Shows/
+vlc Movies/Kingdom\ of\ Heaven\ \(2005\)\ Directors\ Cut/Kingdom\ of\ Heaven\ 2005\ Directors\ Cut.720p.BrRip.x264.YIFY.mp4 
+c
+ls -l
+cd Movies/
+ls -l
+..
+mv plex/ plexmedialibrary
+ls
+cd /
+ls
+mv home/benr242/plexmedialibrary/ .
+cd
+ls
+ls -l
+cd plexmedialibrary/
+c
+ls -l
+cd Movies/
+ls -l
+..
+groups
+users
+groups plex
+groups plexx
+groups plex
+echo groups plex >> Repos/fedora/tasks/howto/fedora/setup.txt
+groups plex
+vi Repos/fedora/tasks/howto/fedora/setup.txt
+cd  Repos/fedora/
+git status
+git add .
+git status
+c
+cat /etc/group
+cat /etc/group | less
+c
+groups plex
+vi tasks/howto/fedora/setup.txt
+groups benr242
+sudo adduser benr242 plex
+groups benr242
+usermod -a -G plex benr242
+groups benr242
+sudo usermod -a -G plex benr242
+groups benr242
+echo sudo usermod -a -G plex benr242 >> tasks/howto/fedora/setup.txt
+vi  tasks/howto/fedora/setup.txt
+git status
+git add .
+git status
+git commit -m "check"
+git status
+ght
+git push origin main
+vi  tasks/howto/fedora/setup.txt
+groups benr242
+sudo chown -R plex.plex /home/benr242/plexmedialibrary/Movies
+sudo chown -R plex.plex /home/benr242/plexmedialibrary/Shows
+sudo chown -R plex.plex /home/benr242/plexmedialibrary/Music
+echo sudo chown -R plex.plex /home/benr242/plexmedialibrary/Movies >> tasks/howto/fedora/setup.txt
+vi  tasks/howto/fedora/setup.txt
+git status
+git add .
+git status
+groups
+vi tasks/howto/fedora/setup.txt
+sudo usermod -a -G plex benr242
+groups
+groups plex
+groups benr242
+groups
+groups benr242
