@@ -1,586 +1,3 @@
-cd tmp/Notes/
-c
-git stotus
-git status
-vi notes/howto/fedora/setup.txt
-git commit -m "xclip"
-git add .
-git status
-git commit -m "xclip"
-git push origin main
-git status
-ls
-mkdir -p root/home/benr242
-cp /home/benr242/.bash_aliases root/home/benr242/
-git status
-cp /home/benr242/.bashrc root/home/benr242/
-cd notes/howto/symfony/
-mkdir bookies
-vi bookies/entities.txt
-..
-git add .
-git status
-git commit -m "check"
-git status
-ght
-git push origin main
-cd
-cd tmp/TOK/
-ls
-cp PAT PAT2
-vi PAT2 
-xclip-copyfile PAT
-xclip -sel clip PAT
-vi PAT
-echo xclip -sel clip PAT
-echo xclip -sel clip PAT.txt >> /home/benr242/tmp/Notes/notes/howto/fedora/setup.txt
-..
-vi .bash_aliases
-cd
-ls
-mv TOK PAT
-vi PAT 
-mkdir TOKENS
-MV PAT TOKENS/
-mv PAT TOKENS/
-vi TOKENS/PAT 
-mv TOKENS/
-mv TOKENS/ TOK
-vi TOK/PAT 
-vi .bash_aliases
-source .bash_aliases
-vi .bash_aliases
-source .bash_aliases
-ght
-sudo dnf search xclip
-sudo dnf install xclip
-ls
-cd tmp/
-git clone https://github.com/benr242/Notes.git
-ls
-..
-cd Music/
-ls
-cd
-cd tmp/
-git clone https://github.com/benr242/Music.git
-ls
-cd Music/notes/
-ls
-..
-cp -R notes ../Notes/
-..
-rm -rf Music/
-cd Notes/
-c
-ls
-git status
-git add .
-git status
-git add .
-git status
-git commit .
-ls
-git status
-git commit -m "init"
-git status
-ght
-git push origin master
-git remote
-git remote -v
-c
-git push origin master
-ght
-git push origin
-git push origin main
-ls
-cd notes/
-ls
-pwd
-cd howto/
-ls
-cd symfony/
-ls
-..
-cd
-ls
-cd tasks/
-ls
-cd
-cd tmp/
-..
-cd tmp/Notes/
-ls
-cd notes/
-ls
-vi todo.txt 
-cd howto/
-ls
-cd fedora/
-..
-git branch -r
-cd notes/howto/fedora/
-c
-git branch -r
-git branch 
-cd
-cd tmp/
-ls
-git co https://github.com/benr242/Music.git
-git clone https://github.com/benr242/Music.git
-ls
-cd Music/
-ls
-mkdir notes
-cd notes/
-cp /home/benr242/tasks/todo.txt .
-cp -R /home/benr242/tasks/howto/ .
-ls
-..
-git status
-git add .
-git status
-git commit -m "notes"
-git status
-c
-cd ..
-rm -rf Music/
-ls
-git clone https://github.com/benr242/Music.git
-cd Music/
-ls
-cd ..
-ls
-cd Music/
-ls
-touch test.html
-git status
-mkdir notes
-cd notes/
-cp -R /home/benr242/tasks/howto/ .
-cp -R /home/benr242/tasks/todo.txt .
-..
-git status
-git add .
-git status
-git rm test.html 
-c
-git status
-ls
-rm test.html 
-git status
-git rm test.html 
-git status
-git commit -m "notes"
-git status
-git push origin master
-echo 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
-echo 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 >>TOK
-ls
-vi TOK 
-mv TOK /home/benr242/
-
-git push origin master
-ls
-..
-ls
-cd Notes/
-git push origin main
-ghc
-source /home/benr242/.bash_aliases
-ghc
-git push origin main
-ls
-touch test
-git status
-git add .
-git commit -m "xclip"
-git status
-git push origin main
-flatpak remote-ls flathub --app
-
-echo flatpak remote-ls flathub --app
-cd tasks/howto/fedora/
-ls
-echo flatpak remote-ls flathub --app
-ls
-vi info.txt
-pwd
-..
-cd fedora/
-touch howto.txt
-echo flatpak remote-ls flathub --app >> howto.txt 
-cd
-dnf search lastpass
-sudo dnf install lastpass
-dnf search lastpass
-sudo dnf install lastpass-cli
-ls
-cd plex/
-c
-l
-ls
-mkdir Shows
-ls
-mv Foundation/ Lasso/ Shows/
-ls
-mkdir Movies
-exit
-cd
-dnf search wine
-sudo dnf -y install dnf-plugins-core
-sudo dnf config-manager --add-repo https://dl.winehq.org/wine-builds/fedora/35/winehq.repo
-sudo dnf -y install winehq-stable
-vi tocopy.txt
-vi .ctg
-chmod  +x .ctg 
-ls -l
-ls -la
-c
-ls -la
-./.ctg 
-cd tmp/
-ls
-vi tocopy.txt 
-rm tocopy.txt 
-pwd
-..
-mkdir bin
-mv .ctg bin/
-vi .bash_profile 
-ls .bash_aliases
-vi .bash_aliases
-vi .bashrc
-echo $PATH
-c
-echo $PATH
-ls bin/
-ls
-ls bin/*
-ls bin/
-ls -a bin/
-vi .bash_aliases
-sudo dnf upgrade
-dnf search protonvpn
-sudo dnf install protonvpn
-ls
-mkdir Repos
-cd Repos/
-git clone https://github.com/benr242/fedora.git
-ls
-cd fedora/root/
-ls
-cd home/benr242/
-ls -a
-sudo dnf upgrade
-pwd
-exit
-ls
-cd Software/
-ls
-cd
-cat /etc/os-release 
-c
-cat /etc/os-release 
-cd tasks/howto/fedora/
-vi setup.txt
-c
-dnf search lastpass
-sudo dnf install lastpass
-dnf search lastpass
-sudo dnf install LastPass
-sudo dnf install lastpass-cli
-c
-flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
-vi setup.txt
-echo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
-echo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo >> setup.txt
-vi setup.txt
-flatpak update
-..
-cd howto/fedora/
-ls
-vi setup.txt
-..
-ls
-vi todo.txt 
-c
-cd howto/fedora/
-vi setup.txt
-exit
-cd
-vi TOK/PAT 
-cp -R tasks/ Repos/fedora/
-cp /home/benr242/.bashrc /home/benr242/Repos/fedora/root/home/benr242/
-echo cp /home/benr242/.bashrc /home/benr242/Repos/fedora/root/home/benr242/
-ls
-ls -a .bash*
-vi .bash_profile 
-vi .bash_aliases
-ctg
-cd Repos/fedora/root/home/benr242/
-vi .bash_profile 
-vi .bash_aliases 
-..
-git status
-vi root/home/benr242/.bash_aliases 
-ls
-pwd
-cd root/home/benr242/
-ls
-pwd
-c\
-ls
-ls -a
-mkdir bin
-cp /home/benr242/bin/ctg bin/
-cd bin/
-ls
-..
-git status
-git add .
-c
-git status
-git commit -m "config"
-vi /home/benr242/.bash_aliases
-ght
-git push origin main
- cd
-cd tmp/
-mkdir tasks
-..
-cp -R tasks/* tmp/tasks/
-cd tmp
-cd tasks/
-ls
-cd howto/
-ls
-cd
-vi bin/ctg 
-cp -R /home/benr242/tasks/* /home/benr242/Repos/fedora/tasks/
-echo cp -R /home/benr242/tasks/* /home/benr242/Repos/fedora/tasks/
-echo cp -R /home/benr242/tasks/* /home/benr242/Repos/fedora/tasks/ >> bin/ctg 
-vi bin/ctg 
-ls Repos/fedora/
-vi bin/ctg 
-vi tasks/howto/fedora/setup.txt
-ctg 
-vi bin/ctg 
-cp /home/benr242/bin/ctg /home/benr242/Repos/fedora/
-echo cp /home/benr242/bin/ctg /home/benr242/Repos/fedora/
-vi bin/ctg 
-ctg
-vi Repos/fedora/ctg 
-vi .bash_aliases
-vi TOK/PAT 
-vi bin/ctg 
-ctg 
-vx bin/ctg 
-vi bin/ctg 
-ctg 
-vi Repos/fedora/root/home/benr242/bin/ctg 
-cd Repos/fedora/
-git status
-git add .
-git status
-git commit -m "check"
-ght
-git push origin main
-exit
-systemctl status plexmediaserver
-sudo dnf install plex-media-server
-sudo dnf install plex
-sudo dnf upgrade
-pwd
-ls
-cd
-cp .bashrc .bash_aliases .bash_profile Repos/fedora/root/home/benr242/
-vi .bash
-cp .bash Repos/fedora/root/home/benr242/
-cd Repos/fedora/
-git add .
-c
-git status 
-git commit -m "bash"
-git status 
-git push origin master
-git push origin main
-git status
-git add .
-git status
-rm tasks/*bk
-rm tasks/howto/fedora/setup.txt.bk 
-rm tasks/howto/fedora/info.txt.bk 
-git status
-git commit -m "tasks"
-git status
-git push origin main
-cd
-cd bin/
-ls
-ls -a
-mv .ctg ctg
-vi ctg 
-ls
-..
-sudo git upgrade
-sudo dnf upgrade
-vi bin/ctg 
-vi Repos/fedora/root/home/benr242/bin/ctg 
-echo Repos/fedora/root/home/benr242/bin/ctg 
-vi Repos/fedora/root/home/benr242/bin/ctg 
-exit
-cd
-vi TOK/PAT 
-vi /home/benr242/TOK/PAT 
-cd
-vi /home/benr242/TOK/PAT 
-cd Repos/fedora/
-git status
-pwd
-git status
-pwd
-cp /home/benr242/bin/ctg .
-git status
-git add .
-c
-git status
-git commit -m "ctg"
-git status
-ght
-git status
-git push origin main
-git status
-c
-git status
-ght
-git push origin main
-vi /home/benr242/TOK/PAT 
-git push origin main
-ls
-rm ctg 
-c
-git status
-git commit -m "oops"
-git status
-git push origin main
-c
-git status
-git push origin main
-ght
-git push origin main
-c
-ctg 
-git status
-ls
-vi notes/todo.txt 
-vi tasks/todo.txt 
-sudo dnf install plex
-dnf search plex
-clear
-dnf search plex
-sudo dnf remove plex
-dnf search plex-media
-flatpak install plex-media-player
-flatpak install plex
-flatpak list
-c
-flatpak list
-c
-flatpak search plex
-sudo tee /etc/yum.repos.d/plex.repo<<EOF
-[Plexrepo]
-name=plexrepo
-baseurl=https://downloads.plex.tv/repo/rpm/\$basearch/
-enabled=1
-gpgkey=https://downloads.plex.tv/plex-keys/PlexSign.key
-gpgcheck=1
-EOF
-
-sudo dnf install plexmediaserver -y
-c
-systemctl status plexmediaserver
-echo sudo tee /etc/yum.repos.d/plex.repo<<EOF
-[Plexrepo]
-name=plexrepo
-baseurl=https://downloads.plex.tv/repo/rpm/\$basearch/
-enabled=1
-gpgkey=https://downloads.plex.tv/plex-keys/PlexSign.key
-gpgcheck=1
-EOF
-
-clear
-echo sudo tee /etc/yum.repos.d/plex.repo<<EOF
-[Plexrepo]
-name=plexrepo
-baseurl=https://downloads.plex.tv/repo/rpm/\$basearch/
-enabled=1
-gpgkey=https://downloads.plex.tv/plex-keys/PlexSign.key
-gpgcheck=1
-EOF
-
-echo sudo tee /etc/yum.repos.d/plex.repo<<EOF
-[Plexrepo]
-name=plexrepo
-baseurl=https://downloads.plex.tv/repo/rpm/\$basearch/
-enabled=1
-gpgkey=https://downloads.plex.tv/plex-keys/PlexSign.key
-gpgcheck=1
-EOF
-
-c
-echo sudo tee /etc/yum.repos.d/plex.repo<<EOF
-[Plexrepo]
-name=plexrepo
-baseurl=https://downloads.plex.tv/repo/rpm/\$basearch/
-enabled=1
-gpgkey=https://downloads.plex.tv/plex-keys/Ple
-c
-cd tasks/howto/
-ls
-cd fedora/
-vi
-vi setup.txt
-echo sudo tee /etc/yum.repos.d/plex.repo<<EOF
-[Plexrepo]
-name=plexrepo
-baseurl=https://downloads.plex.tv/repo/rpm/\$basearch/
-enabled=1
-gpgkey=https://downloads.plex.tv/plex-keys/PlexSign.key
-gpgcheck=1
-EOF
-
->> setup.txt
-vi setup.txt
-echo sudo tee /etc/yum.repos.d/plex.repo<<EOF
-[Plexrepo]
-name=plexrepo
-baseurl=https://downloads.plex.tv/repo/rpm/\$basearch/
-enabled=1
-gpgkey=https://downloads.plex.tv/plex-keys/PlexSign.key
-gpgcheck=1
-EOF >> setup.txt
-
-
-
-clear
-echo sudo tee /etc/yum.repos.d/plex.repo<<EOF
-[Plexrepo]
-name=plexrepo
-baseurl=https://downloads.plex.tv/repo/rpm/\$basearch/
-enabled=1
-gpgkey=https://downloads.plex.tv/plex-keys/PlexSign.key
-gpgcheck=1
-EOF
-
-vi setup.txt
-pwd
-..
-clear
-plexmediaplayer 
-
-vi tasks/howto/fedora/setup.txt
-ctg 
 cd Repos/fedora/
 git status
 git add .
@@ -998,3 +415,586 @@ groups plex
 groups benr242
 groups
 groups benr242
+cd
+cd plexmedialibrary/
+c
+ls -la
+cd Movies/
+ls
+ls -la
+..
+cd Shows/
+ls
+..
+cd Movies/
+ls
+..
+ls -l
+cd Movies/
+ls -l
+mv Kingdom\ of\ Heaven\ 2005\ Directors\ Cut.720p.BrRip.x264.YIFY.mp4 Kingdom\ of\ Heaven.mp4
+ls -l
+mv Kingdom\ of\ Heaven\ \(2005\)\ Directors\ Cut/ Kingdom\ of\ Heaven
+c
+ls
+ls -l
+chmod 775 Kingdom\ of\ Heaven.mp4 
+ls -l
+chmod 111 Kingdom\ of\ Heaven.mp4 
+ls
+.
+ls -l
+cd plexmedialibrary/
+ls -l
+cd Movies/
+ls -l
+mk Kingdom\ of\ Heaven Kingdom\ ofSHeaven
+ls -l
+mv Kingdom\ of\ Heaven Kingdom-of-Heaven
+ls -l
+mv Good\ Will\ Hunting\ \(1997\)\ \[1080p\]/ Good-Will-Hunting
+mv Serenity\ \(2005\)\ \[1080p\]/ Serenity
+ls -l
+mv Kingdom\ of\ Heaven.mp4 Kingdom-of-Heaven.mp4
+c
+ls -l
+pwd
+..
+cd Shows/
+ls
+cd Foundation/
+ls
+ls Foundation\ 2021\ S01/
+..
+cd Foundation/
+ls
+mv Foundation\ 2021\ S01/ Foundation-2011
+mv Foundation-2011/ Foundation-2011-S01
+ls
+mv System\ Volume\ Information/ System-Volume
+mv System-Volume/ System-Volume-Information
+cd Foundation-2011-S01/
+c
+ls
+cd
+cd Downloads/
+ls
+cp Dune\ \(2021\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/ /home/benr242/plexmedialibrary/Movies/
+cd
+cd plexmedialibrary/Movies/
+ls
+c
+ls
+cd
+cd Downloads/
+ls
+cp Dune\ \(2021\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/ /home/benr242/plexmedialibrary/Movies/
+cd
+cd plexmedialibrary/Movies/
+c
+ls
+cd
+cd Downloads/
+ls
+cd Dune\ \(2021\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/
+ls
+vlc Dune.2021.1080p.WEBRip.x264.AAC5.1-\[YTS.MX\].mp4 
+..
+cd -R Dune\ \(2021\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/ /home/benr242/plexmedialibrary/Movies/
+cp -R Dune\ \(2021\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/ /home/benr242/plexmedialibrary/Movies/
+cd
+cd plexmedialibrary/Movies/
+c
+ls
+mv Dune\ \(2021\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/ Dune-2021
+ls
+vlc Dune-2021/Dune.2021.1080p.WEBRip.x264.AAC5.1-\[YTS.MX\].mp4 
+pwd
+..
+pwd
+..
+cd /plexmedialibriary/Shows/
+ls
+cd Firefly/
+ls
+vlc 05\ Firefly\ Our\ Mrs\ Reynolds\ -\ Episode\ 05\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 
+cd /var/lib/plexmediaserver/Library/Application\ Support/Plex\ Media\ Server/
+echo $PLEX_HOME
+pwd
+c
+ls
+cd
+vi tmp/or.txt
+cd /plexmedialibriary/
+cd Shows/
+ls
+cd Firefly/
+ls
+cd
+cd Downloads/
+ls
+c
+ls
+ls | more
+cd
+cd /plexmedialibriary/Shows/Firefly/
+c
+ls
+mv 01-Firefly-TrainJob.mp4 02-Firefly-TrainJob.mp4 
+mv 02-Firefly-Bushwhacked.mp4 03-Firefly-Bushwhacked.mp4 
+ls
+mv 02-Firefly-TrainJob.mp4 01-Firefly-TrainJob.mp4 
+ls
+mv 03-Firefly-Bushwhacked.mp4 02-Firefly-Bushwhacked.mp4 
+c
+ls
+cd
+cd /plexmedialibriary/Shows/Firefly/
+c
+ls
+mv 13-Firefly-ObjectsInSpace.mp4 14-Firefly-ObjectsInSpace.mp4 
+mv 12-Firefly-HeartOfGold.mp4 13-Firefly-HeartOfGold.mp4[D-Firefly-HeartOfGold.mp4 
+mv 11-Firefly-TheMessage.mp4 12-Firefly-TheMessage.mp4 
+mv 10-Firefly-Trash.mp4 11-Firefly-Trash.mp4 
+mv 09-Firefly-WarStories.mp4 10-Firefly-WarStories.mp4 
+mv 08-Firefly-Ariel.mp4 09-Firefly-Ariel.mp4 
+mv 07-Firefly-OutOfGas.mp4 08-Firefly-OutOfGas.mp4 
+mv 06-Firefly-Jaynestown.mp4 07-Firefly-Jaynestown.mp4 
+mv 05-Firefly-OurMsRenolds.mp4 06-Firefly-OurMsRenolds.mp4 
+mv 04-Firefly-Safe.mp4 05-Firefly-Safe.mp4 
+mv 03-Firefly-Shindig.mp4 04-Firefly-Shindig.mp4 
+mv 02-Firefly-Bushwhacked.mp4 03-Firefly-Bushwhacked.mp4 
+c
+ls
+mv 01-Firefly-TrainJob.mp4 02-Firefly-TrainJob.mp4 
+mv 00-Firefly-Serenity.mp4 01-Firefly-Serenity.mp4 
+c
+ls
+mv 13-Firefly-HeartOfGold.mp4\[D-Firefly-HeartOfGold.mp4 13-Firefly-HeartOfGold.mp4 
+c
+ls
+vlc 13-Firefly-HeartOfGold.mp4 
+c
+ls -l
+c
+ls
+rm INFO.nfo 
+c
+ls
+pwd
+..
+mv Firefly/ Firefly(2002)/
+mv Firefly/ Firefly\(2002\)/
+ls
+cd Firefly\(2002\)/
+mkdir Season\ 01
+ls
+mk * Season\ 01/
+mv * Season\ 01/
+ls
+cd Season\ 01/
+ls
+mv 01-Firefly-Serenity.mp4 s01e01\ -\ Serenity.mp4
+c
+ls
+mv 02-Firefly-TrainJob.mp4 s01e02-Firefly-TrainJob.mp4 
+ls
+mv s01e02-Firefly-TrainJob.mp4 s01e02\ -\ Firefly-TrainJob.mp4 
+ls
+mv s01e02\ -\ TrainJob.mp4 
+mv s01e02\ -\ Firefly-TrainJob.mp4 s01e02\ -\ TrainJob.mp4 
+ls
+mv * ..
+..
+ls
+rmdir Season\ 01
+c
+ls
+mv 03-Firefly-Bushwhacked.mp4 s01e03\ -\ Firefly\ -\ Bushwhacked.mp4 
+ls
+mv s01e01\ -\ Serenity.mp4 s01e01\ Firefly\ - Serenety.mp4
+c
+ls
+mv s01e01\ -\ Serenity.mp4 Firefly\(2002)\ -\ s01e01\ -\ Serenity.mp4
+mv s01e01\ -\ Serenity.mp4 Firefly\(2002\)\ -\ s01e01\ -\ Serenity.mp4
+ls
+mv s01e02\ -\ TrainJob.mp4 Firefly\(2002\)\ -\ s01e02\ -\ Train\ Job.mp4
+c
+ls
+mv s01e03\ -\ Firefly\ -\ Bushwhacked.mp4 Firefly\(2002\)\ -\ s01e03\ -\ Bushwhacked.mp4
+ls
+mv 04-Firefly-Shindig.mp4 Firefly\(2002\)\ -\ s01e04\ -\ Shindig.mp4
+ls
+mv 05-Firefly-Shindig.mp4 Firefly\(2002\)\ -\ s01e05\ -\ Safe.mp4
+mv 05-Firefly-Safe.mp4 Firefly\(2002\)\ -\ s01e05\ -\ Safe.mp4
+clear
+ls
+mv 06-Firefly-OurMsRenolds.mp4 Firefly\(2002\)\ -\ s01e06\ -\ Our\ Ms\ Renolds.mp4
+mv 07-Firefly-Jaynestown.mp4 Firefly\(2002\)\ -\ s01e07\ -\ JaynesTown.mp4
+c
+ls
+mv 08-Firefly-OutOfGas.mp4 Firefly\(2002\)\ -\ s01e08\ -\ Out\ Of\ Gas.mp4
+c
+ls
+mv 09-Firefly-Ariel.mp4 Firefly\(2002\)\ -\ s01e09\ -\ Ariel.mp4
+c
+ls
+mv 10-Firefly-WarStories.mp4 Firefly\(2002\)\ -\ s01e10\ -\ War\ Stories.mp4
+c
+ls
+mv 11-Firefly-Trash.mp4 Firefly\(2002\)\ -\ s01e11\ -\ Trash.mp4
+c
+ls
+mv 12-Firefly-TheMessage.mp4 Firefly\(2002\)\ -\ s01e12\ -\ The\ Mossage.mp4
+c
+ls
+mv 13-Firefly-HeartOfGold.mp4 Firefly\(2002\)\ -\ s01e13\ -\ Heart\ of\ Gold.mp4
+c
+ls
+mv 14-Firefly-ObjectsInSpace.mp4 Firefly\(2002\)\ -\ s01e14\ -\ Objects\ in\ Space.mp4
+c
+ls
+mkdir Season\ 01
+mv * Season\ 01/
+c
+ls
+cd Season\ 01/
+ls
+exit
+vi Repos/fedora/tasks/howto/fedora/setup.txt
+ls plexmedialibrary/
+mkdir playground
+useradd user01
+c
+ls -l
+chgrp -R plex plexmedialibrary
+sudo chgrp -R plex plexmedialibrary
+c
+ls -l
+cd plexmedialibrary/
+ls -l
+cd Shows/
+ls -l
+c
+ls -l
+cd Foundation/
+ls -l
+cd Foundation-2011-S01/
+ls -l
+cd
+chown -R benr242:plex plexmedialibrary
+sudo chown -R benr242:plex plexmedialibrary
+c
+ls -l
+ls -la plexmedialibrary/
+ls -la plexmedialibrary/Movies/
+c
+ls /var/lib/plexmediaserver/
+ls /var/lib/plexmediaserver/Library/
+..
+ls -la
+ls benr242/plexmedialibrary/
+mkdir plexmedialibriary
+sudo mkdir plexmedialibriary
+c
+ls -l
+chmod 775 plexmedialibriary/
+sudo chmod 775 plexmedialibriary/
+c
+ls -l
+sudo cp benr242/plexmedialibrary/* plexmedialibriary/
+sudo cp -R benr242/plexmedialibrary/* plexmedialibriary/
+cd plexmedialibriary/
+ls -l
+..
+chown -R benr242:plex plexmedialibriary
+sudo chown -R benr242:plex plexmedialibriary
+c
+ls -l
+cd plexmedialibriary/
+ls -l
+..
+ls
+sudo mv home/plexmedialibriary/ .
+ls
+ls plexmedialibriary/
+sudo ls plexmedialibriary/
+c
+sudo mv home/plexmedialibriary/ .
+sudo rm plexmedialibriary/
+sudo rm -R plexmedialibriary/
+ls
+sudo cp -R home/plexmedialibriary/ .
+ls -l
+sudo rm -R plexmedialibriary/*
+c
+ls -l
+sudo chown benr242:plex plexmedialibriary
+c
+ls -l
+cp -R home/plexmedialibriary/* plexmedialibriary/
+c
+ls -l
+cd plexmedialibriary/
+ls
+cd Movies/
+ls
+..
+ls -l
+vlc Movies/Dune-2021/Dune.2021.1080p.WEBRip.x264.AAC5.1-\[YTS.MX\].mp4 
+..
+ls -l plexmedialibriary/
+chown -R benr242:plex plexmedialibriary
+c
+ls -l
+cd plexmedialibriary/
+ls -l
+..
+cd home/
+ls
+rm -rf plexmedialibriary/
+sudo rm -rf plexmedialibriary/
+cd benr242/
+ls
+cd /
+c
+ls -l
+chmod -R 775 plexmedialibriary
+c
+ls -l
+cd plexmedialibriary/
+ls -l
+cd
+cd /
+cd plexmedialibriary/
+cd Shows/
+ls
+cd Lasso/
+ls
+cd Ted\ Lasso\ Season\ 1\ Mp4\ 1080p/
+ls
+..
+mv Ted\ Lasso\ Season\ 1\ Mp4\ 1080p/ Ted-Lasso-season1
+ls
+mv Ted\ Lasso\ Season\ 2\ Mp4\ 1080p/ Ted-Lasso-season2
+ls
+vlc Ted-Lasso-season1/Ted\ Lasso\ S01E10.mp4 
+c
+ls
+cd Ted-Lasso-season1/
+ls
+vlc Ted\ Lasso\ S01E04.mp4 
+cd /
+c
+ls -l
+cd
+ls
+rm -rf plexmedialibrary/
+cd Downloads/Firefly\ Complete\ Series\ -\ Sci-Fi\ 2002-2003\ Eng\ Subs\ 1080p\ \[H264-mp4\]/
+c
+ls
+..
+cd Downloads/
+c
+ls
+cd Firefly\ Complete\ Series\ -\ Sci-Fi\ 2002-2003\ Eng\ Subs\ 1080p\ \[H264-mp4\]/
+ls
+cd Firefly\ Complete\ Series\ 2002-2003/
+pwd
+c
+pwd
+ls
+..
+cp -R Firefly\ Complete\ Series\ 2002-2003/ /plexmedialibriary/Shows/
+cd
+cd /plexmedialibriary/Shows/Firefly/
+c
+ls
+mv 00\ Firefly\ Serenity\ -\ Pilot\ Film\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 00-Firefly-Serenity.mp4
+mv 01\ Firefly\ The\ Train\ Job\ -\ Episode\ 01\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 01-Firefly-TrainJob.mp4
+mv 02\ Firefly\ Bushwhacked\ -\ Episode\ 02\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 02-Firefly-Bushwhacked.mp4
+mv 03\ Firefly\ Shindig\ -\ Episode\ 03\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 03-Firefly-Shindig.mp4
+mv 04\ Firefly\ Safe\ -\ Episode\ 04\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 04-Firefly-Safe.mp4
+mv 05\ Firefly\ Our\ Mrs\ Reynolds\ -\ Episode\ 05\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 05-Firefly-OurMsRenolds.mp4
+mv 06\ Firefly\ Jaynestown\ -\ Episode\ 06\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 06-Firefly-Jaynestown.mp4
+mv 07\ Firefly\ Out\ Of\ Gas\ -\ Episode\ 07\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 07-Firefly-OutOfGas.mp4
+mv 08\ Firefly\ Ariel\ -\ Episode\ 08\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 08-Firefly-Ariel.mp4
+mv 09\ Firefly\ War\ Stories\ -\ Episode\ 09\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 09-Firefly-WarStories.mp4
+c
+ls
+mv 10\ Firefly\ Trash\ -\ Episode\ 10\ 2003\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 10-Firefly-Trash.mp4
+mv 11\ Firefly\ The\ Message\ -\ Episode\ 11\ 2003\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 11-Firefly-TheMessage.mp4
+mv 12\ Firefly\ Heart\ Of\ Gold\ -\ Episode\ 12\ 2003\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 12-Firefly-HeartOfGold.mp4
+mv 13\ Firefly\ Objects\ In\ Space\ -\ Episode\ 13\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 13-Firefly-ObjectsInSpace.mp4
+c
+ls
+..
+pwd
+cd
+cd Downloads/
+ls
+cd Firefly\ Complete\ Series\ -\ Sci-Fi\ 2002-2003\ Eng\ Subs\ 1080p\ \[H264-mp4\]/
+c
+ls
+vi INFO.nfo 
+c
+ls
+Firefly\ Complete\ Series\ 2002-2003/
+ls
+c
+..
+cd Firefly\ Complete\ Series\ -\ Sci-Fi\ 2002-2003\ Eng\ Subs\ 1080p\ \[H264-mp4\]/
+ls
+cp INFO.nfo /plexmedialibriary/Shows/Firefly/
+cd /plexmedialibriary/Shows/Firefly/
+c
+ls
+pwd
+cd
+ls
+cd Repos/
+ls
+rm -rf casts/
+ls
+rm -rf BookieSymfony/
+cd
+ls
+cd Projects/
+ls
+..
+vi .bash_aliases
+c
+df -h
+vi .bash_aliases
+systemctl status plexmediaserver
+sudo dnf upgrade
+cd Downloads/Guardians\ of\ the\ Galaxy\ \(2014\)\ \[1080p\]/
+ls
+cp Guardians.of.the.Galaxy.2014.1080p.BluRay.x264.YIFY.mp4 /plexmedialibriary/Movies/
+c
+pwd
+..
+vi .bash_aliases
+cd bin/
+ls
+vi ctg 
+ctg
+vi ctg 
+..
+sudo find  /home/benr242/plexmedialibrary/Movies -type d -exec chmod 775 {} \;
+sudo find  /home/benr242/plexmedialibrary/Music -type d -exec chmod 775 {} \;
+sudo find  /home/benr242/plexmedialibrary/Shows -type d -exec chmod 775 {} \;
+ecko sudo find  /home/benr242/plexmedialibrary/Movies -type d -exec chmod 775 {} \; 
+echo sudo find  /home/benr242/plexmedialibrary/Movies -type d -exec chmod
+cd Repos/fedora/
+echo sudo find  /home/benr242/plexmedialibrary/Movies -type d -exec chmod 775 {} \; 
+ls
+echo sudo find  /home/benr242/plexmedialibrary/Movies -type d -exec chmod 775 {} \; >> tasks/howto/fedora/setup.txt
+vi tasks/howto/fedora/setup.txt
+git status
+git add .
+git commit -m "ownership permissions of plex paths"
+git status
+ght
+git push origin main
+pwd
+ls
+cd notes/
+vi MyInfo.txt
+cd notes/
+vi MyInfo.txt
+..
+git status
+git add .
+git status
+git commit -m "MyInfo"
+ght
+git push origin main
+pwd
+git status
+pwd
+git status
+ght
+git push origin main
+git status
+ls
+cd tasks/howto/fedora/
+vi setup.txt
+git status
+git add .
+git status
+git add .
+git status
+git commit -m "plex port"
+ght
+git push origin main
+vi setup.txt
+git add  .
+git status
+vi setup.txt
+git add  .
+git commit -m "plex port"
+git status
+git push origin main
+ght
+git push origin main
+cd
+cd playground/
+mkdir -p dir1/dir2
+touch dir1/dir2/test.txt
+ls -l dir1/dir2/
+chmod 777 dir1/dir2/*.txt
+ls -l dir1/dir2/
+chmod 711 dir1/dir2/*.txt
+ls -l dir1/dir2/
+chmod 775 -R *.txt
+ls -l dir1/
+ls
+chmod 775 dir1
+ls -l 
+chmod 705 dir1
+ls -l 
+cd
+cd /plexmedialibriary/Shows/
+ls
+mv Firefly\ Complete\ Series\ 2002-2003/ Firefly
+ls
+cd /plexmedialibriary/Shows/Firefly\(2002\)/Season\ 01/
+ls
+vlc Firefly\(2002\)\ -\ s01e08\ -\ Out\ Of\ Gas.mp4 
+c
+ls
+mv Firefly\(2002\)\ -\ s01e01\ -\ Serenity.mp4 Firefly\(2002\)\ -\ s01e00\ -\ Serenity.mp4 
+mv Firefly\(2002\)\ -\ s01e02\ -\ Train\ Job.mp4 Firefly\(2002\)\ -\ s01e01\ -\ Train\ Job.mp4 
+mv Firefly\(2002\)\ -\ s01e03\ -\ Bushwhacked.mp4 Firefly\(2002\)\ -\ s01e02\ -\ Bushwhacked.mp4 
+mv Firefly\(2002\)\ -\ s01e04\ -\ Shindig.mp4 Firefly\(2002\)\ -\ s01e03\ -\ Shindig.mp4 
+mv Firefly\(2002\)\ -\ s01e05\ -\ Safe.mp4 Firefly\(2002\)\ -\ s01e04\ -\ Safe.mp4 
+mv Firefly\(2002\)\ -\ s01e06\ -\ Our\ Ms\ Renolds.mp4 Firefly\(2002\)\ -\ s01e05\ -\ Our\ Ms\ Renolds.mp4 
+mv Firefly\(2002\)\ -\ s01e07\ -\ JaynesTown.mp4 Firefly\(2002\)\ -\ s01e06\ -\ JaynesTown.mp4 
+mv Firefly\(2002\)\ -\ s01e08\ -\ Out\ Of\ Gas.mp4 Firefly\(2002\)\ -\ s01e07\ -\ Out\ Of\ Gas.mp4 
+mv Firefly\(2002\)\ -\ s01e09\ -\ Ariel.mp4 Firefly\(2002\)\ -\ s01e08\ -\ Ariel.mp4 
+mv Firefly\(2002\)\ -\ s01e10\ -\ War\ Stories.mp4 Firefly\(2002\)\ -\ s01e09\ -\ War\ Stories.mp4 
+mv Firefly\(2002\)\ -\ s01e11\ -\ Trash.mp4 Firefly\(2002\)\ -\ s01e10\ -\ Trash.mp4 
+mv Firefly\(2002\)\ -\ s01e12\ -\ The\ Mossage.mp4 Firefly\(2002\)\ -\ s01e11\ -\ The\ Mossage.mp4 
+mv Firefly\(2002\)\ -\ s01e13\ -\ Heart\ of\ Gold.mp4 Firefly\(2002\)\ -\ s01e12\ -\ Heart\ of\ Gold.mp4 
+mv Firefly\(2002\)\ -\ s01e14\ -\ Objects\ in\ Space.mp4 Firefly\(2002\)\ -\ s01e13\ -\ Objects\ in\ Space.mp4 
+c
+ls
+c
+ls
+cd
+cd Downloads/
+ls
+cd
+cd Downloads/
+ls
+cd The\ Hitchhiker\'s\ Guide\ to\ the\ Galaxy\ \(2005\)\ \[1080p\]/
+ls
+c
+ls
+vrc The.Hitchhikers.Guide.to.the.Galaxy.2005.1080p.BluRay.x264.YIFY.mp4 
+cp The.Hitchhikers.Guide.to.the.Galaxy.2005.1080p.BluRay.x264.YIFY.mp4 /plexmedialibriary/Movies/ 
+cd
+c
+ls /plexmedialibriary/Movies/
+cd

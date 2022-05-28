@@ -43,10 +43,6 @@ sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-rele
 #install HandBreak for video type switching
 sudo dnf install handbrake-gui
 
-#install nodejs
-dnf module list nodejs
-sudo dnf module install nodejs:16
-
 #Plex
 sudo dnf upgrade --refresh -y
 
@@ -104,9 +100,6 @@ $ sudo systemctl start plexmediaserver
 $ sudo systemctl enable plexmediaserver
 $ systemctl status plexmediaserver
 
-Settings >> settings >> remote access
- Private 192.168.1.198 : 32400 Public 108.36.169.213 : 32400 Internet 
-plex port for remote access: 32400
 ----------------
 
 sudo dnf groupinstall KDE Plasma Workspaces
