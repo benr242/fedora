@@ -43,6 +43,11 @@ sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-rele
 #install HandBreak for video type switching
 sudo dnf install handbrake-gui
 
+#insntall steam
+sudo dnf install steam
+
+#install protonVPN
+
 #Plex
 sudo dnf upgrade --refresh -y
 
