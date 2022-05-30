@@ -16,6 +16,11 @@ sudo dnf upgrade
 sudo dnf makecache
 sudo dnf install vim
 
+sudo dnf install dropbox
+
+sudo dnf copr enable kwizart/fedy
+sudo dnf install fedy
+
 # install flatpak? repositorie
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 flatpak remote-add --if-not-exists fedora oci+https://registry.fedoraproject.org
@@ -109,3 +114,8 @@ $ systemctl status plexmediaserver
 
 sudo dnf groupinstall KDE Plasma Workspaces
 sudo dnf groupinstall multimedia
+
+#set up symlink 'dir' for prex in $PLEX_LIB
+ln -s /home/benr242/Media/Music Music
+#remove it
+unlink Music (from $PLEX_LIB)
