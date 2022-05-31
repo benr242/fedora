@@ -1,6 +1,0 @@
-php 8.1
-vlc
-setup backup
-system backup softwace
-setup plex
-setup plex
