@@ -1,14 +1,1 @@
 flatpak remote-ls flathub --app
-
-#recursively find file 
-find . -name *ovi*
-
-#disk usage, s summarises dir, h human readable
-du -sh [dir]
-
-#create archive
-tar -cvf my_archive.tar file1 file2
-tar -cvf my_archive.tar directory; (does not effect dirR
-	tar -xvf my_archive.tar; (leaves archive intact)
-tar -cvzf my_archive.tar.gz directory
-	tar -xvzf my_archive.tar.gz

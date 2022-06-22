@@ -1,731 +1,3 @@
-cd Repos/fedora/
-git status
-git add .
-git status
-vi tasks/howto/fedora/setup.txt 
-pwd
-git status
-pwd
-git push origin main
-pwd
-cp -R /home/benr242/TOK/ .
-c
-git status
-git add .
-git status
-git commit -m "tok odded"
-ls
-ls root/home/benr242/
-git push origin main
-ls
-exit
-cd Repos/fedora/root/home/benr242/bin/
-git rm ctg 
-..
-git status
-git add .
-git status
-git commuit -m "sae"
-git status
-ght
-git commit -m "check"
-git status
-git push origin main
-vi /home/benr242/TOK/PAT 
-git status
-ght
-git commit -m "check"
-git status
-git add .
-git status
-git commit -m "check"
-git status
-git push origin main
-cd
-cd Repos/fedora/
-c
-git status
-cd
-c
-plexmediaplayer 
-ls
-mkdir Notes
-vi Notes/plex_crash
-cd tasks/howto/fedora/
-vi setup.txt
-$ systemctl status plexmediaserver
-systemctl status plexmediaserver
-exit
-sudo dnf groupinstall "KDE Plasma Workspaces"
-echo sudo dnf groupinstall "KDE Plasma Workspaces"
-echo sudo dnf groupinstall "KDE Plasma Workspaces" >> tasks/howto/fedora/setup.txt
-vi tasks/howto/fedora/setup.txt
-exit
-cd
-vi tasks/todo.txt 
-ctg
-cd Repos/fedora/
-git status
-ctg
-c
-git status
-ght
-git add .
-git status
-git commit -m "kde"
-git status
-git push origin main
-exit
-vi tasks/howto/fedora/setup.txt
-systemctl status plexmediaserver
-plexmediaplayer 
-exit
-plexmediaplayer 
-sudo dnf groupinstall multimedia
-echo sudo dnf groupinstall multimedia >> tasks/howto/fedora/setup.txt
-ctg
-vi .bashrc
-ctg
-cd Repos/fedora/
-c
-git status
-git add .
-git commit -m "check"
-exit
-vi .bash_aliases
-sudo dnf upgrade
-exit
-cd
-cd plex/
-ls
-mkdir Music
-cd
-exit
-sudo dnf search Bottles
-sudo dnf install Bottles
-sudo dnf install bottles
-sudo dnf upgrade
-cd tasks/
-ls
-couch command.txt
-touch commands.txt
-vi howto/fedora/setup.txt commands.txt 
-vi /home/benr242/bin/ctg 
-sudo dnf install bottles
-echo sudo dnf install bottles >> howto/fedora/setup.txt
-vi howto/fedora/setup.txt
-c
-sudo dnf upgrade
-exit
-cd
-cd Notes/
-vi plex_crash 
-cd
-cd Repos/
-git status
-cd fedora/
-git status
-git add .
-git status
-git commit -m "check"
-ght
-git push origin main
-ls
-vi tasks/howto/fedora/setup.txt
-cd
-ls
-cd bin/
-ls
-pwd
-vi ctg 
-cd
-ls plex/Shows/
-cd Downloads/Good\ Will\ Hunting\ \(1997\)\ \[1080p\]/
-ls
-c
-ls
-ls -lh
-..
-ls
-cd Good\ Will\ Hunting\ \(1997\)\ \[1080p\]/
-c
-ls
-vlc Good.Will.Hunting.1997.1080p.BrRip.x264.YIFY.mp4 
-ls
-..
-cp -R Good\ Will\ Hunting\ \(1997\)\ \[1080p\]/ /home/benr242/plex/Movies/
-exit
-cd
-cd plex/
-ls 
-cd Shows/
-ls
-cd Lasso/
-ls
-cd Ted\ Lasso\ Season\ 1
-cd Ted\ Lasso\ Season\ 1\ Mp4\ 1080p/
-ls
-plexmediaplayer Ted\ Lasso\ S01E10.mp4 
-vlc Ted\ Lasso\ S01E02.mp4 
-..
-pwd
-exit
-git status
-ctg
-git status
-cd
-$ systemctl status plexmediaserver
-systemctl status plexmediaserver
-c
-sudo systemctl start plexmediaserver
-systemctl status plexmediaserver
-c
-du -h
-c
-df -h
-dnf search Disk Usage
-sudo dnf upgrade
-cd tasks/howto/fedora/
-ls
-vi setup.txt
-sudo tee /etc/yum.repos.d/plex.repo<<EOF
-[Plexrepo]
-name=plexrepo
-baseurl=https://downloads.plex.tv/repo/rpm/\$basearch/
-enabled=1
-gpgkey=https://downloads.plex.tv/plex-keys/PlexSign.key
-gpgcheck=1
-EOF
-
-sudo dnf update --refresh
-sudo dnf install plexmediaserver
-systemctl status plexmediaserver
-sudo systemctl enable plexmediaserver
-vi setup.txt
-ctg
-git status
-pwd
-vi setup.txt
-pwd
-..
-cd Repos/
-cd fedora/
-ctg
-git status
-exit
-cd
-httd -h
-httpd -h
-c
-httpd -h
-httpd -v
-sudo dnf -y install vim bash-completion curl wget telnet
-sudo dnf install vim bash-completion curl wget telnet
-echo sudo dnf install vim bash-completion curl wget telnet >> /home/benr242/Repos/fedora/tasks/howto/fedora/setup.txt
-vi  /home/benr242/Repos/fedora/tasks/howto/fedora/setup.txt
-c
-sudo sestatus 
-vi  /home/benr242/Repos/fedora/tasks/howto/fedora/setup.txt
-sudo dnf -y install php php-cli php-php-gettext php-mbstring php-mcrypt php-mysqlnd php-pear php-curl php-gd php-xml php-bcmath php-zip
-vi  /home/benr242/Repos/fedora/tasks/howto/fedora/setup.txt
-sudo dnf install mariadb-server
-vi  /home/benr242/Repos/fedora/tasks/howto/fedora/setup.txt
-sudo systemctl start mariadb
-sudo systemctl enable mariadb
-cd Repos/fedora/
-git status
-git add .
-git status
-git commit -m "set up lamp"
-git status
-c
-ght
-git push origin main
-exit
-cd
-cd plex/
-cd Movies/
-ls
-cp Kingdom\ of\ Heaven\ \(2005\)\ Directors\ Cut/Kingdom\ of\ Heaven\ 2005\ Directors\ Cut.720p.BrRip.x264.YIFY.mp4 .
-ls
-ls Good\ Will\ Hunting\ \(1997\)\ \[1080p\]/
-c
-cat /etc/passwd
-sudo vi /etc/passwd
-c
-groups
-..
-ls -l
-sudo dnf upgrade -y
-exit
-cd
-usermod -a -G video benr242
-sudo usermod -a -G video benr242
-groups
-groups benr242
-sudo chown -R plex.plex /home/benr242/plexmedialibrary/Movies
-sudo chown -R plex.plex /home/benr242/plexmedialibrary/Shows
-sudo chown -R plex.plex /home/benr242/plexmedialibrary/Music
-echo sudo chown -R plex.plex /home/benr242/plexmedialibrary/Movies >> Repos/fedora/tasks/howto/fedora/setup.txt
-vi Repos/fedora/tasks/howto/fedora/setup.txt
-php -v
-cd Repos/fedora/
-git status
-vi tasks/howto/symfony/
-vi tasks/howto/fedora/setup.txt
-pwd
-git status
-git add .
-git status
-git commit -m "plex progress"
-git status
-ght
-vi tasks/howto/fedora/setup.txt
-git push origin main
-ls
-cd root/home/benr242/
-pwd
-mkdir bin
-ls bin/
-pwd
-cd
-cd Repos/fedora/
-ght
-ctg
-git status
-git add .
-git status
-git commit -m "check"
-git status
-cd
-cd Downloads/
-ls
-cd Serenity\ \(2005\)\ \[1080p\]/
-c
-ls
-vlc Serenity.2005.1080p.BrRip.x264.YIFY.bitloks.mkv 
-..
-cp -R Serenity\ \(2005\)\ \[1080p\]/ /home/benr242/plex/Movies/
-cd
-cd plexmedialibrary/
-ls
-ls -l
-groups
-sudo dnf install composer
-echo sudo dnf install composer >> tasks/howto/fedora/setup.txt
-vi tasks/howto/fedora/setup.txt
-ctg 
-ls
-cd plex/
-ls
-cd Movies/
-pwd
-..
-cd Shows/
-pwd
-cd
-cd Downloads/
-ls
-c
-ls
-cd Kingdom\ of\ Heaven\ \(2005\)\ Directors\ Cut/
-ls
-c
-ls
-vlc Kingdom\ of\ Heaven\ 2005\ Directors\ Cut.720p.BrRip.x264.YIFY.mp4 
-..
-cp -R Kingdom\ of\ Heaven\ \(2005\)\ Directors\ Cut/ /home/benr242/plex/Movies/
-ls /home/benr242/plex/Movies/
-c
-ls
-cd /home/benr242/plex/Movies/
-c
-ls
-..
-ls Shows/
-vlc Movies/Kingdom\ of\ Heaven\ \(2005\)\ Directors\ Cut/Kingdom\ of\ Heaven\ 2005\ Directors\ Cut.720p.BrRip.x264.YIFY.mp4 
-c
-ls -l
-cd Movies/
-ls -l
-..
-mv plex/ plexmedialibrary
-ls
-cd /
-ls
-mv home/benr242/plexmedialibrary/ .
-cd
-ls
-ls -l
-cd plexmedialibrary/
-c
-ls -l
-cd Movies/
-ls -l
-..
-groups
-users
-groups plex
-groups plexx
-groups plex
-echo groups plex >> Repos/fedora/tasks/howto/fedora/setup.txt
-groups plex
-vi Repos/fedora/tasks/howto/fedora/setup.txt
-cd  Repos/fedora/
-git status
-git add .
-git status
-c
-cat /etc/group
-cat /etc/group | less
-c
-groups plex
-vi tasks/howto/fedora/setup.txt
-groups benr242
-sudo adduser benr242 plex
-groups benr242
-usermod -a -G plex benr242
-groups benr242
-sudo usermod -a -G plex benr242
-groups benr242
-echo sudo usermod -a -G plex benr242 >> tasks/howto/fedora/setup.txt
-vi  tasks/howto/fedora/setup.txt
-git status
-git add .
-git status
-git commit -m "check"
-git status
-ght
-git push origin main
-vi  tasks/howto/fedora/setup.txt
-groups benr242
-sudo chown -R plex.plex /home/benr242/plexmedialibrary/Movies
-sudo chown -R plex.plex /home/benr242/plexmedialibrary/Shows
-sudo chown -R plex.plex /home/benr242/plexmedialibrary/Music
-echo sudo chown -R plex.plex /home/benr242/plexmedialibrary/Movies >> tasks/howto/fedora/setup.txt
-vi  tasks/howto/fedora/setup.txt
-git status
-git add .
-git status
-groups
-vi tasks/howto/fedora/setup.txt
-sudo usermod -a -G plex benr242
-groups
-groups plex
-groups benr242
-groups
-groups benr242
-cd
-cd plexmedialibrary/
-c
-ls -la
-cd Movies/
-ls
-ls -la
-..
-cd Shows/
-ls
-..
-cd Movies/
-ls
-..
-ls -l
-cd Movies/
-ls -l
-mv Kingdom\ of\ Heaven\ 2005\ Directors\ Cut.720p.BrRip.x264.YIFY.mp4 Kingdom\ of\ Heaven.mp4
-ls -l
-mv Kingdom\ of\ Heaven\ \(2005\)\ Directors\ Cut/ Kingdom\ of\ Heaven
-c
-ls
-ls -l
-chmod 775 Kingdom\ of\ Heaven.mp4 
-ls -l
-chmod 111 Kingdom\ of\ Heaven.mp4 
-ls
-.
-ls -l
-cd plexmedialibrary/
-ls -l
-cd Movies/
-ls -l
-mk Kingdom\ of\ Heaven Kingdom\ ofSHeaven
-ls -l
-mv Kingdom\ of\ Heaven Kingdom-of-Heaven
-ls -l
-mv Good\ Will\ Hunting\ \(1997\)\ \[1080p\]/ Good-Will-Hunting
-mv Serenity\ \(2005\)\ \[1080p\]/ Serenity
-ls -l
-mv Kingdom\ of\ Heaven.mp4 Kingdom-of-Heaven.mp4
-c
-ls -l
-pwd
-..
-cd Shows/
-ls
-cd Foundation/
-ls
-ls Foundation\ 2021\ S01/
-..
-cd Foundation/
-ls
-mv Foundation\ 2021\ S01/ Foundation-2011
-mv Foundation-2011/ Foundation-2011-S01
-ls
-mv System\ Volume\ Information/ System-Volume
-mv System-Volume/ System-Volume-Information
-cd Foundation-2011-S01/
-c
-ls
-cd
-cd Downloads/
-ls
-cp Dune\ \(2021\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/ /home/benr242/plexmedialibrary/Movies/
-cd
-cd plexmedialibrary/Movies/
-ls
-c
-ls
-cd
-cd Downloads/
-ls
-cp Dune\ \(2021\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/ /home/benr242/plexmedialibrary/Movies/
-cd
-cd plexmedialibrary/Movies/
-c
-ls
-cd
-cd Downloads/
-ls
-cd Dune\ \(2021\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/
-ls
-vlc Dune.2021.1080p.WEBRip.x264.AAC5.1-\[YTS.MX\].mp4 
-..
-cd -R Dune\ \(2021\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/ /home/benr242/plexmedialibrary/Movies/
-cp -R Dune\ \(2021\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/ /home/benr242/plexmedialibrary/Movies/
-cd
-cd plexmedialibrary/Movies/
-c
-ls
-mv Dune\ \(2021\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/ Dune-2021
-ls
-vlc Dune-2021/Dune.2021.1080p.WEBRip.x264.AAC5.1-\[YTS.MX\].mp4 
-pwd
-..
-pwd
-..
-cd /plexmedialibriary/Shows/
-ls
-cd Firefly/
-ls
-vlc 05\ Firefly\ Our\ Mrs\ Reynolds\ -\ Episode\ 05\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 
-cd /var/lib/plexmediaserver/Library/Application\ Support/Plex\ Media\ Server/
-echo $PLEX_HOME
-pwd
-c
-ls
-cd
-vi tmp/or.txt
-cd /plexmedialibriary/
-cd Shows/
-ls
-cd Firefly/
-ls
-cd
-cd Downloads/
-ls
-c
-ls
-ls | more
-cd
-cd /plexmedialibriary/Shows/Firefly/
-c
-ls
-mv 01-Firefly-TrainJob.mp4 02-Firefly-TrainJob.mp4 
-mv 02-Firefly-Bushwhacked.mp4 03-Firefly-Bushwhacked.mp4 
-ls
-mv 02-Firefly-TrainJob.mp4 01-Firefly-TrainJob.mp4 
-ls
-mv 03-Firefly-Bushwhacked.mp4 02-Firefly-Bushwhacked.mp4 
-c
-ls
-cd
-cd /plexmedialibriary/Shows/Firefly/
-c
-ls
-mv 13-Firefly-ObjectsInSpace.mp4 14-Firefly-ObjectsInSpace.mp4 
-mv 12-Firefly-HeartOfGold.mp4 13-Firefly-HeartOfGold.mp4[D-Firefly-HeartOfGold.mp4 
-mv 11-Firefly-TheMessage.mp4 12-Firefly-TheMessage.mp4 
-mv 10-Firefly-Trash.mp4 11-Firefly-Trash.mp4 
-mv 09-Firefly-WarStories.mp4 10-Firefly-WarStories.mp4 
-mv 08-Firefly-Ariel.mp4 09-Firefly-Ariel.mp4 
-mv 07-Firefly-OutOfGas.mp4 08-Firefly-OutOfGas.mp4 
-mv 06-Firefly-Jaynestown.mp4 07-Firefly-Jaynestown.mp4 
-mv 05-Firefly-OurMsRenolds.mp4 06-Firefly-OurMsRenolds.mp4 
-mv 04-Firefly-Safe.mp4 05-Firefly-Safe.mp4 
-mv 03-Firefly-Shindig.mp4 04-Firefly-Shindig.mp4 
-mv 02-Firefly-Bushwhacked.mp4 03-Firefly-Bushwhacked.mp4 
-c
-ls
-mv 01-Firefly-TrainJob.mp4 02-Firefly-TrainJob.mp4 
-mv 00-Firefly-Serenity.mp4 01-Firefly-Serenity.mp4 
-c
-ls
-mv 13-Firefly-HeartOfGold.mp4\[D-Firefly-HeartOfGold.mp4 13-Firefly-HeartOfGold.mp4 
-c
-ls
-vlc 13-Firefly-HeartOfGold.mp4 
-c
-ls -l
-c
-ls
-rm INFO.nfo 
-c
-ls
-pwd
-..
-mv Firefly/ Firefly(2002)/
-mv Firefly/ Firefly\(2002\)/
-ls
-cd Firefly\(2002\)/
-mkdir Season\ 01
-ls
-mk * Season\ 01/
-mv * Season\ 01/
-ls
-cd Season\ 01/
-ls
-mv 01-Firefly-Serenity.mp4 s01e01\ -\ Serenity.mp4
-c
-ls
-mv 02-Firefly-TrainJob.mp4 s01e02-Firefly-TrainJob.mp4 
-ls
-mv s01e02-Firefly-TrainJob.mp4 s01e02\ -\ Firefly-TrainJob.mp4 
-ls
-mv s01e02\ -\ TrainJob.mp4 
-mv s01e02\ -\ Firefly-TrainJob.mp4 s01e02\ -\ TrainJob.mp4 
-ls
-mv * ..
-..
-ls
-rmdir Season\ 01
-c
-ls
-mv 03-Firefly-Bushwhacked.mp4 s01e03\ -\ Firefly\ -\ Bushwhacked.mp4 
-ls
-mv s01e01\ -\ Serenity.mp4 s01e01\ Firefly\ - Serenety.mp4
-c
-ls
-mv s01e01\ -\ Serenity.mp4 Firefly\(2002)\ -\ s01e01\ -\ Serenity.mp4
-mv s01e01\ -\ Serenity.mp4 Firefly\(2002\)\ -\ s01e01\ -\ Serenity.mp4
-ls
-mv s01e02\ -\ TrainJob.mp4 Firefly\(2002\)\ -\ s01e02\ -\ Train\ Job.mp4
-c
-ls
-mv s01e03\ -\ Firefly\ -\ Bushwhacked.mp4 Firefly\(2002\)\ -\ s01e03\ -\ Bushwhacked.mp4
-ls
-mv 04-Firefly-Shindig.mp4 Firefly\(2002\)\ -\ s01e04\ -\ Shindig.mp4
-ls
-mv 05-Firefly-Shindig.mp4 Firefly\(2002\)\ -\ s01e05\ -\ Safe.mp4
-mv 05-Firefly-Safe.mp4 Firefly\(2002\)\ -\ s01e05\ -\ Safe.mp4
-clear
-ls
-mv 06-Firefly-OurMsRenolds.mp4 Firefly\(2002\)\ -\ s01e06\ -\ Our\ Ms\ Renolds.mp4
-mv 07-Firefly-Jaynestown.mp4 Firefly\(2002\)\ -\ s01e07\ -\ JaynesTown.mp4
-c
-ls
-mv 08-Firefly-OutOfGas.mp4 Firefly\(2002\)\ -\ s01e08\ -\ Out\ Of\ Gas.mp4
-c
-ls
-mv 09-Firefly-Ariel.mp4 Firefly\(2002\)\ -\ s01e09\ -\ Ariel.mp4
-c
-ls
-mv 10-Firefly-WarStories.mp4 Firefly\(2002\)\ -\ s01e10\ -\ War\ Stories.mp4
-c
-ls
-mv 11-Firefly-Trash.mp4 Firefly\(2002\)\ -\ s01e11\ -\ Trash.mp4
-c
-ls
-mv 12-Firefly-TheMessage.mp4 Firefly\(2002\)\ -\ s01e12\ -\ The\ Mossage.mp4
-c
-ls
-mv 13-Firefly-HeartOfGold.mp4 Firefly\(2002\)\ -\ s01e13\ -\ Heart\ of\ Gold.mp4
-c
-ls
-mv 14-Firefly-ObjectsInSpace.mp4 Firefly\(2002\)\ -\ s01e14\ -\ Objects\ in\ Space.mp4
-c
-ls
-mkdir Season\ 01
-mv * Season\ 01/
-c
-ls
-cd Season\ 01/
-ls
-exit
-vi Repos/fedora/tasks/howto/fedora/setup.txt
-ls plexmedialibrary/
-mkdir playground
-useradd user01
-c
-ls -l
-chgrp -R plex plexmedialibrary
-sudo chgrp -R plex plexmedialibrary
-c
-ls -l
-cd plexmedialibrary/
-ls -l
-cd Shows/
-ls -l
-c
-ls -l
-cd Foundation/
-ls -l
-cd Foundation-2011-S01/
-ls -l
-cd
-chown -R benr242:plex plexmedialibrary
-sudo chown -R benr242:plex plexmedialibrary
-c
-ls -l
-ls -la plexmedialibrary/
-ls -la plexmedialibrary/Movies/
-c
-ls /var/lib/plexmediaserver/
-ls /var/lib/plexmediaserver/Library/
-..
-ls -la
-ls benr242/plexmedialibrary/
-mkdir plexmedialibriary
-sudo mkdir plexmedialibriary
-c
-ls -l
-chmod 775 plexmedialibriary/
-sudo chmod 775 plexmedialibriary/
-c
-ls -l
-sudo cp benr242/plexmedialibrary/* plexmedialibriary/
-sudo cp -R benr242/plexmedialibrary/* plexmedialibriary/
-cd plexmedialibriary/
-ls -l
-..
-chown -R benr242:plex plexmedialibriary
-sudo chown -R benr242:plex plexmedialibriary
-c
-ls -l
-cd plexmedialibriary/
-ls -l
-..
-ls
-sudo mv home/plexmedialibriary/ .
-ls
-ls plexmedialibriary/
-sudo ls plexmedialibriary/
-c
-sudo mv home/plexmedialibriary/ .
-sudo rm plexmedialibriary/
-sudo rm -R plexmedialibriary/
-ls
-sudo cp -R home/plexmedialibriary/ .
-ls -l
 sudo rm -R plexmedialibriary/*
 c
 ls -l
@@ -998,3 +270,731 @@ cd
 c
 ls /plexmedialibriary/Movies/
 cd
+sudo dnf upgrade
+dnf module list nodejs
+dnf module install nodejs:18
+sudo dnf module install nodejs:18
+c
+dnf module list nodejs
+sudo dnf module install nodejs:16
+echo dnf module list nodejs
+echo dnf module list nodejs >> Repos/fedora/tasks/howto/fedora/setup.txt
+echo sudo dnf module install nodejs:16 >> Repos/fedora/tasks/howto/fedora/setup.txt
+vi Repos/fedora/tasks/howto/fedora/setup.txt
+sudo dnf upgrade
+c
+sudo dnf install steam
+echo sudo dnf install steam
+echo sudo dnf install steam >> Repos/fedora/tasks/howto/fedora/setup.txt
+vi Repos/fedora/tasks/howto/fedora/setup.txt
+sudo dnf install fedy
+sudo dnf install dropbox
+echo sudo dnf install dropbox
+echo sudo dnf install dropbox >> Repos/fedora/tasks/howto/fedora/setup.txt
+vi Repos/fedora/tasks/todo.txt 
+vi Repos/fedora/tasks/howto/fedora/setup.txt
+sudo dnf install Fedy
+c
+sudo dnf copr enable hwizart/fedy
+sudo dnf copr enable kwizart/fedy
+sudo dnf install fedy
+echo sudo dnf copr enable kwizart/fedy
+echo sudo dnf copr enable kwizart/fedy >> Repos/fedora/tasks/howto/fedora/setup.txt
+echo sudo dnf install fedy
+echo sudo dnf install fedy >> Repos/fedora/tasks/howto/fedora/setup.txt
+vi Repos/fedora/tasks/howto/fedora/setup.txt
+dnf search lastpass
+sudo dnf install lastpass
+c
+dnf search lastpass
+sudo dnf install lastpass-cli
+sudo dnf update
+exit
+cd Repos/fedora/
+clear
+git status
+git add .
+git status
+git commit -m "install nodejs"
+c
+git status
+ls /home/benr242/bin/
+ctg
+git status
+git add .
+git status
+git commit -m "check"
+c
+git status
+dnf search bitwarden
+sudo dnf install bitwarden
+git status
+git add .
+git status
+git add .
+git status
+git commit -m "add protonvpn:
+git commit -m "add protonvpn"
+ght
+git push origin main
+exit
+sudo dnf update
+thunderbird 
+dropbox 
+cd /plexmedialibriary/Movies/
+ls
+pwd
+..
+cd Music/
+ls
+..
+ls
+unlink Music
+ls
+c
+ls
+unlink Music 
+ls
+ln -s ../home/benr242/Media/Music Music
+ls
+ls -l Music/
+c
+ls
+ls -l
+c
+ls -l
+cd
+cd Downloads/
+ls
+mv cd /plexmedialibriary/
+c
+ls
+cd /plexmedialibriary/
+c
+ls
+ls -l
+unlink Music
+ls
+mv /home/benr242/Media/Music/ .
+ls
+ls Music/
+mv /home/benr242/Media/Music/* Music/
+ls
+c
+ls Music/
+ls
+ls -l
+chmod -R 775 Music/
+ls -l
+exit
+echo $plex_home
+echo $PLEX_HOME
+cd ..
+ls 
+ln -s Music ../../../plexmedialibriary/Music
+pwd
+c
+ls -l
+cd Music/
+ls -l
+cd tactical_sekt/
+ls -l
+cd Syncope/
+ls -l
+cd Syncope\ CD\ 1/
+ls -l
+..
+cd Syncope\ CD\ 2/
+ls -'
+ls -lo
+..
+c
+pwd
+exit
+sudo dnf install nautilus-dropbox
+nautilus
+c
+cd Downloads/
+ls
+ls music* -l
+mkdir music
+mv music* music/
+cd music/
+c
+ls -lh
+rm music.tar 
+rm music.PE28fqfh.tar.part 
+c
+ls
+mv music\(1\).tar music.tar
+\
+c
+ls -lh
+tar -xf music.tar 
+c
+ls
+cd home/benr242/Music/
+ls
+..
+ls Music/
+rmdir Music/
+mkdir -p Media
+mv Downloads/music/home/benr242/Music/ Media/
+cd Media/Music/
+ls
+cd
+cd Downloads/
+rm -rf music/
+cd
+cd Media/Music/
+ls
+cd project_pitchfork/
+ls
+cd project_pitchfork_-_daimonion/
+ls
+..
+cd
+cd Downloads/
+ls -l
+c
+ls -l
+c
+ls -l | less
+ls -l | more
+cd
+c
+cd Downloads/
+ls
+c
+ls -l Gu*
+cp Guardians\ of\ the\ Galaxy\ Vol.\ 2\ \(2017\)\ 720p\ BrRip\ x264\ -\ VPPV/Guardians.of.the.Galaxy.Vol.2.2017.720p.BluRay.x264.VPPV.mkv /plexmedialibriary/Movies/
+cd /plexmedialibriary/Movies/
+ls
+pwd
+.
+cd /plexmedialibriary/
+ls
+rmdir Music/
+cd
+cd Media/
+ln -s Music /plexmedialibriary/Music
+rd /plexmedialibriary/
+cd /plexmedialibriary/
+c
+ls
+ls -lh
+cd Music
+pwd
+c
+ls
+unlink Music 
+ls
+cd
+ls
+cd /plexmedialibriary/
+ln -s /home/benr242/Media/Music Music
+ls
+cd Music/
+ls
+cd ..
+cd
+vi Repos/fedora/tasks/howto/fedora/
+cd Repos/
+ls
+cd fedora/tasks/
+ls
+ln -s /home/benr242/Media/Music Music >> howtocd 
+ls
+pwd
+unlink Music
+c
+ls -l
+ls
+cd howto/fedora/
+ls
+vi setup.txt
+echo ln -s /home/benr242/Media/Music Music
+echo ln -s /home/benr242/Media/Music Music >> setup.txt
+pwd
+vi setup.txt
+vi setup.txto
+ls
+vi setup.txt
+git status
+git add .
+git status
+rm ../../todo.txt 
+c
+git status
+git add .
+git status
+git commit -m "s linking"
+c
+git status
+git add ../../todo.txt 
+c
+git add ../../todo.txt 
+pwd
+exit
+cd
+cd Repos/fedora/
+git status
+git add .
+git status
+ght
+git push origin main
+vi tasks/howto/fedora/info.txt tasks/howto/fedora/howto.txt 
+vi tasks/howto/fedora/howto.txt 
+git status
+git add .
+git status
+vi tasks/howto/fedora/howto.txt 
+git status
+git add .
+git status
+git commit -m "added archiving instructions"
+git status
+ght
+git push origin main
+vi tasks/howto/fedora/howto.txt 
+git status
+git add .
+git status
+ls
+cd notes/
+ls
+vi fedora35.txt 
+..
+code 
+git status
+c
+sudo dnf upgrade
+cd
+cd Media/Movies/
+ls
+tar --help
+clear
+ls
+tar cfv Dune-2021.tar Dune-2021/
+ls
+cd Dune-2021/
+ls
+..
+ls
+rm -rf Dune-2021/
+ls -lh
+c
+ls
+..
+ls
+cd Shows/
+ls -lh
+exit
+cd
+cd tmp/
+ls
+ls Foundation/
+ls Foundation/Foundation\ 2021\ S01/
+ls
+tar -cvzf Foudation.tar.gz Foundation/
+ls
+rm Foudation.tar.gz 
+tar -cvf Foundation.tar Foundation/
+ls
+vlc Foundation/Foundation\ 2021\ S01/S01E01\ Foundation\ 2021\ 1080p.mkv 
+ls
+mv Foundation.tar ../Media/
+rm -rf Foundation/
+cd ../Media/
+ls
+mkdir Shows
+mv Foundation.tar Shows/
+cd
+cd tmp/
+ls
+cd
+cd Media/Shows/
+ls
+tar -xvf Foundation.tar 
+ls
+rm -rf Foundation
+ls
+ls -lh
+c
+ls -lh
+du -hs
+du -hs /plexmedialibriary/Shows/Foundation/
+ls
+pwd
+exit
+cd
+cd Media/Shows/
+ls
+tar -tvf Foundation.tar 
+tar --options
+tar --help
+tar --help | less
+tar -tf Foundation.tar 
+ls
+gzip < Foundation.tar > Foundation.tar.gz
+ls
+c
+ls -lh
+rm Foundation.tar
+..
+cd Movies/
+gzip < Dune-2021.tar > Dune-2021.tar.gz
+ls
+rm Dune-2021.tar
+ls
+..
+cd Media/Shows/
+ls
+tar -tf Foundation.tar.gz 
+cd
+cd Repos/fedora/
+ls
+cd notes/
+ls
+touch commands.txt
+echo gzip < Dune-2021.tar > Dune-2021.tar.gz
+vi commands.txt 
+..
+git status
+git add .
+git status
+git commit -m "added commands.txt"
+git status
+pwd
+git status
+ght
+git push origin main
+exit
+cd /plexmedialibriary/Music/
+ls
+cd _industrial/
+ls
+..
+mv _industrial/ Industrial
+mv _synth/ Synth
+mv _classical/ Classical
+mv _random/ Other
+ls
+mv din_fiv/ icon_of_coil/ vnv_nation/ Synth/
+mv angels_and_agony/ assemblage_23/ c
+ls
+cd vnv_nation/
+ls
+..
+c
+mv vnv_nation/ Synth/
+cd Synth/
+ls
+cd vnv_nation/
+ls
+..
+mv vnv_nation/* Synth/vnv_nation/
+cd vnv_nation/
+ls
+..
+rmdir vnv_nation/
+cd Synth/vnv_nation/
+ls
+..
+ls
+mkdir Pop-Rock
+mv green_day/ bon_jovi/ coldplay/ radiohead/ Pop-Rock/
+c
+ls
+mv suicide_commando/ Industrial/
+ls Industrial/suicide_commando/
+ls suicide_commando/
+mv suicide_commando/* Industrial/suicide_commando/
+ls Industrial/suicide_commando/
+ls Industrial/suicide_commando/suicide_commando_-_love_breeds_suicide/
+ls suicide_commando/suicide_commando_-_love_breeds_suicide/
+c
+ls
+mkdir Goth
+mv rasputina/ rasputina/ Goth/
+mv rasputina/ razed_in_black/ Goth/
+ls
+ls Synth/
+ls Pop-Rock/
+c
+ls
+mv haujobb/ Industrial/
+mv jack_off_jill/ Pop-Rock/
+find . -name "rasputina*"
+cd Goth/rasputina/
+ls
+cd rasputina_-_how_we_quit_the_forest/
+ls
+..
+find . -name "pink*"
+ls Other/pink/
+mv Other/pink/ Pop-Rock/
+mv prick/ Pop-Rock/
+mkdir Electronic
+cd Synth/
+ls
+mv * ../Electronic/
+ls
+..
+rmdir Synth/
+find . -name "*ovi*"
+echo find . -name "*ovi*"
+echo find . -name "*ovi*" >> /home/benr242/Repos/fedora/tasks/howto/fedora/howto.txt 
+vi /home/benr242/Repos/fedora/tasks/howto/fedora/howto.txt 
+echo find . -name "*oh*"
+c
+ls
+ls Industrial/
+ls Industrial/ohGr/
+c
+ls
+ls Industrial/
+c
+ls
+mv band-of-horses/ Pop-Rock/
+mv life_cried/ Industrial/
+c
+ls life_cried/
+ls Industrial/life_cried/
+ls Industrial/life_cried/Drawn\ \ +\ \ Quartered/
+ls life_cried/Drawn\ \ +\ \ Quartered/
+rm -rf Industrial/life_cried/
+mv life_cried/ Industrial/
+ls
+find . -name "*eath*"
+c
+find . -name "*eather*"
+mv Industrial/leather_strip/ Electronic/
+mv lame_immortelle/ Pop-Rock/
+mv lights_of_euphoria/ Pop-Rock/
+c
+ls
+mv Industrial/god_module/ Electronic/
+mv smashing_pumpkins/ Pop-Rock/
+mv front_242/ Electronic/
+c
+ls
+cd Pop-Rock/
+ls
+cd pink/
+ls
+ls -l
+mv Pink\ -\ Dear\ Mr.\ President\(1\).mp3 1-Pink\ -\ Dear\ Mr.\ President\(1\).mp3 
+c
+ls -l
+mv Pink\ -\ Sober.mp3 2-Pink\ -\ Sober.mp3 
+mv Pink\ -\ So\ What.mp3 3-Pink\ -\ So\ What.mp3 
+mv Pink\ -\ U\ _\ Ur\ Hand.mp3 4-Pink\ -\ U\ _\ Ur\ Hand.mp3 
+c
+ls -l
+mv P\!nk\ \(Pink\)\ -\ Raise\ Your\ Glass\ \[2010-Single\]\[MJN\].mp3 5-P\!nk\ \(Pink\)\ -\ Raise\ Your\ Glass\ \[2010-Single\]\[MJN\].mp3 
+c
+ls
+c
+ls -l
+mv 5-P\!nk\ \(Pink\)\ -\ Raise\ Your\ Glass\ \[2010-Single\]\[MJN\].mp3 5-Pink\ Raise\ Your\ Glass.mp3
+c
+ls
+c
+ls -l
+mv 5-Pink\ Raise\ Your\ Glass.mp3 5-Pink\ -\ Raise\ Your\ Glass.mp3 
+c
+ls -l
+..
+du -sh Music/
+du -sh Shows/Foundation/
+du -h
+du
+dh --help
+du --help
+c
+du --help
+c
+cd Shows/
+du -sh
+du -sh Lasso/
+..
+du Shows/
+c
+du Shows/
+du -h Shows/
+c
+du -h Shows/
+du -sh Shows/
+du -sh 
+cd Music/Pop-Rock/
+ls
+cd pink/
+ls
+mv 5-Pink\ -\ Raise\ Your\ Glass.mp3 35-Pink\ -\ Raise\ Your\ Glass.mp3 
+c
+ls
+..
+cd Electronic/
+ls
+..
+cd Shows/Lasso/
+ls
+du -sh
+c
+dh -h
+c
+du -h
+du -sh
+..
+du -sh
+..
+du -sh
+cd Movies/
+c
+du -h
+pwd
+..
+pwd
+exit
+cd /plexmedialibriary/
+ls
+cd Music/
+ls -l
+ls -l | more
+cd assemblage_23/
+ls -l
+c
+ls
+rm desktop.ini __.DS_Store _DS_Store 
+ls
+..
+ls
+cd angels_and_agony/
+ls
+..
+cd panzer_ag/
+c
+ls
+cd your_world_is_burning/
+ls
+..
+cd
+sudo dnf install dnf-plugin-system-upgrade
+sudo dnf upgrade
+c
+dnf search pCloud
+sudo dnf upgrade
+cd Repos/
+ls
+git clone https://github.com/benr242/BookieSymfony.git
+ls
+..
+ls
+cd Projects/symfony/Bookies/
+git status
+..
+cd symfony/Bookies/
+c
+ls
+cd notes/
+ls
+vi fedora35.txt 
+cp fedora35.txt /home/benr242/Repos/fedora/notes/
+cd
+cd Repos/fedora/
+c
+git status
+git add .
+git status
+git commit -m "added notes-fedora35"
+git status
+ght
+git push origin main
+cd
+ls
+mv Downloads/Fedora-Workstation-Live-x86_64-36-1.5.iso Software/
+c
+ls Software/
+du -h Software/Fedora-Workstation-Live-x86_64-36-1.5.iso 
+sudo dnf install atom
+sudo apt install atom
+sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
+c
+cat <<EOF | sudo tee /etc/yum.repos.d/vscode.repo
+[code]
+name=Visual Studio Code
+baseurl=https://packages.microsoft.com/yumrepos/vscode
+enabled=1
+gpgcheck=1
+gpgkey=https://packages.microsoft.com/keys/microsoft.asc
+EOF
+
+dnf check-update
+sudo dnf install code
+sudo dnf upgrade
+cd Downloads/
+ls
+cd 
+cd Media/
+ls
+mkdir Movies
+cd Movies/
+cp -R /plexmedialibriary/Movies/Dune-2021/ .
+ls
+cd Dune-2021/
+ls
+cd ..
+ls
+vi /home/benr242/Repos/fedora/notes/howto/info.txt
+vi /home/benr242/Repos/fedora/notes/howto/howto.txt 
+cd
+ls
+cd Notes/
+ls
+..
+cd Repos/fedora/
+ls
+cd notes/
+ls
+vi howto/howto.txt 
+ls
+vi fedora35.txt 
+cd
+ls
+vi  Notes/fedora35.txt
+cd Projects/symfony/Bookies/
+ls
+cd notes/
+ls
+vi notes.txt 
+ls
+c
+pwd
+ls
+vi fedora35.txt 
+cd
+ls
+cd tasks/howto/
+ls
+..
+ls
+vi commands.txt 
+vi todo.txt 
+cd howto/
+ls-
+ls
+cd fedora/
+ls
+vi howto.txt 
+vi info.txt
+vi setup.txt
+exit
+sudo dnf upgrade
+cd Repos/fedora/
+gt
+gth
+ght
+git push origin main
+sudo dnf upgrade
+exit

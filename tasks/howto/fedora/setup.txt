@@ -16,11 +16,6 @@ sudo dnf upgrade
 sudo dnf makecache
 sudo dnf install vim
 
-sudo dnf install dropbox
-
-sudo dnf copr enable kwizart/fedy
-sudo dnf install fedy
-
 # install flatpak? repositorie
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 flatpak remote-add --if-not-exists fedora oci+https://registry.fedoraproject.org
@@ -47,11 +42,6 @@ sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-rele
 
 #install HandBreak for video type switching
 sudo dnf install handbrake-gui
-
-#insntall steam
-sudo dnf install steam
-
-#install protonVPN
 
 #Plex
 sudo dnf upgrade --refresh -y
@@ -114,8 +104,3 @@ $ systemctl status plexmediaserver
 
 sudo dnf groupinstall KDE Plasma Workspaces
 sudo dnf groupinstall multimedia
-
-#set up symlink 'dir' for prex in $PLEX_LIB
-ln -s /home/benr242/Media/Music Music
-#remove it
-unlink Music (from $PLEX_LIB)
