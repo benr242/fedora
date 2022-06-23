@@ -43,18 +43,15 @@ S Shoulders
 O cOre
 	Pike rollout
 	Swiss Ball
-	Kb
-	Arm extension --> situp
-	Rotation drop
-	Russian twist
-	Sit up, Kb overhead
-	Oblique standing side bend
-	Seat leg raise over kb
-	Half Turkish get up
 	ATW taps, knees cross
-	Plank Pull through
-	Plank
-	Ext then over knees
+	Kb
+		Arm extension --> situp
+		Rotation drop
+		Russian twist
+		Sit up, Kb overhead
+		Oblique standing side bend
+		Seat leg raise over kb
+		Half Turkish get up
 	X Orbit
 
 F
@@ -85,6 +82,7 @@ L legs
 
 JUN
 
+23 3 S7
 22 2 B7 run 4
 21 1 C7O7 🏃 5
 19 7

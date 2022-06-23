@@ -1,0 +1,2 @@
+## disk usage
+du -sh [dir] //sumarry, human
