@@ -8,76 +8,78 @@
 >carbs protein
 ... chocolate milk/kefir, hb eggs, pb
 
-Day 1: Chest cOre Day 2: Back Day 3: Shoulders cOre
-Day 4: Legs cOre Day 5: Arms Day 6: rest Day 7: rest
+1: Chest cOre 
+2: Back Day 
+3: Shoulders cOre
+4: Legs cOre 
+5: Arms cOre
+6: rest 
+7: rest
 
 C PUSH
-35 Chest Press*
-22 Chest Fly*
-Kb Tricep Press
+	35 Chest Press*
+	22 Chest Fly*
+	Kb Tricep Press
 
 B PULL
-45 Back Row
-17+ Back Fly
-Kb Pullover
-22 Curl
-17 Preacher Curl
+	45 Back Row
+	17+ Back Fly
+	Kb Pullover
+	22 Curl
+	17 Preacher Curl
 
 F
-20/12 Forearms
+	20/12 Forearms
 
 S Shoulders
-25 Overhead Press
-12 Front Raise
-10 Lateral Raise
-10 I-Y-T
-Kb American swing
-25 Upright Row/Shrug
-17 Seated Clean
+	25 Overhead Press
+	12 Front Raise
+	10 Lateral Raise
+	10 I-Y-T
+	Kb American swing
+	25 Upright Row/Shrug
+	17 Seated Clean
 
 O cOre
-Pike rollout
-Swiss Ball
-Kb
-Arm extension --> situp
-Rotation drop
-Russian twist
-Sit up, Kb overhead
-Oblique standing side bend
-Seat leg raise over kb
-Half Turkish get up
-ATW taps, knees cross
-Plank Pull through
-Ext then over knees
-X Orbit
+	Pike rollout
+	Swiss Ball
+	Kb
+	Arm extension --> situp
+	Rotation drop
+	Russian twist
+	Sit up, Kb overhead
+	Oblique standing side bend
+	Seat leg raise over kb
+	Half Turkish get up
+	ATW taps, knees cross
+	Plank Pull through
+	Plank
+	Ext then over knees
+	X Orbit
 
 F
-20/12 Forearms
+	20/12 Forearms
 
 L legs
-Doorframe squat
-Kb
-split squat
-reverse lunge
-goblet squat
-deadlift
-swing
-40+ Squat
-15 Lunge
-V calves
-&Biceps
-K Kettlebell
-L
-Split squat
-Reverse Lunge
-Deadlift
-Goblet squat
-Clean
-Swing
-O
-Plank pull through
-B
-BPullover
+	Doorframe squat
+	Kb
+	split squat
+	reverse lunge
+	goblet squat
+	deadlift
+	swing
+	40+ Squat
+	15 Lunge
+	V calves
+	&Biceps
+	K Kettlebell
+
+	Split squat
+	Reverse Lunge
+	Deadlift
+	Goblet squat
+	Clean
+	Swing
 
 ****-------------****
 
