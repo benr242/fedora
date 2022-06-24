@@ -54,9 +54,6 @@ O cOre
 		Half Turkish get up
 	X Orbit
 
-F
-	20/12 Forearms
-
 L legs
 	Doorframe squat
 	Kb

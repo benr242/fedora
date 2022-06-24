@@ -1,3 +1,6 @@
+#show OS version
+cat /etc/os-release
+
 ## disk usage
 du -sh [dir] //sumarry, human
 tar -czvf music.tar.gz /plexmedialibriary/Music
