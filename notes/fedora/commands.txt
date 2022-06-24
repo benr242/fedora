@@ -1,2 +1,3 @@
 ## disk usage
 du -sh [dir] //sumarry, human
+tar -czvf music.tar.gz /plexmedialibriary/Music
