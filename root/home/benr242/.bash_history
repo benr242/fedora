@@ -1,350 +1,3 @@
-sudo rm -R plexmedialibriary/*
-c
-ls -l
-sudo chown benr242:plex plexmedialibriary
-c
-ls -l
-cp -R home/plexmedialibriary/* plexmedialibriary/
-c
-ls -l
-cd plexmedialibriary/
-ls
-cd Movies/
-ls
-..
-ls -l
-vlc Movies/Dune-2021/Dune.2021.1080p.WEBRip.x264.AAC5.1-\[YTS.MX\].mp4 
-..
-ls -l plexmedialibriary/
-chown -R benr242:plex plexmedialibriary
-c
-ls -l
-cd plexmedialibriary/
-ls -l
-..
-cd home/
-ls
-rm -rf plexmedialibriary/
-sudo rm -rf plexmedialibriary/
-cd benr242/
-ls
-cd /
-c
-ls -l
-chmod -R 775 plexmedialibriary
-c
-ls -l
-cd plexmedialibriary/
-ls -l
-cd
-cd /
-cd plexmedialibriary/
-cd Shows/
-ls
-cd Lasso/
-ls
-cd Ted\ Lasso\ Season\ 1\ Mp4\ 1080p/
-ls
-..
-mv Ted\ Lasso\ Season\ 1\ Mp4\ 1080p/ Ted-Lasso-season1
-ls
-mv Ted\ Lasso\ Season\ 2\ Mp4\ 1080p/ Ted-Lasso-season2
-ls
-vlc Ted-Lasso-season1/Ted\ Lasso\ S01E10.mp4 
-c
-ls
-cd Ted-Lasso-season1/
-ls
-vlc Ted\ Lasso\ S01E04.mp4 
-cd /
-c
-ls -l
-cd
-ls
-rm -rf plexmedialibrary/
-cd Downloads/Firefly\ Complete\ Series\ -\ Sci-Fi\ 2002-2003\ Eng\ Subs\ 1080p\ \[H264-mp4\]/
-c
-ls
-..
-cd Downloads/
-c
-ls
-cd Firefly\ Complete\ Series\ -\ Sci-Fi\ 2002-2003\ Eng\ Subs\ 1080p\ \[H264-mp4\]/
-ls
-cd Firefly\ Complete\ Series\ 2002-2003/
-pwd
-c
-pwd
-ls
-..
-cp -R Firefly\ Complete\ Series\ 2002-2003/ /plexmedialibriary/Shows/
-cd
-cd /plexmedialibriary/Shows/Firefly/
-c
-ls
-mv 00\ Firefly\ Serenity\ -\ Pilot\ Film\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 00-Firefly-Serenity.mp4
-mv 01\ Firefly\ The\ Train\ Job\ -\ Episode\ 01\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 01-Firefly-TrainJob.mp4
-mv 02\ Firefly\ Bushwhacked\ -\ Episode\ 02\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 02-Firefly-Bushwhacked.mp4
-mv 03\ Firefly\ Shindig\ -\ Episode\ 03\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 03-Firefly-Shindig.mp4
-mv 04\ Firefly\ Safe\ -\ Episode\ 04\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 04-Firefly-Safe.mp4
-mv 05\ Firefly\ Our\ Mrs\ Reynolds\ -\ Episode\ 05\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 05-Firefly-OurMsRenolds.mp4
-mv 06\ Firefly\ Jaynestown\ -\ Episode\ 06\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 06-Firefly-Jaynestown.mp4
-mv 07\ Firefly\ Out\ Of\ Gas\ -\ Episode\ 07\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 07-Firefly-OutOfGas.mp4
-mv 08\ Firefly\ Ariel\ -\ Episode\ 08\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 08-Firefly-Ariel.mp4
-mv 09\ Firefly\ War\ Stories\ -\ Episode\ 09\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 09-Firefly-WarStories.mp4
-c
-ls
-mv 10\ Firefly\ Trash\ -\ Episode\ 10\ 2003\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 10-Firefly-Trash.mp4
-mv 11\ Firefly\ The\ Message\ -\ Episode\ 11\ 2003\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 11-Firefly-TheMessage.mp4
-mv 12\ Firefly\ Heart\ Of\ Gold\ -\ Episode\ 12\ 2003\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 12-Firefly-HeartOfGold.mp4
-mv 13\ Firefly\ Objects\ In\ Space\ -\ Episode\ 13\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 13-Firefly-ObjectsInSpace.mp4
-c
-ls
-..
-pwd
-cd
-cd Downloads/
-ls
-cd Firefly\ Complete\ Series\ -\ Sci-Fi\ 2002-2003\ Eng\ Subs\ 1080p\ \[H264-mp4\]/
-c
-ls
-vi INFO.nfo 
-c
-ls
-Firefly\ Complete\ Series\ 2002-2003/
-ls
-c
-..
-cd Firefly\ Complete\ Series\ -\ Sci-Fi\ 2002-2003\ Eng\ Subs\ 1080p\ \[H264-mp4\]/
-ls
-cp INFO.nfo /plexmedialibriary/Shows/Firefly/
-cd /plexmedialibriary/Shows/Firefly/
-c
-ls
-pwd
-cd
-ls
-cd Repos/
-ls
-rm -rf casts/
-ls
-rm -rf BookieSymfony/
-cd
-ls
-cd Projects/
-ls
-..
-vi .bash_aliases
-c
-df -h
-vi .bash_aliases
-systemctl status plexmediaserver
-sudo dnf upgrade
-cd Downloads/Guardians\ of\ the\ Galaxy\ \(2014\)\ \[1080p\]/
-ls
-cp Guardians.of.the.Galaxy.2014.1080p.BluRay.x264.YIFY.mp4 /plexmedialibriary/Movies/
-c
-pwd
-..
-vi .bash_aliases
-cd bin/
-ls
-vi ctg 
-ctg
-vi ctg 
-..
-sudo find  /home/benr242/plexmedialibrary/Movies -type d -exec chmod 775 {} \;
-sudo find  /home/benr242/plexmedialibrary/Music -type d -exec chmod 775 {} \;
-sudo find  /home/benr242/plexmedialibrary/Shows -type d -exec chmod 775 {} \;
-ecko sudo find  /home/benr242/plexmedialibrary/Movies -type d -exec chmod 775 {} \; 
-echo sudo find  /home/benr242/plexmedialibrary/Movies -type d -exec chmod
-cd Repos/fedora/
-echo sudo find  /home/benr242/plexmedialibrary/Movies -type d -exec chmod 775 {} \; 
-ls
-echo sudo find  /home/benr242/plexmedialibrary/Movies -type d -exec chmod 775 {} \; >> tasks/howto/fedora/setup.txt
-vi tasks/howto/fedora/setup.txt
-git status
-git add .
-git commit -m "ownership permissions of plex paths"
-git status
-ght
-git push origin main
-pwd
-ls
-cd notes/
-vi MyInfo.txt
-cd notes/
-vi MyInfo.txt
-..
-git status
-git add .
-git status
-git commit -m "MyInfo"
-ght
-git push origin main
-pwd
-git status
-pwd
-git status
-ght
-git push origin main
-git status
-ls
-cd tasks/howto/fedora/
-vi setup.txt
-git status
-git add .
-git status
-git add .
-git status
-git commit -m "plex port"
-ght
-git push origin main
-vi setup.txt
-git add  .
-git status
-vi setup.txt
-git add  .
-git commit -m "plex port"
-git status
-git push origin main
-ght
-git push origin main
-cd
-cd playground/
-mkdir -p dir1/dir2
-touch dir1/dir2/test.txt
-ls -l dir1/dir2/
-chmod 777 dir1/dir2/*.txt
-ls -l dir1/dir2/
-chmod 711 dir1/dir2/*.txt
-ls -l dir1/dir2/
-chmod 775 -R *.txt
-ls -l dir1/
-ls
-chmod 775 dir1
-ls -l 
-chmod 705 dir1
-ls -l 
-cd
-cd /plexmedialibriary/Shows/
-ls
-mv Firefly\ Complete\ Series\ 2002-2003/ Firefly
-ls
-cd /plexmedialibriary/Shows/Firefly\(2002\)/Season\ 01/
-ls
-vlc Firefly\(2002\)\ -\ s01e08\ -\ Out\ Of\ Gas.mp4 
-c
-ls
-mv Firefly\(2002\)\ -\ s01e01\ -\ Serenity.mp4 Firefly\(2002\)\ -\ s01e00\ -\ Serenity.mp4 
-mv Firefly\(2002\)\ -\ s01e02\ -\ Train\ Job.mp4 Firefly\(2002\)\ -\ s01e01\ -\ Train\ Job.mp4 
-mv Firefly\(2002\)\ -\ s01e03\ -\ Bushwhacked.mp4 Firefly\(2002\)\ -\ s01e02\ -\ Bushwhacked.mp4 
-mv Firefly\(2002\)\ -\ s01e04\ -\ Shindig.mp4 Firefly\(2002\)\ -\ s01e03\ -\ Shindig.mp4 
-mv Firefly\(2002\)\ -\ s01e05\ -\ Safe.mp4 Firefly\(2002\)\ -\ s01e04\ -\ Safe.mp4 
-mv Firefly\(2002\)\ -\ s01e06\ -\ Our\ Ms\ Renolds.mp4 Firefly\(2002\)\ -\ s01e05\ -\ Our\ Ms\ Renolds.mp4 
-mv Firefly\(2002\)\ -\ s01e07\ -\ JaynesTown.mp4 Firefly\(2002\)\ -\ s01e06\ -\ JaynesTown.mp4 
-mv Firefly\(2002\)\ -\ s01e08\ -\ Out\ Of\ Gas.mp4 Firefly\(2002\)\ -\ s01e07\ -\ Out\ Of\ Gas.mp4 
-mv Firefly\(2002\)\ -\ s01e09\ -\ Ariel.mp4 Firefly\(2002\)\ -\ s01e08\ -\ Ariel.mp4 
-mv Firefly\(2002\)\ -\ s01e10\ -\ War\ Stories.mp4 Firefly\(2002\)\ -\ s01e09\ -\ War\ Stories.mp4 
-mv Firefly\(2002\)\ -\ s01e11\ -\ Trash.mp4 Firefly\(2002\)\ -\ s01e10\ -\ Trash.mp4 
-mv Firefly\(2002\)\ -\ s01e12\ -\ The\ Mossage.mp4 Firefly\(2002\)\ -\ s01e11\ -\ The\ Mossage.mp4 
-mv Firefly\(2002\)\ -\ s01e13\ -\ Heart\ of\ Gold.mp4 Firefly\(2002\)\ -\ s01e12\ -\ Heart\ of\ Gold.mp4 
-mv Firefly\(2002\)\ -\ s01e14\ -\ Objects\ in\ Space.mp4 Firefly\(2002\)\ -\ s01e13\ -\ Objects\ in\ Space.mp4 
-c
-ls
-c
-ls
-cd
-cd Downloads/
-ls
-cd
-cd Downloads/
-ls
-cd The\ Hitchhiker\'s\ Guide\ to\ the\ Galaxy\ \(2005\)\ \[1080p\]/
-ls
-c
-ls
-vrc The.Hitchhikers.Guide.to.the.Galaxy.2005.1080p.BluRay.x264.YIFY.mp4 
-cp The.Hitchhikers.Guide.to.the.Galaxy.2005.1080p.BluRay.x264.YIFY.mp4 /plexmedialibriary/Movies/ 
-cd
-c
-ls /plexmedialibriary/Movies/
-cd
-sudo dnf upgrade
-dnf module list nodejs
-dnf module install nodejs:18
-sudo dnf module install nodejs:18
-c
-dnf module list nodejs
-sudo dnf module install nodejs:16
-echo dnf module list nodejs
-echo dnf module list nodejs >> Repos/fedora/tasks/howto/fedora/setup.txt
-echo sudo dnf module install nodejs:16 >> Repos/fedora/tasks/howto/fedora/setup.txt
-vi Repos/fedora/tasks/howto/fedora/setup.txt
-sudo dnf upgrade
-c
-sudo dnf install steam
-echo sudo dnf install steam
-echo sudo dnf install steam >> Repos/fedora/tasks/howto/fedora/setup.txt
-vi Repos/fedora/tasks/howto/fedora/setup.txt
-sudo dnf install fedy
-sudo dnf install dropbox
-echo sudo dnf install dropbox
-echo sudo dnf install dropbox >> Repos/fedora/tasks/howto/fedora/setup.txt
-vi Repos/fedora/tasks/todo.txt 
-vi Repos/fedora/tasks/howto/fedora/setup.txt
-sudo dnf install Fedy
-c
-sudo dnf copr enable hwizart/fedy
-sudo dnf copr enable kwizart/fedy
-sudo dnf install fedy
-echo sudo dnf copr enable kwizart/fedy
-echo sudo dnf copr enable kwizart/fedy >> Repos/fedora/tasks/howto/fedora/setup.txt
-echo sudo dnf install fedy
-echo sudo dnf install fedy >> Repos/fedora/tasks/howto/fedora/setup.txt
-vi Repos/fedora/tasks/howto/fedora/setup.txt
-dnf search lastpass
-sudo dnf install lastpass
-c
-dnf search lastpass
-sudo dnf install lastpass-cli
-sudo dnf update
-exit
-cd Repos/fedora/
-clear
-git status
-git add .
-git status
-git commit -m "install nodejs"
-c
-git status
-ls /home/benr242/bin/
-ctg
-git status
-git add .
-git status
-git commit -m "check"
-c
-git status
-dnf search bitwarden
-sudo dnf install bitwarden
-git status
-git add .
-git status
-git add .
-git status
-git commit -m "add protonvpn:
-git commit -m "add protonvpn"
-ght
-git push origin main
-exit
-sudo dnf update
-thunderbird 
-dropbox 
-cd /plexmedialibriary/Movies/
-ls
-pwd
-..
 cd Music/
 ls
 ..
@@ -998,3 +651,350 @@ ght
 git push origin main
 sudo dnf upgrade
 exit
+gedit Repos/fedora/tasks/howto/fedora/howto.txt 
+cd Repos/fedora/tasks/
+..
+ls
+cd notes/
+ls
+mkdir fedora
+mkdir symfony
+ls
+mv fedora35.txt fedora/
+touch fedora/commands.txt
+..
+cd tasks/howto/fedora/
+ls
+vi howto.txt 
+vi howto.txt ../../../notes/commands.txt 
+cd ..
+..
+git status
+git add .
+git status
+git commit -m "cleanup"
+sudo dnf upgrade
+pwd
+cd
+sudo dnf upgrade
+cd Repos/fedora/
+ls
+\c
+c
+ls
+cd notes/
+ls
+vi MyInfo.txt 
+vi workout.txt
+..
+git status
+git add .
+git status
+git commit -m "added workout"
+git status
+..
+ls
+cd fedora/notes/
+ls -lh
+c
+ls -lh
+chmod 444 workout.txt 
+ls -lh
+...
+..
+c
+gedit notes/workout.txt 
+vi notes/workout.txt 
+chmod 644 notes/workout.txt 
+cd notes/
+ls -lh workout.txt 
+vi workout.txt 
+..
+git status
+git add .
+git status
+git commit -m "check"
+git status
+git add .
+git status
+git add .
+git status
+git commit -m "check"
+git status
+workout
+vi /home/benr242/.bash_aliases
+source /home/benr242/.bash_aliases
+c
+workout
+wourkout
+wo
+vi /home/benr242/.bash_aliases
+source /home/benr242/.bash_aliases
+c
+wo
+exit
+pwd
+ls
+cp -R /home/benr242/Downloads/Top\ Gun\ Maverick.2022.HD720p.FuckAds.SRT.mkv /plexmedialibriary/Movies/
+cd /plexmedialibriary/
+ls
+cd Movies/
+ls
+vlc Top\ Gun\ Maverick.2022.HD720p.FuckAds.SRT.mkv 
+exit
+cd
+cd Downloads/
+ls
+c
+ls
+c
+ls
+cp Top.Gun.Maverick.2022.1080p.HDTS.V2.x264-HushRips.mkv /plexmedialibriary/Movies/
+cd /plexmedialibriary/Movies/
+c
+ls -lh
+rm Top\ Gun\ Maverick.2022.HD720p.FuckAds.SRT.mkv 
+c
+ls -lh
+exit
+cd
+cd bin/
+ls
+vi ctg 
+cd
+vi /home/benr242/Repos/fedora/notes/workout.txt 
+echo vi /home/benr242/Repos/fedora/notes/workout.txt 
+vi .bash_aliases
+source .bash_aliases
+workout
+chmod 777 /home/benr242/Repos/fedora/notes/workout.txt 
+workout
+vi .bash_aliases
+c
+workout
+source /home/benr242/.bash_aliases
+c
+workout
+ctg
+git status
+exit
+cd
+du -sh Media
+du -sh Media/
+cd Media/
+c
+du -sh
+du -h
+exit
+wo
+git status
+git add .
+git status
+git add .
+git status
+exit
+exin
+exit
+ls
+cd TOK/
+ls
+vi PAT 
+wo
+cd
+cd Downloads/
+ls
+cd
+wo
+cd
+cd Media/
+ls
+..
+ls -lh Media
+du -sh Media
+dnf search evolution
+sudo dnf install evolution
+evolution 
+cd Repos/fedora/
+ls
+ls notes/
+ls -l
+c
+ls -l
+cd notes/
+ls
+ls -l
+chmod 6666 workout.txt 
+ls -l
+chmod 666 workout.txt 
+ls -l
+..
+git status
+git add .
+git commit -m "check"
+git push origin main
+ght
+git push origin main
+ght
+git push origin main
+cd notes/fedora/
+ls
+vi commands.txt 
+git add .
+git status
+sudo dnf upgrade
+c
+git status
+git add .
+c
+git status
+pwd
+..
+ls
+..
+git add .
+git status
+vi notes/workout.txt 
+git status
+git add .
+git status
+git commit -m "check"
+c
+git status
+cd /plexmedialibriary/
+ls
+cd Music/
+ls
+cd
+ls
+cd Media/
+ls
+cd Music/
+ls
+..
+cd Movies/
+ls
+..
+cd Shows/
+ls
+..
+cd Music/
+tar -czvf music.tar.gz /plexmedialibriary/Music
+pwd
+ls
+rm -rf angels_and_agony/ assemblage_23/ din_fiv/ frontline_assembly/ icon_of_coil/ ivory_frequency/ prick/
+ls
+rm -rf panzer_ag/ playlist/
+ls
+ls -lh
+..
+cd Repos/fedora/
+echo tar -czvf music.tar.gz /plexmedialibriary/Music
+ls
+cd notes/fedora/
+ls
+vi commands.txt 
+echo tar -czvf music.tar.gz /plexmedialibriary/Music
+echo tar -czvf music.tar.gz /plexmedialibriary/Music >> commands.txt 
+vi commands.txt 
+..
+pwd
+git status
+git add .
+git status
+git commit -m "check"
+git status
+c
+pvd
+cd
+cd Repos/fedora/
+git status
+git add .
+git status
+git commit -m "check"
+git status
+git push origin main
+ght
+ls
+vi TOK/PAT 
+ls
+cd TOK/
+ls -a
+rm .PAT.swp 
+vi PAT 
+..
+pwd
+ls
+cd notes/fedora/
+cd
+tar --help
+cd Media/Music/
+ls
+tar -tvf music.tar.gz 
+c
+ls
+tar -tvf music.tar.gz 
+ls
+..
+cd Shows/
+ls
+tar -tvf 
+c
+ls
+..
+dh -sh
+du -sh
+du -h
+vi .bashrc
+wo
+cd Repos/fedora/
+git status
+git add .
+c
+git status
+wo
+git status
+git add .
+c
+git status
+wq
+wo
+git status
+git add .
+git status
+cd
+sudo dnf upgrade
+c
+cat /etc/os-release 
+cd Repos/fedora/notes/
+cd fedora/
+ls
+vi commands.txt 
+cat /etc/os-release 
+echo cat /etc/os-release 
+echo cat /etc/os-release >> commands.txt 
+vi commands.txt 
+pwd
+..
+ls
+mv fedora fedora-notes
+ls
+..
+git add .
+git status
+git commit -m "check"
+git status
+ls
+vi TOK/PAT 
+git push origin main
+c
+sudo dnf system-upgrade download --releasever=36
+sudo dnf system-upgrade download --releasever=36 --skip-broken
+c
+sudo dnf upgrade
+sudo dnf system-upgrade download --releasever=36 --skip-broken
+sudo dnf libnghttp2-1.45.1-1.fc35.i686 upgrade
+sudo dnf upgrade libnghttp2-1.45.1-1.fc35.i686
+sudo dnf upgrade libnghttp2
+sudo dnf system-upgrade download --releasever=36 --skip-broken
+sudo dnf --refresh upgrade
+sudo dnf system-upgrade download --releasever=36 --skip-broken

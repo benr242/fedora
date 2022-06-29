@@ -29,5 +29,5 @@ if [ -e $HOME/.bash_aliases ]; then
 fi
 
 export LIBVA_DRIVER_NAME=iHD
-`
+
 unset rc
