@@ -39,8 +39,8 @@ S Shoulders
 	10 Lateral Raise
 	10 I-Y-T
 	Kb American swing
-	25 Upright Row/Shrug
-	17 Seated Fly
+	30 Upright Row/Shrug
+	20 Seated Fly
 
 O cOre
 	Pike rollout
@@ -82,6 +82,8 @@ L legs
 
 JUN
 
+29 3 S8 O7 run 6
+	S row 30, fly 20
 28 2 B7 P4 walk 7
 27 1 C8 O4 run 4
 
