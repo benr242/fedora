@@ -11,7 +11,7 @@
 1: Chest cOre 
 2: Back 
 3: Shoulders cOre
-4: Legs cOre 
+4: Legs F 
 5: Arms cOre
 6: rest 
 7: rest
