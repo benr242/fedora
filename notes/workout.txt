@@ -28,7 +28,7 @@ B PULL
 	Kb Pullover
 	P
 	22 Curl
-	17 Preacher Curl
+	17 Concentration Curl
 
 F
 	20/12 Forearms
@@ -80,8 +80,12 @@ L legs
 
 ****-------------****
 
-JUN
+JUL
 
+10 L
+09 O5
+
+JUN
 29 3 S8 O7 run 6
 	S row 30, fly 20
 28 2 B7 P4 walk 7
