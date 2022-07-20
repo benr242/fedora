@@ -1,360 +1,3 @@
-cd Music/
-ls
-..
-ls
-unlink Music
-ls
-c
-ls
-unlink Music 
-ls
-ln -s ../home/benr242/Media/Music Music
-ls
-ls -l Music/
-c
-ls
-ls -l
-c
-ls -l
-cd
-cd Downloads/
-ls
-mv cd /plexmedialibriary/
-c
-ls
-cd /plexmedialibriary/
-c
-ls
-ls -l
-unlink Music
-ls
-mv /home/benr242/Media/Music/ .
-ls
-ls Music/
-mv /home/benr242/Media/Music/* Music/
-ls
-c
-ls Music/
-ls
-ls -l
-chmod -R 775 Music/
-ls -l
-exit
-echo $plex_home
-echo $PLEX_HOME
-cd ..
-ls 
-ln -s Music ../../../plexmedialibriary/Music
-pwd
-c
-ls -l
-cd Music/
-ls -l
-cd tactical_sekt/
-ls -l
-cd Syncope/
-ls -l
-cd Syncope\ CD\ 1/
-ls -l
-..
-cd Syncope\ CD\ 2/
-ls -'
-ls -lo
-..
-c
-pwd
-exit
-sudo dnf install nautilus-dropbox
-nautilus
-c
-cd Downloads/
-ls
-ls music* -l
-mkdir music
-mv music* music/
-cd music/
-c
-ls -lh
-rm music.tar 
-rm music.PE28fqfh.tar.part 
-c
-ls
-mv music\(1\).tar music.tar
-\
-c
-ls -lh
-tar -xf music.tar 
-c
-ls
-cd home/benr242/Music/
-ls
-..
-ls Music/
-rmdir Music/
-mkdir -p Media
-mv Downloads/music/home/benr242/Music/ Media/
-cd Media/Music/
-ls
-cd
-cd Downloads/
-rm -rf music/
-cd
-cd Media/Music/
-ls
-cd project_pitchfork/
-ls
-cd project_pitchfork_-_daimonion/
-ls
-..
-cd
-cd Downloads/
-ls -l
-c
-ls -l
-c
-ls -l | less
-ls -l | more
-cd
-c
-cd Downloads/
-ls
-c
-ls -l Gu*
-cp Guardians\ of\ the\ Galaxy\ Vol.\ 2\ \(2017\)\ 720p\ BrRip\ x264\ -\ VPPV/Guardians.of.the.Galaxy.Vol.2.2017.720p.BluRay.x264.VPPV.mkv /plexmedialibriary/Movies/
-cd /plexmedialibriary/Movies/
-ls
-pwd
-.
-cd /plexmedialibriary/
-ls
-rmdir Music/
-cd
-cd Media/
-ln -s Music /plexmedialibriary/Music
-rd /plexmedialibriary/
-cd /plexmedialibriary/
-c
-ls
-ls -lh
-cd Music
-pwd
-c
-ls
-unlink Music 
-ls
-cd
-ls
-cd /plexmedialibriary/
-ln -s /home/benr242/Media/Music Music
-ls
-cd Music/
-ls
-cd ..
-cd
-vi Repos/fedora/tasks/howto/fedora/
-cd Repos/
-ls
-cd fedora/tasks/
-ls
-ln -s /home/benr242/Media/Music Music >> howtocd 
-ls
-pwd
-unlink Music
-c
-ls -l
-ls
-cd howto/fedora/
-ls
-vi setup.txt
-echo ln -s /home/benr242/Media/Music Music
-echo ln -s /home/benr242/Media/Music Music >> setup.txt
-pwd
-vi setup.txt
-vi setup.txto
-ls
-vi setup.txt
-git status
-git add .
-git status
-rm ../../todo.txt 
-c
-git status
-git add .
-git status
-git commit -m "s linking"
-c
-git status
-git add ../../todo.txt 
-c
-git add ../../todo.txt 
-pwd
-exit
-cd
-cd Repos/fedora/
-git status
-git add .
-git status
-ght
-git push origin main
-vi tasks/howto/fedora/info.txt tasks/howto/fedora/howto.txt 
-vi tasks/howto/fedora/howto.txt 
-git status
-git add .
-git status
-vi tasks/howto/fedora/howto.txt 
-git status
-git add .
-git status
-git commit -m "added archiving instructions"
-git status
-ght
-git push origin main
-vi tasks/howto/fedora/howto.txt 
-git status
-git add .
-git status
-ls
-cd notes/
-ls
-vi fedora35.txt 
-..
-code 
-git status
-c
-sudo dnf upgrade
-cd
-cd Media/Movies/
-ls
-tar --help
-clear
-ls
-tar cfv Dune-2021.tar Dune-2021/
-ls
-cd Dune-2021/
-ls
-..
-ls
-rm -rf Dune-2021/
-ls -lh
-c
-ls
-..
-ls
-cd Shows/
-ls -lh
-exit
-cd
-cd tmp/
-ls
-ls Foundation/
-ls Foundation/Foundation\ 2021\ S01/
-ls
-tar -cvzf Foudation.tar.gz Foundation/
-ls
-rm Foudation.tar.gz 
-tar -cvf Foundation.tar Foundation/
-ls
-vlc Foundation/Foundation\ 2021\ S01/S01E01\ Foundation\ 2021\ 1080p.mkv 
-ls
-mv Foundation.tar ../Media/
-rm -rf Foundation/
-cd ../Media/
-ls
-mkdir Shows
-mv Foundation.tar Shows/
-cd
-cd tmp/
-ls
-cd
-cd Media/Shows/
-ls
-tar -xvf Foundation.tar 
-ls
-rm -rf Foundation
-ls
-ls -lh
-c
-ls -lh
-du -hs
-du -hs /plexmedialibriary/Shows/Foundation/
-ls
-pwd
-exit
-cd
-cd Media/Shows/
-ls
-tar -tvf Foundation.tar 
-tar --options
-tar --help
-tar --help | less
-tar -tf Foundation.tar 
-ls
-gzip < Foundation.tar > Foundation.tar.gz
-ls
-c
-ls -lh
-rm Foundation.tar
-..
-cd Movies/
-gzip < Dune-2021.tar > Dune-2021.tar.gz
-ls
-rm Dune-2021.tar
-ls
-..
-cd Media/Shows/
-ls
-tar -tf Foundation.tar.gz 
-cd
-cd Repos/fedora/
-ls
-cd notes/
-ls
-touch commands.txt
-echo gzip < Dune-2021.tar > Dune-2021.tar.gz
-vi commands.txt 
-..
-git status
-git add .
-git status
-git commit -m "added commands.txt"
-git status
-pwd
-git status
-ght
-git push origin main
-exit
-cd /plexmedialibriary/Music/
-ls
-cd _industrial/
-ls
-..
-mv _industrial/ Industrial
-mv _synth/ Synth
-mv _classical/ Classical
-mv _random/ Other
-ls
-mv din_fiv/ icon_of_coil/ vnv_nation/ Synth/
-mv angels_and_agony/ assemblage_23/ c
-ls
-cd vnv_nation/
-ls
-..
-c
-mv vnv_nation/ Synth/
-cd Synth/
-ls
-cd vnv_nation/
-ls
-..
-mv vnv_nation/* Synth/vnv_nation/
-cd vnv_nation/
-ls
-..
-rmdir vnv_nation/
-cd Synth/vnv_nation/
-ls
-..
-ls
 mkdir Pop-Rock
 mv green_day/ bon_jovi/ coldplay/ radiohead/ Pop-Rock/
 c
@@ -998,3 +641,360 @@ sudo dnf upgrade libnghttp2
 sudo dnf system-upgrade download --releasever=36 --skip-broken
 sudo dnf --refresh upgrade
 sudo dnf system-upgrade download --releasever=36 --skip-broken
+cd
+vi .bash_aliases
+cd Repos/fedora/notes/
+vi workout.txt 
+exit
+..
+cd tmp/
+vi plex-invite.txt
+exit
+cd
+cd Repos/fedora/
+git status
+rm notes/.workout.txt.swp 
+git status
+git add .
+git status
+ctg
+git status
+git add .
+git status
+git commit -m "check"
+git status
+c
+ls
+vi notes/workout.txt 
+vi notes/MyInfo.txt 
+git status
+git add .
+git status
+git commit -m "invite"
+ght
+git push origin main
+c
+git status
+git push origin main
+ght
+git push origin main
+pwd
+gt
+vi /home/benr242/.bash_aliases
+ght
+git status
+ctg
+git status
+git add .
+git status
+git commit -m "workout"
+git status
+git push origin main
+vi TOK/PAT 
+git status
+git add .
+git status
+git commit -m "new tok"
+git push origin main
+vi TOK/PAT 
+c
+ght
+vi /home/benr242/TOK/PAT 
+ght
+vi /home/benr242/TOK/PAT 
+git status
+git push origin main
+vi /home/benr242/TOK/PAT 
+wo
+git status
+git add .
+git commit  -m "new tok"
+ght
+git push origin main
+wo
+git status
+rm notes/.workout.txt.swp 
+git status
+exit
+cd
+dnf search gnome-disk-utility
+sudo dnf install gnome-disk-utility
+gnome-disks
+wo
+vi .bash_aliases
+cd Repos/fedora/
+c
+git status
+git add .
+git status
+git commit -m "chech"
+ght
+git push origin main
+wo
+exit
+sudo dnf upgrade
+cd /plexmedialibriary/Shows/
+ls
+mkdir Man-Fell-Earth
+cd
+cd Downloads/
+ls
+cp -R The.Man.Who.Fell.to.Earth.S01E0* /plexmedialibriary/Shows/Man-Fell-Earth/
+ls /plexmedialibriary/Shows/Man-Fell-Earth/
+ls
+c
+ls
+c
+ls
+cp the.man.who.fell.to.earth.s01e0* /plexmedialibriary/Shows/Man-Fell-Earth/
+wo
+..
+cd Downloads/
+ls
+cd The.Man.Who.Fell.to.Earth.S01E09.WEB.x264-TORRENTGALAXY\[TGx\]/
+ls
+..
+cp -R The.Man.Who.Fell.to.Earth.S01E09.WEB.x264-TORRENTGALAXY\[TGx\]/ /plexmedialibriary/Shows/Man-Fell-Earth/
+sudo dnf upgrade
+ls
+cp -R The.Man.Who.Fell.to.Earth.S01E05.WEB.x264-TORRENTGALAXY\[TGx\]/ /plexmedialibriary/Shows/Man-Fell-Earth/
+cd /plexmedialibriary/Shows/Man-Fell-Earth/
+c
+ls
+cd
+cd Downloads/
+c
+ls
+c
+ls
+c
+ls -sh
+cp -R The\ Man\ Who\ Fell\ To\ Earth\ \(1976\)\[DVDRip\]\[Big_dad_e\]/ /plexmedialibriary/Movies/
+sudo dnf  upgrade
+sudo dnf upgrade
+cd
+wo
+vi .bash_aliases
+vi bin/ctg 
+ctg
+cd Repos/fedora/
+git status
+git add .
+git status
+git commit -m "check"
+git status
+cd /plexmedialibriary/
+c
+du -s
+du -sh
+dh
+c
+du
+c
+du -sh
+ls
+du -sh Music/
+du -sh Movies/
+du -sh Shows/
+ls Shows/
+mount
+wo
+cd
+cd Repos/fedora/
+ls
+vi notes/MyInfo.txt 
+c
+git status
+git add notes/workout.txt 
+c
+git status
+cd /
+c
+du -sh
+sudo du -sh
+cd
+sudo dnf upgrade
+gnome-disks
+ght
+vi .bash_aliases
+cd Repos/fedora/
+ls
+cd notes/
+ls
+cd fedora-notes/
+ls
+vi commands.txt 
+cd /plexmedialibriary/Music/
+find . -type f | wc -1
+find . -type f | wc 
+find . -type f 
+find . -type f | wc -1
+wc --help
+find . -type f | wc -l
+cd /run/media/benr242/
+c
+ls
+cd Seagate/
+ls
+cd Music/
+du -sh
+..
+ls
+c
+ls
+pwd
+cp -R /plexmedialibriary/Movies .
+ls
+cd Movies/
+du -sh
+..
+cp -R /plexmedialibriary/Shows .
+cd Shows/
+du -sh
+pwd
+..
+ls
+mkdir media
+mv Movies/ Shows/ Music/ media/
+ls
+ls -l
+pwd
+vlc media/Movies/Dune-2021/Dune.2021.1080p.WEBRip.x264.AAC5.1-\[YTS.MX\].mp4 
+cd
+sudo dnf upgrade --refresh
+sudo dnf install dnf-plugin-system-upgrade
+sudo dnf system-upgrade download --releasever=36
+sudo dnf system-upgrade download --releasever=36 --skip-broken
+sudo dnf remove libnghttp2-1.45.1-1.fc35.i686
+sudo dnf system-upgrade download --releasever=36 --skip-broken
+ls
+cd Notes/
+ls
+vi upgrade.txt
+echo sudo dnf upgrade --refresh
+echo sudo dnf upgrade --refresh >> upgrade.txt 
+echo sudo dnf install dnf-plugin-system-upgrade >> upgrade.txt 
+echo sudo dnf system-upgrade download --releasever=36 >> upgrade.txt 
+echo sudo dnf system-upgrade reboot >> upgrade.txt 
+..
+sudo dnf system-upgrade reboot
+cd
+cd /plexmedialibriary/
+cd Music/
+du -sh
+pwd
+cd ../Movies/
+du -sh
+pwd
+..
+cd Shows/
+du -sh
+pwd
+cd Downloads/
+ls
+cd French.Kiss.1995.1080p.BluRay.x264.anoXmous/
+ls
+..
+mv French.Kiss.1995.1080p.BluRay.x264.anoXmous/ /plexmedialibriary/Movies/
+vlc /plexmedialibriary/Movies/French.Kiss.1995.1080p.BluRay.x264.anoXmous/French.Kiss.1995.1080p.BluRay.x264.anoXmous_.mp4 
+vi /home/benr242/.bashrc
+vi /home/benr242/.bash_aliases
+wo
+cd
+cd Repos/fedora/
+c
+git status
+git push origin main
+vi /home/benr242/TOK/PAT 
+git push origin main
+vi /home/benr242/.bash_aliases
+c
+ght
+c
+ght
+vi TOK/PAT 
+ls
+git status
+git add .
+git status
+git commit -m "check"
+git status
+cd
+ls
+c
+ls
+mkdir save
+cd Media/
+ls
+..
+ls Notes/
+..
+cd benr242/
+ls Videos/
+ls Notes/
+exit
+cat /etc/os-release 
+dropbox 
+dropbox running
+dropbox version
+dnf install nautilus-dropbox-2015.10.28-1.fedora.x86_64.rpm
+sudo dnf install nautilus-dropbox-2015.10.28-1.fedora.x86_64.rpm
+c
+cd Downloads/
+ls
+sudo dnf install nautilus-dropbox-2020.03.04-1.fedora.x86_64.rpm
+dnf search pcloud
+cd
+sudo dnf update
+sudo dnf update -y
+sudo dnf install flatpak-module-tools
+flatpak --version
+$ sudo usermod -a -G mock benr242
+sudo usermod -a -G mock benr242
+exit
+ls
+cd Documents/
+ls
+..
+ls Documents/
+cd Notes/
+ls
+vi upgrade.txt 
+flatpak remote-modify --enable fedora-testing
+flatpak install fedora-testing org.fedoraproject.Platform/x86_64/f35
+sudo wget https://flathub.org/repo/flathub.flatpakrepo
+sudo dnf upgrade
+flatpak update
+flatpak install 1Password
+dnf search lastpass
+sudo dnf install lastpass
+sudo dnf install lastpass-cli
+cd 
+cd Downloads/
+tar xjvf lplinux.tar.bz2 
+./install_lastpass.sh 
+cd
+sudo dnf install phpstorm
+c
+flatpak install flathub io.github.liberodark.OpenDrive
+php --version
+sudo dnf -y install http://rpms.remirepo.net/fedora/remi-release-36.rpm
+sudo dnf -y install dnf-plugins-core
+sudo dnf config-manager --set-enabled remi
+sudo dnf module reset php -y
+sudo dnf module -y install php:remi-8.0
+php -v
+sudo dnf install composer
+dnf search edex-ui
+ls
+cd Projects/
+ls
+..
+ls
+cd Projects/symfony/
+ls
+cd Bookies/
+composer install
+exit
+ls Projects/symfony/
+exit

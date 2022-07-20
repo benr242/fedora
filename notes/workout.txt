@@ -69,8 +69,8 @@ L legs
 	15 Lunge
 	V calves
 	&Biceps
-	K Kettlebell
 
+	K Kettlebell
 	Split squat
 	Reverse Lunge
 	Deadlift
@@ -81,6 +81,8 @@ L legs
 ****-------------****
 
 JUL
+
+19 C7 O4 run 7 walk 5 walk 5
 
 13 S5 C4 
 
