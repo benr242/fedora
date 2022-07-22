@@ -58,12 +58,12 @@ O cOre
 	X Orbit
 
 L legs
-	Doorframe squat
+	-Doorframe squat
 	Kb
 	split squat
-	reverse lunge
-	goblet squat
-	deadlift
+	-reverse lunge
+	-goblet squat
+	-deadlift
 	swing
 	40+ Squat
 	15 Lunge
@@ -82,6 +82,7 @@ L legs
 
 JUL
 
+22 L3(9) <-- run 7 <-- walk 9 walk 5
 21 S7 O4 run 5
 20 B7 F5 walk 5 walk 3
 19 C7 O4 run 7 walk 5 walk 5
