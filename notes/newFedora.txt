@@ -18,3 +18,11 @@ sudo dnf install gstreamer1-plugins-bad-* gstreamer1-plugins-good-* gstreamer1-p
 sudo hostnamectl set-hostname Seldon
 
 sudo dnf install gnome-tweaks gnome-extensions-app
+sudo dnf install php
+
+## install PhpStorm
+
+## install plex-media-player
+sudo dnf install plex
+sudo mkdir /plex-media-player
+sudo dnf install thunderbird

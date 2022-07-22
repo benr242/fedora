@@ -82,6 +82,7 @@ L legs
 
 JUL
 
+21 S7 O4 run 5
 20 B7 F5 walk 5 walk 3
 19 C7 O4 run 7 walk 5 walk 5
 
