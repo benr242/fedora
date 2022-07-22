@@ -26,3 +26,5 @@ sudo dnf install php
 sudo dnf install plex
 sudo mkdir /plex-media-player
 sudo dnf install thunderbird
+# download/install plexmediaserver rpm
+# https://support.plex.tv/articles/200264746-quick-start-step-by-step-guides/
