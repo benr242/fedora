@@ -1,0 +1,2 @@
+## add sudo rights
+sudo usermod -aG wheel benr242
