@@ -1,2 +1,20 @@
 ## add sudo rights
+
 sudo usermod -aG wheel benr242
+sudo dnf upgrade
+
+## enable rpmfusion free/not
+sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-36.noarch.rpm
+sudo dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-36.noarch.rpm
+
+## add flathub repository
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+
+sudo dnf install vlc
+## install multimedia plugins
+sudo dnf install gstreamer1-plugins-bad-* gstreamer1-plugins-good-* gstreamer1-plugins-base gstreamer1-plugin-openh264 gstreamer1-libav --exclude=gstreamer1-plugins-bad-free-devel
+
+## change hostname
+sudo hostnamectl set-hostname Seldon
+
+sudo dnf install gnome-tweaks gnome-extensions-app
