@@ -22,12 +22,24 @@ sudo dnf install php
 
 ## install PhpStorm
 
-## install plex-media-player
-sudo dnf install plex
-sudo mkdir /plex-media-player
 sudo dnf install thunderbird
+
+sudo dnf install audacious
+
+## install plex-media-player
 # download/install plexmediaserver rpm
 # https://support.plex.tv/articles/200264746-quick-start-step-by-step-guides/
 
+# http://localhost:32400/
 
-sudo dnf install audacious
+sudo dnf install plex
+sudo mkdir /plex-media-player
+sudo usermod -a -G plex benr242
+
+sudo chown -R plex.plex /plex/Shows
+...
+
+sudo chown -R plex.plex /plex/Shows
+
+sudo find /plex/Movies -type d -exec chmod 775 {} \;
+...
