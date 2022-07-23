@@ -20,11 +20,15 @@ sudo hostnamectl set-hostname Seldon
 sudo dnf install gnome-tweaks gnome-extensions-app
 sudo dnf install php
 
+## install ProtonVPN
 ## install PhpStorm
 
 sudo dnf install thunderbird
 
 sudo dnf install audacious
+
+/etc/dnf/dnf.conf, append
+fastestmirror=True
 
 ## install plex-media-player
 # download/install plexmediaserver rpm
@@ -41,5 +45,14 @@ sudo chown -R plex.plex /plex/Shows
 
 sudo chown -R plex.plex /plex/Shows
 
+# Setup the permissions of the paths
 sudo find /plex/Movies -type d -exec chmod 775 {} \;
 ...
+
+sudo dnf install steam
+sudo dnf install dropbox nautilus-dropbox
+sudo dnf install transmission
+sudo dnf install gimp
+sudo dnf install geary
+sudo dnf install unrar
+sudo dnf install p7zip p7zip-plugins
