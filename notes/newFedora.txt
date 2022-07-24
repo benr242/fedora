@@ -19,6 +19,7 @@ sudo hostnamectl set-hostname Seldon
 
 sudo dnf install gnome-tweaks gnome-extensions-app
 sudo dnf install php
+sudo dnf install mariadb
 
 ## install ProtonVPN
 ## install PhpStorm

@@ -17,3 +17,16 @@ tar -cvzf my_archive.tar.gz directory
 
 ## Compress a tar file
 $ gzip < Dune-2021.tar > Dune-202o1.tar.gz
+
+## search a file
+grep 'word' file
+-i case insensitive
+-c count
+-n line number
+
+## will give all files which have ‘.txt’ at the end. 
+find ./GFG -name *.txt 
+
+## list running services
+$ pstree | head -n 10
+

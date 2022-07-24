@@ -1,1 +1,4 @@
 flatpak remote-ls flathub --app
+
+#show members of group 'plex'
+grep 'plex' /etc/group
