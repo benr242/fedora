@@ -9,6 +9,9 @@ sudo dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfre
 
 ## add flathub repository
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+#it might be disabled
+flatpak remote-modify --enable flathub
+flatpak install flathub tv.plex.PlexDesktop
 
 sudo dnf install vlc
 ## install multimedia plugins
