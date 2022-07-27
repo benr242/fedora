@@ -1,36 +1,38 @@
 ## add sudo rights
 
-sudo usermod -aG wheel benr242
-sudo dnf upgrade
+$ sudo usermod -aG wheel benr242
+$ sudo dnf upgrade
 
 ## enable rpmfusion free/not
-sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-36.noarch.rpm
-sudo dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-36.noarch.rpm
+$ sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-36.noarch.rpm
+$ sudo dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-36.noarch.rpm
 
 ## add flathub repository
-flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+$ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 #it might be disabled
-flatpak remote-modify --enable flathub
+$ flatpak remote-modify --enable flathub
+##To add the Fedora Flatpaks repository
+$ flatpak remote-add --if-not-exists fedora oci+https://registry.fedoraproject.org
 
-flatpak install flathub tv.plex.PlexDesktop
+$ flatpak install flathub tv.plex.PlexDesktop
 
-sudo dnf install vlc
+$ sudo dnf install vlc
 ## install multimedia plugins
-sudo dnf install gstreamer1-plugins-bad-* gstreamer1-plugins-good-* gstreamer1-plugins-base gstreamer1-plugin-openh264 gstreamer1-libav --exclude=gstreamer1-plugins-bad-free-devel
+$ sudo dnf install gstreamer1-plugins-bad-* gstreamer1-plugins-good-* gstreamer1-plugins-base gstreamer1-plugin-openh264 gstreamer1-libav --exclude=gstreamer1-plugins-bad-free-devel
 
 ## change hostname
-sudo hostnamectl set-hostname Seldon
+$ sudo hostnamectl set-hostname Seldon
 
-sudo dnf install gnome-tweaks gnome-extensions-app
-sudo dnf install php
-sudo dnf install mariadb
+$ sudo dnf install gnome-tweaks gnome-extensions-app
+$ sudo dnf install php
+$ sudo dnf install mariadb
 
 ## install ProtonVPN
 ## install PhpStorm
 
-sudo dnf install thunderbird
+$sudo dnf install thunderbird
 
-sudo dnf install audacious
+$ sudo dnf install audacious
 
 ##for faster dnf connection
 /etc/dnf/dnf.conf, append
@@ -42,23 +44,23 @@ fastestmirror=True
 
 # http://localhost:32400/
 
-sudo dnf install plex
-sudo mkdir /plex-media-player
-sudo usermod -a -G plex benr242
+$ sudo dnf install plex
+$ sudo mkdir /plex-media-player
+$ sudo usermod -a -G plex benr242
 
-sudo chown -R plex.plex /plex/Shows
+$ sudo chown -R plex.plex /plex/Shows
 ...
 
-sudo chown -R plex.plex /plex/Shows
+$ sudo chown -R plex.plex /plex/Shows
 
 # Setup the permissions of the paths
-sudo find /plex/Movies -type d -exec chmod 775 {} \;
+$ sudo find /plex/Movies -type d -exec chmod 775 {} \;
 ...
 
-sudo dnf install steam
-sudo dnf install dropbox nautilus-dropbox
-sudo dnf install transmission
-sudo dnf install gimp
-sudo dnf install geary
-sudo dnf install unrar
-sudo dnf install p7zip p7zip-plugins
+$ sudo dnf install steam
+$ sudo dnf install dropbox nautilus-dropbox
+$ sudo dnf install transmission
+$ sudo dnf install gimp
+$ sudo dnf install geary
+$ sudo dnf install unrar
+$ sudo dnf install p7zip p7zip-plugins
