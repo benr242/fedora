@@ -29,4 +29,4 @@ find ./GFG -name *.txt
 
 ## list running services
 $ pstree | head -n 10
-
+$ systemctl list-units --type=service --state=active

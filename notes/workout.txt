@@ -84,7 +84,11 @@ Triceps
 
 JUL
 
+26 C9 O5
+
+25 run 6 walk 9
 24 walk 7
+
 23 Bi 7 Tri 7 O 5 run 7 walk 7 walk 7
 22 L3(9) <-- run 7 <-- walk 9 walk 5
 21 S7 O4 run 5
