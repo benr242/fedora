@@ -11,6 +11,7 @@ sudo dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfre
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 #it might be disabled
 flatpak remote-modify --enable flathub
+
 flatpak install flathub tv.plex.PlexDesktop
 
 sudo dnf install vlc
@@ -31,12 +32,13 @@ sudo dnf install thunderbird
 
 sudo dnf install audacious
 
+##for faster dnf connection
 /etc/dnf/dnf.conf, append
 fastestmirror=True
 
 ## install plex-media-player
-# download/install plexmediaserver rpm
-# https://support.plex.tv/articles/200264746-quick-start-step-by-step-guides/
+-- # download/install plexmediaserver rpm
+-- # https://support.plex.tv/articles/200264746-quick-start-step-by-step-guides/
 
 # http://localhost:32400/
 
