@@ -11,9 +11,14 @@ $ sudo dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonf
 $ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 #it might be disabled
 $ flatpak remote-modify --enable flathub
+
 ##To add the Fedora Flatpaks repository
 $ flatpak remote-add --if-not-exists fedora oci+https://registry.fedoraproject.org
 
+## add/create plex repository for plex server
+$ sudo vim /etc/yum.repos.d/plex.repo
+$ sudo dnf install plexmediaserver -y
+## install plex client
 $ flatpak install flathub tv.plex.PlexDesktop
 
 $ sudo dnf install vlc
@@ -66,3 +71,6 @@ $ sudo dnf install gimp
 $ sudo dnf install geary
 $ sudo dnf install unrar
 $ sudo dnf install p7zip p7zip-plugins
+$ sudo dnf install wine
+
+$ sudo dnf install php-symfony
