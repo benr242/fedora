@@ -30,3 +30,6 @@ find ./GFG -name *.txt
 ## list running services
 $ pstree | head -n 10
 $ systemctl list-units --type=service --state=active
+
+## add me to 'plex' group
+sudo usermod -a -G plex benr242
