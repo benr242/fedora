@@ -74,3 +74,4 @@ $ sudo dnf install p7zip p7zip-plugins
 $ sudo dnf install wine
 
 $ sudo dnf install php-symfony
+sudo dnf install google-chrome-stable
