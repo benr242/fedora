@@ -78,13 +78,18 @@ L legs
 	Clean
 	Swing
 
-Triceps
+A
+	Triceps
+		kb overhead press
+		diamand press
+	Biceps
 
 ****-------------****
 
 AUG
 
-18 LF
+19 A7 O7 run7
+18 L7 F5 walk6 run4
 17 S6 O5 run6
 16 B6 run8
 15 C8 O4 run 6
