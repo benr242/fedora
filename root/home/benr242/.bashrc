@@ -24,7 +24,6 @@ if [ -d ~/.bashrc.d ]; then
 	done
 fi
 
-
 if [ -e $HOME/.bash_aliases ]; then
 	source $HOME/.bash_aliases
 fi
