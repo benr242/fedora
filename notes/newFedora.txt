@@ -75,3 +75,9 @@ $ sudo dnf install wine
 
 $ sudo dnf install php-symfony
 $ sudo dnf install google-chrome-stable
+
+sudo rpm --import https://rpm.opera.com/rpmrepo.key
+sudo dnf config-manager --add-repo https://rpm.opera.com/rpm
+sudo dnf upgrade --refresh
+sudo dnf install opera-stable -y
+opera --version
