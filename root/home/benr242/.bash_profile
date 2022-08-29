@@ -6,6 +6,7 @@ if [ -f ~/.bashrc ]; then
 fi
 
 # User specific environment and startup programs
+# User specific environment and startup programs
 
 
 # Added by Toolbox App
