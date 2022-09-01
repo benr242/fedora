@@ -32,5 +32,8 @@ Routing:
 
 ___________. ______________
 
+Bank Card
+01/23 exp
+*714*
 
 https://plex.tv/servers/shared_servers/accept?invite_token=uNnY2oJrZuKxCkhxMULH

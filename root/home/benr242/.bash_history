@@ -1,174 +1,4 @@
 ls
-rm -Rf House.of.the.Dragon.S01E01.The.Heirs.of.the.Dragon.1080p.WEB-DL.DD5.1.H.264-MiU\[TGx\]/
-c
-ls
-vlc House.of.the.Dragon.S01E01.WEB.x264-TORRENTGALAXY\[TGx\]/House.of.the.Dragon.S01E01.WEB.x264-TORRENTGALAXY.mkv 
-cp -R House.of.the.Dragon.S01E01.WEB.x264-TORRENTGALAXY\[TGx\]/ /home/benr242/Media/Shows/
-cd
-cd Media/Shows/
-ls
-pwd
-ls
-vlc House.of.the.Dragon.S01E01.WEB.x264-TORRENTGALAXY\[TGx\]/House.of.the.Dragon.S01E01.WEB.x264-TORRENTGALAXY.mkv 
-cd /plex/Shows/
-ls
-c
-ls
-ls House\ of\ the\ Dragon\ \(2022\)\ \{tvdb\ 371572\}/
-cd  House\ of\ the\ Dragon\ \(2022\)\ \{tvdb\ 371572\}/
-ls
-rm -Rf *
-sudo rm -Rf *
-c
-ls
-sudo cp -R /home/benr242/Downloads/House.of.the.Dragon.S01E01.WEB.x264-TORRENTGALAXY\[TGx\]/ .
-c
-ls
-..
-pwd
-cd Firefly\ \{tvdb\ 78874\}/
-ls
-cd Season\ 01/
-c
-ls
-mv Firefly\(2002\)\ -\ s01e00\ -\ Serenity.mp4 Firefly\(2002\)\ -\ s01e01\ -\ Serenity.mp4 
-sudo mv Firefly\(2002\)\ -\ s01e00\ -\ Serenity.mp4 Firefly\(2002\)\ -\ s01e01\ -\ Serenity.mp4 
-ls
-sudo mv Firefly\(2002\)\ -\ s01e02\ -\ Bushwhacked.mp4 Firefly\(2002\)\ -\ s01e03\ -\ Bushwhacked.mp4 
-sudo mv Firefly\(2002\)\ -\ s01e03\ -\ Shindig.mp4 Firefly\(2002\)\ -\ s01e04\ -\ Shindig.mp4 
-ls
-sudo mv Firefly\(2002\)\ -\ s01e01\ -\ Train\ Job.mp4 Firefly\(2002\)\ -\ s01e02\ -\ Train\ Job.mp4 
-c
-ls
-sudo mv Firefly\(2002\)\ -\ s01e04\ -\ Safe.mp4 Firefly\(2002\)\ -\ s01e05\ -\ Safe.mp4 
-ls
-sudo mv Firefly\(2002\)\ -\ s01e05\ -\ Our\ Ms\ Renolds.mp4 Firefly\(2002\)\ -\ s01e06\ -\ Our\ Ms\ Renolds.mp4 
-ls
-sudo mv Firefly\(2002\)\ -\ s01e06\ -\ JaynesTown.mp4 Firefly\(2002\)\ -\ s01e07\ -\ JaynesTown.mp4 
-sudo mv Firefly\(2002\)\ -\ s01e07\ -\ Out\ Of\ Gas.mp4 Firefly\(2002\)\ -\ s01e08\ -\ Out\ Of\ Gas.mp4 
-sudo mv Firefly\(2002\)\ -\ s01e08\ -\ Ariel.mp4 Firefly\(2002\)\ -\ s01e09\ -\ Ariel.mp4 
-sudo mv Firefly\(2002\)\ -\ s01e09\ -\ War\ Stories.mp4 Firefly\(2002\)\ -\ s01e010\ -\ War\ Stories.mp4
-co
-c
-ls
-sudo mv Firefly\(2002\)\ -\ s01e010\ -\ War\ Stories.mp4 Firefly\(2002\)\ -\ s01e10\ -\ War\ Stories.mp4 
-c
-ls
-sudo mv Firefly\(2002\)\ -\ s01e10\ -\ Trash.mp4 Firefly\(2002\)\ -\ s01e11\ -\ Trash.mp4 
-ls
-sudo mv Firefly\(2002\)\ -\ s01e11\ -\ The\ Mossage.mp4 Firefly\(2002\)\ -\ s01e12\ -\ The\ Mossage.mp4 
-c
-ls
-sudo mv Firefly\(2002\)\ -\ s01e12\ -\ Heart\ of\ Gold.mp4 Firefly\(2002\)\ -\ s01e13\ -\ Heart\ of\ Gold.mp4 
-c
-ls
-sudo mv Firefly\(2002\)\ -\ s01e13\ -\ Objects\ in\ Space.mp4 Firefly\(2002\)\ -\ s01e14\ -\ Objects\ in\ Space.mp4 
-c
-ls
-..
-ls
-sudo mv Season\ 01/* .
-/-
-ls
-sudo rm -Rf Season\ 01/
-..
-ls
-ls Dopesick\ \{tvdb\ 390716\}/
-pwd
-ls
-cd
-cd Downloads/
-c
-ls
-cp -R Memento\ \(2000\)\ \[1080p\]/ /home/benr242/SeagateOut/Movies/
-cd
-cd SeagateOut/Movies/
-ls
-ls Memento\ \(2000\)\ \[1080p\]/
-sudo cp -R Memento\ \(2000\)\ \[1080p\]/ /plex/Movies/
-c
-pwd
-ls
-pwd
-..
-cd Shows/
-ls
-cd Dopesick\ \{tvdb\ 390716\}/
-c
-du -sh
-du -h
-ls
-pwd
-..
-ls
-cd  Dopesick\ \{tvdb\ 390716\}/
-du -h
-..
-cd
-cd SeagateOut/
-..
-cdc SeagateOut/
-cd SeagateOut/
-c
-ls
-ls benr242/
-mkdir Music
-cd /plex/Music/
-ls
-cp -R * /home/benr242/SeagateOut/Music/
-cd
-ls
-cd SeagateOut/
-ls
-ls Music/
-cd
-cd SeagateOut/Music/
-c
-du -sh
-..
-cd Shows/
-ls
-cd /plex/Shows/
-ls
-cp -R Game\ of\ Thrones\ \{tvdb\ 121361\}/ /home/benr242/SeagateOut/Shows/
-cd
-cd SeagateOut/Shows/
-cd Game\ of\ Thrones\ \{tvdb\ 121361\}/
-ls
-du -sh
-..
-cd Movies/
-ls
-pwd
-cd
-cd Media/Shows/
-ls
-ls House\ of\ the\ Dragon\ \(2022\)\ \{tvdb\ 371572\}/
-ls /plex/Shows/House\ of\ the\ Dragon\ \(2022\)\ \{tvdb\ 371572\}/
-ls House\ of\ the\ Dragon\ \(2022\)\ \{tvdb\ 371572\}/House.of.the.Dragon.S01E01.WEB.x264-TORRENTGALAXY\[TGx\]/House.of.the.Dragon.S01E01.WEB.x264-TORRENTGALAXY.mkv 
-ls
-c
-ls
-ls House\ of\ the\ Dragon\ \(2022\)\ \{tvdb\ 371572\}/
-ls House\ of\ the\ Dragon\ \(2022\)\ \{tvdb\ 371572\}/House.of.the.Dragon.S01E01.WEB.x264-TORRENTGALAXY\[TGx\]/
-ls -lh House\ of\ the\ Dragon\ \(2022\)\ \{tvdb\ 371572\}/House.of.the.Dragon.S01E01.WEB.x264-TORRENTGALAXY\[TGx\]/
-pwd
-cd /plex/Shows/House\ of\ the\ Dragon\ \(2022\)\ \{tvdb\ 371572\}/
-ls
-ls -lh
-pwd
-cd
-cd SeagateOut/Shows/
-c
-ls
-pwd
-ls
-cd /run/media/benr242/Seagate\ Portable\ Drive/Seagate/
-ls
-cd media/
-ls
-cd Movies/
-ls
 mv -v /home/benr242/SeagateOut/Movies/* .
 ls
 ls /home/benr242/SeagateOut/Movies/
@@ -998,3 +828,173 @@ cd SeagateOut/
 ls Movies/
 ls Shows/
 exit
+cd
+ls
+mv plex.txt SeagateMedia.txt
+cp SeagateMedia.txt Repos/fedora/root/home/benr242/
+cd Repos/fedora/
+ls root/home/benr242/
+mkdir Media
+ls
+cd root/home/benr242/
+ls
+mkdir Media
+mv SeagateMedia.txt Media/
+..
+ls
+..
+ls
+ls Media/
+rmdir Media/
+ls
+git status
+git add .
+git status
+git commit -m "SeagateMedia.txt"
+c
+git status
+cd
+cp Repos/fedora/root/home/benr242/Media/SeagateMedia.txt Media/
+c
+cd Media/
+ls
+pwd
+cd
+ls -lR SeagateOut/
+c
+ls
+cd Media/
+ls
+..
+ls
+rm SeagateMedia.txt 
+cd Media/
+ls
+vi SeagateMedia.txt 
+cd
+vi .bash_profile
+ctg 
+cd SeagateOut/
+ls
+..
+mv SeagateOut Seagate
+rm -Rf SeagateI
+ls
+rm -Rf SeagateIn/
+c
+ls
+vi .bash_aliases 
+mv Media/SeagateMedia.txt Seagate/
+cd Seagate/
+ls
+mv SeagateMedia.txt SeagateLoadedMedia.txt 
+ls
+mv SeagateLoadedMedia.txt SeagateLoaded 
+c
+ls
+vi SeagateLoaded 
+cd
+wo
+cd Repos/fedora/
+c
+ls
+cd notes/
+c
+ls
+vi howto/info.txt
+ls
+vi MyInfo.txt 
+..
+wo
+git status
+pwd
+..
+cd
+cd Seagate/
+ls
+vi SeagateLoaded 
+..
+ls
+cd Seagate/
+ls
+cp SeagateLoaded ../Repos/fedora/notes/
+ls
+pwd
+cd
+cd Media/
+ls
+cd Movies/
+ls
+cd
+cd Seagate/
+ls
+pwd
+cd /plex/Shows/The\ Man\ in\ the\ High\ Castle\ \{tvdb\ 295829\}/
+ls
+cd The\ Man\ in\ the\ High\ Castle\ \(2015\)\ Season\ 2\ S02\ \(1080p\ AMZN\ WEB-DL\ x265\ HEVC\ 10bit\ AAC\ 5.1\ MONOLITH\)/
+c
+du -sh
+..
+cd Movies/
+c
+ls
+cd Gattaca/
+c
+du -h
+..
+ls
+cd Dune\ \(2021\)/
+c
+du -sh
+rh
+cd
+cd Downloads/
+c
+ls
+ls *VPN*
+ls *vpn*
+cp expressvpn-3.30.0.2-1.x86_64.rpm /home/benr242/
+cd
+ls
+mv expressvpn-3.30.0.2-1.x86_64.rpm Software/
+cd Software/
+c
+ls
+sudo rpm -Uvh expressvpn-3.30.0.2-1.x86_64.rpm 
+sudo dnf install openssl
+sudo rpm -Uvh expressvpn-3.30.0.2-1.x86_64.rpm 
+expressvpn
+expressvpn install-firefox-extension
+cd 
+cd Downloads/
+sudo dnf install ./expressvpn-3.30.0.2-1.x86_64.rpm 
+expressvpn activate
+expressvpn connect
+expressvpn status
+exit
+cd
+expressvpn status
+cd bin/
+vi vpn
+expressvpn status
+echo expressvpn status
+echo expressvpn status >> evpn
+ls
+chmod +x evpn 
+c
+evpn 
+cd
+cd Software/
+ls
+evpn 
+cd
+cd /plex/Shows/
+c
+ls
+sudo mkdir Battlestar\ Galactica\ \{tvdb\ 73545\}
+c
+ls
+pwd
+ls
+cd The\ Man\ in\ the\ High\ Castle\ \{tvdb\ 295829\}/
+ls
