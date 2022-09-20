@@ -81,12 +81,26 @@ L legs
 A
 	Triceps
 		kb overhead press
-		diamand press
+		diamand pushup
 	Biceps
+		22 Curl
+		17 Concentration Curl
 
 ****-------------****
 
-AUG
+19 C7 O5 run 4
+
+17 B4 O3 run 4
+16 C3
+13 B4
+12 C4 O0
+
+07 S6O5
+06 B07
+05 C7O4
+
+02 A7O6
+01 L6F6
 31 S6O3
 30 B5
 29 C8O8

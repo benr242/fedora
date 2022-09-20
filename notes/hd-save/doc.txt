@@ -1,0 +1,25 @@
+Documentary/:
+Dopesick {tvdb 390716}
+Frontline {tvdb 80646}
+
+Documentary/Dopesick {tvdb 390716}:
+Dopesick.S01E01.720p.HULU.WEBRip.x264-GalaxyTV.mkv
+Dopesick.S01E02.720p.HULU.WEBRip.x264-GalaxyTV.mkv
+Dopesick.S01E03.720p.HULU.WEBRip.x264-GalaxyTV.mkv
+Dopesick.S01E04.720p.HULU.WEBRip.x264-GalaxyTV.mkv
+Dopesick.S01E05.720p.HULU.WEBRip.x264-GalaxyTV.mkv
+Dopesick.S01E06.720p.HULU.WEBRip.x264-GalaxyTV.mkv
+Dopesick.S01E07.720p.HULU.WEBRip.x264-GalaxyTV.mkv
+Dopesick.S01E08.720p.HULU.WEBRip.x264-GalaxyTV.mkv
+[TGx]Downloaded from torrentgalaxy.to .txt
+
+Documentary/Frontline {tvdb 80646}:
+Frontline.S40E17.Lies.Politics.and.Democracy.720p.WEB.h264-BAE[TGx]
+PBS.Frontline.2015.Growing.up.Trans.720p.HDTV.x264.AAC.MVGroup.org.mp4
+PBS.Frontline.2021.American.Insurrection.1080p.WEB.x265.AAC.MVGroup.Forum.mkv
+PBS.Frontline.S40E07.Putins.Road.to.War.1080p.HEVC.x265-MeGust.mkv
+
+Documentary/Frontline {tvdb 80646}/Frontline.S40E17.Lies.Politics.and.Democracy.720p.WEB.h264-BAE[TGx]:
+Frontline.S40E17.Lies.Politics.and.Democracy.720p.WEB.h264-BAE.mkv
+frontline.s40e17.lies.politics.and.democracy.720p.web.h264-bae.nfo
+[TGx]Downloaded from torrentgalaxy.to .txt
