@@ -20,6 +20,7 @@ $ sudo vim /etc/yum.repos.d/plex.repo
 $ sudo dnf install plexmediaserver -y
 ## install plex client
 $ flatpak install flathub tv.plex.PlexDesktop
+## install flatpak ytmdesktop from gnome-software
 
 $ sudo dnf install vlc
 ## install multimedia plugins
@@ -81,3 +82,4 @@ sudo dnf config-manager --add-repo https://rpm.opera.com/rpm
 sudo dnf upgrade --refresh
 sudo dnf install opera-stable -y
 opera --version
+
