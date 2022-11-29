@@ -24,7 +24,7 @@ C PUSH
 
 B PULL
 	45 Back Row
-	17+ Back Fly
+	20 Back Fly
 	Kb Pullover
 	P
 	22 Curl
@@ -64,6 +64,7 @@ L legs
 	-reverse lunge
 	-goblet squat
 	-deadlift
+	-glute bridge
 	swing
 	40+ Squat
 	15 Lunge

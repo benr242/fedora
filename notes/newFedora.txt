@@ -57,6 +57,8 @@ $ sudo mkdir /plex-media-player
 $ sudo usermod -a -G plex benr242
 
 $ sudo chown -R plex.plex /plex/Shows
+
+$ sudo dnf install gtk-gnutella
 ...
 
 $ sudo chown -R plex.plex /plex/Shows
