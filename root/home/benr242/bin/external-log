@@ -1,0 +1,1 @@
+ls -1 /plex/Shows >> test-log

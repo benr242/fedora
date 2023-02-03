@@ -1,1000 +1,1000 @@
-c
-ls -l
-ls
-rm Torrent\ downloaded\ from\ www.DNoid.me\ -\ Demonoid.txt 
-chmod 755 *
-c
-ls
-sudo chown plex:prex *
-sudo chown plex:plex *
-c
-ls -l
-c
-ls
-pwd
-c
-pwd
-ls
-mv * /home/benr242/Seagate/Movies/
-c
-ls
+echo sudo dnf install gtk-gnutella
+echo sudo dnf install gtk-gnutella >> Repos/fedora/notes/newFedora.txt 
+cd Repos/fedora/notes/
+vi  newFedora.txt 
 ..
-ls
-rm -rf The\ Lord\ Of\ The\ Rings\ +\ The\ Hobbit\ Collection\ \[Extended\ Cuts\]\ \(2001-2014\)/
-ls
+git status
+git add .
+git status
+git commit -m "note gnutella install"
+wo
+vi  notes/newFedora.txt 
 cd
-cd Seagate/Movies/
+cd Repos/fedora/notes/
+vi newFedora.txt 
+cd
+cd Seagate/Shows/
 ls
+c
 ls -l
+mv Star\ Wars\ Andor Star\ Wars\ Andor\ \{tvdb\}
+ls -l
+mv Star\ Wars\ Andor\ \{tvdb\} Star\ Wars\ Andor\ \{tvdb\ 393189\}
 c
-ls
+ls -1
+wo
 pwd
-sudo cp *Lord* *obb* /plex/Movies/
-cd /plex/Movies/
-c
 ls
-sudo mkdir Fellowship\ of\ the\ Ring\ \(2001)
-sudo mkdir Fellowship\ of\ the\ Ring\ \(2001\)
-sudo mkdir The\ Two\ Towers\ \(2002\)
-sudo mkdir The\ Return\ of\ the\ King\ \(2003\)
-c
-ls
-sudo mv 2001.The.Lord.Of.The.Rings-.The.Fellowship.Of.The.Ring.\[Extended.Cut\].1920x800.BDRip.x264.DTS-HD.MA.mkv Fellowship\ of\ the\ Ring\ \(2001\)/
-mv 2002.The.Lord.Of.The.Rings-.The.Two.Towers.\[Extended.Cut\].1920x804.BDRip.x264.DTS-HD.MA.mkv The\ Two\ Towers\ \(2002\)/
-sudo mv 2002.The.Lord.Of.The.Rings-.The.Two.Towers.\[Extended.Cut\].1920x804.BDRip.x264.DTS-HD.MA.mkv The\ Two\ Towers\ \(2002\)/
-sudo mv 2003.The.Lord.Of.The.Rings-.The.Return.Of.The.King.\[Extended.Cut\].1920x796.BDRip.x264.DTS-HD.MA.mkv The\ Return\ of\ the\ King\ \(2003\)/
-sudo mkdir An\ Unexpected\ Journey\ \(2012\)
-sudo mkdir The\ Desolation\ of\ Smaug\ \(2013\)
-sudo mkdir The\ Battle\ of\ the\ Five\ Armies\ \(2014\)
-sudo mv 2012.The.Hobbit-.An.Unexpected.Journey.\[Extended.Cut\].1920x800.BDRip.x264.DTS-HD.MA.mkv An\ Unexpected\ Journey\ \(2012\)/
-sudo mv 2013.The.Hobbit-.The.Desolation.Of.Smaug.\[Extended.Cut\].1920x800.BDRip.x264.DTS-HD.MA.mkv The\ Desolation\ of\ Smaug\ \(2013\)/
-sudo mv 2014.The.Hobbit-.The.Battle.Of.The.Five.Armies.\[Extended.Cut\].1920x800.BDRip.x264.DTS-HD.MA.mkv The\ Battle\ of\ the\ Five\ Armies\ \(2014\)/
-c
-ls
-mv 
-sudo mv Fellowship\ of\ the\ Ring\ \(2001\)/ The\ Fellowship\ of\ the\ Ring\ \(2001\)/
-sudo mv The\ Fellowship\ of\ the\ Ring\ \(2001\)/ LotR-The\ Fellowship\ of\ the\ Ring\ \(2001\)/
-ls
-ls Lo*
-ls LotR-The\ Fellowship\ of\ the\ Ring\ \(2001\)/
-ls The\ Two\ Towers\ \(2002\)/
-ls The\ Return\ of\ the\ King\ \(2003\)/
-sudo mv The\ Two\ Towers\ \(2002\) LofR-The\ Two\ Towers\ \(2002\)
-sudo mv The\ Return\ of\ the\ King\ \(2003\) LofR-The\ Return\ of\ the\ King\ \(2003\)
-c
-ls
-ls LotR*
-c
-ls
-sudo mv LofR-The\ Return\ of\ the\ King\ \(2003\) LotR-The\ Return\ of\ the\ King\ \(2003\)
-c
-ls
-sudo mv LofR-The\ Two\ Towers\ \(2002\) LotR-The\ Two\ Towers\ \(2002\)
-c
-ls
-sudo mv An\ Unexpected\ Journey\ \(2012\) Hobbit-An\ Unexpected\ Journey\ \(2012\)
-ls Hobbit-An\ Unexpected\ Journey\ \(2012\)/
-sudo mv The\ Desolation\ of\ Smaug\ \(2013\) Hobbit-The\ Desolation\ of\ Smaug\ \(2013\)
-sudo mv The\ Battle\ of\ the\ Five\ Armies\ \(2014\) Hobbit-The\ Battle\ of\ the\ Five\ Armies\ \(2014\)
-c
-ls Lot*
-ls Hobb*
-c
-pwd
-cp -R Lot* /home/benr242/Seagate/Movies/
-cp -R Hobb* /home/benr242/Seagate/Movies/
-pwd
-c
-ls
-cd
-cd Seagate/Movies/
-ls
+ls -1
+cd Star\ Wars\ The\ Clone\ Wars\ \{tvdb\ 83268\}/
+cd season\ 1/
+ls -l
 xvpn 
+cd
+cd Media/
+ls
+cd Shows/
+mkdir Willow\ \{tvdb\ 393192\}
 c
-pwd
+ls
+cd Willow\ \{tvdb\ 393192\}/
+mkdir season\ 1
+cd season\ 1/
+cp -R /home/benr242/Downloads/Willow.S01E0* .
+c
 ls
 ..
+cd Willow\ \{tvdb\ 393192\}/
+cd season\ 1/
+ls -l Willow.S01E01.720p.WEB.x265-MiNX\[TGx\]/Willow.S01E01.720p.WEB.x265-MiNX.mkv 
+..
+sudo chown -R plex:plex *
+cd season\ 1/Willow.S01E01.720p.WEB.x265-MiNX\[TGx\]/
+ls -l
+sudo chmod 755 *
+ls -l
+..
+cd Willow.S01E02.720p.WEB.x265-MiNX\[TGx\]/
+ls -l
+sudo chmod 755 Willow.S01E02.720p.WEB.x265-MiNX.mkv 
+ls -l
+..
+mv Willow\ \{tvdb\ 393192\} AAAWillow\ \{tvdb\ 393192\}
+mv AAAWillow\ \{tvdb\ 393192\} Willow\ \{tvdb\ 393192\}
+sudo cp -R Willow\ \{tvdb\ 393192\} /plex/Shows/
+cd /plex/Shows/
 ls
-vi toGet 
-ls Shows/
-ls Movies/
-cd Movies/
+pwd
+cd
+cd Seagate/Shows/
 c
-du -sh
-du -h
-top
-cd /run/media/benr242/Seagate\ Portable\ Drive/Seagate/
+..
 ls
-cd benr242/
+vi Shows.txt 
+wo
+sudo dnf install clementine
+exit
+cd
+cd Seagate/Shows/
+sudo cp -Rfv Breaking\ Bad\ \{tvdb\ 81189\} /run/media/benr242/Seagate\ Portable\ Drive/Seagate/media/Shows/
+pwd
 ls 
-ls Software/
-cd Software/
-ls
-rm protonvpn-stable-release-1.0.1-1.noarch.rpm 
-mv /home/benr242/Software/expressvpn-3.30.0.2-1.x86_64.rpm .
+rm -Rf Breaking\ Bad\ \{tvdb\ 81189\}/
+sudo rm -Rf Breaking\ Bad\ \{tvdb\ 81189\}/
 ls
 ..
-cd media/
-ls Music/
+cd Media/Shows/
+ls
+sudo rm -Rf Breaking\ Bad\ \{tvdb\ 81189\}/
+cd
+cd Seagate/
+ls
+cd Movies/
 c
+ls
+..
+ls
+pwd
 cd Movies/
 ls
-mv /home/benr242/Seagate/Movies/
-mv /home/benr242/Seagate/Movies/* .
-mv -v /home/benr242/Seagate/Movies/* .
-ls -l
-ls
-ls -l > /home/benr242/Seagate/SeagateLoadedMovies 
-exit
-cd /run/media/benr242/Seagate\ Portable\ Drive/Seagate/
-ls
-cd media/Movies/
-c
-ls
-vlc Ready\ Player\ One\ \(2018\)/Ready.Player.One.2018.BluRay.1080p.Atmos.TrueHD7.1.2Audio.x264-CHD.mkv 
 pwd
-vlc The\ Shawshank\ Redemption\ \(1994\)/The\ Shawshank\ Redemption\ \(1994\)\ RM4K\ \(1080p\ BluRay\ x265\ afm72\).mkv 
-pwd
-exit
-c
-cd Seagate/Movies/
-ls
-ls Ready\ Player\ One\ \(2018\)/
-cd
-cd Seagate/Movies/
-ls
-ls -l
-c
-ls
-rm -rf *
+rm -Rf *
 sudo rm -Rf *
-c
-top
-cd
-sudo dnf update deluge
-xvpn 
-exit
-cd
-cd Seagate/Movies/
 ls
 ..
 cd Shows/
 ls
-pwd
 ..
-ls Shows/
-ls Movies/
-c
-exit
-cd
-cd Seagate/Movies/
-ls -l
-ls -l 12\ Monkeys\ \(1995\)/
+vi Shows.txt 
 pwd
-cd
-cd Seagate/
-vi SeagateLoadedMovies 
-vi SeagateLoadedShows 
+cd Shows/
 ls
-ls Movies/
-vi SeagateLoadedMovies 
-lv SeagateLoadedShows 
-vi SeagateLoadedShows 
-vi toGet 
+sudo rm -Rf *
+..
+cd Movies/
+ls
+..
+vi Movies.txt 
 cd
 cd Downloads/
+ls
+rm -Rf Tombstone\ \(1993\)\ \[1080p\]/ St*
 c
 ls
-cp -R Children\ of\ Men\ \(2006\)\ \[1080p\]/ ../tmp/
+rm -Rf Orphan*
+c
+ls
+rm -Rf Game*
+c
+ls
+cd
+cd Seagate/
+vi Shows.txt 
+c
+ xvpn 
+.
+c
+xvpn 
+cd Downloads/
+cp -R Severance\ Season\ 1\ Mp4\ 1080p /home/benr242/Seagate/Showss/
+cd
+cd Seagate/Shows/
+ls
+cd
+cd Downloads/
+cp -Rv Severance\ Season\ 1\ Mp4\ 1080p /home/benr242/Seagate/Showss/
+cd
+cd Seagate/Shows/
+ls
+cd
+cd Downloads/
+sudo cp -Rv Severance\ Season\ 1\ Mp4\ 1080p /home/benr242/Seagate/Showss/
+cd
+cd Seagate/Shows
+ls
+..
+ls -l
+cd
+cd Downloads/
+sudo cp -Rfv /plex/Shows/
+sudo cp -Rfv Severance\ Season\ 1\ Mp4\ 1080p /plex/Shows/
+c
+ls /plex/Shows/
+cd
+cd Downloads/
+sudo cp -Rfv Severance\ Season\ 1\ Mp4\ 1080p /home/benr242/Seagate/Showss/
+cd
+cd Seagate/Shows/
+c
+ls
+cd 
+cd Downloads/
+cp -Rfv Severance\ Season\ 1\ Mp4\ 1080p /home/benr242/tmp/
 cd
 cd tmp/
+c
 ls
-rm -Rf 12\ Monkeys\ \(1995\)\ \[1080p\]\ \{5.1\}/
+sudo cp -Rfv Severance\ Season\ 1\ Mp4\ 1080p /home/benr242/Seagate/Shows/
+cd
+cd Seagate/Shows/
+c
 ls
-cd Children\ of\ Men\ \(2006\)\ \[1080p\]/
 ls -l
+sudo chown -R plex:plex Severance\ Season\ 1\ Mp4\ 1080p
+ls -l
+sudo chmod -R 755 Severance\ Season\ 1\ Mp4\ 1080p/
+cd Severance\ Season\ 1\ Mp4\ 1080p/
+ls -l
+..
+ls
+sudo mv Severance\ Season\ 1\ Mp4\ 1080p Severance
+ls
+cd Severance/
+mkdir Season\ 1
+sudo mkdir Season\ 1
+ls
+sudo mv * Season\ 1/
+c
+ls
+..
+sudo cp -Rfv Severance /plex/Shows/
+cd /plex/Shows/
+c
+ls
+sudo rm -Rf Severance\ Season\ 1\ Mp4\ 1080p/
+c
+ls -l
+cd
+cd  Downloads/
+ls
+c
+ls | more
+sudo cp -Rfv Better\ Call\ Saul\ Season\ 5\ Complete\ 720p\ NF\ WEBRip\ x264\ \[i_c\] /home/benr242/Seagate/Shows/
+cd
+cd Seagate/Shows/
+c
+ls
+cd
+cd Downloads/
+sudo cp -Rfv Better.Call.Saul.S04.1080p.BluRay.x264-ROVERS\[rartv\] /home/benr242/Seagate/Shows/
+cd
+cd Seagate/Shows
+c
+ls
+ls /plex/Shows/Breaking\ Bad\ \{tvdb\ 81189\}/
+pwd
+ls
+sudo mkdir Season\ 4
+sudo mkdir Season\ 5
+c
+ls
+sudo mv Better.Call.Saul.S04.1080p.BluRay.x264-ROVERS\[rartv\] Season\ 4
+ls
+sudo mv Better\ Call\ Saul\ Season\ 5\ Complete\ 720p\ NF\ WEBRip\ x264\ \[i_c\] Season\ 5/
+c
+ls
+cd Season\ 4/
+ls
+sudo mv Better.Call.Saul.S04.1080p.BluRay.x264-ROVERS\[rartv\]/* .
+ls
+sudo rm Better.Call.Saul.S04.1080p.BluRay.x264-ROVERS\[rartv\]
+ls
+ls -l
+sudo chown plex:plex *
+ls
+ls -l
+sudo chmod 755 *
+ls
+ls -l
+ls
+sudo rmdir Better.Call.Saul.S04.1080p.BluRay.x264-ROVERS\[rartv\]/
+ls -l
+..
+cd Season\ 5/
+ls -l
+sudo mv Better\ Call\ Saul\ Season\ 5\ Complete\ 720p\ NF\ WEBRip\ x264\ \[i_c\]/* .
+ls -l
+sudo rmdir Better\ Call\ Saul\ Season\ 5\ Complete\ 720p\ NF\ WEBRip\ x264\ \[i_c\]/
+c
+ls -l
+sudo chmod plex:plex *
+sudo chmod * plex:plex *
 sudo chown plex:plex *
 ls -l
 sudo chmod 755 *
-c
-ls
-..
-ls
-sudo mv Children\ of\ Men\ \(2006\)\ \[1080p\] Children\ of\ Men\ \(2006\)
-r
-c
-ls
-mv Children\ of\ Men\ \(2006\)/ ../Seagate/Movies/
-cd
-cd Seagate/Movies/
-ls
-vlc Children\ of\ Men\ \(2006\)/Children.of.Men.2006.1080p.BrRip.x264.BOKUTOX.YIFY.mp4 
-pwd
-sudo cp -R Children\ of\ Men\ \(2006\)/ /plex/Movies/
-pwd
-ls -l
-sudo chown -R plex:plex Children\ of\ Men\ \(2006\)/
-cd Children\ of\ Men\ \(2006\)/
-ls
 ls -l
 ..
-pwd
-cd /plex/Movies/
-c
-ls -l
-sudu chown -R plex:plex The\ Shawshank\ Redemption\ \(1994\)/
-sudo chown -R plex:plex The\ Shawshank\ Redemption\ \(1994\)/
-c
-ls -l
-sudo chown -R plex:plex LotR-The\ *
-c
-ls -l
-sudo chown -R plex:plex Blade\ Runner\ *
-sudo chown -R plex:plex 12\ Monkeys\ \(1995\)/
-c
-ls -l
-sudo chown -R plex:plex Braveheart\ \(1995\)/
-sudo chown -R plex:plex Children\ of\ Men\ \(2006\)/
-c
-ls -l
-cd 
-cd tmp/
-ls
-cd
-sudo cp -R /plex/Movies/Children\ of\ Men\ \(2006\)/ Seagate/Movies/
-cd Seagate/Movies/
-c
-ls
-df
-df -h
-c
-df -h
-cd /plex/Movies/
-ls -l
-sudo rm -R The\ Batman\ \(2022\)/
-c
-ls -l
-sudo rm French.Kiss.1995.1080p.BluRay.x264.anoXmous/
-sudo rm -R French.Kiss.1995.1080p.BluRay.x264.anoXmous/
-sudo rm -R The\ Devils\ Advocate\ 1997\ UNRATED\ 1080p\ BluRay\ x264\ AAC\ -\ Ozlem/
-c
-ls -l
-sudo rm -R O.Brother.Where.Art.Thou.2000.1080p.BluRay.6CH.2.35GB.MkvCage.mkv 
-sudo rm -R Braveheart\ \(1995\)/
-c
-ls -l
-sudo rm -R The.Hitchhikers.Guide.to.the.Galaxy.2005.1080p.BluRay.x264.YIFY.mp4 
-sudo rm -R The\ Princess\ Bride\ \(1987\)\ 720p\ 5.1\ BRRiP\ x264\ AAC\ \[Team\ Nanban\]/
-c
-ls -l
-c
-ls
-ls -lh
-du -h
-c
-du -hs
-df -h
-..
-cd Shows/
-ls
-sudo rm -R Devs\ \{tvdb\ 364149\}/
-sudo rm -R Game\ of\ Thrones\ \{tvdb\ 121361\}/
-c
-ls -lhs
-df -h
-exit
-sudo dnf install qbittorent
-sudo dnf remove deluge
-xvpn 
-cd Seagate/
-rs Shows/
-ls Shows/
-ls Movies/
-ls Software/
-mv Software/expressvpn-3.30.0.2-1.x86_64.rpm ../Software/
-cd
-sudo dnf remove transmision
-sudo dnf remove transmission
-c
-wo
-cd tmp/
-ls
-cd
-cd Downloads/
-c
-ls
-cp -R Orphan\
-cp -R Orphan\ Black\ \(2013\)\ REPACK\ Season\ 1-5\ S01-S05\ +\ Extras\ \(1080p\ BluRay\ x265\ HEVC\ 10bit\ EAC3\ 5.1\ Ghost\)/ ../tmp/
-cd
-cd tmp/
-c
-ls
-cd Orphan\ Black\ \(2013\)\ REPACK\ Season\ 1-5\ S01-S05\ +\ Extras\ \(1080p\ BluRay\ x265\ HEVC\ 10bit\ EAC3\ 5.1\ Ghost\)/
-c
-ls
-cd Season\ 1/
-ls
-vlc Orphan\ Black\ \(2013\)\ -\ S01E01\ -\ Natural\ Selection\ \(1080p\ BluRay\ x265\ Ghost\).mkv 
-c
-..
-ls
-c
-ls
-..
-ls -l
-sudo chmod -R plex:plex Orphan\ Black\ \(2013\)\ REPACK\ Season\ 1-5\ S01-S05\ +\ Extras\ \(1080p\ BluRay\ x265\ HEVC\ 10bit\ EAC3\ 5.1\ Ghost\)/
-sudo chown plex:plex -R Orphan\ Black\ \(2013\)\ REPACK\ Season\ 1-5\ S01-S05\ +\ Extras\ \(1080p\ BluRay\ x265\ HEVC\ 10bit\ EAC3\ 5.1\ Ghost\)/
-ls -l
-cd Orphan\ Black\ \(2013\)\ REPACK\ Season\ 1-5\ S01-S05\ +\ Extras\ \(1080p\ BluRay\ x265\ HEVC\ 10bit\ EAC3\ 5.1\ Ghost\)/
-c
-ls -l
-cd Season\ 2/
-ls -l
-..
-chmod -R 755 Orphan\ Black\ \(2013\)\ REPACK\ Season\ 1-5\ S01-S05\ +\ Extras\ \(1080p\ BluRay\ x265\ HEVC\ 10bit\ EAC3\ 5.1\ Ghost\)/
-sudo chmod -R 755 Orphan\ Black\ \(2013\)\ REPACK\ Season\ 1-5\ S01-S05\ +\ Extras\ \(1080p\ BluRay\ x265\ HEVC\ 10bit\ EAC3\ 5.1\ Ghost\)/
-c
-ls
-cd Orphan\ Black\ \(2013\)\ REPACK\ Season\ 1-5\ S01-S05\ +\ Extras\ \(1080p\ BluRay\ x265\ HEVC\ 10bit\ EAC3\ 5.1\ Ghost\)/Season\ 3/
-ls -l
-..
-ls
-sudo mv Orphan\ Black\ \(2013\)\ REPACK\ Season\ 1-5\ S01-S05\ +\ Extras\ \(1080p\ BluRay\ x265\ HEVC\ 10bit\ EAC3\ 5.1\ Ghost\) Orphan\ Black\ \(2013\)
-ls
-mv Orphan\ Black\ \(2013\) Orphan\ Black\ \(2013\)\ \{tvdb 260313\}
-mv Orphan\ Black\ \(2013\) Orphan\ Black\ \(2013\)\ \{tvdb\ 260313\}
-c
-ls
-mv Orphan\ Black\ \(2013\)\ \{tvdb\ 260313\}/ ../Seagate/Shows/
-sudo mv Orphan\ Black\ \(2013\)\ \{tvdb\ 260313\}/ ../Seagate/Shows/
-ls
-cd
-cd Seagate/Shows/
-ls -l
-sudo cp -R Orphan\ Black\ \(2013\)\ \{tvdb\ 260313\}/ /plex/Shows/
-cd /plex/Shows/
-c
-ls -l
-sudo mv Orphan\ Black\ \(2013\)\ \{tvdb\ 260313\} Orphan\ Black\ \{tvdb\ 260313\}
-c
-ls -l
-sudo mv Orphan\ Black\ \{tvdb\ 260313\} Orphan\ Black\ \{tvdb\ 260315\}/
-ls -l
-cd
-cd Seagate/Shows/
-ls
-sudo mv Orphan\ Black\ \(2013\)\ \{tvdb\ 260313\} Orphan\ Black\ \(2013\)\ \{tvdb\ 260315\}
 ls
 pwd
+sudo mkdir bb
+sudo mv Season\ * bb
 ls
-sudo mv Orphan\ Black\ \(2013\)\ \{tvdb\ 260315\} Orphan\ Black\ \{tvdb\ 260315\}
-ls
-ls -l
-cd Orphan\ Black\ \{tvdb\ 260315\}/
-ls -l
-cd Season\ 4/
-ls -l
-..
-xvpn 
-c
-xvpn 
-c
-..
-ls
-vi SeagateLoadedMovies 
-cd
-ls tmp/
-cd
-cd Downloads/
-ls
-cp -R 12\ Monkeys\ \(1995\)\ \[1080p\]\ \{5.1\}/ ../tmp/
-cd
-cd tmp/
-c
-cd 12\ Monkeys\ \(1995\)\ \[1080p\]\ \{5.1\}/
-ls
-vlc 12.Monkeys.BluRay.1080p.x264.5.1.Judas.mp4 
-..
-cp -R 12\ Monkeys\ \(1995\)\ \[1080p\]\ \{5.1\}/ ../Seagate/Movies/
-cd
-cd Seagate/Movies/
-c
-ls
-mv 12\ Monkeys\ \(1995\)\ \[1080p\]\ \{5.1\} 12\ Monkeys\ \(1995\)
-c
-ls
-pwd
-ls
-..
-ls Shows/
-..
-cd Seagate/Movies/
-ls
-sudo cp -R 12\ Monkeys\ \(1995\)/ /plex/Movies/
-ls -l
-sudo chown -R plex:plex 12\ Monkeys\ \(1995\)/
-ls -l
-cd 12\ Monkeys\ \(1995\)/
-ls -l
-..
-chmod -R 755 12\ Monkeys\ \(1995\)/*
-sudo chmod -R 755 12\ Monkeys\ \(1995\)/*
-ls
-ls -l 12\ Monkeys\ \(1995\)/
-ls -l 12\ Monkeys\ \(1995\)/12.Monkeys.BluRay.1080p.x264.5.1.Judas.*
-exit
-cd
-cd Downloads/
-ls
-cp PBS.Frontline.2015.Growing.up.Trans.720p.HDTV.x264.AAC.MVGroup.org.mp4 /plex/Documentary/Frontline\ \{tvdb\ 80646\}/
-sudo cp PBS.Frontline.2015.Growing.up.Trans.720p.HDTV.x264.AAC.MVGroup.org.mp4 /plex/Documentary/Frontline\ \{tvdb\ 80646\}/
-exit
-..
-pwd
-rm -Rf Movies/*
-sudo rm -Rf Movies/*
-cd Shows/
-ls
-sudo rm -Rf Orphan\ Black\ \{tvdb\ 260315\}/
-c
-df -h
-ls
-..
 cd /plex/Shows/
 ls
-ls -l
-rm -Rf House\ of\ the\ Dragon\ \(2022\)\ \{tvdb\ 371572\}/
-pwd
+cd Breaking\ Bad\ \{tvdb\ 81189\}/
+ls
+ls Season\ 4/
 ..
-cd Movies/
-ls -l
-ls *Men*
+pwd
+cd /home/benr242/Seagate/
+ls
+cd Shows
+ls
+sudo mv Severance Severance\ \{tvdb\ 371980\}
+ls
+sudo cp -Rf Severance\ \{tvdb\ 371980\} /plex/Shows/
+cd /plex/Shows/
 c
-ls -l
-xvpn 
+ls -1
+sudo rm -Rf Severance
+ls -1
+cd
+cd Seagate/Shows
+c
+ls
+mkdir bcs
+ls
+cd /plex/Shows/Better\ Call\ Saul\ \{tvdb\ 273181\}/
+ls
+cd
+cd Seagate/Shows
+ls
+pwd
 cd
 cd Downloads/
 c
-ls
-vlc Frontline.S40E07.Putins.Road.to.War.1080p.HEVC.x265-MeGusta\[eztv.re\].mkv 
+ls Better*
+c
+ls | more
+sudo cp -Rvf Better* /home/benr242/Seagate/Shows/bcs/
+c
 cd
-cd Media/
-ls 
-mkdir Documentary
-cp /home/benr242/Downloads/Frontline.S40E07.Putins.Road.to.War.1080p.HEVC.x265-MeGusta\[eztv.re\].mkv Documentary/
-cd Documentary/
-mkdir frontline
+cd Seagate/Shows
 ls
-mv Frontline.S40E07.Putins.Road.to.War.1080p.HEVC.x265-MeGusta\[eztv.re\].mkv  frontline/
-mv frontline Frontline
-mkdir DopeSick
-cp -R /plex/Shows/Dopesick\ \{tvdb\ 390716\}/ .
-c
-ls
-rm -Rf DopeSick/
-ls
-ls Frontline/
-c
-ls
-mv Frontline Frontline\ \{tvdb\ 80646\}
-ls
-pwd
-cp -R /home/benr242/Downloads/PBS.FRONTLINE.2021.American.Insurrection.1080p.WEB.x265.AAC.MVGroup.Forum.mkv .
-cd Frontline\ \{tvdb\ 80646\}/
-c
-ls
-..
-ls
-mv PBS.FRONTLINE.2021.American.Insurrection.1080p.WEB.x265.AAC.MVGroup.Forum.mkv Frontline\ \{tvdb\ 80646\}/
-cd Frontline\ \{tvdb\ 80646\}/
-c
-vlc PBS.FRONTLINE.2021.American.Insurrection.1080p.WEB.x265.AAC.MVGroup.Forum.mkv 
-cd /plex/
-c
-ls
-sudo mkdir Documentary
-ls -l
-sudo cp -R /home/benr242/Media/Documentary/* Documentary/
-sudo cp -R Shows/Dopesick\ \{tvdb\ 390716\}/ Documentary/
-cd Documentary/
-c
-ls
-ls -l Dopesick\ \{tvdb\ 390716\}/
-ls -l Frontline\ \{tvdb\ 80646\}/
-sudo chmod 755 Frontline\ \{tvdb\ 80646\}/*
-ls -l Frontline\ \{tvdb\ 80646\}/
-ls
-cd Frontline\ \{tvdb\ 80646\}/
+ls Severance\ \{tvdb\ 371980\}/
+cd /plex/Shows/Severance\ \{tvdb\ 371980\}/
 ls
 cd
 cd Seagate/
-cp -R /plex/Documentary/ .
-c
 ls
-cd Documentary/
-ls -l
-cd Frontline\ \{tvdb\ 80646\}/
+cd Shows
 ls
-ls -l
-chmod 755 PBS.Frontline.2015.Growing.up.Trans.720p.HDTV.x264.AAC.MVGroup.org.mp4 
+cd bb/
 ls
-vlc PBS.Frontline.2015.Growing.up.Trans.720p.HDTV.x264.AAC.MVGroup.org.mp4 
-c
-ls -l
-mv PBS.FRONTLINE.2021.American.Insurrection.1080p.WEB.x265.AAC.MVGroup.Forum.mkv PBS.Frontline.2021.American.Insurrection.1080p.WEB.x265.AAC.MVGroup.Forum.mkv 
-c
-ls
-mv Frontline.S40E07.Putins.Road.to.War.1080p.HEVC.x265-MeGusta\[eztv.re\].mkv PBS.Frontline.S40E07.Putins.Road.to.War.1080p.HEVC.x265-MeGusta\[eztv.re\].mkv 
-c
-ls
-mv PBS.Frontline.S40E07.Putins.Road.to.War.1080p.HEVC.x265-MeGusta\[eztv.re\].mkv PBS.Frontline.S40E07.Putins.Road.to.War.1080p.HEVC.x265-MeGust.mkv 
-c
-ls
+ls /plex/Shows/Breaking\ Bad\ \{tvdb\ 81189\}/
+..
 pwd
-cd /plex/Documentary/Frontline\ \{tvdb\ 80646\}/
-c
+cd bb/
 ls
-sudo mv PBS.FRONTLINE.2021.American.Insurrection.1080p.WEB.x265.AAC.MVGroup.Forum.mkv PBS.Frontline.2021.American.Insurrection.1080p.WEB.x265.AAC.MVGroup.Forum.mkv 
-c
-ls -l
-sudo chmod 755 PBS.Frontline.2015.Growing.up.Trans.720p.HDTV.x264.AAC.MVGroup.org.mp4 
-c
-ls -l
-sudo mv Frontline.S40E07.Putins.Road.to.War.1080p.HEVC.x265-MeGusta\[eztv.re\].mkv Frontline.S40E07.Putins.Road.to.War.1080p.HEVC.x265-MeGusta.mkv 
-c
+ls /plex/Shows/Breaking\ Bad\ \{tvdb\ 81189\}/
+..
+ls bcs/
 ls
-sudo mv Frontline.S40E07.Putins.Road.to.War.1080p.HEVC.x265-MeGusta.mkv PBS.Frontline.S40E07.Putins.Road.to.War.1080p.HEVC.x265-MeGusta.mkv 
-c
-ls
-cd
-cd Downloads/
-c
-ls
-c
-ls
-c
-cp  -R Donnie\ Darko\ DIRECTORS\ CUT\ \(2001\)\ \[1080p\]/ ../Seagate/Movies/
-cd
-cd Seagate/Movies/
-c
-ls
-cd Donnie\ Darko\ DIRECTORS\ CUT\ \(2001\)\ \[1080p\]/
-c
-ls
-pwd
-ls -l
-chmod 755 Donnie.Darko.DIRECTORS.CUT.2001.1080p.BrRip.x264.YIFY.mp4 
-c
-ls -l
-vlc Donnie.Darko.DIRECTORS.CUT.2001.1080p.BrRip.x264.YIFY.mp4 
-pwd
-sudo mkdir /plex/Movies/Donnie\ Darka\ \{2001\}
-cd /plex/Movies/
-c
-ls D*
-c
-ls
-c
-pwd
-cd
-cd Seagate/Movies/
-ls
-pwd
-cd
-ls /plex/Movies/
-c
-cd
-cd Seagate/Movies/
-ls
-sudo cp -R Donnie\ Darko\ DIRECTORS\ CUT\ \(2001\)\ \[1080p\]/ /plex/Movies/
-d0p3Star
-sudo cp -R Donnie\ Darko\ DIRECTORS\ CUT\ \(2001\)\ \[1080p\]/ /plex/Movies/
-pwd
-ls -l
-pwd
 exit
-cd
-vi .bash_aliases 
-ght
-ls -lh /plex/Movies/LotR-The\ *
-ls -lh /plex/Movies/Hobbit-*
-cd Seagate/
-ls Movies/
-ls Shows/
-ls -lh Shows/Orphan\ Black\ \{tvdb\ 260315\}/
-ls -rlh Shows/Orphan\ Black\ \{tvdb\ 260315\}/
-ls -Rlh Shows/Orphan\ Black\ \{tvdb\ 260315\}/
-cd Shows/Orphan\ Black\ \{tvdb\ 260315\}/
-du -sh
-..
-du -sh
-cd Movies/
-ls
-ls -lh 12\ Monkeys\ \(1995\)/
-ls -lh Children\ of\ Men\ \(2006\)/
-..
-cd /run/media/benr242/Seagate\ Portable\ Drive/Seagate/Shows
-cd Shows/
-ls
-pwd
 cd /run/media/benr242/Seagate\ Portable\ Drive/Seagate/media/Shows/
 c
 ls
-sudo rm -Rf Orphan\ Black\ \{tvdb\ 260315\}/
-ls
-ls -l
+cd Breaking\ Bad\ \{tvdb\ 81189\}/
 c
-mv -Rv /home/benr242/Seagate/Shows/Orphan\ Black\ \{tvdb\ 260315\}/ .
-cp -Rv /home/benr242/Seagate/Shows/Orphan\ Black\ \{tvdb\ 260315\}/ .
 ls
-cd Orphan\ Black\ \{tvdb\ 260315\}/Season\ 3/
-ls -lh
-..
-cd Movies/
-ls -l
-cp -Rv /home/benr242/Seagate/Movies/* .
-c
-ls -l
+pwd
 cd
 wo
-xvpn 
-cd tmp/
-c
-ls
-..
 cd Downloads/
-ls
-cp -R Split.2016.1080p.BRRip.x264.AAC-ETRG/ ../tmp/
-cd
-cd tmp/
-ls
-ls -lR
-chmod -R 755 Split.2016.1080p.BRRip.x264.AAC-ETRG/
-sudo chown -R plex:plex Split.2016.1080p.BRRip.x264.AAC-ETRG/
-ls -Rl
-mv Split.2016.1080p.BRRip.x264.AAC-ETRG Split\ \(2016\)
-c
-ls
-vlc Split\ \(2016\)/Split.2016.1080p.BRRip.x264.AAC-ETRG.mp4 
-ls
-rm Split\ \(2016\)/Torrent\ Downloaded\ From\ ExtraTorrent.cc.txt 
-sudo rm Split\ \(2016\)/Torrent\ Downloaded\ From\ ExtraTorrent.cc.txt 
-ls -l Split\ \(2016\)/
-sudo mv Split\ \(2016\)/ ../Seagate/Movies/
+sudo cp -Rv El\ Camino\ A\ Breaking\ Bad\ Movie\ \(2019\)\ \[WEBRip\]\ \[1080p\]\ \[YTS.LT\] /home/benr242/Seagate/Movies/
 cd
 cd Seagate/Movies/
-ls
-sudo mv -Rf Split\ \(2016\)/ /plex/Movies/
-sudo cp -Rf Split\ \(2016\)/ /plex/Movies/
-cd /plex/Movies/
 c
 ls
+mv El\ Camino\ A\ Breaking\ Bad\ Movie\ \(2019\)\ \[WEBRip\]\ \[1080p\]\ \[YTS.LT\] El\ Camino
+sudo mv El\ Camino\ A\ Breaking\ Bad\ Movie\ \(2019\)\ \[WEBRi
+sudo mv El\ Camino\ A\ Breaking\ Bad\ Movie\ \(2019\)\ \[WEBRip\]\ \[1080p\]\ \[YTS.LT\] El\ Camino
+c
+ls
+cd El\ Camino/
+ls
+vlc El.Camino.A.Breaking.Bad.Movie.2019.1080p.WEBRip.x264-\[YTS.LT\].mp4 
 pwd
-cd
-cd Seagate/Movies/
-ls
-ls -l
-ls -lR
-ls
+..
+sudo cp -R El\ Camino /plex/Movies/
 xvpn 
-pwd
-ls
-pwd
 c
-ls
-vlc Split\ \(2016\)/Split.2016.1080p.BRRip.x264.AAC-ETRG.mp4 
-ls /plex/Movies/
-c
-ls
-sudo cp -R Split\ \(2016\)/ /plex/Movies/
-ls
-pwd
-ls
 xvpn 
 cd
-cd Downloads/
+vi bin/external-log 
+cd bin/
 ls
-cp -R Thirteen\ Lives\ \(2022\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/ Chappie\ \(2015\)\ \[1080p\]/ ../tmp/
-cd
-ls tasks/
-rm -RF tasks/
-rm -Rf tasks/
-cd tmp/
-ls
-ls -l
-ls
-ls -lh Thirteen\ Lives\ \(2022\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/
-ls -l
-chmod -R 755 Thirteen\ Lives\ \(2022\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/
-chmod -R 755 Chappie\ \(2015\)\ \[1080p\]/
-ls -l Thirteen\ Lives\ \(2022\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/
-sudo chown -R plex:plex *
-ls -lh
-ls -lh Thirteen\ Lives\ \(2022\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/
-c
-ls
-mv * ../Seagate/Movies/
-sudo mv * ../Seagate/Movies/
-cd
-cd Seagate/Movies/
-ls
-sudo cp -R * /plex/Movies/
+vi xvpn 
+expressvpn connect
 xvpn 
-..
-sudo mv Movies/* .
-ls
-sudo mv Chappie\ \(2015\)\ \[1080p\]/ Split\ \(2016\)/ Thirteen\ Lives\ \(2022\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/ Movies/
-ls
+expressvpn status
+expressvpn -h
+expressvpn connect
+expressvpn dsconnect
+expressvpn disconnect
+expressvpn connect
 xvpn 
-cd Shows/
-ls
-mkdir The\ Rings\ of\ Power
-ls
-ls /plex/Shows/
-ls
-mv The\ Rings\ of\ Power The\ Rings\ of\ Power\ \{tvdb\ 367506\}
 c
-ls
-wo
-sudo mkdir /plex/Shows/The\ Rings\ of\ Power
-cd /plex/Shows/
-sudo mv The\ Rings\ of\ Power The\ Rings\ of\ Power\ \{tvdb\ 367506\}
-pwd
-ls
-cd
-ls tmp/
+cd 
 cd Downloads/
-ls
-cp -R The.Lord.of.the.Rings.The.Rings.of.Power.S01E01.A.Shadow.of.the.Past.2160p.AMZN.WEB-DL.DDP5.1.Atmos.HDR.HEVC-CMRG\[eztv.re\].mkv ../tmp/
-c
-cp  The.Lord.of.the.Rings.The.Rings.of.Power.S01E02.1080p.WEB.H264-CAKES\[TGx\]/
-cp -R The.Lord.of.the.Rings.The.Rings.of.Power.S01E02.1080p.WEB.H264-CAKES\[TGx\]/
-cp -R The.Lord.of.the.Rings.The.Rings.of.Power.S01E02.1080p.WEB.H264-CAKES\[TGx\]/ ../tmp/
+ls Ozark.Season.1.XviD-AFG/
+sudo cp -R Ozark.Season.1.XviD-AFG /home/benr242/Seagate/Shows/
 cd
-cd tmp/
+cd Seagate/Shows/
 ls
-ls The.Lord.of.the.Rings.The.Rings.of.Power.S01E02.1080p.WEB.H264-CAKES\[TGx\]/
-vlc The.Lord.of.the.Rings.The.Rings.of.Power.S01E01.A.Shadow.of.the.Past.2160p.AMZN.WEB-DL.DDP5.1.Atmos.HDR.HEVC-CMRG\[eztv.re\].mkv 
-mv The.Lord.of.the.Rings.The.Rings.of.Power.S01E01.A.Shadow.of.the.Past.2160p.AMZN.WEB-DL.DDP5.1.Atmos.HDR.HEVC-CMRG\[eztv.re\].mkv ../Seagate/Shows/The\ Rings\ of\ Power\ \{tvdb\ 367506\}/
-mv The.Lord.of.the.Rings.The.Rings.of.Power.S01E02.1080p.WEB.H264-CAKES\[TGx\]/the.lord.of.the.rings.the.rings.of.power.s01e02.1080p.web.h264-cakes.mkv  ../Seagate/Shows/The\ Rings\ of\ Power\ \{tvdb\ 367506\}/
-cd
-cd Seagate/Shows/The\ Rings\ of\ Power\ \{tvdb\ 367506\}/
-ls
-ls -l
-..
-ls
-ls -l
-sudo chown -R plex:plex The\ Rings\ of\ Power\ \{tvdb\ 367506\}/
-ls -l
-cd The\ Rings\ of\ Power\ \{tvdb\ 367506\}/
-ls -l
+ls -1
+sudo mv Ozark.Season.1.XviD-AFG Ozark
+sudo mv Ozark Ozark\ \{tvdb\ 329089\}
+cd Ozark\ \{tvdb\ 329089\}/
+mkdir Season\ 1
+sudo mkdir Season\ 1
+sudo mv * Season\ 1/
 c
 ls
-ls -l
-sudo chmood 755 *
-sudo chmod 755 *
-ls -l
-sudo cp * /plex/Shows/The\ Rings\ of\ Power\ \{tvdb\ 367506\}/
-cd
-cd Seagate/Shows/The\ Rings\ of\ Power\ \{tvdb\ 367506\}/
-ls
-pwd
-ls
-ls /plex/Shows/The\ Rings\ of\ Power\ \{tvdb\ 367506\}/
-vo
-wo
-sudo dnf update
-..
-ls Movies/
-ls Shows/
-xvpn 
-sudo dnf update
-pwd
-cd Movies/
-c
-ls
-ls -l
-cd
-cd Downloads/
-c
-ls 
-cd
-cd Downloads/
-c
-ls -l
-rh
-cd
-cd Seagate/Movies/
-c
-ls -l
-cp -R /home/benr242/Downloads/Donnie\ Darko\ DIRECTORS\ CUT\ \(2001\)\ \[1080p\]/ .
-c
-ls -l
-sudo chown -R plex:plex Donnie\ Darko\ DIRECTORS\ CUT\ \(2001\)\ \[1080p\]/
-cd Donnie\ Darko\ DIRECTORS\ CUT\ \(2001\)\ \[1080p\]/
-c
-ls -l
-..
-pwd
-sudo cp -R Donnie\ Darko\ DIRECTORS\ CUT\ \(2001\)\ \[1080p\]/ /plex/Movies/
-xvpn 
-cd
-cd Downloads/
-ls 
-ls *odf*
-cp -R The\ Godfather\ \(1972\)\ \[1080p\]/ /home/benr242/Seagate/Movies/
-cd
-cd Seagate/Movies/
-ls
-ls -l
-sudo chown -R plex:plex The\ Godfather\ \(1972\)\ \[1080p\]/
-ls The\ Godfather\ \(1972\)\ \[1080p\]/
-ls -l The\ Godfather\ \(1972\)\ \[1080p\]/
-sudo chmod 755 The\ Godfather\ \(1972\)\ \[1080p\]/The.Godfather.1972.1080p.BrRip.x264.BOKUTOX.YIFY.mp4 
-sudo cp -R The\ Godfather\ \(1972\)\ \[1080p\]/ /plex/Movies/
-cd
-cd Downloads/
-ls -l Casino\ \(1995\)
-sudo chown -R plex:plex Casino\ \(1995\)/
-ls -l Casino\ \(1995\)/
-chown -R 755 Casino\ \(1995\)/
-sudo chown -R 755 Casino\ \(1995\)/
-sudo cp -R Casino\ \(1995\)/ ../Seagate/Movies/
-cd
-cd Seagate/Movies/
-sudo cp -R Casino\ \(1995\)/ /plex/Movies/
-cd
-cd Downloads/
-cp -R Once\ Upon\ A\ Time\ In\ America\ \(1984\)/ ../Seagate/Movies/
-cd
-cd Seagate/Movies/
-ls -l
-sudo chown -R plex:plex Once\ Upon\ A\ Time\ In\ America\ \(1984\)/
-ls -l Once\ Upon\ A\ Time\ In\ America\ \(1984\)/
-sudo chmod 755 Once\ Upon\ A\ Time\ In\ America\ \(1984\)/Once.Upon.A.Time.In.America.1984.720p.BluRay.x264.YIFY.mkv 
-sudo cp -R Once\ Upon\ A\ Time\ In\ America\ \(1984\)/ /plex/Movies/
-pwd
-..
-cd Shows/
-ls -l
-ls
-cp -R The\ Rings\ of\ Power\ \{tvdb\ 367506\}/ /home/benr242/Media/Shows/
-sudo dnf update
-cd
-ls
-mkdir Heidi
-cd Heidi/
-cp -Rfv /run/media/benr242/Seagate\ Portable\ Drive/Seagate/media/Shows/Game\ of\ Thrones\ \{tvdb\ 121361\}/
-cp -Rfv /run/media/benr242/Seagate\ Portable\ Drive/Seagate/media/Shows/Game\ of\ Thrones\ \{tvdb\ 121361\}/ .
-ls
-.
-..
-cd benr242/
-ls -l
-c
-ls
-cd Media/Movies/
-c
-ls
-pwd
-c
-ls 
-pwd
-..
-cd Seagate/Movies/
-ls
-c
-ls
-pwd
-sudo mv * /run/media/benr242/Seagate\ Portable\ Drive/Seagate/media/Movies/
-pwd
-..
-cd Shows/
-ls
-..
-ls
-pwd
-sudo mkdir Documentary /run/media/benr242/Seagate\ Portable\ Drive/Seagate/media/Documentary
-pwd
-c
-ls
-cd Documentary/
-ls
-cp -Rf * /plex/Documentary/
-sudo cp -Rf * /plex/Documentary/c
-c
-pwd
-sudo cp -R * /plex/Documentary/
-cd
-ls /plex/Documentary/
-c
-ls -l
-ls -lsh Heidi/
-cd Heidi/
-c
-du -sh
-ls -h
-cd Game\ of\ Thrones\ \{tvdb\ 121361\}/
-c
-ls -h
-ls -lsh
+sudo chown -R plex:plex Season\ 1/
+sudo chmod -R 755 Season\ 1/
 cd Season\ 1/
-du -sh
-cd
-cd Heidi/
-ls
-du -sh
-cd Game\ of\ Thrones\ \{tvdb\ 121361\}/Season\ 5
 c
-du -sh
+ls -l
+cd Ozark.S01E01.XviD-AFG/
+ls -l
 ..
-pwd
-/home/benr242/Heidi/Game\ of\ Thrones\ \{tvdb\ 121361\}/
-ls /home/benr242/Heidi/Game\ of\ Thrones\ \{tvdb\ 121361\}/
-cd
-cd /plex/Shows/
-c
-ls
-sudo cp -R /home/benr242/Heidi/Game\ of\ Thrones\ \{tvdb\ 121361\}/ .
-sudo cp -Rv /home/benr242/Heidi/Game\ of\ Thrones\ \{tvdb\ 121361\}/ .
-pwd
-..
-cd Movies/
-ls 
-sudo cp -Rv /run/media/benr242/Seagate\ Portable\ Drive/Seagate/media/Movies/French.Kiss.1995.1080p.BluRay.x264.anoXmous/ .
-pwd
-c
-ls 
+sudo cp -R Ozark\ \{tvdb\ 329089\} /plex/Shows/
+wq
 wo
-sudo dnf update
+c
+wo
 xvpn 
-cd
-vi bin/xvpn 
+expressvpn connect
 xvpn 
-cd /plex/
 c
-ls
-cd Shows/
-ls
-cd Battlestar\ Galactica\:\ The\ Miniseries/
-ls
-ls -l
-ls -lh
-c
-ls -lh
-vlc BSG\ Miniseries\ Part\ 1\ \(1080p\ x265\ Joy\).mkv 
-..
-ls
-c
-ls -l
-sudo mv Battlestar\ Galactica\:\ The\ Miniseries Battlestar\ Galactica\:\ The\ Miniseries\ \{tvdb\ 73545\}
-c
-ls -l
+xvpn 
+wo
+xvpn 
 pwd
+cd
+cd Downloads/
+cp -R Wednesday.S01.COMPLETE.1080p.NF.WEB.H264-MIXED\[TGx\] /home/benr242/Seagate/Shows/
 cd
 cd Seagate/Shows/
 c
 ls
+sudo mv Wednesday.S01.COMPLETE.1080p.NF.WEB.H264-MIXED\[TGx\] Wednesday\ \{tvb\ 397060\}
+c
+ls -1
+cd Wednesday\ \{tvb\ 397060\}/
+ls -l
+sudo chown plex:plex *
+ls -l
+sudo chmod 755 *
+ls -l
 ..
-cd Documentary/
-ls
+sudo cp -R Wednesday\ \{tvb\ 397060\} /plex/Shows/
+cd Wednesday\ \{tvb\ 397060\}/
 pwd
-cd /plex/Documentary/
+sudo mkdir Season\ 1
+ls
+sudo mv * Season\ 1/
+ls
+ls Season\ 1/
+cd /plex/Shows/
+sudo chown plex:plex *
+ls -l
+cd Wednesday\ \{tvb\ 397060\}/
+ls -l
+sudo chown plex:plex *
+ls -l
+xvpn 
+c
+xvpn 
+c
+cd
+cd Downloads/
+cp -R The* /home/benr242/Seagate/Movies/
+sudo cp -R The* /home/benr242/Seagate/Movies/
+cd
+cd Seagate/Movies/
 c
 ls
-cd Frontline\ \{tvdb\ 80646\}/
+mv The.Addams.Family.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG\[TGx\] The\ Addams\ Family\ (2019)
+mv The.Addams.Family.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG\[TGx\] The\ Addams\ Family\ \(2019\)
+ls
+sudo mv The.Addams.Family.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG\[TGx\] The\ Addams\ Family\ \(2019\)
+ls
+sudo mv The\ Addams\ Family\ 2\ \(2021\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\] The\ Adams\ Family\ 2\ \(2021\)
+c
+ls -1
+sudo mv The\ Adams\ Family\ 2\ \(2021\) The\ Addams\ Family\ 2\ \(2021\)
+ls -1
+sudo chown -R plex:plex The\ Addams\ Family\ \(2019\)
+sudo chown -R plex:plex The\ Addams\ Family\ 2\ \(2021\)
+sudo chmod 755 -R The\ Addams\ Family\ \(2019\)
+sudo chmod 755 -R The\ Addams\ Family\ 2\ \(2021\)
+ls -l The\ Addams\ Family\ \(2019\)/
+ls -l The\ Addams\ Family\ 2\ \(2021\)/
+sudo cp -R The\ Addams\ Family\ * /plex/Movies/
+c
+cd /plex/Movies/
+ls -1
+sudo dnf upgrade
+cd /run/media/benr242/Seagate\ Portable\ Drive/Seagate/media/
+c
+pwd
+ls
+cd Movies/
+sudo cp -Rv /home/benr242/Seagate/Movies/* .
 c
 ls
-sudo mv Frontline.S40E17.Lies.Politics.and.Democracy.720p.WEB.h264-BAE.mkv PBS.Frontline.S40E17.Lies.Politics.and.Democracy.720p.WEB.h264-BAE.mkv 
+..
+cd Shows/
+pwd
+sudo cp -Rv /home/benr242/Seagate/Shows/* .
+ls
+ls Breaking\ Bad\ \{tvdb\ 81189\}/
+ls
+ls -1
+ls -1 >> /home/benr242/Seagate/Shows.txt 
+ls -1 > /home/benr242/Seagate/Shows.txt 
+..
+cd Movies/
+ls -1 
+ls -1 > /home/benr242/Seagate/Movies.txt 
+pwd
+cd
+cd Media/Shows/
+ls
+touch The\ Peripheral
+ls
+mv The\ Peripheral The\ Peripheral\ \*AZ
+ls
+mv The_Sandman The\ Sandman
+ls
+vi /home/benr242/Seagate/Shows.txt 
+cd Man-Fell-Earth/
+ls
+..
+ls /plex/Shows/The\ Man\ Who\ Fell\ To\ Earth\ \{tvdb\ 414721\}/
+pwd
+rm -Rf Man-Fell-Earth/
+wo
+cd
+cd Seagate/Shows
+ls
+cd bcs/
+ls
+sudo rm -Rf Better\ Call\ Saul\ Season\ 1\ \(1080p\ x265\ 10bit\ Joy\)
 c
+ls
+sudo mv Better.Call.Saul.S04.1080p.BluRay.x264-ROVERS\[rartv\] Season\ 4
+sudo mv Better\ Call\ Saul\ Season\ 2\ \(1080p\ x265\ 10bit\ Joy\) Season\ 2
+sudo mv Better\ Call\ Saul\ Season\ 3\ Complete\ 720p\ HDTV\ x264\ \[i_c\] Season\ 3
+sudo mv Better\ Call\ Saul\ Season\ 5\ Complete\ 720p\ NF\ WEBRip\ x264\ \[i_c\] Season\ 5
+c
+ls
+sudo cp * /plex/Shows/Better\ Call\ Saul\ \{tvdb\ 273181\}/
+sudo cp -Rf * /plex/Shows/Better\ Call\ Saul\ \{tvdb\ 273181\}/
+cd /plex/Shows/Better\ Call\ Saul\ \{tvdb\ 273181\}/
+c
+ls -1
+sudo mv season\ 1 Season\ 1
+ls -1
+exit
+cd /run/media/benr242/Seagate\ Portable\ Drive/Seagate/media/Shows/
+ls
+cd Breaking\ Bad\ \{tvdb\ 81189\}/
+ls
+..
+cd Better\ Call\ Saul\ \{tvdb\ 273181\}/
+ls
+c
+sudo cp -Rv /home/benr242/Seagate/Shows/bcs/Season\ * .
+ls -1
+..
+cd Movies/
+ls -1
+pwd
+..
+cd Shows/Breaking\ Bad\ \{tvdb\ 81189\}/
+c
+ls
+..
+ls
+sudo cp -Rfv /home/benr242/Seagate/Shows/Severance\ \{tvdb\ 371980\} 
+sudo cp -Rfv /home/benr242/Seagate/Shows/Severance\ \{tvdb\ 371980\} .
+pwd
+ls
+cd Battlestar\ Galactica\ \{tvdb\ 73545\}/
+c
+ls
+..
+cd Stranger\ Things\ \{tvdb\ 305288\}/
+ls
+..
+c
+ls The\ Sex\ Lives\ of\ College\ Girls\ \{tvdb\ 390161\}/
+..
+cd Shows/
+c
+ls -1 | more
+ls
+ls -1 | more
+cd
+c
+wo
+ls -1 /plex/Shows/
+xvpn 
+expressvpn connect
+xvpn
+c
+xvpn
+cd Downloads/
+sudo cp -R Firefly\ Complete\ Series\ -\ Sci-Fi\ 2002-2003\ Eng\ Subs\ 1080p\ \[H264-mp4\] /home/benr242/Seagate/Shows/
+cd
+cd Seagate/Shows
+ls
+sudo mv Firefly\ Complete\ Series\ -\ Sci-Fi\ 2002-2003\ Eng\ Subs\ 1080p\ \[H264-mp4\] Firefly
+cd Firefly/
+ls
+cd Firefly\ Complete\ Series\ 2002-2003/
 ls
 ls -l
+sudo chown plex:plex *
+ls -l
+sudo chmod 755 *
+ls
+ls -l
+..
+ls
+sudo mv Firefly\ Complete\ Series\ 2002-2003 Firefly
+ls
+sudo mv Firefly Firefly\ \{tvdb\ 78874\}
+ls
+mv INFO.nfo Firefly\ \{tvdb\ 78874\}/
+sudo mv Cover-Screens Firefly\ \{tvdb\ 78874\}/
+ls
+sudo mv INFO.nfo Firefly\ \{tvdb\ 78874\}/
+c
+ls
+sudo mv Subtitles\ -\ \[SRT-MicroDVD\] Firefly\ \{tvdb\ 78874\}/
+cd Firefly\ \{tvdb\ 78874\}/
+ls
+vlc 00\ Firefly\ Serenity\ -\ Pilot\ Film\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 
+pwd
+sudo rm -Rf /plex/Shows/Firefly\ \{tvdb\ 78874\}
+..
+ls
+sudo cp -Rfv Firefly\ \{tvdb\ 78874\} /plex/Shows/
 wo
 xvpn 
 pwd
-ls -l
-cd /run/media/benr242/
+..
+ls
+sudo mv Firefly Firefly\ {tvdb\ 78874\}
+ls
+cd Firefly\ \{tvdb\ 78874\}/
+ls
+sudo rm Torrent\ *
+ls
+c
+ls
+sudo mv Firefly\ \{tvdb\ 78874\}/* .
+c
+ls
+sudo rm -Rf Cover-Screens/ Subtitles\ -\ \[SRT-MicroDVD\]/
+c
+ls
+pwd
+cd /plex/Shows/Firefly\ \{tvdb\ 78874\}/
+c
+ls
+pwd
+sudo mkdir Season\ 1
+ls
+sudo mv * Season\ 1/
+c
+ls
+cd
+cd Seagate/Shows
+ls
+cd Firefly\ \{tvdb\ 78874\}/
+ls
+sudo mkdir Season\ 1
+sudo mv * Season\ 1/
+c
+ls
+sudo dnf update
+c
+..
+pwd
+ls
+cd /plex/Shows/
+c
+ls
+cd Firefly\ \{tvdb\ 78874\}/
+ls
+cd Season\ 1/
+ls
+wo
+pwd
+cd
+cd Seagate/Shows
+ls
+sudo rm -R bcs/
+ls
+sudo rm -Rf bb/
+ls
+ls /plex/Shows/
+ls
+rm -Rf Severance\ \{tvdb\ 371980\}/
+sudo rm -Rf *
+ls
+cd ../Movies/
+ls
+cd
+cd Downloads/
+c
+ls | more
+cd /plex/
+cd Movies/
 ls
 pwd
 cd
-exit
+cd Downloads/
+cp -Rv The.Sex.Lives.Of.College.Girls.S01.1080p.WEBRip.x265\[eztv.re\] /home/benr242/Seagate/Shows/
+cd
+cd Seagate/Shows
+ls
+mv The.Sex.Lives.Of.College.Girls.S01.1080p.WEBRip.x265\[eztv.re\] The\ Sex\ Lives\ of\ College\ Girls
+c
+ls
+mv The\ Sex\ Lives\ of\ College\ Girls The\ Sex\ Lives\ of\ College\ Girls\ \{tvdb\ 390161\}
+ls
+sudo cp -R The\ Sex\ Lives\ of\ College\ Girls\ \{tvdb\ 390161\} /plex/Shows/
+ cd The\ Sex\ Lives\ of\ College\ Girls\ \{tvdb\ 390161\}/
+ls -l
+sudo chown plex:plex *
+ls -l
+sudo chmod 755 *
+ls -l
+..
+sudo cp -R The\ Sex\ Lives\ of\ College\ Girls\ \{tvdb\ 390161\} /plex/Shows/
+sudo cp -R The\ Sex\ Lives\ of\ College\ Girls\ \{tvdb\ 390161\} /run/media/benr242/Seagate\ Portable\ Drive/Seagate/media/Shows/
+ls
+sudo rm -Rf *
+ls
+cd
+cd Media/Shows/
+ls
+ls -l House\ of\ the\ Dragon\ \(2022\)\ \{tvdb\ 371572\}/
+xvpn 
+ls /plex/Shows/
+pwd
+cd
+cd Downloads/
+sudo cp -Rv House.of.the.Dragon.S01.1080p.WEBRip.x265\[eztv.re\] The\ Peripheral\ \(2022\)\ Season\ 1\ S01\ \(1080p\ AMZN\ WEB-DL\ x265\ HEVC\ 10bit\ EAC3\ 5.1\ Ghost\) /home/benr242/Seagate/Shows/
+cd
+cd Seagate/Shows
+c
+ls
+sudo mv House.of.the.Dragon.S01.1080p.WEBRip.x265\[eztv.re\] House\ of\ the\ Dragon
+ls
+mv The\ Peripheral\ \(2022\)\ Season\ 1\ S01\ \(1080p\ AMZN\ WEB-DL\ x265\ HEVC\ 10bit\ EAC3\ 5.1\ Ghost\) The\ Peripheral
+cd The\ Peripheral/
+ls
+sudo chown plex:plex *
+ls -l
+sudo chmod 755 *
+ls -l
+mkdir Season\ 1
+ls
+ls -l
+mkdir Season\ 1
+sudo mkdir Season\ 1
+sudo mv * Season\ 1/
+ls
+..
+ls
+cd House\ of\ the\ Dragon/
+ls
+sudo mkdir Season\ 1
+sudo mv * Season\ 1/
+ls
+cd Season\ 1/
+ls -l
+sudo chown plex:plex *
+ls -l
+sudo chmod 755 *
+ls
+..
+pwd
+ls
+mv House\ of\ the\ Dragon House\ of\ the\ Dragon\ \{tvdb\ 371572\}
+ls
+sudo mv The\ Peripheral The\ Peripheral\ \{tvdb\ 349187\}
+ls
+pwd
+sudo rm -Rf /plex/Shows/House\ of\ the\ Dragon\ \(2022\)\ \{tvdb\ 371572\}
+sudo cp -R * /plex/Shows/
+ls /plex/Shows/
+pwd
+ls
+sudo cp -Rfv * /run/media/benr242/Seagate\ Portable\ Drive/Seagate/media/Shows/
+cd
+cd Repos/fedora/
+git status
+ls
+ls -a
+wo
+git status
+git add .
+git status
+git commit -m "check"
+git status
+git push origin main
+c
+xvpn 
+expressvpn connect
+xvpn 
+c
+xvpn 
+cd Downloads/
+sudo cp -R Station\ Eleven\ Season\ 1\ Mp4\ 1080p /home/benr242/Seagate/Shows/
+cd
+cd Seagate/Shows
+c
+ls
+sudo mv Station\ Eleven\ Season\ 1\ Mp4\ 1080p Station\ Eleven
+ls
+cd Station\ Eleven/
+ls
+sudo mkdir Season\ 1
+sudo chown plex:plex *
+ls -l
+sudo chmod 755 *
+ls -l
+sudo mv * Season\ 1/
+LS
+ls
+..
+ls
+ls -1
+sudo mv Station\ Eleven Station\ Eleven\ \{tvdb\ 366529\}
+ls -1
+sudo cp -R Station\ Eleven\ \{tvdb\ 366529\} /plex/Shows/
+cd Firefly\ \{tvdb\ 78874\}/
+c
+ls -l
+cd Season\ 1/
+ls -l
+vlc 02\ Firefly\ Bushwhacked\ -\ Episode\ 02\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 
+c
+ls -`
+ls -1
+vlc 12\ Firefly\ Heart\ Of\ Gold\ -\ Episode\ 12\ 2003\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 
+c
+ls -1
+vlc 07\ Firefly\ Out\ Of\ Gas\ -\ Episode\ 07\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 
+c
+sudo mv 07\ Firefly\ Out\ Of\ Gas\ -\ Episode\ 07\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 07\ Firefly\ \(2002\)\ -\ s01e07 Out\ Of\ Gas.mp4 
+sudo mv 07\ Firefly\ Out\ Of\ Gas\ -\ Episode\ 07\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 07\ Firefly\ \(2002\)\ -\ s01e07\ Out\ Of\ Gas.mp4 
+c
+ls -1
+..
+cd Season\ 1/
+ls
+ls Firefly\ \{tvdb\ 78874\}/
+sudo rmdir Firefly\ \{tvdb\ 78874\}/
+c
+ls -1
+sudo mv 07\ Firefly\ \(2002\)\ -\ s01e07\ Out\ Of\ Gas.mp4 Firefly\ \(2002\)\ -\ s01e07\ Out\ Of\ Gas.mp4 
+ls -1
+sudo mv Firefly\ \(2002\)\ -\ s01e07\ Out\ Of\ Gas.mp4 Firefly\ \(2002\)\ -\ s01e07\ -\ Out\ Of\ Gas.mp4 
+ls -1
+sudo mv 12\ Firefly\ Heart\ Of\ Gold\ -\ Episode\ 12\ 2003\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e12\ \-\ Heart\ of\ Gold.mp4 
+ls -1
+sudo mv 01\ Firefly\ The\ Train\ Job\ -\ Episode\ 01\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e01\ -\ The\ Train\ Job.mp4
+sudo mv 02\ Firefly\ Bushwhacked\ -\ Episode\ 02\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e02\ -\ Bushwhacked.mp4
+sudo mv 03\ Firefly\ Shindig\ -\ Episode\ 03\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e03\ -\ Shindig.mp4
+ls
+sudo mv 04\ Firefly\ Safe\ -\ Episode\ 04\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e04\ -\ Safe.mp4
+c
+ls -1
+sudo mv 05\ Firefly\ Our\ Mrs\ Reynolds\ -\ Episode\ 05\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e05\ 
+ls -1
+sudo mv Firefly\ \(2002\)\ -\ s01e05 Firefly\ \(2002\)\ -\ s01e05\ -\ Our\ Bs\ Renolds.mp4
+sudo mv Firefly\ \(2002\)\ -\ s01e05 Firefly\ \(2002\)\ -\ s01e05\ -\ Our\ Ms\ Renolds.mp4
+sudo mv Firefly\ \(2002\)\ -\ s01e05\  Firefly\ \(2002\)\ -\ s01e05\ -\ Our\ Ms\ Renolds.mp4
+ls -1
+sudo mv 06\ Firefly\ Jaynestown\ -\ Episode\ 06\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e06\ -\ Jaynestown.mp4
+ls -1
+sudo mv 08\ Firefly\ Ariel\ -\ Episode\ 08\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e08\ -\ Ariel.mp4
+sudo mv 09\ Firefly\ War\ Stories\ -\ Episode\ 09\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e09\ -\ War\ Stories.mp4
+sudo mv 10\ Firefly\ Trash\ -\ Episode\ 10\ 2003\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e10\ -\ Trash.mp4
+sudo mv 11\ Firefly\ The\ Message\ -\ Episode\ 11\ 2003\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e11\ -\ The\ Message.mp4
+sudo mv 13\ Firefly\ Objects\ In\ Space\ -\ Episode\ 13\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e13\ -\ Objects\ in\ Space.mp4
+c
+ls -1
+sudo mv 00\ Firefly\ Serenity\ -\ Pilot\ Film\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e14\ -\ Serenity.mp4
+c
+pwd
+ls -1
+pwd
+sudo rm -Rf /plex/Shows/Firefly\ \{tvdb\ 78874\}
+..
+sudo cp -Rf Firefly\ \{tvdb\ 78874\} /plex/Shows/
+c
+cd Firefly\ \{tvdb\ 78874\}/Season\ 1/
+ls -1
+pwd
+ls -1
+sudo mv Firefly\ \(2002\)\ -\ s01e14\ -\ Serenity.mp4 Firefly\ \(2002\)\ -\ s01e00\ -\ Serenity.mp4
+c
+ls -1
+pwd
+cd /plex/Shows/
+ls Firefly\ \{tvdb\ 78874\}/
+ls Firefly\ \{tvdb\ 78874\}/Season\ 1/
+cd Firefly\ \{tvdb\ 78874\}/Season\ 1/
+c
+ls -1
+sudo cp /home/benr242/Seagate/Shows/Firefly\ \{tvdb\ 78874\}/Season\ 1/Firefly\ \(2002\)\ -\ s01e00\ -\ Serenity.mp4 .
+c\
+c
+pwd
+ls -1
+sudo rm Firefly\ \(2002\)\ -\ s01e14\ -\ Serenity.mp4 
+pwd
+cd
+cd Seagate/Shows
+c
+ls
+cd Firefly\ \{tvdb\ 78874\}/
+ls -1
+ls -1 Season\ 1/
+cd Season\ 1/
+ls -1
+cp Firefly\ \(2002\)\ -\ s01e00\ -\ Serenity.mp4 Firefly\ \(2002\)\ -\ s01e14\ -\ Serenity.mp4
+sudo cp Firefly\ \(2002\)\ -\ s01e00\ -\ Serenity.mp4 Firefly\ \(2002\)\ -\ s01e14\ -\ Serenity.mp4
+c
+ls -1
+cd
+cd Repos/fedora/
+git status
+git push origin master
+git status
+c
+git status
+git push origin master
+git push origin main
+git status
+ls
+cd root/home/benr242
+ls
+..
+cd notes/
+c
+ls
+..
+cd notes/
+vi pat.txt
+..
+git status
+git add .
+git commit -m "test"
+git status
+git push origin main
+wo
+xvpn 
+sudo dnf update
+cd 
+cd Downloads/
+c
+ls
+rm -Rf The*
+c
+ls
+rm -Rf House.of.the.Dragon.S01.1080p.WEBRip.x265\[eztv.re\]/ Prey.2021.DUBBED.720p.NF.WEBRip.AAC2.0.X.264-EVO/
+ls
+c
+xvpn 
+ls
+xvpn 
+cd
+cd Seagate/Shows
+ls
+cd /plex/Shows/
+ls
+sudo cp -Rf Ozark\ \{tvdb\ 329089\} /home/benr242/Seagate/Shows/
+cd
+cd Seagate/Shows
+cd Ozark\ \{tvdb\ 329089\}/
+ls
+cd
+cd Downloads/
+ls
+cp -Rf Ozark.S02.720p.WEB.x264-METCON\[ettv\] /home/benr242/Seagate/Shows/
+rh
+cd
+cd Seagate/Shows
+c
+ls
+mv Ozark.S02.720p.WEB.x264-METCON\[ettv\] Ozark\ \{tvdb\ 329089\}/
+sudo mv Ozark.S02.720p.WEB.x264-METCON\[ettv\] Ozark\ \{tvdb\ 329089\}/
+cd Ozark\ \{tvdb\ 329089\}/
+c
+ls
+sudo mv Ozark.S02.720p.WEB.x264-METCON\[ettv\] Season\ 2
+ls
+cd Season\ 2/
+ls -l
+sudo chown plex:plex *
+ls -l
+sudo chmod 755 *
+ls -l
+..
+ls
+sudo cp -R Season\ 2 /plex/Shows/Ozark\ \{tvdb\ 329089\}/
+pwd
+cd /plex/Shows/Firefly\ \{tvdb\ 78874\}/
+ls -l
+ls -l Season\ 1/
