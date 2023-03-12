@@ -1,0 +1,15 @@
+#detecting device
+sudo fdisk -l
+
+#create mount point
+mkdir /media/Seagate-drive2T
+
+#mount the drive
+mount /dev/sdf1 (devicename) /media/Seagate-drive2T/
+#in Plex, adjust the library directorios if the device is different
+
+#check if it's mounted
+mount | grep sdf1
+
+#unmount drive
+unmount /media/Seagate-drive2T
