@@ -12,4 +12,4 @@ mount /dev/sdf1 (devicename) /media/Seagate-drive2T/
 mount | grep sdf1
 
 #unmount drive
-unmount /media/Seagate-drive2T
+umount /media/Seagate-drive2T
