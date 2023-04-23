@@ -1,0 +1,4258 @@
+.:
+angels_and_agony
+assemblage_23
+blutengel
+Classical
+combichrist
+computorgirl
+cruciform_injection
+decoded_feedback
+depeche_mode
+de-vision
+diva_destruction
+drowning_pool
+e-craft
+Electronic
+eminem
+Front 242
+frontline_assembly
+fun
+funker_vogt
+Goth
+Industrial
+ivory_frequency
+Kongos - Lunatic
+korn
+list
+marilyn_manson
+mindless_self_indulgence
+music.txt
+neuroticfish
+Other
+panzer_ag
+playlist
+Pop-Rock
+project_pitchfork
+psyclon_nine
+pzychobitch
+retrosic
+rosetta_stone
+skinny_puppy
+slipknot
+stromkern
+suicide_commando
+s.v.d
+switchblade_symphony
+tactical_sekt
+various_artists
+veronicas
+wolfsheim
+
+./angels_and_agony:
+12 - Destination (Album Version).mp3
+7 - Rites of Passage (Album Version).mp3
+angels_and_agony_-_eternity
+desktop.ini
+unison
+
+./angels_and_agony/angels_and_agony_-_eternity:
+01 - Tao.mp3
+02 - One.mp3
+03 - Revelation.mp3
+04 - Darkness.mp3
+05 - Surrender.mp3
+06 - Don't Be Afraid.mp3
+07 - Heart _ Soul.mp3
+08 - Forever.mp3
+09 - Into The Sun.mp3
+10 - Promised Land.mp3
+11 - Eternal entity.mp3
+AlbumArt_{01972957-6A08-406C-A72D-243840D40FF3}_Large.jpg
+AlbumArt_{01972957-6A08-406C-A72D-243840D40FF3}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+Thumbs.db
+
+./angels_and_agony/unison:
+cd1
+cd2
+desktop.ini
+Thumbs.db
+unison.jpg
+
+./angels_and_agony/unison/cd1:
+101-emersion.mp3
+102-watchers.mp3
+103-unison.mp3
+104-secrets.mp3
+105-forward.mp3
+106-wreckage.mp3
+107-walk_on_stars.mp3
+108-euphoria.mp3
+109-traveler.mp3
+110-lethargy-rise.mp3
+111-systems.mp3
+112-inner_light.mp3
+113-immersion.mp3
+AlbumArt_{E97B4774-76DE-45C5-8D1E-D74DB0D0E0A4}_Large.jpg
+AlbumArt_{E97B4774-76DE-45C5-8D1E-D74DB0D0E0A4}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+
+./angels_and_agony/unison/cd2:
+201-forward-club_mix_by_construggle_test.mp3
+202-wreckage-remix_by_torben_wendt_diorama.mp3
+203-forward-dark_angels_remix_by_angels_and_agony.mp3
+204-traveler-flesh_and_blood_remix_by_darrin_huss_psyche.mp3
+205-unison-statesman_remix_by_code_64.mp3
+206-forward-remix_by_the_dreamside.mp3
+207-traveler-symphonic_mix_by_construggle_test.mp3
+208-forward-remix_by_ophidian.mp3
+209-watchers-remix_by_axel_ermes.mp3
+210-wreckage-silent_version_by_angels_and_agony.mp3
+
+./assemblage_23:
+assemblage_23_-_addendum
+assemblage_23_-_Bruise
+assemblage_23_-_contempt
+assemblage_23_-_defiance
+assemblage_23_-_disappoint
+assemblage_23_-_document
+assemblage_23_-_ground
+assemblage_23_-_let_the_wind_erase_me
+assemblage_23-Spark-CDM-2009-AMOK
+
+./assemblage_23/assemblage_23_-_addendum:
+AlbumArt_{91E4BB39-5B1D-45FA-9B64-85E928FAF50E}_Large.jpg
+AlbumArt_{91E4BB39-5B1D-45FA-9B64-85E928FAF50E}_Small.jpg
+AlbumArtSmall.jpg
+assemblage_23.addendum-01-let_me_be_your_armor.mp3
+assemblage_23.addendum-02-awake_(imperative_reaction_mix).mp3
+assemblage_23.addendum-03-naked_(god_module_mix).mp3
+assemblage_23.addendum-04-divide_(tidal_mix_by_cut.rate.box).mp3
+assemblage_23.addendum-05-surface_(grip_mix_by_aghast_view).mp3
+assemblage_23.addendum-06-breath_of_ghosts.mp3
+assemblage_23.addendum-07-disappoint_(negative_format_mix).mp3
+assemblage_23.addendum-08-naked_(tricky_tick_mix_by_clear_vision).mp3
+assemblage_23.addendum-09-king_of_insects_(red_sparrow_mix).mp3
+assemblage_23.addendum-10-the_drowning_season_(original_1996_mix).mp3
+assemblage_23.addendum-11-silence_(lo-fi_quietude_mix_by_converter).mp3
+assemblage_23.addendum-12-naked_(project_x_mix).mp3
+assemblage_23.addendum-13-away.mp3
+desktop.ini
+Folder.jpg
+
+./assemblage_23/assemblage_23_-_Bruise:
+00_assemblage_23-bruise-2012.jpg
+00_assemblage_23-bruise-2012.m3u
+00_assemblage_23-bruise-2012.nfo
+00_assemblage_23-bruise-2012.sfv
+01_assemblage_23-crosstalk.mp3
+02_assemblage_23-the_last_mistake.mp3
+03_assemblage_23-over_and_out.mp3
+04_assemblage_23-the_noise_inside_my_head.mp3
+05_assemblage_23-outsider.mp3
+06_assemblage_23-darkflow.mp3
+07_assemblage_23-automaton.mp3
+08_assemblage_23-the_other_side_of_the_wall.mp3
+09_assemblage_23-talk_me_down.mp3
+10_assemblage_23-otherness.mp3
+
+./assemblage_23/assemblage_23_-_contempt:
+01 - Assemblage 23 - Anthem.mp3
+04 - Assemblage 23 - Bi-Polar.mp3
+06 - Assemblage 23 - Purgatory.mp3
+08 - Assemblage 23 - Skyquake.mp3
+11 - Assemblage 23 - Coward (Melting Mix by Pain Station).mp3
+13 - Assemblage 23 - The Drowning Season (Mix by Ed Vargo of THD).mp3
+AlbumArt_{6E501AF3-555B-4242-BFE0-0360BE3EEE98}_Large.jpg
+AlbumArt_{6E501AF3-555B-4242-BFE0-0360BE3EEE98}_Small.jpg
+desktop.ini
+Folder.jpg
+
+./assemblage_23/assemblage_23_-_defiance:
+01-assemblage_23_-_opened-amok.mp3
+02 - assemblage 23 - drive.mp3
+03 - assemblage 23 - blindhammer.mp3
+04-assemblage_23_-_cocoon-amok.mp3
+05-assemblage_23_-_document-amok.mp3
+06-assemblage_23_-_fallen_down-amok.mp3
+07-assemblage_23_-_horizon-amok.mp3
+08-assemblage_23_-_light-amok.mp3
+09-assemblage_23_-_maps_of_reality-amok.mp3
+10-assemblage_23_-_lullaby-amok.mp3
+AlbumArt_{57978C84-058A-47AD-B367-68606D51C466}_Large.jpg
+AlbumArt_{57978C84-058A-47AD-B367-68606D51C466}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+
+./assemblage_23/assemblage_23_-_disappoint:
+assemblage23.disappoint-01-disappoint_(assemblage_23_guilt_remix).mp3
+assemblage23.disappoint-02-disappoint_(funker_vogt_remix).mp3
+assemblage23.disappoint-03-disappoint_(albert_deal_mood_remix).mp3
+assemblage23.disappoint-04-disappoint_(lights_of_euphoria_ward_of_fear_mix).mp3
+assemblage23.disappoint-05-disappoint_(in_the_nursery_itn_affinity_mix).mp3
+assemblage23.disappoint-06-disappoint_(l'ame_immortelle_ment_mix).mp3
+assemblage23.disappoint-07-disappoint_(ed_vargo_of_thd_down_and_gone_out_remix).mp3
+
+./assemblage_23/assemblage_23_-_document:
+00-assemblage_23-document-promo_cdm-2002-radial.nfo
+00-assemblage_23-document-promo_cdm-2002-radial.sfv
+01-document_(original_mix)-radial.mp3
+02-document_(endanger_mix)-radial.mp3
+03-document_(laplegua_mix_by_icon_of_coil)-radial.mp3
+04-document_(das_ich_remix)-radial.mp3
+05-underneath_the_ice-radial.mp3
+06-document_(schreibgeschuetzt_mix)-radial.mp3
+07-document_(ultimate-gloom-mix_by_echo_image)-radial.mp3
+08-document_(haujobb._remix)-radial.mp3
+09-document_(omnibot-mix_(www.omnibotnet.com))-radial.mp3
+10-document_(forma_tadre_remix)-radial.mp3
+
+./assemblage_23/assemblage_23_-_ground:
+00-assemblage_23-ground-cdm-2004-fwyh.nfo
+00-assemblage_23-ground-cdm-2004-fwyh.sfv
+01-ground_(album_version)-fwyh.mp3
+02-consequence-fwyh.mp3
+03-ground_(darker_version)-fwyh.mp3
+04-lament-fwyh.mp3
+05-ground_(acoustic_version)-fwyh.mp3
+AlbumArt_{D739485F-25CD-42D4-B9F6-4D4C1275AE79}_Large.jpg
+AlbumArt_{D739485F-25CD-42D4-B9F6-4D4C1275AE79}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+
+./assemblage_23/assemblage_23_-_let_the_wind_erase_me:
+01 - Assemblage 23 - Darker.mp3
+02 - Assemblage 23 - Let the Wind Erase Me (Album Version).mp3
+03 - Assemblage 23 - Let The Wind Erase Me [Club Version].mp3
+04 - Assemblage 23 - Tragic Figure.mp3
+05 - Assemblage 23 - Let The Wind Erase Me [Hard Version].mp3
+
+./assemblage_23/assemblage_23-Spark-CDM-2009-AMOK:
+00-assemblage_23-spark-cdm-2009.m3u
+00-assemblage_23-spark-cdm-2009.nfo
+00-assemblage_23-spark-cdm-2009.sfv
+01-spark_album_mix.mp3
+02-helicopter_girl.mp3
+03-spark_combichrist_rmx.mp3
+04-the_poison_moon.mp3
+05-spark_whiteout_mix_by_jade_from_blaqk_audio.mp3
+
+./blutengel:
+blutengel_-_angel_dust_ [Limited 2CD]
+blutengel_-_demon_kiss
+blutengel_-_seelenschmerz
+blutengel_-_vampire_romance_-_Part_I-Limited_Edition
+
+./blutengel/blutengel_-_angel_dust_ [Limited 2CD]:
+000-blutengel-angel_dust-2cd-booklet-01-2002-amok.jpg
+000-blutengel-angel_dust-2cd-booklet-02-2002-amok.jpg
+000-blutengel-angel_dust-2cd-booklet-03-2002-amok.jpg
+000-blutengel-angel_dust-2cd-booklet-04-2002-amok.jpg
+000-blutengel-angel_dust-2cd-booklet-05-2002-amok.jpg
+000-blutengel-angel_dust-2cd-booklet-06-2002-amok.jpg
+000-blutengel-angel_dust-2cd-booklet-07-2002-amok.jpg
+000-blutengel-angel_dust-2cd-booklet-08-2002-amok.jpg
+000-blutengel-angel_dust-2cd-booklet-09-2002-amok.jpg
+000-blutengel-angel_dust-2cd-booklet-10-2002-amok.jpg
+000-blutengel-angel_dust-2cd-booklet-11-2002-amok.jpg
+000-blutengel-angel_dust-2cd-booklet-12-2002-amok.jpg
+000-blutengel-angel_dust-2cd-booklet-back-2002-amok.jpg
+000-blutengel-angel_dust-2cd-front-2002-amok.jpg
+000-blutengel-angel_dust-2cd-front-2-2002-amok.jpg
+000-blutengel-angel_dust-2cd-ltd.ed.-2002-amok.nfo
+000-blutengel-angel_dust-2cd-ltd.ed.-2002-amok.sfv
+101-angel_dust_i-amok.mp3
+102-stranded-amok.mp3
+103-vampire_romance_part_i-amok.mp3
+104-the_end_of_love-amok.mp3
+105-iron_heart-amok.mp3
+106-our_time-amok.mp3
+107-wonderland-amok.mp3
+108-angel_dust_ii-amok.mp3
+109-black_wedding-amok.mp3
+110-i_will_follow-amok.mp3
+111-silent_death-amok.mp3
+112-angel_of_the_night-amok.mp3
+113-keine_ewigkeit-amok.mp3
+114-night_of_sin-amok.mp3
+115-vampire_romance_part_ii-amok.mp3
+116-angel_dust_iii-amok.mp3
+201-dark_skies-amok.mp3
+202-the_end_of_love_(black_heaven_rmx)-amok.mp3
+203-black_wedding_(dark_embrace_rmx)-amok.mp3
+204-her_song-amok.mp3
+pspbrwse.jbf
+Thumbs.db
+
+./blutengel/blutengel_-_demon_kiss:
+01-angeles_of_the_dark-cmg.mp3
+02-forever-cmg.mp3
+03-silent_tears_(for_you)-cmg.mp3
+04-in_the_distance-cmg.mp3
+05-solitary_angel-cmg.mp3
+06-love_killer-cmg.mp3
+07-sensless_life-cmg.mp3
+08-navigator-cmg.mp3
+09-stay-cmg.mp3
+10-ice_angel-cmg.mp3
+11-go_to_hell-cmg.mp3
+12-resurrection-cmg.mp3
+13-frozen_heart-cmg.mp3
+14-in_my_dreams-cmg.mp3
+15-verzweiflung-cmg.mp3
+
+./blutengel/blutengel_-_seelenschmerz:
+disc_1
+disc_2
+
+./blutengel/blutengel_-_seelenschmerz/disc_1:
+01_blutengel_-_welcome_to_the_suicide_(intro).mp3
+02_blutengel_-_seelenschmerz.mp3
+03_blutengel_-_i'm_dying_alone.mp3
+04_blutengel_-_der_spiegel.mp3
+05_blutengel_-_children_of_the_night.mp3
+06_blutengel_-_die_with_you.mp3
+07_blutengel_-_run_away.mp3
+08_blutengel_-_soul_of_ice.mp3
+09_blutengel_-_schmerz_2_lust.mp3
+10_blutengel_-_bloody_pleasures.mp3
+12_blutengel_-_schmerz_3_einsamkeit.mp3
+13_blutengel_-_any_chance_.mp3
+14_blutengel_-_road_to_hell.mp3
+15_blutengel_-_schmerz_4_tod.mp3
+16_blutengel_-_after_death_(outro).mp3
+
+./blutengel/blutengel_-_seelenschmerz/disc_2:
+01_blutengel_-_fairyland_(male_version).mp3
+02_blutengel_-_addicted.mp3
+03_blutengel_-_no_one_(lives_forever).mp3
+04_blutengel_-_my_world.mp3
+
+./blutengel/blutengel_-_vampire_romance_-_Part_I-Limited_Edition:
+00_blutengel_-_vampire_romance_-_part_i-limited_edition-ep-2002-blizzard.sfv
+01_Vampire_Romance_(Edit)-blz.mp3
+02_Vampire_Romance_(Solitary_Experiments_Remix)-blz.mp3
+03_Vampire_Romance_(Dark_Ambient_Mix)-blz.mp3
+04_Vampire_Romance_(Truemmerwelten_Remix)-blz.mp3
+05_Vampire_Romance_(Inscape_Remix)-blz.mp3
+06_Vampire_Romance_(Crystal_Dance_Mix)-blz.mp3
+07_Our_Time-blz.mp3
+08_Vampire_Romance_(Album_Version)-blz.mp3
+blutengel_-_vampire_romance_-_part_i-limited_edition-ep-2002-blizzard.nfo
+
+./Classical:
+bach_-_air_on_a_g_string.mp3
+bach_-_ave_maria.mp3
+beethoven
+maurice_ravel_-_bolero.mp3
+sibelius_-_finlandia.mp3
+tchaikovsky_-_1812_Overture.mp3
+vivaldi
+yoyo_ma
+
+./Classical/beethoven:
+Beethoven - Ode to Joy (Choral) - 9th Symphony 1.mp3
+beethoven_-_the_best_of_beethoven
+
+./Classical/beethoven/beethoven_-_the_best_of_beethoven:
+01-beethoven-symphony_nr_5-atm.mp3
+02-beethoven-fur_elise-atm.mp3
+03-beethoven-eroica-atm.mp3
+04-beethoven-pathetique-atm.mp3
+05-beethoven-violin_concerto_in_d_major-atm.mp3
+06-beethoven-moonlight-atm.mp3
+07-beethoven-pastoral-atm.mp3
+08-beethoven-emperor-atm.mp3
+09-beethoven-overture_to_egmont-atm.mp3
+10-beethoven-choral-atm.mp3
+
+./Classical/vivaldi:
+the_4_seasons
+
+./Classical/vivaldi/the_4_seasons:
+autumn.mp3
+spring.mp3
+summer.mp3
+winter.mp3
+
+./Classical/yoyo_ma:
+simply_baroque
+
+./Classical/yoyo_ma/simply_baroque:
+bach__bwv_1068__air_on_the_g_string_from_suite_iii.ogg
+bach__bwv_136__dein_blut_der_edle_saft.ogg
+bach__bwv_147__jesu_joy_of_mans_desiring.ogg
+bach__bwv_163__la_mein_herz_die_mnze_sein.ogg
+bach__bwv_167__sei_lob_und_preis_mit_ehren.ogg
+bach__bwv_22__ertt_uns_durch_dein_gte.ogg
+bach__bwv_244__erbarme_dich_from_st_matthew_passion.ogg
+bach__bwv_639__ich_ruf_zu_dir_herr_jesu_christ.ogg
+bach__bwv_650__kommst_du_nun_jesu_vom_himmel_herunter.ogg
+boccherini_luigi__concerto_in_d_major_for_cello_and_orchestra_g478_allegro_con_spirito.ogg
+boccherini_luigi__concerto_in_d_major_for_cello_and_orchestra_g478_larghetto.ogg
+boccherini_luigi__concerto_in_d_major_for_cello_and_orchestra_g478_rondo_comodo_assai.ogg
+boccherini_luigi__concerto_in_d_major_for_cello_and_orchestra_g478_rondo.ogg
+boccherini_luigi__concerto_in_g_major_for_cello_and_stringorchestra_g480_adagio.ogg
+boccherini_luigi__concerto_in_g_major_for_cello_and_string_orchestra_g480_allegro.ogg
+boccherini_luigi__concerto_in_g_major_for_cello_and_stringorchestra_g480_allegro.ogg
+
+./combichrist:
+desktop.ini
+__.DS_Store
+_DS_Store
+everybody_hates_you
+
+./combichrist/everybody_hates_you:
+[Combichrist] Feed your anger.mp3
+[Combichrist] I'm happy anyway.mp3
+[Combichrist] Like to thank my buddies.mp3
+[Combichrist] Lying sack of shit.mp3
+[Combichrist] This shit will fcuk you up.mp3
+
+./computorgirl:
+computorgirl_-_the_computorgirl
+
+./computorgirl/computorgirl_-_the_computorgirl:
+00-computorgirl-the_computorgirl-ep-2002-fwyh.nfo
+Computorgirl-The Computorgirl-02-Understand.mp3
+Computorgirl-The Computorgirl-03-Could You Ever Ignore.mp3
+Computorgirl-The Computorgirl-04-The Touch.mp3
+release_report.html
+
+./cruciform_injection:
+cruciform_injection_-_critical
+
+./cruciform_injection/cruciform_injection_-_critical:
+03_masticating_swarm_(rendered_flesh_mix)-fwyh.mp3
+06_close_your_eyes-fwyh.mp3
+09_breaking_skies-fwyh.mp3
+11_cold_inertia-fwyh.mp3
+14_defiance_(massiv_in_mensch_remix)-fwyh.mp3
+
+./decoded_feedback:
+decoded_feedback_-_Biomechanic
+
+./decoded_feedback/decoded_feedback_-_Biomechanic:
+000_decoded_feedback-biomechanic-2cd-box-back-2004-fwyh.jpg
+000_decoded_feedback-biomechanic-2cd-cd2-2004-fwyh.jpg
+000_decoded_feedback-biomechanic-2cd-inlay-back-2004-fwyh.jpg
+000_decoded_feedback-biomechanic-2cd-inlay-inside-2004-fwyh.jpg
+Thumbs.db
+
+./depeche_mode:
+depeche_mode_-_songs_of_faith_and_devotion
+depeche_mode_-_violator
+desktop.ini
+
+./depeche_mode/depeche_mode_-_songs_of_faith_and_devotion:
+05 - Judas.mp3
+08 - Rush.mp3
+10 - Higher Love.mp3
+AlbumArt_{DEA766C6-7CDD-45F4-8397-D8A2EEC38426}_Small.jpg
+Folder.jpg
+
+./depeche_mode/depeche_mode_-_violator:
+01 - World In My Eyes.mp3
+03 - Personal Jesus.mp3
+06 - Enjoy The Silence.mp3
+08 - Blue Dress.mp3
+09 - Clean.mp3
+
+./de-vision:
+desktop.ini
+de-vision_-_Devolution
+
+./de-vision/de-vision_-_Devolution:
+01 Sadness.mp3
+03 Miss You More.mp3
+08 You Say....mp3
+AlbumArt_{C2388031-F3F2-4651-B55F-B32F293F95A2}_Large.jpg
+AlbumArt_{C2388031-F3F2-4651-B55F-B32F293F95A2}_Small.jpg
+
+./diva_destruction:
+desktop.ini
+diva_destruction_-_exposing_the_sickness
+
+./diva_destruction/diva_destruction_-_exposing_the_sickness:
+AlbumArt_{51253683-90A6-4F56-B4CF-ACB21A8ED4FD}_Large.jpg
+AlbumArt_{51253683-90A6-4F56-B4CF-ACB21A8ED4FD}_Small.jpg
+Diva Destruction - Exposing The Sickness - 05 - You're My Sickness.mp3
+Diva Destruction - Exposing The Sickness - 07 - The Abuser.mp3
+Diva Destruction - Exposing The Sickness - 09 - Forgotten.mp3
+
+./drowning_pool:
+desinsitized
+desktop.ini
+sinner
+
+./drowning_pool/desinsitized:
+04 - This Life - hipis@freenet.de.mp3
+05  - Nothingness - hipis@freenet.de.mp3
+07 - Love And War - hipis@freenet.de.mp3
+08 - Forget - hipis@freenet.de.mp3
+AlbumArt_{300644A9-2E84-47F0-B05C-776F445047FE}_Small.jpg
+
+./drowning_pool/sinner:
+03 - Drowning Pool - Tear Away - Sinner.mp3
+06 - Drowning Pool - Pity - Sinner.mp3
+07 - Drowning Pool - Mute - Sinner.mp3
+08 - Drowning Pool - I Am - Sinner.mp3
+10 - Drowning Pool - Told You So - Sinner.mp3
+
+./e-craft:
+desktop.ini
+e-craft_-_electrocution
+e-craft_-_forge_the_steel
+
+./e-craft/e-craft_-_electrocution:
+02 - Electrocution.mp3
+03 - Brich Es.mp3
+06 - No Grace.mp3
+09 - Die Last.mp3
+AlbumArt_{53BA1AC2-FC75-4F89-8C59-588A4E1109AC}_Small.jpg
+
+./e-craft/e-craft_-_forge_the_steel:
+02E-Craft - Believe.mp3
+03E-Craft - God is Good.mp3
+04E-Craft - Silence.mp3
+08E-Craft - Mit und Ohne.mp3
+11E-Craft - Das Rad.mp3
+
+./Electronic:
+angels_and_agony
+apop side projects
+apoptygma_berzerk
+assemblage_23
+covenant
+cruxshadows
+din_fiv
+echo_image
+front_242
+god_module
+icon_of_coil
+imperative_reaction
+informatik
+leather_strip
+mesh
+seabound
+system_syn
+vnv_nation
+wolfsheim
+
+./Electronic/angels_and_agony:
+12 - Destination (Album Version).mp3
+7 - Rites of Passage (Album Version).mp3
+angels_and_agony_-_eternity
+desktop.ini
+unison
+
+./Electronic/angels_and_agony/angels_and_agony_-_eternity:
+02 - One.mp3
+05 - Surrender.mp3
+07 - Heart _ Soul.mp3
+10 - Promised Land.mp3
+11 - Eternal entity.mp3
+AlbumArt_{01972957-6A08-406C-A72D-243840D40FF3}_Large.jpg
+AlbumArt_{01972957-6A08-406C-A72D-243840D40FF3}_Small.jpg
+AlbumArtSmall.jpg
+Folder.jpg
+Thumbs.db
+
+./Electronic/angels_and_agony/unison:
+cd1
+cd2
+desktop.ini
+Thumbs.db
+unison.jpg
+
+./Electronic/angels_and_agony/unison/cd1:
+101-emersion.mp3
+103-unison.mp3
+106-wreckage.mp3
+107-walk_on_stars.mp3
+109-traveler.mp3
+113-immersion.mp3
+AlbumArt_{E97B4774-76DE-45C5-8D1E-D74DB0D0E0A4}_Small.jpg
+Folder.jpg
+
+./Electronic/angels_and_agony/unison/cd2:
+201-forward-club_mix_by_construggle_test.mp3
+202-wreckage-remix_by_torben_wendt_diorama.mp3
+203-forward-dark_angels_remix_by_angels_and_agony.mp3
+204-traveler-flesh_and_blood_remix_by_darrin_huss_psyche.mp3
+205-unison-statesman_remix_by_code_64.mp3
+206-forward-remix_by_the_dreamside.mp3
+207-traveler-symphonic_mix_by_construggle_test.mp3
+208-forward-remix_by_ophidian.mp3
+209-watchers-remix_by_axel_ermes.mp3
+210-wreckage-silent_version_by_angels_and_agony.mp3
+
+./Electronic/apop side projects:
+fairlight children
+Total Transformation
+
+./Electronic/apop side projects/fairlight children:
+808 bit
+
+./Electronic/apop side projects/fairlight children/808 bit:
+02_fairlight_children_-_before_you_came_along-tn.mp3
+03_fairlight_children_-_falling_out-tn.mp3
+04_fairlight_children_-_invade_my_heart_tonight-tn.mp3
+06_fairlight_children_-_808_bit-tn.mp3
+07_fairlight_children_-_bedsitter-tn.mp3
+
+./Electronic/apop side projects/Total Transformation:
+In Thru Out
+
+./Electronic/apop side projects/Total Transformation/In Thru Out:
+01 - total transformation - 101.mp3
+04 - total transformation - good vibe generator.mp3
+05 - total transformation - destroy reality.mp3
+06 - total transformation - candy flip united.mp3
+09 - total transformation - love generator.mp3
+
+./Electronic/apoptygma_berzerk:
+apoptygma_berzerk_-_7
+apoptygma_berzerk_-_harmonizer
+apoptygma_berzerk_-_rings_of_saturn
+apoptygma_berzerk_-_suffer_in_silence_(promo)
+apoptygma_berzerk_-_unicorn_ep
+apoptygma_berzerk_-_Welcome To Earth
+desktop.ini
+
+./Electronic/apoptygma_berzerk/apoptygma_berzerk_-_7:
+Apoptygma Berzerk -01- Love Never Dies Part 1.mp3
+Apoptygma Berzerk -02- Mourn.mp3
+Apoptygma Berzerk -03- Non-Stop Violence.mp3
+Apoptygma Berzerk -04- 25 Cromwell St.mp3
+Apoptygma Berzerk -05- Rebel.mp3
+Apoptygma Berzerk -06- Deep Red.mp3
+Apoptygma Berzerk -07- Nearer.mp3
+Apoptygma Berzerk -08- Half Asleep.mp3
+Apoptygma Berzerk -09- Love Never Dies Part 2.mp3
+
+./Electronic/apoptygma_berzerk/apoptygma_berzerk_-_harmonizer:
+AlbumArt_{5EFCED00-441A-4437-922D-27CBCC1064CA}_Small.jpg
+apoptygma_berzerk.harmonizer-01-more_serotonin..._please.mp3
+apoptygma_berzerk.harmonizer-02-suffer_in_silence.mp3
+apoptygma_berzerk.harmonizer-03-unicorn.mp3
+apoptygma_berzerk.harmonizer-08-spindizzy.mp3
+
+./Electronic/apoptygma_berzerk/apoptygma_berzerk_-_rings_of_saturn:
+Inner_Ring
+Middle_Ring
+Outer_Ring
+
+./Electronic/apoptygma_berzerk/apoptygma_berzerk_-_rings_of_saturn/Inner_Ring:
+01_-_starsign_(extended_version).mp3
+04_-_kathys.song(ferry.corsten.12.version).mp3
+08_-_unicorn_(dj_chris_rohn_remix).mp3
+09_-_eclipse_(jeff_rush_remix).mp3
+15_-_kathys_song_(dj_beatbox_stereophonic_megalomix).mp3
+
+./Electronic/apoptygma_berzerk/apoptygma_berzerk_-_rings_of_saturn/Middle_Ring:
+01_-_electronic_warfare_(full_speed_ahead_version).mp3
+03_-_kathys.song(dj.mellow-d.vs.pulsedrivers.acid.remix).mp3
+05_-_unicorn_(extended).mp3
+06_-_kathys.song.mp3
+12_-_borrowed_time_(levitated_demo_version).mp3
+
+./Electronic/apoptygma_berzerk/apoptygma_berzerk_-_rings_of_saturn/Outer_Ring:
+05-eclipse(dimension.d.remix).mp3
+06-mourn(industrial.heads.remix).mp3
+07-beatbox.mp3
+09-sex.drugs.and.ebm(club.mix).mp3
+11-love.never.dies(dj.versago.battle.mix.series).mp3
+
+./Electronic/apoptygma_berzerk/apoptygma_berzerk_-_suffer_in_silence_(promo):
+00_apoptygma_berzerk_-_suffer_in_silence-cdm-2002-cmg.sfv
+01_apoptygma_berzerk-suffer_in_silence__kyau_vs_albert_remix-mtc.mp3
+01_suffer_in_silence_(single_edit)-cmg.mp3
+02_apoptygma_berzerk-suffer_in_silence__lazard_mix-mtc.mp3
+03_suffer_in_silence_(electro)-cmg.mp3
+
+./Electronic/apoptygma_berzerk/apoptygma_berzerk_-_unicorn_ep:
+000_apoptygma_berzerk-unicorn_ep_and_the_harmonizer_dvda-2cd-2004-back-fwyh.jpg
+000_apoptygma_berzerk-unicorn_ep_and_the_harmonizer_dvda-2cd-2004-inside-fwyh.jpg
+102_apoptygma_berzerk-unicorn_(fairlight_children_rmx)-fwyh.mp3
+103_apoptygma_berzerk-unicorn_(t.o.y._rmx)-fwyh.mp3
+104_apoptygma_berzerk-unicorn_(killin_rmx_by_freezepop)-fwyh.mp3
+105_apoptygma_berzerk-unicorn_(hocico_rmx)-fwyh.mp3
+106_apoptygma_berzerk-unicorn_(alon_cohen_rmx)-fwyh.mp3
+108_apoptygma_berzerk-pikachu_(no_comment_rmx)-fwyh.mp3
+109_apoptygma_berzerk-114_bpm-fwyh.mp3
+110_apoptygma_berzerk-a_strange_day-fwyh.mp3
+
+./Electronic/apoptygma_berzerk/apoptygma_berzerk_-_Welcome To Earth:
+02 - Starsign.mp3
+03 - Eclipse.mp3
+04 - Help Me!.mp3
+07 - Moment Of Tranquility.mp3
+08 - Fade To Black.mp3
+09 - 64K.mp3
+11 - Soultaker.mp3
+AlbumArt_{2E60A5CA-FF7A-47EB-81A9-2376D06957E0}_Small.jpg
+AlbumArtSmall.jpg
+Folder.jpg
+
+./Electronic/assemblage_23:
+assemblage_23_-_Bruise
+assemblage_23_-_defiance
+assemblage_23_-_disappoint
+assemblage_23_-_document
+assemblage_23_-_meta
+assemblage_23-Spark-CDM-2009-AMOK
+assemblage_23_-_storm
+desktop.ini
+__.DS_Store
+_DS_Store
+
+./Electronic/assemblage_23/assemblage_23_-_Bruise:
+00_assemblage_23-bruise-2012.jpg
+00_assemblage_23-bruise-2012.nfo
+01_assemblage_23-crosstalk.mp3
+03_assemblage_23-over_and_out.mp3
+08_assemblage_23-the_other_side_of_the_wall.mp3
+
+./Electronic/assemblage_23/assemblage_23_-_defiance:
+04-assemblage_23_-_cocoon-amok.mp3
+07-assemblage_23_-_horizon-amok.mp3
+08-assemblage_23_-_light-amok.mp3
+09-assemblage_23_-_maps_of_reality-amok.mp3
+10-assemblage_23_-_lullaby-amok.mp3
+
+./Electronic/assemblage_23/assemblage_23_-_disappoint:
+assemblage23.disappoint-01-disappoint_(assemblage_23_guilt_remix).mp3
+assemblage23.disappoint-02-disappoint_(funker_vogt_remix).mp3
+assemblage23.disappoint-04-disappoint_(lights_of_euphoria_ward_of_fear_mix).mp3
+assemblage23.disappoint-05-disappoint_(in_the_nursery_itn_affinity_mix).mp3
+assemblage23.disappoint-07-disappoint_(ed_vargo_of_thd_down_and_gone_out_remix).mp3
+
+./Electronic/assemblage_23/assemblage_23_-_document:
+00-assemblage_23-document-promo_cdm-2002-radial.nfo
+00-assemblage_23-document-promo_cdm-2002-radial.sfv
+01-document_(original_mix)-radial.mp3
+02-document_(endanger_mix)-radial.mp3
+03-document_(laplegua_mix_by_icon_of_coil)-radial.mp3
+04-document_(das_ich_remix)-radial.mp3
+05-underneath_the_ice-radial.mp3
+07-document_(ultimate-gloom-mix_by_echo_image)-radial.mp3
+08-document_(haujobb._remix)-radial.mp3
+10-document_(forma_tadre_remix)-radial.mp3
+
+./Electronic/assemblage_23/assemblage_23_-_meta:
+00-assemblage_23-meta-.accession_records.-2007.sfv
+02-assemblage_23-raw.mp3
+06-assemblage_23-damaged.mp3
+07-assemblage_23-madmans_dream.mp3
+AlbumArt_{80CA94F7-5592-4F0E-8B83-0C3E986ABDAC}_Small.jpg
+
+./Electronic/assemblage_23/assemblage_23-Spark-CDM-2009-AMOK:
+00-assemblage_23-spark-cdm-2009.m3u
+00-assemblage_23-spark-cdm-2009.nfo
+00-assemblage_23-spark-cdm-2009.sfv
+01-spark_album_mix.mp3
+02-helicopter_girl.mp3
+03-spark_combichrist_rmx.mp3
+04-the_poison_moon.mp3
+05-spark_whiteout_mix_by_jade_from_blaqk_audio.mp3
+
+./Electronic/assemblage_23/assemblage_23_-_storm:
+00-assemblage_23-storm-2004-fwyh.nfo
+01-human-fwyh.mp3
+03-ground-fwyh.mp3
+07-you_havent_earned_it-fwyh.mp3
+AlbumArt_{BB0861C1-BBE3-43D4-BC94-64F8230A7653}_Large.jpg
+
+./Electronic/covenant:
+covenant_-_call_the_ships_to_port
+covenant_-_northern_light_-_(Ltd.Ed.-Vinyl)
+covenant_-_sequencer
+covenant_-_united_states_of_mind
+desktop.ini
+
+./Electronic/covenant/covenant_-_call_the_ships_to_port:
+00_covenant_-_call_the_ships_to_port-ep-2002-inlayfwyh.jpg
+01 - Call The Ships To Port (singleversion).mp3
+02 - Call The Ships To Port (club version).mp3
+03 - Call The Ships To Port (oliver klitzing remix).mp3
+04 - Call The Ships To Port (christian morgenstern remix).mp3
+05 - Call The Ships To Port (kaylab remix).mp3
+06 - Call The Ships To Port (thomas_p.heckmann remix).mp3
+f33dback.nfo
+Folder.jpg
+Thumbs.db
+
+./Electronic/covenant/covenant_-_northern_light_-_(Ltd.Ed.-Vinyl):
+d12-bullet_(club_version)-radial.mp3
+d13-call_the_ships_to_port_(club_version)-radial.mp3
+d14-bullet_(funky_indian)-radial.mp3
+d15-dont_go-radial.mp3
+
+./Electronic/covenant/covenant_-_sequencer:
+AlbumArt_{5263DEAB-C430-4DE6-AAE6-BBB310184230}_Large.jpg
+AlbumArt_{5263DEAB-C430-4DE6-AAE6-BBB310184230}_Small.jpg
+AlbumArtSmall.jpg
+covenant_-01-_feedback.mp3
+covenant_-02-_stalker.mp3
+covenant_-04-_phoenix.mp3
+covenant_-07-_storm.mp3
+covenant_-10-_stalker_(all_shapes_remix).mp3
+covenant_-12-_babel.mp3
+Folder.jpg
+
+./Electronic/covenant/covenant_-_united_states_of_mind:
+02 - Covenant - No Mans Land.mp3
+03 - Covenant - Afterhours.mp3
+05 - Covenant - Tour De Force.mp3
+06 - Covenant - Unforgiven.mp3
+08 - Covenant - Dead Stars (Version).mp3
+10 - Covenant - Still Life.mp3
+11 - Covenant - You Can Make Your Own Music.mp3
+AlbumArt_{0DB2BE7B-0C8B-424E-B27D-770B19DFFC4F}_Large.jpg
+AlbumArtSmall.jpg
+Folder.jpg
+
+./Electronic/cruxshadows:
+AlbumArt_{1C649FC6-EE5D-43F6-B360-09C16413CAB7}_Large.jpg
+AlbumArt_{1C649FC6-EE5D-43F6-B360-09C16413CAB7}_Small.jpg
+AlbumArt_{9D5AA73D-04FF-4888-A7B0-43D75E5EC8E0}_Large.jpg
+AlbumArt_{9D5AA73D-04FF-4888-A7B0-43D75E5EC8E0}_Small.jpg
+AlbumArt_{ADD33A4A-5CBB-4365-9E34-1670A3027DF0}_Large.jpg
+AlbumArt_{ADD33A4A-5CBB-4365-9E34-1670A3027DF0}_Small.jpg
+AlbumArtSmall.jpg
+cruxshadows- marilyn, my bitterness v2.0.mp3
+cruxshadows - monument.mp3
+cruxshadows-return_(coming_home)_(assemblage_23_remix)-fwyh.mp3
+desktop.ini
+Folder.jpg
+
+./Electronic/din_fiv:
+desktop.ini
+din_fiv_-_escape_to_reality
+
+./Electronic/din_fiv/din_fiv_-_escape_to_reality:
+din_fiv - 02 - We Are.mp3
+din_fiv - 03 - Conspiracy.mp3
+din_fiv - 04 - I Say.mp3
+din_fiv - 07 - Cataclysm.mp3
+din_fiv - 09 - We are (Deathguild Remix By Battery).mp3
+
+./Electronic/echo_image:
+desktop.ini
+echo_image_-_compuphonic
+Echo Image - Skulk - 03 - The Neverending Story (Fantasian Mix).mp3
+
+./Electronic/echo_image/echo_image_-_compuphonic:
+AlbumArt_{14A89AE0-929E-4BBC-BBF1-8151801C4120}_Large.jpg
+AlbumArtSmall.jpg
+Echo Image - Compuphonic - 02 - Standing Alone.mp3
+Echo Image - Compuphonic - 04 - Messing With Love.mp3
+Echo Image - Compuphonic - 05 - Skulk.mp3
+Echo Image - Compuphonic - 07 - Need To Be Proud.mp3
+Echo Image - Compuphonic - 09 - Come Back.mp3
+Echo Image - Compuphonic - 11 - Understand.mp3
+Echo Image - Compuphonic - 12 - Good Intention (Centravibe Mi.mp3
+Folder.jpg
+
+./Electronic/front_242:
+desktop.ini
+front_242_-_angels_and_animals
+front_242_-_evil_off
+front_242_-_front_by_front
+front_242_-_headhunter_2000
+front_242_-_headhunter_2000-20160825T111947Z.zip
+front_242_-_Pulse
+front_242_Welcome To Paradise (V2.0).mp3
+
+./Electronic/front_242/front_242_-_angels_and_animals:
+01 - Animal (radio).mp3
+05 - Animal (extended).mp3
+06 - Break me (female).mp3
+AlbumArt_{0CA63C1D-F5CA-4F4D-A342-D5E516707111}_Large.jpg
+Folder.jpg
+
+./Electronic/front_242/front_242_-_evil_off:
+front_242_-03-_animal_(guide).mp3
+front_242_-05-_junkdrome.mp3
+front_242_-07-_skin_(fur_coat).mp3
+front_242_-11-_animal_(zoo).mp3
+front_242_-12-_serial_killers_don't_kill_their_boyfriend.mp3
+
+./Electronic/front_242/front_242_-_front_by_front:
+Front 242 - Front By Front - 05 - First In - First Out.mp3
+Front 242 - Front By Front - 07 - Headhunter V3. 0.mp3
+Front 242 - Front By Front - 09 - Terminal State.mp3
+Front 242 - Front By Front - 13 - Work 242 N. Off Is N. Off.mp3
+Front 242 - Front By Front - 16 - Work 242.mp3
+
+./Electronic/front_242/front_242_-_headhunter_2000:
+Front 242 - Headhunter (Apoptygma Berzerk).mp3
+Front 242 - Headhunter (Haujobb Mix).mp3
+Front 242 - Headhunter (Noisex Mix).mp3
+Front 242 - Headhunter (Space Frog Mix).mp3
+Front 242 - Headhunter (Xingu Mix).mp3
+
+./Electronic/front_242/front_242_-_Pulse:
+AlbumArt_{4827B0B7-3D26-4947-9714-CF2A1E71EC64}_Small.jpg
+Front 242 - Pulse - 09 - Beyond The Scale Of Comprehension.mp3
+Front 242 - Pulse - 14 - Matrix Openstatic.mp3
+Front 242 - Pulse - 15 - Matrix Megahertz.mp3
+Front 242 - Pulse - 17 - Never Lost Riley.mp3
+
+./Electronic/god_module:
+god_module_-_artificial
+god_module_-_empath
+
+./Electronic/god_module/god_module_-_artificial:
+06-where_even_the_stars_still_shine-amok.mp3
+08-denial-amok.mp3
+09-sight-amok.mp3
+10-divine_separation-amok.mp3
+12-symmetry-amok.mp3
+
+./Electronic/god_module/god_module_-_empath:
+00-god_module-empath-2003-fwyh.nfo
+03-as_the_night_falls-fwyh.mp3
+06-curse-fwyh.mp3
+07-levitation-fwyh.mp3
+10-lunacy-fwyh.mp3
+
+./Electronic/icon_of_coil:
+icon_of_coil_-_android
+icon_of_coil_-_machines_are_us
+icon_of_coil_-_one_nation_under_beat
+icon_of_coil_-_The Soul Is In The Software
+icon_of_coil_-_uploadedandremixed
+
+./Electronic/icon_of_coil/icon_of_coil_-_android:
+00-icon_of_coil-android-cdm-2003-front-fwyh.jpg
+00-icon_of_coil-android-cdm-2003-fwyh.sfv
+01-android-fwyh.mp3
+02-headhunter_exclusive_single_edit-fwyh.mp3
+03-android_non_human_mix_by_moonitor-fwyh.mp3
+
+./Electronic/icon_of_coil/icon_of_coil_-_machines_are_us:
+01 - Comment V.2.0.mp3
+03 - Consumer.mp3
+05 - Monooverload.mp3
+06 - Existence In Progress.mp3
+10 - Wiretrap.mp3
+
+./Electronic/icon_of_coil/icon_of_coil_-_one_nation_under_beat:
+2. Brighter day (V.1.O.).mp3
+3. We need (Club Mix).mp3
+5. Confront (Floorkiller Remix By Epy).mp3
+6. We need (Water REmix By Sector 9).mp3
+One Nation Under  Beat Front.jpg
+
+./Electronic/icon_of_coil/icon_of_coil_-_The Soul Is In The Software:
+02 - Thrill Capsule.mp3
+03 - Violations.mp3
+04 - In Absence.mp3
+05 - Access And Amplify.mp3
+09 - Disconnect.mp3
+
+./Electronic/icon_of_coil/icon_of_coil_-_uploadedandremixed:
+00-icon_of_coil-uploaded_and_remixed-2004-fwyh.sfv
+01-shallow_nation_(2004_version)-fwyh.mp3
+06-thrillcapsule_(moonitor_remix)-fwyh.mp3
+08-you_just_died_(northborn_remix)-fwyh.mp3
+10-floorkiller_(daedal_remix)-fwyh.mp3
+
+./Electronic/imperative_reaction:
+As_We_Fall
+desktop.ini
+Eulogy_For_The_Sick_Child
+Minus_All
+Redemption
+Ruined
+
+./Electronic/imperative_reaction/As_We_Fall:
+01_imperative_reaction-collapse-fwyh.mp3
+02_imperative_reaction-judas-fwyh.mp3
+03_imperative_reaction-further_to_fall-fwyh.mp3
+04_imperative_reaction-only_in_my_mind-fwyh.mp3
+05_imperative_reaction-never_ending-fwyh.mp3
+06_imperative_reaction-as_we_fall-fwyh.mp3
+07_imperative_reaction-hang_from_your_own_rope-fwyh.mp3
+08_imperative_reaction-closed_in-fwyh.mp3
+09_imperative_reaction-divide-fwyh.mp3
+10_imperative_reaction-dissolve-fwyh.mp3
+AlbumArt_{4207191F-827E-4E71-B5BF-6A8ADC11131F}_Large.jpg
+AlbumArt_{4207191F-827E-4E71-B5BF-6A8ADC11131F}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+Thumbs.db
+
+./Electronic/imperative_reaction/Eulogy_For_The_Sick_Child:
+AlbumArt_{BF579689-75EF-4A30-92A5-5B8893BDE30F}_Large.jpg
+Imperative Reaction - 03 - Eulogy For The Sick Child - Forced.mp3
+Imperative Reaction - 04 - Eulogy For The Sick Child - CompressedTerror.mp3
+Imperative Reaction - 05 - Eulogy For The Sick Child - Flatline.mp3
+Thumbs.db
+
+./Electronic/imperative_reaction/Minus_All:
+01_imperative_reaction-minus_all.mp3
+04_imperative_reaction-giving_up.mp3
+05_imperative_reaction-torn_down.mp3
+07_imperative_reaction-defect.mp3
+08_imperative_reaction-functional.mp3
+09_imperative_reaction-in_decline.mp3
+10_imperative_reaction-head_up_too_high.mp3
+11_imperative_reaction-without.mp3
+12_imperative_reaction-you_remain.mp3
+13_imperative_reaction-panic_cycle.mp3
+
+./Electronic/imperative_reaction/Redemption:
+AlbumArtSmall.jpg
+Folder.jpg
+Imperative Reaction - Redemption - 01 - Arrogance.mp3
+Imperative Reaction - Redemption - 03 - Giving Into The Change.mp3
+Imperative Reaction - Redemption - 04 - Guilt.mp3
+Imperative Reaction - Redemption - 05 - Faded Into One.mp3
+Imperative Reaction - Redemption - 06 - Malady.mp3
+Imperative Reaction - Redemption - 09 - Salvation.mp3
+Imperative Reaction - Redemption - 10 - Alone.mp3
+Thumbs.db
+
+./Electronic/imperative_reaction/Ruined:
+01-Severed.mp3
+02-Fault.mp3
+03-Beneath My Silence.mp3
+04-Diminish Me.mp3
+05-Disoriented.mp3
+06-Ruined.mp3
+07-Parallel.mp3
+08-Rift.mp3
+09-Never Tomorrow.mp3
+10-Paradox.mp3
+
+./Electronic/informatik:
+informatik_-_direct_memory_access_v2
+informatik_-_nymphomatik
+informatik_-_revision
+informatik_-_syntax
+
+./Electronic/informatik/informatik_-_direct_memory_access_v2:
+01 - Informatik - Human Nature.mp3
+02 - Informatik - Autonomous.mp3
+03 - Informatik - At Your Command.mp3
+04 - Informatik - Peril Eyes.mp3
+05 - Informatik - I Confess (Repentenance Mix).mp3
+06 - Informatik - Immigrant Song.mp3
+07 - Informatik - Silicon.mp3
+08 - Informatik - Violation.mp3
+09 - Informatik - Autonomous (Nothing Is Real Mi.mp3
+10 - Informatik - I Confess (I Wanted To Pray Mi.mp3
+
+./Electronic/informatik/informatik_-_nymphomatik:
+00-informatik_-_nymphomatik-2002-cmg.sfv
+02-hopeless-cmg.mp3
+03-perfect_stranger-cmg.mp3
+04-physical_education-cmg.mp3
+06-built_for_pleasure-cmg.mp3
+07-a_matter_of_time-cmg.mp3
+09-96_degrees-cmg.mp3
+10-10_-_perfect_stranger_(robot_mix_by_negative_format)-cmg.mp3
+11-physical_education_(day_job_mix_by_stromkern)-cmg.mp3
+informatik_-_nymphomatik-2002-cmg.nfo
+
+./Electronic/informatik/informatik_-_revision:
+00-informatik-revision-2004-fwyh.nfo
+00-informatik-revision-2004-fwyh.sfv
+01-the_world_belongs_to_us-fwyh.mp3
+02-over_(iris_rmx)-fwyh.mp3
+05-flesh_menagerie_(funker_vogt_rmx)-fwyh.mp3
+07-a_matter_of_time_(assemblage_23_rmx)-fwyh.mp3
+08-autonomous_(constant_surveillance_revision)-fwyh.mp3
+09-house_of_cards-fwyh.mp3
+10-at_your_command_(abdication_revision)-fwyh.mp3
+_checked
+
+./Electronic/informatik/informatik_-_syntax:
+Informatik - Syntax - 10 Peril Eyes (Decoded Feedback Remix)  .mp3
+Informatik - Syntax - 11 Watching You Watching Me (Ncc Remix)  .mp3
+Informatik - Syntax - 1 Things To Come (War Changes Nothing Mix)  .mp3
+Informatik - Syntax - 2 Night Life  .mp3
+Informatik - Syntax - 3 Entropy (Syntax Mix)  .mp3
+Informatik - Syntax - 5 Watching You Watching Me  .mp3
+Informatik - Syntax - 6 Now Here  .mp3
+Informatik - Syntax - 7 Retrogradation  .mp3
+Informatik - Syntax - 8 Nameless  .mp3
+Informatik - Syntax - 9 Innocence And Blood  .mp3
+
+./Electronic/leather_strip:
+leather_strip_-_self-inflicted
+suicide_bombers
+
+./Electronic/leather_strip/leather_strip_-_self-inflicted:
+leæther_strip_-03-_understand_my_torment.mp3
+leæther_strip_-05-_give_it_back.mp3
+leæther_strip_-06-_face_the_fire.mp3
+leæther_strip_-08-_tell_me_what_to_do!.mp3
+leæther_strip_-11-_showroom_dummies.mp3
+
+./Electronic/leather_strip/suicide_bombers:
+00_leaether_strip-suicide_bombers-cdm-2005-back-outside-fwyh.jpg
+00_leaether_strip-suicide_bombers-cdm-2005-front-outside-fwyh.jpg
+04_leaether_strip-this_is_where_i_wanna_be-fwyh.mp3
+05_leaether_strip-death_is_walking_next_to_me-fwyh.mp3
+07_leaether_strip-reborn-fwyh.mp3
+
+./Electronic/mesh:
+crash
+fragmente
+mesh_-_The Point At Which It Falls Apart
+mesh_-_who_watches_over_me
+we_collide
+
+./Electronic/mesh/crash:
+Mesh - (2006) Crash - 01 - Original version.mp3
+Mesh - (2006) Crash - 02 - Mesh Collision mix .mp3
+Mesh - (2006) Crash - 03 - Alien Six Kerosine mix .mp3
+
+./Electronic/mesh/fragmente:
+000-mesh_-_fragmente_2-2cd-2002-cmg.sfv
+102-trust_you_(single_version)-cmg.mp3
+107-the_purest_people-cmg.mp3
+108-save_with_me-cmg.mp3
+111-it_scares_me_(mesh_locarno_mix)-cmg.mp3
+201-trust_you_(mesh_remix)-cmg.mp3
+206-not_prepared_(blowhole_mix)-cmg.mp3
+208-something_wrong-cmg.mp3
+209-sympathy-cmg.mp3
+211-time_enough_(snares_mix)-cmg.mp3
+
+./Electronic/mesh/mesh_-_The Point At Which It Falls Apart:
+01 - I Fall Over.mp3
+02 - Self Healing Lie.mp3
+03 - People Like Me (With This Gun).mp3
+04 - Needle In A Bruise.mp3
+05 - These Empty Rooms.mp3
+07 - The Damage You Do.mp3
+08 - Fallen.mp3
+10 - Is Nothing Sacred.mp3
+11 - My Saddest Day.mp3
+12 - Not Prepared.mp3
+
+./Electronic/mesh/mesh_-_who_watches_over_me:
+01_mesh_-_firefly.mp3
+02_mesh_-_leave_you_nothing.mp3
+03_mesh_-_to_be_alive.mp3
+05_mesh_-_little_missile.mp3
+06_mesh_-_razorwire.mp3
+07_mesh_-_four_walls.mp3
+08_mesh_-_what_does_it_cost_you.mp3
+09_mesh_-_i_can't_imagine_how_it_hurts.mp3
+10_mesh_-_the_place_you_hide.mp3
+12_mesh_-_the_trouble_we're_in.mp3
+
+./Electronic/mesh/we_collide:
+00_mesh-we_collide-2006-fwyh.sfv
+01_mesh-open_up_the_ground-fwyh.mp3
+02_mesh-what_are_you_scared_of-fwyh.mp3
+03_mesh-step_by_step-fwyh.mp3
+04_mesh-no_place_like_home-fwyh.mp3
+05_mesh-petrified-fwyh.mp3
+06_mesh-rest_in_pieces-fwyh.mp3
+07_mesh-that_is_what_you_wanted-fwyh.mp3
+09_mesh-my_hands_are_tied-fwyh.mp3
+11_mesh-can_you_mend_hearts-fwyh.mp3
+
+./Electronic/seabound:
+desktop.ini
+seabound_-_beyond_flatline
+seabound_-_no_sleep_demon_V2
+seabound_-_poisonous_friend
+
+./Electronic/seabound/seabound_-_beyond_flatline:
+00-keyla-easily-(promo-cds)-2004-osc.nfo
+00-seabound-beyond_flatline-2004-fwyh.nfo
+00-seabound-beyond_flatline-2004-fwyh.sfv
+02-contact-fwyh.mp3
+03-soul_diver-fwyh.mp3
+04-digital-fwyh.mp3
+07-torch-fwyh.mp3
+09-watching_over_you-fwyh.mp3
+AlbumArt_{25A1DD75-E8E0-4C47-8933-06E640DFE6FD}_Large.jpg
+Folder.jpg
+
+./Electronic/seabound/seabound_-_no_sleep_demon_V2:
+02. Travelling.mp3
+03. Exorcize.mp3
+04. Point break.mp3
+05. Torn.mp3
+08. Coward.mp3
+09. Avalost instrumental.mp3
+10. Rome on fire.mp3
+11. Day of the century.mp3
+12. Hooked radical mix.mp3
+13. Avalost vocal.mp3
+
+./Electronic/seabound/seabound_-_poisonous_friend:
+00_seabound-poisonous_friend-promo-2004-fwyh.sfv
+02_seabound-poisonous_friend_(iris_remix)-fwyh.mp3
+03_seabound-contact_(fluke_remix_by_cut.rate.box)-fwyh.mp3
+04_seabound-watching_over_you_(haujobb_remix)-fwyh.mp3
+05_seabound-without_you-fwyh.mp3
+08_seabound-poisonous_friend_(club_remix)-fwyh.mp3
+AlbumArt_{92FBED51-6F19-4C10-B93F-380F950D715F}_Large.jpg
+AlbumArt_{92FBED51-6F19-4C10-B93F-380F950D715F}_Small.jpg
+AlbumArtSmall.jpg
+Folder.jpg
+
+./Electronic/system_syn:
+Postscript (2005)
+
+./Electronic/system_syn/Postscript (2005):
+Folder.jpg
+SYSTEM SYN - Postscript - 01 - Burning Out.mp3
+SYSTEM SYN - Postscript - 02 - Into My Veins.mp3
+SYSTEM SYN - Postscript - 03 - If You Never Heal.mp3
+SYSTEM SYN - Postscript - 05 - All The Human Things.mp3
+SYSTEM SYN - Postscript - 06 - Through This.mp3
+SYSTEM SYN - Postscript - 07 - Now.mp3
+SYSTEM SYN - Postscript - 08 - I Never Was.mp3
+SYSTEM SYN - Postscript - 09 - The Saddest Sound Was You.mp3
+SYSTEM SYN - Postscript - 10 - Somewhere.mp3
+
+./Electronic/vnv_nation:
+AlbumArt_{302A1BCB-2820-4496-9A4F-647C74D0AE44}_Large.jpg
+AlbumArt_{302A1BCB-2820-4496-9A4F-647C74D0AE44}_Small.jpg
+AlbumArt_{DD8AF307-992E-4897-AD7C-AB95B00E8522}_Large.jpg
+AlbumArt_{DD8AF307-992E-4897-AD7C-AB95B00E8522}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+judgement
+Thumbs.db
+vnv_nation_-_Advance And Follow (v2)
+vnv_nation_-_burning_empires
+vnv_nation_-_chrome.mp3
+vnv_nation_-_darkangel
+vnv_nation_-_empires
+Vnv Nation - Future Perfect
+vnv_nation_-_genesis.1
+vnv_nation_-_genesis.2
+vnv_nation_-_Honour 2003 CDM
+VNV Nation - Honour (memorial remix).mp3
+vnv_nation_-_praise_the_fallen
+vnv_nation_-_solitary
+vnv_nation_-_transnational
+
+./Electronic/vnv_nation/judgement:
+03 Testament.mp3
+05 Momentum.mp3
+AlbumArt_{302A1BCB-2820-4496-9A4F-647C74D0AE44}_Large.jpg
+AlbumArt_{302A1BCB-2820-4496-9A4F-647C74D0AE44}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+vnv_nation_-_illusion.mp3
+
+./Electronic/vnv_nation/vnv_nation_-_Advance And Follow (v2):
+01 - Anthem.mp3
+02 - Afterfire.mp3
+03 - Frika.mp3
+04 - Serial Code.mp3
+05 - Serial Killer.mp3
+06 - Cold.mp3
+07 - Amhran Comhrac.mp3
+08 - Requiem QCN.mp3
+09 - Outremer.mp3
+10 - Fiume.mp3
+11 - Aftershock.mp3
+12 - Serial Killer (Tormented).mp3
+13 - Circling Overland.mp3
+14 - DSM02.mp3
+15 - Afterfire (Storm).mp3
+
+./Electronic/vnv_nation/vnv_nation_-_burning_empires:
+vnv_nation.burn_empires-101-lastlight.mp3
+vnv_nation.burn_empires-102-kingdom_(restoration).mp3
+vnv_nation.burn_empires-103-further.mp3
+vnv_nation.burn_empires-104-legion_(janus).mp3
+vnv_nation.burn_empires-105-saviour_(vox).mp3
+vnv_nation.burn_empires-106-fragments_(splinter).mp3
+vnv_nation.burn_empires-107-legion_(anachron).mp3
+vnv_nation.burn_empires-201-vnv_nation-standing_(still).mp3
+vnv_nation.burn_empires-202-vnv_nation-standing_(motion).mp3
+vnv_nation.burn_empires-203-vnv_nation-radius^2.mp3
+vnv_nation.burn_empires-204-vnv_nation-standing_(original).mp3
+
+./Electronic/vnv_nation/vnv_nation_-_darkangel:
+VNV Nation -01- darkangel (gabriel).mp3
+VNV Nation -02- darkangel (azrael).mp3
+VNV Nation -03- tempest.mp3
+
+./Electronic/vnv_nation/vnv_nation_-_empires:
+AlbumArt_{9CB2BAD9-CDD4-41E8-8DCD-9DF27B83E0B6}_Large.jpg
+AlbumArt_{9CB2BAD9-CDD4-41E8-8DCD-9DF27B83E0B6}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+VNV Nation -01- firstlight.mp3
+VNV Nation -02- kingdom.mp3
+VNV Nation -03- rubicon.mp3
+VNV Nation -04- saviour.mp3
+VNV Nation -05- fragments.mp3
+VNV Nation -06- distant (rubicon II).mp3
+VNV Nation -07- standing.mp3
+VNV Nation -08- legion.mp3
+VNV Nation -09- darkangel.mp3
+VNV Nation -10- arclight.mp3
+
+./Electronic/vnv_nation/Vnv Nation - Future Perfect:
+Track01.mp3
+Track02.mp3
+Track03.mp3
+Track04.mp3
+Track05.mp3
+Track06.mp3
+Track07.mp3
+Track08.mp3
+Track09.mp3
+Track10.mp3
+Track11.mp3
+Track12.mp3
+
+./Electronic/vnv_nation/vnv_nation_-_genesis.1:
+AlbumArt_{7771BE4C-F6F6-4FE9-81FE-62DB462DF64E}_Large.jpg
+AlbumArt_{7771BE4C-F6F6-4FE9-81FE-62DB462DF64E}_Small.jpg
+AlbumArt_{7BBF579D-7521-487E-9CAC-E2E972234F65}_Large.jpg
+AlbumArt_{7BBF579D-7521-487E-9CAC-E2E972234F65}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+VNV Nation - Genesis (Icon Of Coil Version).mp3
+VNV Nation - Genesis (Single Version).mp3
+VNV Nation - Genesis (Thomas P. Heckman Version).mp3
+VNV Nation - Weltfunk.mp3
+
+./Electronic/vnv_nation/vnv_nation_-_genesis.2:
+AlbumArt_{7771BE4C-F6F6-4FE9-81FE-62DB462DF64E}_Large.jpg
+AlbumArt_{7771BE4C-F6F6-4FE9-81FE-62DB462DF64E}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+VNV Nation - Genesis (C92 Mix by VNV Nation).mp3
+VNV Nation - Genesis (Ivory Frequency Version).mp3
+VNV Nation - Genesis (Single Version).mp3
+VNV Nation - Left Behind.mp3
+
+./Electronic/vnv_nation/vnv_nation_-_Honour 2003 CDM:
+00-vnv_nation_-_honour-cdm-2003-fwyh.nfo
+01 - Honour 2003.mp3
+02 - Fearless (Live).mp3
+03 - Legion (Live).mp3
+04 - Second Skin (Spoken).mp3
+AlbumArt_{24AE6B42-F9E1-432C-A076-7AA9DC34B3DB}_Large.jpg
+AlbumArt_{24AE6B42-F9E1-432C-A076-7AA9DC34B3DB}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+front.jpg
+Thumbs.db
+
+./Electronic/vnv_nation/vnv_nation_-_praise_the_fallen:
+AlbumArt_{A5B6DF0B-26BA-46D0-9463-468654378AD3}_Large.jpg
+AlbumArt_{A5B6DF0B-26BA-46D0-9463-468654378AD3}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+VNV Nation -01- Chosen.mp3
+VNV Nation -02- Joy.mp3
+VNV Nation -03- Procession.mp3
+VNV Nation -04- Voice.mp3
+VNV Nation -06- Ascension.mp3
+VNV Nation -07- Honour.mp3
+VNV Nation -08- Burnout.mp3
+VNV Nation -09- Solitary.mp3
+VNV Nation -10- PTF2012.mp3
+VNV Nation -11- Schweigeminute.mp3
+
+./Electronic/vnv_nation/vnv_nation_-_solitary:
+AlbumArt_{26F98722-06F5-46C8-926D-5AFCC17D7F2A}_Large.jpg
+AlbumArt_{26F98722-06F5-46C8-926D-5AFCC17D7F2A}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+VNV Nation -01- Prologue.mp3
+VNV Nation -02- Solitary (Signals Version).mp3
+VNV Nation -03- Solitary (Deathstar Disco).mp3
+VNV Nation -04- Forsaken (Vocal Version).mp3
+VNV Nation -05- Freude (Schlachtfeld Version).mp3
+VNV Nation -06- Fallout.mp3
+VNV Nation -07- Solitary (Signals Edit).mp3
+VNV Nation -08- Solitude.mp3
+
+./Electronic/vnv_nation/vnv_nation_-_transnational:
+01 - Generator.mp3
+02 - Everything.mp3
+03 - Primary.mp3
+04 - Retaliate.mp3
+05 - Lost Horizon.mp3
+06 - Teleconnect Pt. 1.mp3
+07 - If I was.mp3
+08 - Aeroscope.mp3
+09 - Off Screen.mp3
+10 - Teleconnect Pr. 2.mp3
+Cover.jpg
+Uploaded by [mR12].txt
+
+./Electronic/wolfsheim:
+01. [Albums]
+02. [Singles]
+03. [Remixes & Tracks]
+04. [Covers]
+pic
+
+./Electronic/wolfsheim/01. [Albums]:
+1988, Ken Manage (Cassette, Album) (none)
+1989, Any But Pretty (Cassette, Album) (none)
+1992, No Happy View (CD, Album) (WAY 031)
+1993, Popkiller (CD, Album) (WAY 49)
+1995, 55578 (CD, Compilation) (WAY 77)
+1996, Dreaming Apes (CD, Album) (WAY 111)
+1997, Hamburg Rom (CD, Live Album) (WAY 157)
+1999, Spectators (CD, Album) (WAY 169)
+2003, Casting Shadows (CD, Album) (WAY 197)
+
+./Electronic/wolfsheim/01. [Albums]/1988, Ken Manage (Cassette, Album) (none):
+01. [Can Manage].mp3
+02. [Angels In Jar].mp3
+03. [Tarcoola Railway].mp3
+04. [Lovemission (Live)].mp3
+05. [Dressed In Red].mp3
+06. [Lovemission].mp3
+07. [Slaughterhouse].mp3
+08. [Paradoxical Triumph (Live)].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/01. [Albums]/1989, Any But Pretty (Cassette, Album) (none):
+01. [Gates].mp3
+02. [Always].mp3
+03. [Don't Sorrow].mp3
+04. [Where Greed Talks].mp3
+05. [Elias].mp3
+06. [Kissing The Wall].mp3
+07. [Against The Clock].mp3
+08. [Nasty].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/01. [Albums]/1992, No Happy View (CD, Album) (WAY 031):
+01. [Can Manage].mp3
+02. [Following You].mp3
+03. [Annie].mp3
+04. [Leading Men].mp3
+05. [It's Not Too Late].mp3
+06. [The Sparrows and the Nightingales].mp3
+07. [Angry Today].mp3
+08. [Kissing the Wall].mp3
+09. [This Time].mp3
+10. [Anybody's Window].mp3
+11. [Listen!].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/01. [Albums]/1993, Popkiller (CD, Album) (WAY 49):
+01. [For you I'm bleeding].mp3
+02. [Tender days].mp3
+03. [Lovesong].mp3
+04. [Kaufraush].mp3
+05. [Entropy].mp3
+06. [No happy view].mp3
+07. [Now I fall].mp3
+08. [(The obvious fact that) scars remain (and how to cope with it)].mp3
+09. [Childhood cruel].mp3
+10. [Gates].mp3
+11. [Auf ein Wort...].mp3
+12. [Faith].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/01. [Albums]/1995, 55578 (CD, Compilation) (WAY 77):
+01. [Elias].mp3
+02. [Lovesong (Club Mix)].mp3
+03. [Now I Fall].mp3
+04. [Where Greed Talks].mp3
+05. [Youth & Greed].mp3
+06. [Anybody's Window (909 Remix)].mp3
+07. [It's Not Too Late (Don't Sorrow) (Long Version)].mp3
+08. [The Sparrows And The Nightingales (Long Version)].mp3
+09. [Real].mp3
+10. [Ruby, Don't Take Your Love To Town].mp3
+11. [A Look Into Your Heart (Different Version)].mp3
+12. [Annie (Early Version)].mp3
+13. [Circles].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/01. [Albums]/1996, Dreaming Apes (CD, Album) (WAY 111):
+01. [Upstairs].mp3
+02. [Traces of China].mp3
+03. [Closer Still].mp3
+04. [A New Starsystem Has Been Explored].mp3
+05. [India Theme].mp3
+06. [A Million Miles].mp3
+07. [La Danse des Soleils].mp3
+08. [Old Man's Valley].mp3
+09. [Leave No Deed Undone].mp3
+10. [A Rambling Shadow].mp3
+11. [Anyway].mp3
+12. [Ubers Jahr].mp3
+13. [Old Piano Theme].mp3
+14. [A Broken Whisper].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/01. [Albums]/1997, Hamburg Rom (CD, Live Album) (WAY 157):
+01. [Intro].mp3
+02. [The Sparrows And The Nightingales].mp3
+03. [A Look Into Your Heart].mp3
+04. [It's Not Too Late].mp3
+05. [Annie].mp3
+06. [Kissing The Wall].mp3
+07. [Now I Fall].mp3
+08. [For You I'm Bleeding].mp3
+09. [Elias].mp3
+10. [A Million Lovesongs].mp3
+11. [Closer Still].mp3
+12. [Upstairs].mp3
+13. [Old Man's Valley].mp3
+14. [A Broken Whisper].mp3
+15. [Leave No Deed Undone].mp3
+16. [A New Starsystem Has Been Explored].mp3
+17. [Ьbers Jahr].mp3
+18. [Ruby].mp3
+19. [This Time].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/01. [Albums]/1999, Spectators (CD, Album) (WAY 169):
+CD1
+CD2 - Bonus Live CD
+Folder.jpg
+
+./Electronic/wolfsheim/01. [Albums]/1999, Spectators (CD, Album) (WAY 169)/CD1:
+01. [It's Hurting for the First Time].mp3
+02. [Kunstliche Welten].mp3
+03. [Touch].mp3
+04. [Blind].mp3
+05. [Once in a Lifetime].mp3
+06. [Sleep Somehow].mp3
+07. [For You].mp3
+08. [Read the Lines].mp3
+09. [I Don't Love You Anymore].mp3
+10. [Heroin, She Said].mp3
+11. [E].mp3
+
+./Electronic/wolfsheim/01. [Albums]/1999, Spectators (CD, Album) (WAY 169)/CD2 - Bonus Live CD:
+01. [A Look in your Heart].mp3
+02. [Closer still].mp3
+03. [Leave no Deed undone].mp3
+04. [A new Starsystem has been explored].mp3
+05. [This Time].mp3
+
+./Electronic/wolfsheim/01. [Albums]/2003, Casting Shadows (CD, Album) (WAY 197):
+01. [Everyone Who Casts A Shadow].mp3
+02. [Care For You].mp3
+03. [I Won't Believe].mp3
+04. [Kein Zurьck].mp3
+05. [And I ...].mp3
+06. [Underneath The Veil].mp3
+07. [Find You're Gone].mp3
+08. [This Is For Love].mp3
+09. [Wundervoll].mp3
+10. [Approaching Lightspeed].mp3
+11. [In Time].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/02. [Singles]:
+1991, The Sparrows And The Nightingales (CD, Single) (EFA 11071-03)
+1992, It's Not Too Late (CD, Maxi-Single) (WAY 27)
+1992, Thunderheart (CD, Single) (WAY 034)
+1993, Now I Fall (CD, Single) (WAY 046)
+1994, Elias (CD, Single) (WAY 065)
+1995, A New Starsystem Has Been Explored (CD, Single) (WAY 124)
+1995,  Closer Still (CD, Single) (WAY 120)
+1998. It's Hurting For The First Time (CD, Single) (563 241-2)
+1998, Once In A Lifetime (CD, Single) (Way 168)
+1999, Kunstliche Welten (CD, Single) (WAY 171)
+2003, Find You're Here - Find You're Gone (2 x CD, Maxi-Single) (WAY 222)
+2003, Kein Zuruck (CD, Maxi-Single) (Way 189)
+2004, Blind (CD, Maxi-Single) (WAY 225)
+
+./Electronic/wolfsheim/02. [Singles]/1991, The Sparrows And The Nightingales (CD, Single) (EFA 11071-03):
+01. [The Sparrows And The Nightingales].mp3
+02. [Leading Men].mp3
+03. [The Sparrows And The Nightingales (Radio Edit)].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/02. [Singles]/1992, It's Not Too Late (CD, Maxi-Single) (WAY 27):
+01. [It's Not Too Late (Don't Sorrow)].mp3
+02. [Angry Today].mp3
+03. [It's Not Too Late (Remix 909)].mp3
+04. [It's Not Too Late (Radio Edit)].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/02. [Singles]/1992, Thunderheart (CD, Single) (WAY 034):
+01. [A Look Into Your Heart].mp3
+02. [Anybody's Window (Remix 909 Nr. 2)].mp3
+03. [Youth And Greed].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/02. [Singles]/1993, Now I Fall (CD, Single) (WAY 046):
+01. [Now I Fall].mp3
+02. [Where Greed Talks].mp3
+03. [For You (Instrumental)].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/02. [Singles]/1994, Elias (CD, Single) (WAY 065):
+01. [Elias].mp3
+02. [Lovesong (Club Mix)].mp3
+03. [Tender Days (Indian Mix)].mp3
+04. [Elias (Drumless)].mp3
+05. [Lovesong (Short-Cut)].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/02. [Singles]/1995, A New Starsystem Has Been Explored (CD, Single) (WAY 124):
+01. [A New Starsystem Has Been Explored (Factory)].mp3
+02. [A New Starsystem Has Been Explored (Radio)].mp3
+03. [A New Starsystem Has Been Explored (LP)].mp3
+04. [A New Starsystem Has Been Explored (Instrumental)].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/02. [Singles]/1995,  Closer Still (CD, Single) (WAY 120):
+01. [Closer Still (long version)].mp3
+02. [Closer Still (radio edit)].mp3
+03. [Closer Still (instrumental)].mp3
+04. [Tapir (instrumental)].mp3
+05. [Now I Fall (factory remix)].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/02. [Singles]/1998. It's Hurting For The First Time (CD, Single) (563 241-2):
+01. [It's Hurting For The First Time].mp3
+02. [It's Hurting For The First Time (instrumental)].mp3
+03. [Real (live)].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/02. [Singles]/1998, Once In A Lifetime (CD, Single) (Way 168):
+01. [Once In A Lifetime].mp3
+02. [Heroin, She Said].mp3
+03. [Love Is Strange].mp3
+04. [Once In A Lifetime (extended)].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/02. [Singles]/1999, Kunstliche Welten (CD, Single) (WAY 171):
+01. [Kunstliche Welten (video edit)].mp3
+02. [Kunstliche Welten (praha edit)].mp3
+03. [Kunstliche Welten (club edit)].mp3
+04. [F].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/02. [Singles]/2003, Find You're Here - Find You're Gone (2 x CD, Maxi-Single) (WAY 222):
+CD1 - Find You're Here
+CD2 - Find You're Gone
+Folder.jpg
+
+./Electronic/wolfsheim/02. [Singles]/2003, Find You're Here - Find You're Gone (2 x CD, Maxi-Single) (WAY 222)/CD1 - Find You're Here:
+01. [Find You're Here (Single Edit)].mp3
+02. [Find You're Here (Instrumental)].mp3
+03. [Kein Zuruck (Live)].mp3
+
+./Electronic/wolfsheim/02. [Singles]/2003, Find You're Here - Find You're Gone (2 x CD, Maxi-Single) (WAY 222)/CD2 - Find You're Gone:
+01. [Find You're Gone (Single Edit)].mp3
+02. [Find You're Gone (Instrumental)].mp3
+03. [Kunstliche Welten (Live)].mp3
+
+./Electronic/wolfsheim/02. [Singles]/2003, Kein Zuruck (CD, Maxi-Single) (Way 189):
+01. [Kein Zurueck].mp3
+02. [And I...].mp3
+03. [Iou (exclusive track)].mp3
+04. [Kein Zurueck (oliver pinelli mix)].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/02. [Singles]/2004, Blind (CD, Maxi-Single) (WAY 225):
+01. [Blind 2004 (Herbig Mix)].mp3
+02. [Blind 2004 (Slow Alvarez Mix - Live at The Audiothorium)].mp3
+03. [Blind (Spectators Version)].mp3
+04. [Blind 2004 (Herbig Mix Instrumental)].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/03. [Remixes & Tracks]:
+1999, VA - Zillo Mystic Sounds 8 (CD, Compilation) (085-26242)
+2003, VKZ Network Remixes (Bootleg) (none)
+2003, Wundervoll (DJ promo) (none)
+
+./Electronic/wolfsheim/03. [Remixes & Tracks]/1999, VA - Zillo Mystic Sounds 8 (CD, Compilation) (085-26242):
+01. [Heroin She Said (Ernst Horn Remix)].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/03. [Remixes & Tracks]/2003, VKZ Network Remixes (Bootleg) (none):
+01. [Leave No Deed Undone (project 3.0 mix)].mp3
+02. [Kein Zuruck (vkz trance mix)].mp3
+03. [Leave No Deed Undone (vkz clubmix)].mp3
+04. [Leave No Deed Undone (vkz master mix)].mp3
+05. [Leave No Deed Undone (vkz no escape mix)].mp3
+06. [Kein Zuruck (master of trance mix)].mp3
+07. [Kein Zuruck (trance re-design)].mp3
+08. [Kein Zuruck (project mix)].mp3
+09. [Kein Zuruck (project mix instrumental)].mp3
+10. [Leave No Deed Undone (disco mix)].mp3
+11. [Leave No Deed Undone (vocal range)].mp3
+12. [Kein Zuruck (end of the day mix)].mp3
+13. [Kein Zuruck (orchestra mix)].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/03. [Remixes & Tracks]/2003, Wundervoll (DJ promo) (none):
+01. [Wundervoll (extended mix)].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/04. [Covers]:
+2000, [Scream Silence] The Sparrows & The Nightingales (CD, Maxi-Single) (RCO-020)
+2001, [Mark 'Oh] The Best Of Mark 'Oh - Never Stopped Livin' That Feeling (CD, Album, Compilation) ()
+
+./Electronic/wolfsheim/04. [Covers]/2000, [Scream Silence] The Sparrows & The Nightingales (CD, Maxi-Single) (RCO-020):
+01. [The Sparrows and the Nightingales].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/04. [Covers]/2001, [Mark 'Oh] The Best Of Mark 'Oh - Never Stopped Livin' That Feeling (CD, Album, Compilation) ():
+01. [The Sparrows and the Nightingales (Orignal Short Mix)].mp3
+Folder.jpg
+
+./Electronic/wolfsheim/pic:
+10.jpg
+11.jpg
+12.jpg
+13.jpg
+14.jpg
+15.jpg
+16.jpg
+17.jpg
+18.jpg
+19.jpg
+1.jpg
+20.jpg
+21.jpg
+22.jpg
+23.jpg
+24.jpg
+25.jpg
+26.jpg
+27.jpg
+2.jpg
+3.jpg
+4.jpg
+5.jpg
+6.jpg
+7.jpg
+8.jpg
+9.jpg
+tit.jpg
+
+./eminem:
+AlbumArt_{5786C6BA-0830-4EA4-BB8E-F69E7231AC07}_Large.jpg
+AlbumArt_{5786C6BA-0830-4EA4-BB8E-F69E7231AC07}_Small.jpg
+AlbumArt_{EBF9A281-2212-4F27-BA5D-93C804A7E816}_Large.jpg
+AlbumArt_{EBF9A281-2212-4F27-BA5D-93C804A7E816}_Small.jpg
+AlbumArtSmall.jpg
+Eminem ft. Rihanna - I Love the Way You Lie.mp3
+Eminem - Lose Yourself.mp3
+Eminem - The Real Slim Shady.mp3
+Eminem - Without Me.mp3
+Folder.jpg
+
+./Front 242:
+Pulse
+
+./Front 242/Pulse:
+11 - Song Starcandy.mp3
+
+./frontline_assembly:
+frontline_assembly_-_civilization
+frontline_assembly_-_maniacal
+
+./frontline_assembly/frontline_assembly_-_civilization:
+00-front_line_assembly-civilization-2004-cd-bpm.sfv
+02-front_line_assembly-maniacal-bpm.mp3
+03-front_line_assembly-transmitter_come_together-bpm.mp3
+04-front_line_assembly-vanished-bpm.mp3
+06-front_line_assembly-civilization-bpm.mp3
+
+./frontline_assembly/frontline_assembly_-_maniacal:
+00_frontline_assembly-maniacal-cds-2003-fwyh.nfo
+00_frontline_assembly-maniacal-cds-2003-fwyh.sfv
+01_maniacal-fwyh.mp3
+front line assembly - maniacal - 02 - maniacal (repercussion mix).mp3
+front line assembly - maniacal - 03 - anti.mp3
+
+./fun:
+03 We Are Young (Feat. Janelle Monae).mp3
+Fun. - Some Nights.mp3
+
+./funker_vogt:
+funker vogt - funker vogt.mp3
+funker_vogt-maschine_zeit_(limited_edition)-2000-cmg
+funker_vogt_-_survivor
+funker_vogt-we_came_to_kill-remastered-2001-amok
+
+./funker_vogt/funker_vogt-maschine_zeit_(limited_edition)-2000-cmg:
+00_funker_vogt_-_maschine_zeit_(limited_edition)-2000-cmg.sfv
+01_sins-cmg.mp3
+02_gunman-cmg.mp3
+03_black_market_dealers-cmg.mp3
+05_nuclear_winter-cmg.mp3
+
+./funker_vogt/funker_vogt_-_survivor:
+03-history-fwyh.mp3
+08-fallen_man-fwyh.mp3
+09-stolen_thoughts-fwyh.mp3
+10-luegner-fwyh.mp3
+12-red_queen-fwyh.mp3
+
+./funker_vogt/funker_vogt-we_came_to_kill-remastered-2001-amok:
+00-funker_vogt-we_came_to_kill-remastered-2001-amok.sfv
+09-funker_vogt-fantasies-amok.mp3
+10-funker_vogt-siegeszug-amok.mp3
+13-funker_vogt-time_of_dreams_(heart-core_mix)-amok.mp3
+14-funker_vogt-take_care_(us_remix)-amok.mp3
+
+./Goth:
+rasputina
+razed_in_black
+
+./Goth/rasputina:
+AlbumArt_{1826AAA7-7B05-42B6-98FB-DCE59BDF4646}_Large.jpg
+AlbumArt_{1826AAA7-7B05-42B6-98FB-DCE59BDF4646}_Small.jpg
+AlbumArt_{4BA647FC-E4E1-4C5A-A7DD-A2737A34F092}_Large.jpg
+AlbumArt_{4BA647FC-E4E1-4C5A-A7DD-A2737A34F092}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+Rasputina - 04. Sweet Water Kill.mp3
+rasputina - Antique High Heel Red Doll Shoes.mp3
+Rasputina - A Quitter.mp3
+Rasputina - Brand New Key.mp3
+Rasputina - Call Me Alice 1.mp3
+Rasputina - Dig Ophelia.mp3
+Rasputina - Dollhouse.mp3
+Rasputina - Gingerbread Coffin.mp3
+rasputina_-_how_we_quit_the_forest
+Rasputina - My Orphanage.mp3
+Rasputina - Rats.mp3
+Rasputina - Thimble Island.mp3
+Rasputina - Why Don't You Do Right.mp3
+Rasputina - winter song.mp3
+Rasputina - Wish You Were Here.mp3
+Thumbs.db
+
+./Goth/rasputina/rasputina_-_how_we_quit_the_forest:
+01_-_Rasputina_-_Olde Headboard.mp3
+02_-_Rasputina_-_Leechwife.mp3
+03_-_Rasputina_-_You Don't Own Me.mp3
+04_-_Rasputina_-_New Zero.mp3
+05_-_Rasputina_-_Rose K..mp3
+06_-_Rasputina_-_Dwarf Star.mp3
+07_-_Rasputina_-_Sign of the Zodiac.mp3
+08_-_Rasputina_-_Trenchmouth.mp3
+09_-_Rasputina_-_Herb Girls of Birkenau.mp3
+10_-_Rasputina_-_Mayfly.mp3
+11_-_Rasputina_-_Christian Soldiers.mp3
+12_-_Rasputina_-_Things I'm Gonna Do.mp3
+13_-_Rasputina_-_Diamond Mind.mp3
+14_-_Rasputina_-_How We Quit The Forest.mp3
+15_-_Rasputina_-_Watch T.V..mp3
+
+./Goth/razed_in_black:
+damaged
+desktop.ini
+Razed In Black - 1996 - Shrieks,Laments And Anguished Cries
+Razed In Black - 1999 - Sacrificed
+
+./Goth/razed_in_black/damaged:
+Damaged Disc 1
+Damaged Disc 2
+desktop.ini
+
+./Goth/razed_in_black/damaged/Damaged Disc 1:
+01 Blush.mp3
+02 Share This Poison.mp3
+03 There Goes My Head.mp3
+04 I'll Damage You.mp3
+05 Leave It All Behind.mp3
+06 Am I 2 Blame-.mp3
+07 Visions.mp3
+08 Come Back to Me.mp3
+09 Misunderstood.mp3
+10 Why-.mp3
+11 Nevermeant_V2.mp3
+AlbumArt_{C91C4F5D-EBB8-4031-910D-D2E207B6CD3F}_Large.jpg
+AlbumArt_{C91C4F5D-EBB8-4031-910D-D2E207B6CD3F}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+
+./Goth/razed_in_black/damaged/Damaged Disc 2:
+01 Blush_V2.mp3
+02 Liab [Future Retro Mix].mp3
+03 I'll Damage You [Eve of Destruction Mix].mp3
+04 Visions [Assemblage 23 Mix].mp3
+05 Am I 2 Blame- [Soil _ Eclipse Mix].mp3
+06 Visions of Our Past [Break Anthem Mix].mp3
+07 Blush [Neikka rpm Mix].mp3
+08 Visions (Reprise).mp3
+AlbumArt_{D960C461-8865-4591-99D5-6A2A7433AE2E}_Large.jpg
+AlbumArt_{D960C461-8865-4591-99D5-6A2A7433AE2E}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+
+./Goth/razed_in_black/Razed In Black - 1996 - Shrieks,Laments And Anguished Cries:
+01 - Sintro.mp3
+02 - Cyberium (On Speed).mp3
+03 - Black.mp3
+04 - Control.mp3
+05 - N.D. NYL.mp3
+06 - Just Let It Go.mp3
+07 - Preacher.mp3
+08 - Pursuit.mp3
+09 - Future Unknown.mp3
+10 - What's Fair.mp3
+11 - Power.mp3
+12 - Forlorn.mp3
+13 - Cyberium (Endurance Mix).mp3
+
+./Goth/razed_in_black/Razed In Black - 1999 - Sacrificed:
+01 - whipped.mp3
+02 - caught.mp3
+03 - master.mp3
+04 - i worship you.mp3
+05 - snooze.mp3
+06 - nightmare.mp3
+07 - guilty.mp3
+08 - lust.mp3
+09 - damage inc..mp3
+10 - better off.mp3
+11 - i've suffered long enough.mp3
+12 - solution.mp3
+13 - never meant.mp3
+14 - are you there!.mp3
+Razed In Black - Oh My Goth.mp3
+
+./Industrial:
+16_volt_-_Motorskill.mp3
+16_volt_-_The Dreams that Rot in Your Heart.mp3
+And One - Panzermensch.mp3
+das_ich
+e-nomine
+Grendel
+hanzel_und_gretyl
+haujobb
+hocico
+in_strict_confidence
+life_cried
+nine_inch_nails
+ohGr
+psyclon_nine
+punto_omega
+rammstein
+razed_in_black
+retrosic
+rotersand
+skinny_puppy
+suicide_commando
+tactical_sekt
+unter_null
+velvet_acid_christ
+wumpscut
+
+./Industrial/das_ich:
+(2004) Lava (Asche)
+(2007) Alter Ego
+das_ich_-_re_kapitulation 89-99 (US LE) - 2000
+das_ich_-_Re_Laborat CD1 - Re_Laborat (1999)
+das_ich_-_Re_Laborat CD2 - Re_Animat (1999)
+
+./Industrial/das_ich/(2004) Lava (Asche):
+01 - Schwarzer Stern.mp3
+02 - Uterus (Vergib Mir).mp3
+03 - Meine Wiege.mp3
+04 - Vulkan.mp3
+05 - Seele Tanzt (Lass Mich Frei).mp3
+06 - Tot Im Kopf.mp3
+07 - Sehnsucht.mp3
+08 - Fieber (Stirb Mit Mir).mp3
+09 - Schwarzer Stern (Reworked By Terminal Choice).mp3
+10 - Vulkan (Reworked By Wumpscut).mp3
+
+./Industrial/das_ich/(2007) Alter Ego:
+01 - Gottes Tod.mp3
+03 - Der Schrei.mp3
+05 - Unschuld Erde.mp3
+08 - Destillat.mp3
+09 - Kindgott.mp3
+10 - Mann und Frau Gehen Durch Die Krebsbaracke.mp3
+12 - Schwarzer Stern.mp3
+13 - Uterus.mp3
+14 - Schwarzes Gift.mp3
+15 - Opferzeit.mp3
+
+./Industrial/das_ich/das_ich_-_re_kapitulation 89-99 (US LE) - 2000:
+01-gott_ist_tot-cmg.mp3
+03-von_der_armut-cmg.mp3
+04-der_schrei-cmg.mp3
+06-unschuld_erde-cmg.mp3
+08-die_propheten-cmg.mp3
+09-schwanenschrei-cmg.mp3
+10-bin_ich_es_denn-cmg.mp3
+12-re_animat-cmg.mp3
+das_ich_-_re_kapitulation_89-99-(us)-(lim_ed)-2000-back-cmg.jpg
+Thumbs.db
+
+./Industrial/das_ich/das_ich_-_Re_Laborat CD1 - Re_Laborat (1999):
+01 - Chad Blinman (Laboratory X) - Der Schrei.mp3
+02 - Steve Naghavi (And One) - Das Ich Im Ich.mp3
+03 - Funker Vogt - Unschuld Erde.mp3
+04 - Bruno Kramm - Erde Ruft.mp3
+08 - Wumpscut - Aura.mp3
+09 - VNV Nation - Destillat.mp3
+10 - In Strict Confidence - Der Hass.mp3
+11 - Axel K (Silke Bischoff) - Schwanenschrei.mp3
+12 - Atrocity - Des Satans Neue Kleider.mp3
+13 - Kalte Farben - Kain Und Abel.mp3
+
+./Industrial/das_ich/das_ich_-_Re_Laborat CD2 - Re_Animat (1999):
+01 - Girls Under Glass - Kain Und Abel.mp3
+02 - Catastrophe Ballet - Die Propheten.mp3
+03 - The Fair Sex - Kindgott.mp3
+04 - The Eternal Afflict - Von Der Armut.mp3
+05 - Plastic Noise Experience - Erde Ruft.mp3
+06 - Aghast View - Des Satans Neue Kleider.mp3
+07 - Cat Rapes Dog - Gottes Tod.mp3
+08 - Imminent Starvation - Dein Leben.mp3
+09 - Das Ich - Von Der Armut.mp3
+10 - Das Ich - Der Schrei.mp3
+
+./Industrial/e-nomine:
+e-nomine_-_vater_unser
+
+./Industrial/e-nomine/e-nomine_-_vater_unser:
+E-Nomine - 02 Vater Unser (Radio Mix).mp3
+E-Nomine - 04 Vater Unser (Psalm 23 Radio Edit).mp3
+E-Nomine - 06 Vater Unser (Original Club Mix).mp3
+E-Nomine - 07 Vater Unser (Mellow-D Remix).mp3
+E-Nomine - 08 Vater Unser (Pulsedriver Remix).mp3
+
+./Industrial/Grendel:
+03_Zombienation-v.2k5.mp3
+04_Aspiration_Feed.mp3
+05_Soilbleed-Agonoize_Remix.mp3
+06_Soilbleed-Obszoen_Remix.mp3
+07_Dream_II.mp3
+
+./Industrial/hanzel_und_gretyl:
+hanzel_und_gretly_-_UBEr Alles
+hanzel_und_gretyl-_-scheissmessiah
+
+./Industrial/hanzel_und_gretyl/hanzel_und_gretly_-_UBEr Alles:
+00_Hanzel_Und_Gretyl-UBEr_Alles-2003-FWYH.sfv
+02_third_reich_from_the_sun-fwyh.mp3
+04_komm_zu_uns-fwyh.mp3
+06_ss_deathstar_supergalactick-fwyh.mp3
+07_let_the_planets_burn-fwyh.mp3
+
+./Industrial/hanzel_und_gretyl/hanzel_und_gretyl-_-scheissmessiah:
+00-hanzel_und_gretyl--scheissmessiah-(metropolis)-2004-aes.nfo
+04-hanzel_und_gretyl--disko_fire_scheiss_messiah-aes.mp3
+09-hanzel_und_gretyl--10th_circle-aes.mp3
+10-hanzel_und_gretyl--hellalujah-aes.mp3
+11-hanzel_und_gretyl--purity-aes.mp3
+
+./Industrial/haujobb:
+haujobb_-_polarity
+haujobb_-_solutions_for_a_small_planet
+
+./Industrial/haujobb/haujobb_-_polarity:
+02 subsonic.mp3
+09 sect2s-w.mp3
+10 boom operator.mp3
+11 sect5e.mp3
+15 sect4w.mp3
+
+./Industrial/haujobb/haujobb_-_solutions_for_a_small_planet:
+haujobb_-01-_clockwise.mp3
+haujobb_-08-_deviation.mp3
+haujobb_-11-_cleaned_vision.mp3
+haujobb_-12-_the_cage_complex.mp3
+haujobb_-15-_sub_unit_three.mp3
+
+./Industrial/hocico:
+hocico_-_disidencia_inquebrantable
+hocico_-_sangre_hirviente
+hocico_-_signos_de_aberracion
+hocico_-_wrack_and_ruin_2cd-limited_edition
+
+./Industrial/hocico/hocico_-_disidencia_inquebrantable:
+00-hocico_-_disidencia_inquebrantable-cdm-2003-fwyh.nfo
+02-ruptura-fwyh.mp3
+03-la_muerte_de_un_enemigo-fwyh.mp3
+04-ladykiller_(in_cold_blood)-fwyh.mp3
+05-silent_wrath_(i_break)-fwyh.mp3
+
+./Industrial/hocico/hocico_-_sangre_hirviente:
+Hocico - 03 - Sucios Pensamientos.mp3
+Hocico - 04 - Where Angels Don't Sing.mp3
+Hocico - 05 - Ojos Sin Lagrimas.mp3
+Hocico - 06 - Distorted Face (dulce liquido mix).mp3
+Hocico - 08 - Legion.mp3
+
+./Industrial/hocico/hocico_-_signos_de_aberracion:
+Hocico - Signos de Aberracion - 06 - Forgotten Tears.mp3
+Hocico - Signos de Aberracion - 07 - Un alma y el vacio.mp3
+Hocico - Signos de Aberracion - 09 - En otro lado.mp3
+Hocico - Signos de Aberracion - 11 - Callate el hocico.mp3
+Thumbs.db
+
+./Industrial/hocico/hocico_-_wrack_and_ruin_2cd-limited_edition:
+000_hocico-wrack_and_ruin-2cd-limited_edition-2004-back-inside-fwyh.jpg
+000_hocico-wrack_and_ruin-2cd-limited_edition-2004-back-outside-fwyh.jpg
+104_spirits_of_crime-fwyh.mp3
+107_ecos-fwyh.mp3
+109_death_as_gift-fwyh.mp3
+
+./Industrial/in_strict_confidence:
+In Strict Confidence - Angels anger overkill
+
+./Industrial/in_strict_confidence/In Strict Confidence - Angels anger overkill:
+01 - In Strict Confidence - Hero.mp3
+03 - In Strict Confidence - Hidden Thoughts.mp3
+04 - In Strict Confidence - Became An Angel.mp3
+05 - In Strict Confidence - Industrial Love.mp3
+06 - In Strict Confidence - Dementia.mp3
+09 - In Strict Confidence - Burning An Angel.mp3
+10 - In Strict Confidence - Sudorifie.mp3
+11 - In Strict Confidence - Collapse.mp3
+12 - In Strict Confidence - Faling Down.mp3
+14 - In Strict Confidence - Beautiful Pain (Rare Track).mp3
+
+./Industrial/life_cried:
+Drawn  +  Quartered
+
+./Industrial/life_cried/Drawn  +  Quartered:
+01-Stale.mp3
+02-Hallowed  Be  Thy  Name.mp3
+03-As  We  Decay.mp3
+04-Living  Hell.mp3
+05-Rage  ( Dying  Existence ).mp3
+06-Guardian.mp3
+07-Burnt  To  Ashes.mp3
+08-Sacrilege.mp3
+09-Waiting  For  An  End.mp3
+10-Darkest  Eyes.mp3
+
+./Industrial/nine_inch_nails:
+AlbumArt_{3ABB36F1-5C4E-461A-8D2C-A35C0A6E1863}_Large.jpg
+AlbumArt_{3ABB36F1-5C4E-461A-8D2C-A35C0A6E1863}_Small.jpg
+AlbumArtSmall.jpg
+Folder.jpg
+nine_inch_nails_-_burn.mp3
+Nine Inch Nails - Closer.mp3
+Nine Inch Nails _ David Bowie - I'm Afraid Of Americans.mp3
+Nine Inch Nails - Hurt.mp3
+Nine Inch Nails - Natural Born Killers [B.O.F.] - 01 - Something I Can Never Have [Edit].mp3
+Nine Inch Nails - Still - 01 - Something I Can Never Have.mp3
+
+./Industrial/ohGr:
+ohGr - Sunnypsyop
+Ohgr - Welt
+
+./Industrial/ohGr/ohGr - Sunnypsyop:
+02-ohgr-majik-fwyh.mp3
+04-ohgr-chemtale-fwyh.mp3
+08-ohgr-shite-fwyh.mp3
+09-ohgr-sunburn-fwyh.mp3
+oHgr - majik.mov
+
+./Industrial/ohGr/Ohgr - Welt:
+02 - ohgr - devil.mp3
+05 - ohgr - lusid.mp3
+07 - ohgr - chaos.mp3
+09 - ohgr - solow.mp3
+11 - ohgr - minus.mp3
+
+./Industrial/psyclon_nine:
+2009 We The Fallen
+Psyclon Nine - 2003 - Divine Infekt
+Psyclon Nine - 2005 - INRI
+Psyclon Nine - 2006 - Crwn Thy Frnicatr
+
+./Industrial/psyclon_nine/2009 We The Fallen:
+03- Heartworm.mp3
+04- Thy Serpent Tongue.mp3
+05- Bloodwork.mp3
+09- Of Decay (An Exit).mp3
+11- As One With The Flies.mp3
+12- Under The Judas Tree.mp3
+
+./Industrial/psyclon_nine/Psyclon Nine - 2003 - Divine Infekt:
+01 - Divine Infekt.m4a
+02 - Tyranny.m4a
+03 - Clinik.m4a
+04 - Slaughter.m4a
+05 - Resurrekt.m4a
+06 - Payback.m4a
+07 - Genocide.m4a
+08 - Rusted.m4a
+09 - So Be It.m4a
+11 - Divine Infekt (Tactical Sekt Remix).m4a
+
+./Industrial/psyclon_nine/Psyclon Nine - 2005 - INRI:
+03 - Lamb Of God.m4a
+04 - Hymn To The Angels' Descent.m4a
+05 - Rape This World.m4a
+06 - The Feeble Mind.m4a
+07 - The Feeding.m4a
+08 - Requiem For The Christian Era.m4a
+09 - Faith - Disease.m4a
+10 - Harlot.m4a
+12 - Nothing Left.m4a
+13 - You Know What You Are.m4a
+
+./Industrial/psyclon_nine/Psyclon Nine - 2006 - Crwn Thy Frnicatr:
+03 - Better Than Suicide.m4a
+04 - Anaesthetic [For The Pathetic].m4a
+07 - Scar Of The Deceiver.m4a
+11 - The Purging [A Revelation Of Pain].m4a
+Thumbs.db
+
+./Industrial/punto_omega:
+punto_omega_-_punto_omega_2cd_ltdEd
+
+./Industrial/punto_omega/punto_omega_-_punto_omega_2cd_ltdEd:
+102_punto_omega-fwyh.mp3
+110_realidad_virtual-fwyh.mp3
+203_punto_omega_(lights_of_euphoria)-fwyh.mp3
+207_punto_omega_(z_prochek)-fwyh.mp3
+211_mundo_de_robots_(nuclear_noise)-fwyh.mp3
+
+./Industrial/rammstein:
+Rammstein - Mutter
+rammstein_-_sehnsucht
+rammstein_wolfsheim_-_die_flut.mp3
+
+./Industrial/rammstein/Rammstein - Mutter:
+01 - Mein Herz Brennt.mp3
+03 - Sonne.mp3
+05 - Feuer Frei!.mp3
+06 - Mutter.mp3
+11 - Nebel.mp3
+
+./Industrial/rammstein/rammstein_-_sehnsucht:
+Rammstein - Bück Dich.mp3
+Rammstein - Du Hast.mp3
+Rammstein - Du Hast [UK Version Only].mp3
+Rammstein - Engel.mp3
+Rammstein - Engel [UK Version Only].mp3
+
+./Industrial/razed_in_black:
+damaged
+desktop.ini
+Razed In Black - 1996 - Shrieks,Laments And Anguished Cries
+Razed In Black - 1999 - Sacrificed
+
+./Industrial/razed_in_black/damaged:
+desktop.ini
+
+./Industrial/razed_in_black/Razed In Black - 1996 - Shrieks,Laments And Anguished Cries:
+04 - Control.mp3
+06 - Just Let It Go.mp3
+07 - Preacher.mp3
+09 - Future Unknown.mp3
+13 - Cyberium (Endurance Mix).mp3
+
+./Industrial/razed_in_black/Razed In Black - 1999 - Sacrificed:
+01 - whipped.mp3
+04 - i worship you.mp3
+06 - nightmare.mp3
+09 - damage inc..mp3
+Razed In Black - Oh My Goth.mp3
+
+./Industrial/retrosic:
+desktop.ini
+messa_da_requiem
+the_retrosic_-_god_of_hell
+the_retrosic_-_god_of_hell(limited_box_set_bonux)
+
+./Industrial/retrosic/messa_da_requiem:
+01 - Ground Zero.Mp3
+02 - Eat Me Alive.Mp3
+03 - Prevail.Mp3
+06 - Death Means Nothing At All.Mp3
+07_ t.o.d._ii-cmg.mp3
+
+./Industrial/retrosic/the_retrosic_-_god_of_hell:
+01_the_storm.mp3
+03_new_world_order.mp3
+08_antichrist.mp3
+10_tears_in_rain.mp3
+AlbumArt_{E14C09E2-2D45-42D4-95A2-3E8C425050EE}_Large.jpg
+
+./Industrial/retrosic/the_retrosic_-_god_of_hell(limited_box_set_bonux):
+000-the_retrosic-god_of_hell-limited_box_set-bonus_discs-2004-inside2.jpg
+000-the_retrosic-god_of_hell-limited_box_set-bonus_discs-2004.nfo
+102-maneater_(gramaphone).mp3
+206-theres_no_tomorrow_(written_by_clan_of_xymox).mp3
+207-ground_zero_(modified_by_punto_omega).mp3
+
+./Industrial/rotersand:
+Dare To Live EP
+desktop.ini
+Electronic World Transmission
+Merging Oceans
+Truth Is Fanatic
+
+./Industrial/rotersand/Dare To Live EP:
+01 Dare To Live (SR Version).mp3
+02 Storm (Haujobbs reinforced by Destroid).mp3
+03 Almost Wasted (Re_Smoothed).mp3
+04 Alive (Re_Venge).mp3
+08 By the waters (Soman Sheffield mix).mp3
+
+./Industrial/rotersand/Electronic World Transmission:
+02 Lifelight (Redestructed).mp3
+03 Almost Violent (Album Recut by Exilanation).mp3
+04 Hush (The Man Beyond C Replay).mp3
+07 Almost Violent (Psyche Remix).mp3
+09 Electronic World Transmission ([_SITD_] edit).mp3
+
+./Industrial/rotersand/Merging Oceans:
+02 Sonic Agony (S.O.P.).mp3
+03 Winter paints it white.mp3
+04 Sonic Agony (Original).mp3
+Folder.jpg
+Thumbs.db
+
+./Industrial/rotersand/Truth Is Fanatic:
+03 Content Killer.mp3
+04 Electronic World Transmission.mp3
+08 Merging Oceans (extended).mp3
+09 Lifelight.mp3
+12 Hush.mp3
+
+./Industrial/skinny_puppy:
+desktop.ini
+skinny_puppy_-_last_rights
+skinny_puppy_-_remix_dys_temper
+skinny_puppy_-_the_greater_wrong_of_the_right
+skinny_puppy_-_the_process
+
+./Industrial/skinny_puppy/skinny_puppy_-_last_rights:
+02 - Killing Game.mp3
+03 - Knowhere.mp3
+06 - Scrapyard.mp3
+10 - Left Hand Shake (missing).mp3
+AlbumArt_{62FFA2E0-7034-460F-99C3-8036B5522A9F}_Small.jpg
+
+./Industrial/skinny_puppy/skinny_puppy_-_remix_dys_temper:
+03 - Smothered Hope [Ogre and Mark Walk Remix].mp3
+04 - Killing Game [Autechre Remix].mp3
+07 - Spasmolytic [Deftones Remix].mp3
+12 - Censor [Guru Remix].mp3
+AlbumArt_{232378FE-E13C-480C-A81E-1ADACA364FD6}_Large.jpg
+
+./Industrial/skinny_puppy/skinny_puppy_-_the_greater_wrong_of_the_right:
+01 - Skinny Puppy - Immortal.mp3
+05 - Skinny Puppy - Ghostman.mp3
+07 - Skinny Puppy - Past Present.mp3
+10 - Skinny Puppy - Daddyuwarbash.mp3
+AlbumArt_{C132C722-7798-44CE-8501-09264490B7D8}_Large.jpg
+
+./Industrial/skinny_puppy/skinny_puppy_-_the_process:
+02 Skinny Puppy - Death.mp3
+03 Skinny Puppy - Candle.mp3
+04 Skinny Puppy - Hardset Head.mp3
+06 Skinny Puppy - Process.mp3
+09 Skinny Puppy - Morter.mp3
+
+./Industrial/suicide_commando:
+axis_of_evil
+bind,_torture,_kill
+bind,_torture,_kill_(bonus_cd)
+desktop.ini
+suicide_commando_-_anthology
+suicide_commando_-_cause_of_death_suicide
+suicide_commando_-_comatose_delusion
+suicide_commando_-_godsend-menschenfresser
+suicide_commando_-_hellraiser
+suicide_commando_-_love_breeds_suicide
+suicide_commando_-_mindstrip
+suicide_commando_-_one_nation_under_god
+Suicide Commando - See you in hell (Monolith Remix).mp3
+suicide_commando_-_See You In Hell, Part1 _ 2 (extended mix).mp3
+x.20
+
+./Industrial/suicide_commando/axis_of_evil:
+00_suicide_commando-axis_of_evil-2003-fwyh.nfo
+00_suicide_commando-axis_of_evil-2003-fwyh.sfv
+01_cause_of_death_suicide-fwyh.mp3
+02_consume_your_vengeance-fwyh.mp3
+03_face_of_death-fwyh.mp3
+04_the_reformation-fwyh.mp3
+05_one_nation_under_god-fwyh.mp3
+06_mordfabrik.mp3
+07_evildoer-fwyh.mp3
+08_sterbehilfe-fwyh.mp3
+09_plastic_christ-fwyh.mp3
+10_neuro_suspension-fwyh.mp3
+AlbumArt_{9821F0DB-AEA4-4B1A-AF4E-DF0B0C745929}_Large.jpg
+AlbumArt_{9821F0DB-AEA4-4B1A-AF4E-DF0B0C745929}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+
+./Industrial/suicide_commando/bind,_torture,_kill:
+01. Bind, Torture, Kill.mp3
+02. Bleed For Us All.mp3
+03. Conspiracy With The Devil.mp3
+04. Menschenfresser (Eat Me).mp3
+05. Dead March.mp3
+06. Massaker.mp3
+07. Torment Me.mp3
+08. Godsend (Deceased Part II).mp3
+09. We Are The Sinners.mp3
+10. F... You Bitch.mp3
+11. Rader.mp3
+
+./Industrial/suicide_commando/bind,_torture,_kill_(bonus_cd):
+01 Conspiracy With The Devil (Asshole Mix).mp3
+02 Conspiracy With The Devil (R.I.P. Mix By Virtual Embrace).mp3
+03 Menschenfresser (Diskonnekted Remix).mp3
+04 Conspiracy With The Devil (Death-Pact Remix By Controlled Collapse).mp3
+05 Second Death.mp3
+
+./Industrial/suicide_commando/suicide_commando_-_anthology:
+101-Better Of Dead.mp3
+102-Dein Herz Meine Gier.mp3
+103-Never Get Out.mp3
+104-Traumatize.mp3
+105-See You In Hell.mp3
+106-Love Breeds Suicide (Re-Edit).mp3
+107-Desire.mp3
+108-Burn Baby Burn.mp3
+109-Comatose Delusion (Overdose Shot Two).mp3
+110-Necrophilia.mp3
+111-Mortal Combat.mp3
+112-Hellraiser (Psychopath 01).mp3
+113-Save Me (Full Version).mp3
+114-Intercourse (Reloaded).mp3
+115-Murder (Extended).mp3
+201-See You In Hell 2002.mp3
+202-The Ultimate Machine.mp3
+203-Come To Me.mp3
+204-Better Of Dead (FM Remix).mp3
+205-Sick In Your Mind.mp3
+206-State Of Emergency.mp3
+207-Desire (Dead Body Mix).mp3
+++ INFO ++
+
+./Industrial/suicide_commando/suicide_commando_-_cause_of_death_suicide:
+00_suicide_commando-cause_of_death_suicide-cdm-2004-fwyh.nfo
+00_suicide_commando-cause_of_death_suicide-cdm-2004-fwyh.sfv
+01_cause_of_death_suicide(club_edit_by_suicide_commando)-fwyh.mp3
+02_cause_of_death_suicide(autointoxikations_mischung_by_feindflug)-fwyh.mp3
+03_disposable_paradise-fwyh.mp3
+04_cause_of_death_suicide(try_again_remix_by_converter)-fwyh.mp3
+05_sterbehilfe(hocico_remix)-fwyh.mp3
+06 Cause Of Death Suicide (Grendel Remix).mp3
+AlbumArt_{9821F0DB-AEA4-4B1A-AF4E-DF0B0C745929}_Large.jpg
+AlbumArt_{9821F0DB-AEA4-4B1A-AF4E-DF0B0C745929}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+
+./Industrial/suicide_commando/suicide_commando_-_comatose_delusion:
+01_-_Comatose_Delusion_[overdose_shot_one].mp3
+02_-_Comatose_Delusion_[hocico_mix].mp3
+03_-_Kevorkian.mp3
+04_-_Comatose_Delusion_[vac_mix].mp3
+Suicide_Commando_-_Comatose_Delusion.nfo
+
+./Industrial/suicide_commando/suicide_commando_-_godsend-menschenfresser:
+00_suicide_commando-godsend-menschenfresser-limited_edition-cdm-2005-fwyh.nfo
+00_suicide_commando-godsend-menschenfresser-limited_edition-cdm-2005-fwyh.sfv
+01_suicide_commando-godsend_(kiss_the_deceased)-fwyh.mp3
+02_suicide_commando-menschenfresser_(eat_me)-fwyh.mp3
+03_suicide_commando-godsend_(necromantic_mix_by_god_module)-fwyh.mp3
+04_suicide_commando-menschenfresser_(remix_by_reaper)-fwyh.mp3
+05_suicide_commando-godsend_(remix_by_amduscia)-fwyh.mp3
+06_suicide_commando-menschenfresser_(remix_by_agonoize)-fwyh.mp3
+
+./Industrial/suicide_commando/suicide_commando_-_hellraiser:
+AlbumArt_{5B3CC661-9EDB-48F4-A55A-4132983A6EF7}_Large.jpg
+AlbumArt_{5B3CC661-9EDB-48F4-A55A-4132983A6EF7}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+Suicide Commando - Hellraiser [CDS] - 01 - Hellraiser [Psychopath 01 Version].mp3
+Suicide Commando - Hellraiser [CDS] - 02 - Hellraiser [VNV Nation Remix].mp3
+Suicide Commando - Hellraiser [CDS] - 03 - Fragment Of Torture.mp3
+Suicide Commando - Hellraiser [CDS] - 04 - Hellraiser [Psychopath 02 Version].mp3
+
+./Industrial/suicide_commando/suicide_commando_-_love_breeds_suicide:
+02 - Dein Herz Meine Gier.mp3
+03 - Dead Call.mp3
+04 - Love Breeds Suicide (Lights Of Euphoria Remix).mp3
+06 - Dein Herz Meine Gier (Arzt And Pfusch Tiz Remix).mp3
+Folder.jpg
+
+./Industrial/suicide_commando/suicide_commando_-_mindstrip:
+01 - Jesus Wept.mp3
+02 - Hellraiser.mp3
+03 - Body Count Proceed.mp3
+04 - Raise your God.mp3
+05 - Mind Stripper.mp3
+06 - Run.mp3
+07 - Comatose Delusion.mp3
+08 - Blood in Face.mp3
+09 - Love breeds Suicide.mp3
+10 - Slaves.mp3
+AlbumArt_{D180347A-0EFD-42BF-9B04-4290C136994C}_Large.jpg
+AlbumArt_{D180347A-0EFD-42BF-9B04-4290C136994C}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+
+./Industrial/suicide_commando/suicide_commando_-_one_nation_under_god:
+00_suicide_commando-one_nation_under_god-cdm-2004-fwyh.nfo
+00_suicide_commando-one_nation_under_god-cdm-2004-fwyh.sfv
+01_one_nation_under_god(disorder_mix_by_sc)-fwyh.mp3
+02_one_nation_under_god(wmd_rmx_assemblage_23)-fwyh.mp3
+03_better_off_dead(driller_mix_by_sc)-fwyh.mp3
+04_one_nation_under_god(wumpscut_rmx)-fwyh.mp3
+05_the_killing_game-fwyh.mp3
+06_one_nation_under_god(gift_mix_by_vasi_vallis_and_torben_schmidt)-fwyh.mp3
+
+./Industrial/suicide_commando/x.20:
+Suicide Commando - Better Off Dead (Driller Remix).mp3
+Suicide Commando - Bind Torture Kill (Extended Torture).mp3
+Suicide Commando - Cause Of Death_ Suicide (Club Edit).mp3
+Suicide Commando - Comatose Delusion (Overdose Shot Two).mp3
+Suicide Commando - Conspiracy With The Devil.mp3
+Suicide Commando - Dein Herz, Meine Gier (Short Club v1.0).mp3
+Suicide Commando - Desire (Dead Body Remix).mp3
+Suicide Commando - Face Of Death (Blind Rage Mix).mp3
+Suicide Commando - Hellraiser (Psychopath 01).mp3
+Suicide Commando - Love Breeds Suicide.mp3
+Suicide Commando - Murder.mp3
+Suicide Commando - Necrophilia.mp3
+Suicide Commando - One Nation Under God.mp3
+Suicide Commando - Save Me.mp3
+Suicide Commando - See You In Hell.mp3
+
+./Industrial/tactical_sekt:
+Syncope
+tactical_sekt_-_burn_process
+tactical_sekt_-_geneticide
+
+./Industrial/tactical_sekt/Syncope:
+desktop.ini
+
+./Industrial/tactical_sekt/tactical_sekt_-_burn_process:
+00-tactical_sekt-burn_process-2003-back-fwyh.jpg
+00-tactical_sekt-burn_process-2003-cd-fwyh.jpg
+00-tactical_sekt-burn_process-2003-inlay3-fwyh.jpg
+06-the_hanging_garden-fwyh.mp3
+12-burn_process_destruction_mix_by_reality-fwyh.mp3
+
+./Industrial/tactical_sekt/tactical_sekt_-_geneticide:
+00-tactical_sekt-geneticide-2003-back-radial.jpg
+03. tactical sekt - the enemy within.mp3
+04. tactical sekt - vx.mp3
+07. tactical sekt - faded prophecy.mp3
+10. tactical sekt - damage limitation.mp3
+
+./Industrial/unter_null:
+Absolution
+Demos
+Neocide
+Unter Null - Sick Fuck
+Unter Null - The Failure Epiphany-2cd-Limited Edition-2005-Fwyh
+
+./Industrial/unter_null/Absolution:
+01_unter_null-endtime_(mnemonic_mix)-fwyh.mp3
+02_unter_null-disgrace-fwyh.mp3
+03_unter_null-endtime-fwyh.mp3
+04_unter_null-prophecy-fwyh.mp3
+05_unter_null-endtime_(schlaut_mix)-fwyh.mp3
+06_unter_null-prophecy_(raining_blood_remix_by_first_black_pope)-fwyh.mp3
+07_unter_null-endtime_(xp8_mix)-fwyh.mp3
+08_unter_null-this_is_your_end_(headscan_mix)-fwyh.mp3
+
+./Industrial/unter_null/Demos:
+01_Megalomaniac_KMFDM_Cover-dd.mp3
+02_Sick_Fuck_Skum_Version-dd.mp3
+03_Ubermensch_Demo-No_Vox-dd.mp3
+04_Your_Nightmare_Beta-dd.mp3
+
+./Industrial/unter_null/Neocide:
+03 Amped.mp3
+04 Fucking waste.mp3
+05 Drudge.mp3
+08 Trust in us.mp3
+10 A55fvuckerz Inc [Sodomight! remix.mp3
+Folder.jpg
+Neocide Front.jpg
+Neocide.mp3
+Pure Sex.mp3
+Thumbs.db
+
+./Industrial/unter_null/Unter Null - Sick Fuck:
+00_unter_null_-_sick_fuck-(ep)-2005-cmg.m3u
+01_sick_fuck_(c-drone-defect_rmx)-cmg.mp3
+02_your_nightmare-cmg.mp3
+03_sick_fuck-cmg.mp3
+04_your_nightmare_(manufactura_rmx)-cmg.mp3
+05_sick_fuck_(implant_rmx)-cmg.mp3
+06_your_nightmare_(grendel_rmx)-cmg.mp3
+07_sick_fuck_(tamtrum_rmx)-cmg.mp3
+08_your_nightmare_(everything_goes_cold_rmx)-cmg.mp3
+09_sick_fuck_(sadist_version)-cmg.mp3
+
+./Industrial/unter_null/Unter Null - The Failure Epiphany-2cd-Limited Edition-2005-Fwyh:
+000_unter_null-the_failure_epiphany-2cd-limited_edition-cd1-2005-fwyh.jpg
+000_unter_null-the_failure_epiphany-2cd-limited_edition-cd2-2005-fwyh.jpg
+000_unter_null-the_failure_epiphany-2cd-limited_edition-front-outside-2005-fwyh.jpg
+000_unter_null-the_failure_epiphany-2cd-limited_edition-inlay1-2005-fwyh.jpg
+100_unter_null-the_failure_epiphany-cd1-2005-fwyh.m3u
+105_unter_null-destroy_me-fwyh.mp3
+107_unter_null-sick_fuck_(album_mix)-fwyh.mp3
+108_unter_null-scilence-fwyh.mp3
+110_unter_null-stray-fwyh.mp3
+202_unter_null-ruiner-fwyh.mp3
+
+./Industrial/velvet_acid_christ:
+desktop.ini
+velvet_acid_christ_-_between_the_eyes_vol_1
+velvet_acid_christ_-_between_the_eyes_vol_2
+velvet_acid_christ_-_calling_ov_the_dead
+velvet_acid_christ-hex_angel_(utopia_-_dystopia)-promo-2003-fwyh
+
+./Industrial/velvet_acid_christ/velvet_acid_christ_-_between_the_eyes_vol_1:
+04 - Decypher (Acid Revolution Forgotten).mp3
+05 - Dial 8 (Bound and Gagged by DIN_FIV).mp3
+06 - Dial 8 (Barely Alive).mp3
+10 - The Hopeless.mp3
+AlbumArt_{CE5B64D2-00B4-49DC-9C3C-7441FEF39417}_Large.jpg
+
+./Industrial/velvet_acid_christ/velvet_acid_christ_-_between_the_eyes_vol_2:
+00-velvet_acid_christ-between_the_eyes_vol.2-2004-radial.1.nfo
+01-hell_one-radial.1.mp3
+04-pain-radial.1.mp3
+08_velvet_acid_christ-killing_me-fwyh.mp3
+09_velvet_acid_christ-we_have_to_see_we_have_to_know-fwyh.mp3
+
+./Industrial/velvet_acid_christ/velvet_acid_christ_-_calling_ov_the_dead:
+AlbumArt_{18735B29-EFC1-421E-91A5-725457E841E6}_Large.jpg
+velvet_acid_christ_-02-_malfunction.mp3
+velvet_acid_christ_-07-_pray_for_life.mp3
+velvet_acid_christ_-08-_exquisite_stench.mp3
+velvet_acid_christ_-10-_zix_zix_zix_(666_mix).mp3
+
+./Industrial/velvet_acid_christ/velvet_acid_christ-hex_angel_(utopia_-_dystopia)-promo-2003-fwyh:
+01-haunted-fwyh.mp3
+02-collapsed-fwyh.mp3
+04-hypoxia-fwyh.mp3
+06-east_(meaningless_life_mix)-fwyh.mp3
+10-crawl-fwyh.mp3
+
+./Industrial/wumpscut:
+desktop.ini
+wumpscut_-_DJ_Dwarf_Three-Promo-2003-CMG
+Wumpscut - DJ Dwarf Two (Wreath Of Barbs - Limited_ DJ Promo)
+Wumpscut - Dried Blood of Gomorrha - (Remastered) - 2002
+wumpscut_-_liquid_soylent
+
+./Industrial/wumpscut/wumpscut_-_DJ_Dwarf_Three-Promo-2003-CMG:
+00-wumpscut_-_dj_dwarf_3-promo-2003-cmg.sfv
+01-all_cried_out-cmg.mp3
+02-overkill-cmg.mp3
+03-achtung_(der_blutharsch)-cmg.mp3
+07-total_war-cmg.mp3
+
+./Industrial/wumpscut/Wumpscut - DJ Dwarf Two (Wreath Of Barbs - Limited_ DJ Promo):
+00-wumpscut-dj_dwarf_two_(wreath_of_barbs_-_ltd.ed._dj_promo)-2002-pms.nfo
+00-wumpscut-dj_dwarf_two_(wreath_of_barbs_-_ltd.ed._dj_promo)-2002-pms.sfv
+01. Wumpscut - Wreath Of Barbs (radio mix).mp3
+02. Wumpscut - Wreath Of Barbs (heavy extended remix).mp3
+04. Wumpscut - Wreath Of Barbs (album mix).mp3
+
+./Industrial/wumpscut/Wumpscut - Dried Blood of Gomorrha - (Remastered) - 2002:
+00-wumpscut-dried_blood_of_gomorrha-(remastered)-2002-radial.sfv
+01-black_death_(french_concept)-radial.mp3
+05-body_parts_(radio_edit)-radial.mp3
+07-funeral_diner_(red_tape_version)-radial.mp3
+AlbumArt_{B885D523-066F-4AFA-A15E-00B778886469}_Large.jpg
+
+./Industrial/wumpscut/wumpscut_-_liquid_soylent:
+wumpscut.liquid_soylent-107-ich_will_dich_harsh_remix_by_wumpscut-radial.mp3
+wumpscut.liquid_soylent-108-ich_will_dich_remix_by_forma_tadre-radial.mp3
+wumpscut.liquid_soylent-112-mother_by_haujobb-radial.mp3
+wumpscut.liquid_soylent-202-totmacher_by_forma_tadre-radial.mp3
+wumpscut.liquid_soylent-207-totmacher_by_infact-radial.mp3
+
+./ivory_frequency:
+ivory_frequency_-_plug-in
+
+./ivory_frequency/ivory_frequency_-_plug-in:
+Ivory Frequency_-_Plug-In_-_1_-_Plug-In.mp3
+Ivory Frequency_-_Plug-In_-_2_-_The Strangest Callings.mp3
+Ivory Frequency_-_Plug-In_-_3_-_Beasts _ Demons.mp3
+Ivory Frequency_-_Plug-In_-_4_-_Dancing Troops.mp3
+Ivory Frequency_-_Plug-In_-_5_-_See The Light.mp3
+Ivory Frequency_-_Plug-In_-_6_-_Today.mp3
+Ivory Frequency_-_Plug-In_-_7_-_Clock Is Ticking Fast.mp3
+
+./Kongos - Lunatic:
+01. Come with me now.mp3
+02. Sex on the radio.mp3
+03. Escape.mp3
+04. Kids these days.mp3
+05. As we are.mp3
+06. I want to know.mp3
+07. Hey I dont know.mp3
+08. Traveling on.mp3
+09. Take me back.mp3
+10. Its a good life.mp3
+11. Im only joking.mp3
+12. This time I wont forget.mp3
+
+./korn:
+korn_-_greatest_hits_vol_1
+korn_-_hold_on.mp3
+Korn _ NIN - Freak On A Leash.MP3
+korn_-_take_a_look_in_the_mirror
+korn_-_untouchables
+
+./korn/korn_-_greatest_hits_vol_1:
+00-korn-greatest_hits_vol_1-2004-rns.nfo
+00-korn-greatest_hits_vol_1-2004-rns.sfv
+01-korn-word_up-rns.mp3
+02-korn-another_brick_in_the_wall_(parts_1_2_3)-rns.mp3
+03-korn-yall_want_a_single-rns.mp3
+04-korn-right_now-rns.mp3
+05-korn-did_my_time-rns.mp3
+06-korn-alone_i_break-rns.mp3
+07-korn-here_to_stay-rns.mp3
+08-korn-trash-rns.mp3
+09-korn-somebody_someone-rns.mp3
+10-korn-make_me_bad-rns.mp3
+11-korn-falling_away_from_me-rns.mp3
+12-korn-got_the_life-rns.mp3
+13-korn-freak_on_a_leash-rns.mp3
+14-korn-twist-rns.mp3
+15-korn-adidas-rns.mp3
+16-korn-clown-rns.mp3
+17-korn-shoots_and_ladders-rns.mp3
+18-korn-blind-rns.mp3
+19-korn-freak_on_a_leash_(dante_ross_mix)-rns.mp3
+korn_greatest hits vol.1.jpg
+
+./korn/korn_-_take_a_look_in_the_mirror:
+Korn -01- Right Now.mp3
+Korn -02- Break Some Off.mp3
+Korn -03- Counting On Me.mp3
+Korn -04- Here It Comes Again.mp3
+Korn -05- Deep Inside.mp3
+Korn -06- Did My Time.mp3
+Korn -07- Everything I've Known.mp3
+Korn -08- Play Me.mp3
+Korn -09- Alive.mp3
+Korn -10- Let's Do This Now.mp3
+Korn -11- I'm Done.mp3
+Korn -12- Ya'll Want a Single.mp3
+Korn -13- When Will This End + One [Live].mp3
+
+./korn/korn_-_untouchables:
+01_korn_-_here to stay.mp3
+05_korn_-_bottled_up_inside.mp3
+06_korn_-_thoughtless.mp3
+09_korn_-_alone_i_break.mp3
+12_korn_-_wake_up_hate.mp3
+korn - untouchables - 01 - from your heart.mp3
+korn - untouchables - 02 - chasing me .mp3
+korn - untouchables - 05 - in place.mp3
+korn - untouchables - 06 - i want to be gone.mp3
+korn - untouchables - 08 - falling through time.mp3
+korn - untouchables - 10 - leave this place.mp3
+korn - untouchables - 11 - corners of my mind.mp3
+korn - untouchables - 12 - help me stay alive.mp3
+korn - untouchables - 14 - everything that i could find.mp3
+
+./list:
+default.m3u
+default.xspf
+workout.m3u
+workout.xspf
+
+./marilyn_manson:
+marilyn_manson_-_antichrist_superstar
+marilyn_manson_-_mechanical_animals
+marilyn_manson_-_personal_jesus
+Marilyn Manson _ Rasputina - Transylvanian Concubine.mp3
+marilyn_manson_-_the_golden_age_of_grotesque
+
+./marilyn_manson/marilyn_manson_-_antichrist_superstar:
+01_marilyn_manson_-_irresponsible_hate_anthem.mp3
+04_marilyn_manson_-_tourniquet.mp3
+08_marilyn_manson_-_wormboy.mp3
+13_marilyn_manson_-_1996.mp3
+16_marilyn_manson_-_man_that_you_fear.mp3
+
+./marilyn_manson/marilyn_manson_-_mechanical_animals:
+Marilyn Manson -03- Mechanical Animals.mp3
+Marilyn Manson -04- Rock is Dead.mp3
+Marilyn Manson -06- The Speed Of Pain.mp3
+Marilyn Manson -10- New Model No. 15.mp3
+Marilyn Manson -11- User Friendly.mp3
+
+./marilyn_manson/marilyn_manson_-_personal_jesus:
+00_marilyn_manson_-_personal_jesus-cdm-2004-mod.nfo
+00_marilyn_manson_-_personal_jesus-cdm-2004-mod.sfv
+01_personal_jesus-mod.mp3
+02_mobscene_replet_(mea_culpa_mix_by_bitteren_end)-mod.mp3
+03_personal_jesus_(rude_photo_motor_remix)-mod.mp3
+
+./marilyn_manson/marilyn_manson_-_the_golden_age_of_grotesque:
+04 - Marilyn Manson - Doll-Dagga Buzz-Buzz Ziggety-Zag.mp3
+06 - Marilyn Manson - The Golden Age Of Grotesque.mp3
+09 - Marilyn Manson - Slutgarden.mp3
+12 - Marilyn Manson - The Bright Young Things.mp3
+15 - Marilyn Manson - Obsequey [The Death Of Art].mp3
+
+./mindless_self_indulgence:
+AlbumArt_{0B8AD575-AC30-4DB2-8060-7C4566FAA949}_Large.jpg
+AlbumArt_{0B8AD575-AC30-4DB2-8060-7C4566FAA949}_Small.jpg
+AlbumArtSmall.jpg
+Folder.jpg
+mindless self indulgence  - 14 - ecnegludni fles sseldnim.mp3
+Mindless Self Indulgence - 1 - Grab the Mic.mp3
+Mindless Self Indulgence - 4 - Tight.mp3
+Mindless Self Indulgence - 5 - Diabolical.mp3
+Mindless Self Indulgence - 9 - Pussy All Night.mp3
+Mindless Self Indulgence - You'll Rebel To Anything - 05 - You'll Rebel To Anything (As Long As It's Not Challenging).mp3
+
+./neuroticfish:
+gelb
+Neuroticfish-Need - Its not me (EP)
+neuroticfish_-_no_instruments
+neuroticfish_-_prostitute (EP)
+Neuroticfish_-_Surimi_[2003]-192kbps-Electronic
+
+./neuroticfish/gelb:
+000_neuroticfish-gelb-promo-2cd-limited_edition-2005-fwyh.nfo
+101_neuroticfish-loading-fwyh.mp3
+104_neuroticfish-i_dont_need_the_city-fwyh.mp3
+107_neuroticfish-short_commercial_break-fwyh.mp3
+112_neuroticfish-they_are_coming_to_take_me_away-fwyh.mp3
+
+./neuroticfish/Neuroticfish-Need - Its not me (EP):
+00-Neuroticfish-Need - Its not me (EP).nfo
+03-Need (root).mp3
+04-It's not me (core).mp3
+05-It's not me (root).mp3
+07-There's a light....mp3
+
+./neuroticfish/neuroticfish_-_no_instruments:
+00_neuroticfish-no_instruments_(second_edition)-(2000)-amok.nfo
+05_neuroticfish-pain-amok.mp3
+07_neuroticfish-mechanic_of_the_sequence-amok.mp3
+08_neuroticfish-m.f.a.p.l.-amok.mp3
+09_neuroticfish-breaking_the_cliche-amok.mp3
+
+./neuroticfish/neuroticfish_-_prostitute (EP):
+01 - Prostitute (Single Version).mp3
+02 - Prostitute (NYC Club Mix).mp3
+03 - Prostitute (No Pop Mix).mp3
+04 - 3 Minutes Breakdown.mp3
+
+./neuroticfish/Neuroticfish_-_Surimi_[2003]-192kbps-Electronic:
+101 - neuroticfish - skin (binary 2002).mp3
+107 - neuroticfish - velocity (original).mp3
+109 - neuroticfish - neurocaine.mp3
+204 - neuroticfish - love and hunting.mp3
+Neuroticfish - Velocity (cleener remix).mp3
+
+./Other:
+alanis_morissette
+AlbumArt_{0B5F1FE5-C942-4323-930F-A95BD4BF247F}_Large.jpg
+AlbumArt_{0B5F1FE5-C942-4323-930F-A95BD4BF247F}_Small.jpg
+AlbumArt_{5C307EDE-8241-46AE-B994-DBC97C557051}_Large.jpg
+AlbumArt_{5C307EDE-8241-46AE-B994-DBC97C557051}_Small.jpg
+AlbumArt_{5EEEB75C-C299-47AD-B1AA-E1C6FD356268}_Large.jpg
+AlbumArt_{5EEEB75C-C299-47AD-B1AA-E1C6FD356268}_Small.jpg
+AlbumArtSmall.jpg
+Alice Cooper- Poison.mp3
+Alice Deejay - Better Off Alone.mp3
+Alien Ant Farm - Smooth Criminal.mp3
+ani-difranco-78-water.mp3
+Ani Difranco - Little Plastic Castle.mp3
+Ani DiFranco - not a pretty girl [live].mp3
+Ani Difranco - Not A Pretty Girl.mp3
+Annie Lennox - Love Song For A Vampire.mp3
+A Perfect Circle - 06 - Three Libras.mp3
+Apoptygma Berzerk - Eclipse (Dimension D mix).mp3
+Bens Brother - Stuttering ReMix.mp3
+Billy Idol - Rebel Yell.mp3
+Billy Idol  - White Wedding.mp3
+black_eyed_peas
+Bloodhound Gang - Pennsylvania.mp3
+Blue October - Hate me.MP3
+boston-more_than_a_feeling-ans.mp3
+brian_adams_-_summer_of_69.mp3
+bryan_adams_-_everything_i_do_(i_do_it_for_you).mp3
+Bush - Sixteen Stone
+Cranberries-War-Child.mp3
+cruciform_injection_-_black_tides_(decoded_feedback_remix).mp3
+Cruxshadows - Even Angels Fall.mp3
+darkmateria_frame_of_mind.mp3
+darkmateria_the_picard_song.mp3
+darkmateria_the_worf_song.mp3
+Def Lepard - Lovebites.mp3
+Def Lepard - Pour Some Sugar on Me.mp3
+depeche_mode_-_one_caress_(94 mix).mp3
+desktop.ini
+de-vision_-_drifting_sideways_(t.o.y.toburger_wald_mix)-cmg.mp3
+Disturbed - Down with the Sickness.mp3
+Dixie Chicks - Not Ready to Make Nice.mp3
+DJ Earworm - United State of Pop 2009 (Blame It on the Pop) - Mashup of Top 25 Billboard Hits(1).mp3
+DJ_teds_techno_tubes.mp3
+Drowning Pool - Bodies (vrenna XXX mix).mp3
+Elliott Smith - Needle in the Hay.mp3
+evanescence
+Fergie - The Dutchess - 01 - Fergalicious.mp3
+Flo Rida ft. Wynter- Sugar.mp3
+Flo Rida - Right Round.mp3
+Folder.jpg
+front_242_-_welcome_to_paradise _ headhunter.mp3
+Gary Numan - Cars.mp3
+Gary Numan - Down In The Park (Sulpher Mix).mp3
+Genitorturers - I Touch Myself (Divinyls).mp3
+girls_under_glass_-_Frozen.MP3
+gwen_stefani
+Hocico - Poltergeist.mp3
+Howie Day - Collide.mp3
+Imogen Heap - Hide and Seek.mp3
+Iris - Annie (Would I Lie To You).mp3
+Jay-Z - I Run This Town (feat Kanye West _ Rihanna) - HotNewHipHop.com.mp3
+Jet - Look What You_ve Done.mp3
+joan_jett
+Johnny Cash - Hurt.mp3
+johnny_cash_-_i_walk_the_line.mp3
+john_parr_-_st_elmos_fire.mp3
+Joydrop - Beautiful.mp3
+Kanye West ft. T-Pain - Heartless.mp3
+Kanye West - Graduation - Stronger.mp3
+Kasabian - Kasabian
+Katy Perry - Firework.mp3
+Katy Perry - Hot N Cold.mp3
+Katy Perry-Waking Up in Vegas.mp3
+Keha_-_Blah_Blah_Blah_.mp3
+Kesha-TiK-ToK.mp3
+Kevin Rudolf ft. Lil' Wayne - Let It Rock.mp3
+korn
+lady_gaga
+Liam Lynch  - United States Of Whatever.mp3
+Lily Allen - Everythings Just Wonderful.mp3
+Limahl - Neverending Story.mp3
+linkin_park
+live_-_lightning_crashes.mp3
+lords_of_acid
+Madonna - American Life (Radio Edit).mp3
+Madonna - The power of goodbye.mp3
+metallica
+M.I.A. - Paper Planes.mp3
+Moby - Porcelin.mp3
+Modest Mouse - Satin in a Coffin.mp3
+Nada_Surf_-_popular.mp3
+Nelly Furtado - Say It Right.mp3
+nickelback
+Nightwish - Once - Wish I Had an Angel.mp3
+Nirvana - Smells Like Teen Spirit.mp3
+nirvana_-_something_in_the_way.mp3
+No need to argue - 11 - Yeat's grave - The Cranberries.mp3
+oleander_-_i_walk_alone.mp3
+oleander_-_why_im_here.mp3
+orange sector - Fascination.mp3
+O-zone - Numa, Numa.mp3
+Pachebel_-_Canon in D.mp3
+paul_oakenfold_-_ready,steady,go.mp3
+Pixies-Doolittle(Darkside_RG)
+puff_daddy_(feat_jimmy_page)_-_come_with_me.mp3
+Pussy cat Dolls - When I Grow Up.mp3
+radiohead
+rage_against_the_machine
+Red Hot Chili Peppers - Snow (Hey Oh).mp3
+regina_spektor_-_fidelity.mp3
+REO Speedwagon - Can't Fight This Feeling - The Greatest Hits of the 80's - Vol -2 - 04.mp3
+REO Speedwagon - Keep On Loving You.mp3
+Richard Marx - Hold On To The Nights.mp3
+Rihanna-Disturbia.mp3
+roxette
+Schock_-_Erwacht_-_02_-_Ware_Fleisch.mp3
+semisonic_-_closing_time.mp3
+serenity_soundtrack
+she_wants_revenge
+Shiny Toy Guns - Ricochet.mp3
+Sinead_OConner_-_Nothing_Compares_to_You.mp3
+Sinead O'Connor - Daddy I'm Fine.mp3
+smashing_pumpkins
+staind_-_outside.mp3
+Switchblade Symphony_-_naked_birthday_(gothtastic_mix).mp3
+tatu_-_all_the_things_she_said.mp3
+tatu_-_not_gonna_get_us.mp3
+Tenacious D - Tribute 1.mp3
+Tenatious D - Wonderboy.mp3
+the_breeders_-_cannonball.mp3
+The Cure - Lovesong.mp3
+The Dresden Dolls - Coin-Operated Boy.mp3
+The_Five_Stairsteps_-_Ooh Child _(Things_are_Gonna_Get_Easier).mp3
+the_killers_-_sams_town
+the_killers_-_somebody_told_me_(josh_harris_club_mix).mp3
+the_pixies_-_gigantic.mp3
+the_pixies_-_where_is_my_mind.mp3
+the_smiths
+the_sounds_-_dance_with_me.mp3
+The Toy Dolls - 12 - Melancholy Margaret.mp3
+the_verve_pipe_-_bittersweet_symphony.mp3
+the_verve_pipe_-_the_freshman.mp3
+thirteen_senses_-_into_the_fire.mp3
+thou_shalt_not-without_faith-fwyh.mp3
+Thumbs.db
+Twisted Sister - I wanna rock.mp3
+Twisted Sister - Were Not Going To Take It.MP3
+u2
+Van Halen - Jump.mp3
+Van Halen - Why Can't This Be Love.mp3
+veronicas
+Walking in Memphis.mp3
+Wheatus - Teenage Dirtbag.mp3
+will.i.am - Obama - Yes We Can.mp3
+Yeah Yeah Yeahs - 11 Modern Romance.mp3
+ZebraHead - Playmate of the Year.mp3
+zevon
+
+./Other/alanis_morissette:
+alanis_morissette_-_supposed_former_infatuation_junkie
+alanis_morissette_-_under_rug_swept
+desktop.ini
+
+./Other/alanis_morissette/alanis_morissette_-_supposed_former_infatuation_junkie:
+Alanis Morissette - 01 - Front Row.mp3
+Alanis Morissette - 02 - Baba.mp3
+Alanis Morissette - 04 - Are You Still Mad.mp3
+Alanis Morissette - 05 - Sympathetic Character.mp3
+Alanis Morissette - 06 - That I Would Be Good.mp3
+Alanis Morissette - 07 - The Couch.mp3
+Alanis Morissette - 08 - Can't Not.mp3
+Alanis Morissette - 10 - I Was Hoping.mp3
+Alanis Morissette - 11 - One.mp3
+Alanis Morissette - 14 - So Pure.mp3
+Alanis Morissette - 15 - Joining You.mp3
+Alanis Morissette - 17 - Your Congratulations.mp3
+AlbumArt_{39E4A353-5A00-40AB-9B88-875DCA441D64}_Large.jpg
+AlbumArt_{39E4A353-5A00-40AB-9B88-875DCA441D64}_Small.jpg
+Folder.jpg
+
+./Other/alanis_morissette/alanis_morissette_-_under_rug_swept:
+01 -  21 Things.mp3
+02 - Narcissus.mp3
+03 - Hands Clean.mp3
+04 - Flinch.mp3
+05 - So Unsexy.mp3
+06 - Precious Illusions.mp3
+07 - That Particular Time.mp3
+08 - A Man.mp3
+09 - You Owe Me Nothing.mp3
+10 - Surrendering.mp3
+11 - Utopia.mp3
+
+./Other/black_eyed_peas:
+Black Eyed Peas - Boom Boom Pow _club version_ - Whoa.mp3
+desktop.ini
+the_black_eyed_peas_-_elephunk
+The_E.N.D
+
+./Other/black_eyed_peas/the_black_eyed_peas_-_elephunk:
+02 - labor day.mp3
+03 - let's get retarded.mp3
+04 - hey mamma.mp3
+06 - smells like funk.mp3
+09 - fly away.mp3
+11 - the apl song.mp3
+13 - where is the love.mp3
+AlbumArt_{3D0648B1-B346-4847-BB66-E23D7C0A621D}_Large.jpg
+Folder.jpg
+the black eyed peas elephunk cd.jpg
+
+./Other/black_eyed_peas/The_E.N.D:
+Black Eyed Peas - I Gotta Feeling_1_.mp3
+
+./Other/Bush - Sixteen Stone:
+Bush - 00 - Sixteen Stone.m3u
+Bush - 01 - Everything Zen.mp3
+Bush - 02 - Swim.mp3
+Bush - 03 - Bomb.mp3
+Bush - 04 - Little Things.mp3
+Bush - 05 - Comedown.mp3
+Bush - 06 - Body.mp3
+Bush - 07 - Machinehead.mp3
+Bush - 08 - Testosterone.mp3
+Bush - 09 - Monkey.mp3
+Bush - 10 - Glycerine.mp3
+Bush - 11 - Alien.mp3
+Bush - 12 - X-Girlfriend.mp3
+Torrent downloaded from Demonoid.com.txt
+
+./Other/evanescence:
+desktop.ini
+evanescence_-_fallen
+
+./Other/evanescence/evanescence_-_fallen:
+00-evanescence-fallen-(retail)-2003-rns.sfv
+01-evanescence-going_under-rns.mp3
+02-evanescence-bring_me_to_life-rns.mp3
+03-evanescence-everybodys_fool-rns.mp3
+04-evanescence-my_immortal-rns.mp3
+05-evanescence-haunted-rns.mp3
+06-evanescence-tourniquet-rns.mp3
+07-evanescence-imaginary-rns.mp3
+08-evanescence-taking_over_me-rns.mp3
+09-evanescence-hello-rns.mp3
+10-evanescence-my_last_breath-rns.mp3
+11-evanescence-whisper-rns.mp3
+AlbumArt_{30EF0FC0-8791-42E5-BF58-6B57CAC9281D}_Small.jpg
+AlbumArtSmall.jpg
+Folder.jpg
+
+./Other/gwen_stefani:
+Gwen Stefani - Cool.mp3
+Gwen Stefani - Crash.mp3
+Gwen stefanie ft fat joe, busta rhymes, chingy - Hollaback Girl - Holla back girl remix.mp3
+Gwen Stefanie - What You Waiting For.mp3
+Gwen Stefani ft. Eve - Rich Girl.mp3
+Gwen Stefani - I Aint No Holla Back Girl.mp3
+Gwen Stefani - Luxurious.mp3
+Gwen Stefani - What Are You Waiting For.mp3
+Gwen Stefani - What Are You Waiting For (Video).mpeg
+Gwen Steffani-  What You Waiting For.mp3
+
+./Other/joan_jett:
+Joan Jett - Bad Reputation.mp3
+Joan Jett - Black Velvet.mp3
+Joan Jett - Crimson _ Clover.mp3
+Joan Jett - I Love Rock N Roll.mp3
+Joan Jett - Love Is Pain.mp3
+
+./Other/Kasabian - Kasabian:
+01 - Club Foot.mp3
+02 - Processed Beats.mp3
+03 - Reason Is Treason.mp3
+04 - I.D..mp3
+05 - Orange.mp3
+06 - L.S.F. (Lost Souls Forever).mp3
+07 - Running Battle.mp3
+08 - Test Transmission.mp3
+09 - Pinch Roller.mp3
+10 - Cutt Off.mp3
+11 - Butcher Blues.mp3
+12 - Ovary Stripe.mp3
+13 - U Boat.mp3
+
+./Other/korn:
+korn_-_greatest_hits_vol_1
+korn_-_hold_on.mp3
+Korn _ NIN - Freak On A Leash.MP3
+korn_-_take_a_look_in_the_mirror
+korn_-_untouchables
+
+./Other/korn/korn_-_greatest_hits_vol_1:
+00-korn-greatest_hits_vol_1-2004-rns.nfo
+01-korn-word_up-rns.mp3
+02-korn-another_brick_in_the_wall_(parts_1_2_3)-rns.mp3
+04-korn-right_now-rns.mp3
+05-korn-did_my_time-rns.mp3
+06-korn-alone_i_break-rns.mp3
+07-korn-here_to_stay-rns.mp3
+11-korn-falling_away_from_me-rns.mp3
+12-korn-got_the_life-rns.mp3
+14-korn-twist-rns.mp3
+15-korn-adidas-rns.mp3
+16-korn-clown-rns.mp3
+korn_greatest hits vol.1.jpg
+
+./Other/korn/korn_-_take_a_look_in_the_mirror:
+Korn -01- Right Now.mp3
+Korn -02- Break Some Off.mp3
+Korn -03- Counting On Me.mp3
+Korn -04- Here It Comes Again.mp3
+Korn -05- Deep Inside.mp3
+Korn -06- Did My Time.mp3
+Korn -07- Everything I've Known.mp3
+Korn -08- Play Me.mp3
+Korn -09- Alive.mp3
+Korn -13- When Will This End + One [Live].mp3
+
+./Other/korn/korn_-_untouchables:
+01_korn_-_here to stay.mp3
+05_korn_-_bottled_up_inside.mp3
+06_korn_-_thoughtless.mp3
+09_korn_-_alone_i_break.mp3
+12_korn_-_wake_up_hate.mp3
+korn - untouchables - 01 - from your heart.mp3
+korn - untouchables - 02 - chasing me .mp3
+korn - untouchables - 05 - in place.mp3
+korn - untouchables - 06 - i want to be gone.mp3
+korn - untouchables - 08 - falling through time.mp3
+korn - untouchables - 10 - leave this place.mp3
+korn - untouchables - 11 - corners of my mind.mp3
+korn - untouchables - 12 - help me stay alive.mp3
+korn - untouchables - 14 - everything that i could find.mp3
+
+./Other/lady_gaga:
+Lady GaGa - Alejandro.mp3
+Lady Gaga - Bad Romance (Album Version).mp3
+Lady Gaga - Bad Romance (Official Music Video).mp4
+Lady Gaga feat. Beyoncé - Telephone.mp3
+Lady Gaga - Just Dance(Ft Akon).mp3
+Lady GaGa - Paparazzi.mp3
+Lady Gaga - Poker Face.mp3
+
+./Other/linkin_park:
+linkin_park_-_in_the_end.mp3
+linkin_park_-_new_divide.mp3
+linkin_park_-_one_step_closer.mp3
+
+./Other/lords_of_acid:
+Lords Of Acid - Marijuana In Your Brain.mp3
+lords of acid - out comes the evil.mp3
+Lords of Acid - Rough Sex.mp3
+Lords Of Acid - The Pussy Song.mp3
+
+./Other/metallica:
+Metallica - 06 - Hero Of The Day.mp3
+Metallica - Fade To Black.mp3
+metallica_-_S_M
+
+./Other/metallica/metallica_-_S_M:
+Metallica - 01 - The Ecstacy Of Gold (live).mp3
+Metallica - 04 - Of Wolf And Man (live).mp3
+Metallica - 05 - The Thing That Should Not Be (live).mp3
+Metallica - 07 - The Memory Remains (live).mp3
+Metallica - 08 - No Leaf Clover (live).mp3
+Metallica - 10 - Devil's Dance (live).mp3
+Metallica - 11 - Bleeding Me (live).mp3
+Metallica - 12 - Nothing Else Matters (Live).mp3
+Metallica - 13 - Until It Sleeps (Live).mp3
+Metallica - 14 - For Whom the Bell Tolls (Live).mp3
+Metallica - 15 - Minus Human (Live).mp3
+Metallica - 17 - Outlaw Torn (Live).mp3
+Metallica - 19 - One (Live).mp3
+Metallica - 20 - Enter Sandman (Live).mp3
+Metallica - 21 - Battery (Live).mp3
+
+./Other/nickelback:
+nickelback_-_animals.mp3
+nickelback_-_far_away.mp3
+nickelback_-_favorite_damn_disease.mp3
+Nickelback - Gotta Be Somebody.mp3
+nickelback_-_hero.mp3
+Nickelback - How You Remind Me.mp3
+nickelback_-_if_everyone_cared.mp3
+nickelback_-_never_again.mp3
+nickelback_-_next_contestant.mp3
+nickelback_-_photograph.mp3
+nickelback_-_someday.mp3
+nickelback_-_too_bad.mp3
+
+./Other/Pixies-Doolittle(Darkside_RG):
+01 - Debaser.mp3
+03 - Wave of Mutilation.mp3
+04 - I Bleed.mp3
+05 - Here Comes Your Man.mp3
+06 - Dead.mp3
+07 - Monkey Gone to Heaven.mp3
+08 - Mr. Grieves.mp3
+09 - Crackity Jones.mp3
+10 - La La Love You.mp3
+11 - No. 13 Baby.mp3
+12 - There Goes My Gun.mp3
+13 - Hey.mp3
+14 - Silver.mp3
+15 - Gouge Away.mp3
+Doolittle.m3u
+
+./Other/radiohead:
+radiohead_-_creep.mp3
+radiohead_-_fake_plastic_trees.mp3
+radiohead_-_the_drugs_dont_work.mp3
+
+./Other/rage_against_the_machine:
+Rage Against The Machine - Bulls On Parade.mp3
+Rage Against The Machine - Killing In The Name Of.mp3
+Rage Agianst the Machine - Guerilla Radio.mp3
+
+./Other/roxette:
+roxette_-_fading_like_a_flower.mp3
+roxette_-_joyride.mp3
+
+./Other/serenity_soundtrack:
+02-ost-escape.mp3
+04-ost-going_for_a_ride.mp3
+06-ost-river_goes_wild.mp3
+07-ost-river_and_simon_in_locker.mp3
+08-ost-population_dead.mp3
+09-ost-haven_destroyed.mp3
+10-ost-sheperd_books_last_words.mp3
+11-ost-youre_not_a_reaver.mp3
+12-ost-mal_decides.mp3
+13-ost-truth___mals_speech.mp3
+15-ost-crash_landing.mp3
+17-ost-generator_room.mp3
+18-ost-mal_and_op_fight.mp3
+20-ost-funeral___rebuilding_serenity.mp3
+21-ost-prep_for_a_flight.mp3
+22-ost-love.mp3
+23-ost-end_credits.mp3
+PCToRRenT - DivX  Juegos PC Mp3 Software  Y Mas  Tu WeB de BiTToRRenT.url
+PCTrecords.Te Best Music of the World.url
+SeXoToRRenT.url
+
+./Other/she_wants_revenge:
+She Wants Revenge - Broken Promises For Broken Hearts.mp3
+She Wants Revenge- disconnect.mp3
+She Wants Revenge- I Don't Want To Fall In Love.mp3
+She Wants Revenge - Monologue.mp3
+She Wants Revenge - Out of Control.mp3
+She Wants Revenge - Red Flags And Long Nights.mp3
+She Wants Revenge - She Loves Me, She Loves Me Not 12.mp3
+She Wants Revenge - Sister.mp3
+She Wants Revenge - Someone Must Get Hurt 10.mp3
+she wants revenge - Tear You Apart.mp3
+She Wants Revenge - These Things.mp3
+
+./Other/smashing_pumpkins:
+AlbumArt_{38232DA6-4E7F-4287-A9BB-ED2A333D1864}_Large.jpg
+AlbumArt_{38232DA6-4E7F-4287-A9BB-ED2A333D1864}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+siamese_dream
+Smashing Pumkins - Landslide.mp3
+smashing_pumpkins_-_adore
+smashing_pumpkins_-_tonight_tonight.mp3
+smashing pumpkins-zero.mp3
+
+./Other/smashing_pumpkins/siamese_dream:
+00. The Smashing Pumpkins - Siamese Dream.nfo
+04 - The Smashing Pumpkins - Hummer - Siamese Dream.mp3
+08 - The Smashing Pumpkins - Geek U.S.A. - Siamese Dream.mp3
+12 - The Smashing Pumpkins - Sweet Sweet - Siamese Dream.mp3
+13 - The Smashing Pumpkins - Luna - Siamese Dream.mp3
+AlbumArt_{EA4D9E89-9A3D-4B46-B89E-B260BE4A6F18}_Large.jpg
+AlbumArt_{EA4D9E89-9A3D-4B46-B89E-B260BE4A6F18}_Small.jpg
+Demons Eye Torrents.zip
+Folder.jpg
+KindMetal.com.url.url
+
+./Other/smashing_pumpkins/smashing_pumpkins_-_adore:
+AlbumArt_{2E4E66CC-BA8F-4B85-A9D5-3A8B933DCAB0}_Large.jpg
+The Smashing Pumpkins - 17.mp3
+The Smashing Pumpkins - Annie-Dog.mp3
+The Smashing Pumpkins - Appels + Oranjes.mp3
+The Smashing Pumpkins - Ava Adore.mp3
+The Smashing Pumpkins - Blank Page.mp3
+The Smashing Pumpkins - Crestfallen.mp3
+The Smashing Pumpkins - Once upon a Time.mp3
+The Smashing Pumpkins - Perfect.mp3
+The Smashing Pumpkins - The Tale of Dusty and Pistol Pete.mp3
+
+./Other/the_killers_-_sams_town:
+01_Sam_s_Town.mp3
+03_When_You_Were_Young.mp3
+04_Bling__Confessions_Of_A_King_.mp3
+05_For_Reasons_Unknown.mp3
+06_Read_My_Mind.mp3
+07_Uncle_Johnny.mp3
+08_Bones.mp3
+09_My_List.mp3
+10_This_River_Is_Wild.mp3
+11_Why_Do_I_Keep_Counting.mp3
+12_Exitlude.mp3
+13_Where_The_White_Boys_Dance__Bonus_Track_.mp3
+Cd.jpg
+Front.jpg
+www.torrentpower.net.txt
+
+./Other/the_smiths:
+AlbumArt_{1104B8CD-7E38-40BB-B6C7-C783CFF06F34}_Large.jpg
+AlbumArt_{1104B8CD-7E38-40BB-B6C7-C783CFF06F34}_Small.jpg
+AlbumArt_{B2F2291A-C0A6-42FB-99DB-E7E749B29DB2}_Large.jpg
+AlbumArt_{B2F2291A-C0A6-42FB-99DB-E7E749B29DB2}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+The Smiths - Bigmouth Strikes Again.mp3
+the smiths - Hang The Dj.mp3
+the_smiths_-_hatful_of_hollow
+The Smiths - How Soon Is Now.mp3
+the_smiths_-_louder_than_bombs
+the_smiths_-_meat_is_murder
+
+./Other/the_smiths/the_smiths_-_hatful_of_hollow:
+02 What Difference Does It Make_.mp3
+11 You've Got Everything Now.mp3
+12 Accept Yourself.mp3
+15 Reel Around The Fountain.mp3
+16 Please Please Please Let Me G.mp3
+
+./Other/the_smiths/the_smiths_-_louder_than_bombs:
+AlbumArt_{A2560D30-03CD-4D5E-BE54-05766B8FBFCD}_Large.jpg
+The Smiths - 06 London.mp3
+The Smiths - 10 William, It Was Really Nothing.mp3
+The Smiths - 17 Rubber Ring.mp3
+The Smiths - 19 Hand In Glove.mp3
+
+./Other/the_smiths/the_smiths_-_meat_is_murder:
+03 - The Smiths - I Want The One I Can't Have.ogg
+04 - The Smiths - What She Said.ogg
+07 - The Smiths - Nowhere Fast.ogg
+08 - The Smiths - Well I Wonder.ogg
+10 - The Smiths - Meat Is Murder.ogg
+
+./Other/u2:
+AlbumArt_{509A6003-116F-41A9-A2A2-B65AD211E222}_Large.jpg
+AlbumArt_{509A6003-116F-41A9-A2A2-B65AD211E222}_Small.jpg
+AlbumArt_{EC69D2EE-BDAF-4087-92D9-C1582A14F8D0}_Large.jpg
+AlbumArt_{EC69D2EE-BDAF-4087-92D9-C1582A14F8D0}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+u2_-_all_i_want_is_you.mp3
+u2_-_beautiful_day.mp3
+u2_-_love_is_blindness.mp3
+u2_-_numb.mp3
+U2 - One.mp3
+u2_-_pride_(in_the_name_of_love).mp3
+u2_-_the_fly.mp3
+u2_-_the_sweetest_thing.mp3
+u2_-_vertigo.mp3
+
+./Other/veronicas:
+The Veronicas- Hook Me Up.mp3
+The Veronicas - Untouched.mp3
+The Veronicas - When it all falls apart.mp3
+
+./Other/zevon:
+Warren Zevon - Lawyers, Guns And Money.mp3
+Warren Zevon - Werewolves Of London.mp3
+
+./panzer_ag:
+this_is_my_battlefield
+your_world_is_burning
+
+./panzer_ag/this_is_my_battlefield:
+03_panzer_ag-battlefield-fwyh.mp3
+11_panzer_ag-god_eats_god-fwyh.mp3
+12_panzer_ag-it_is_all_in_your_head-fwyh.mp3
+13_panzer_ag-behind_a_gasmask-fwyh.mp3
+14_panzer_ag-pure_tension-fwyh.mp3
+
+./panzer_ag/your_world_is_burning:
+02-aenimal-radial.mp3
+03-machinegun_gogo-radial.mp3
+07-moerketid-radial.mp3
+08-crash_n_burn-radial.mp3
+10-tip_the_dancer-radial.mp3
+
+./playlist:
+default.xspf
+
+./Pop-Rock:
+band-of-horses
+bon_jovi
+coldplay
+green_day
+jack_off_jill
+lame_immortelle
+lights_of_euphoria
+pink
+prick
+radiohead
+smashing_pumpkins
+
+./Pop-Rock/band-of-horses:
+04 - The Funeral.mp3
+Band of Horses - Cease to Begin - 01 - Is There A Ghost.mp3
+Band of Horses - Cease to Begin - 03 - No One's Gonna Love You.mp3
+
+./Pop-Rock/bon_jovi:
+AlbumArt_{3A49969E-D4B3-4157-B00D-A4051BB443C2}_Large.jpg
+AlbumArt_{6AFADB55-FE69-4B24-AF13-7062067F404F}_Large.jpg
+AlbumArt_{8BA185BF-5F58-40AE-A092-8A5D2930FB64}_Small.jpg
+Bon Jovi - Bad Medicine.mp3
+Bon Jovi - It's My Life.mp3
+Bon Jovi - Lay Your Hands on Me.mp3
+Bon Jovi - Living on a Prayer.mp3
+Bon Jovi - You Give Love A Bad Name.mp3
+Folder.jpg
+Thumbs.db
+
+./Pop-Rock/coldplay:
+Coldplay - A rush of blood to the head
+Coldplay - X_Y
+desktop.ini
+
+./Pop-Rock/coldplay/Coldplay - A rush of blood to the head:
+AlbumArt_{7DB5EBCC-60C1-4F74-8E8F-736292FB0223}_Small.jpg
+coldplay - a rush of blood to the head - 02 -  in my place .mp3
+coldplay - a rush of blood to the head - 06 - daylight.mp3
+coldplay - a rush of blood to the head - 07 - warning sign.mp3
+coldplay - a rush of blood to the head - 08 - green eyes.mp3
+
+./Pop-Rock/coldplay/Coldplay - X_Y:
+04 - Fix You.mp3
+05 - Talk.mp3
+11 - Swallowed In The Sea.mp3
+12 - Twisted Logic.mp3
+album review.txt
+
+./Pop-Rock/green_day:
+green_day_-_american_idiot
+green_day_-_dookie
+
+./Pop-Rock/green_day/green_day_-_american_idiot:
+01-Green_Day-American_Idiot_(Album_Version)-LMS.mp3
+02-Green_Day-American_Idiot_(Radio_Edit)-LMS.mp3
+03-Green_Day-Favorite_Son_(Previously_Unreleased)-LMS.mp3
+
+./Pop-Rock/green_day/green_day_-_dookie:
+01 - Burnout.mp3
+03 - Chump.mp3
+06 - Pulling Teeth.mp3
+07 - Basket Case.mp3
+14 - F.O.D.mp3
+
+./Pop-Rock/jack_off_jill:
+jack_off_jill_-_clear_hearts_grey_flowers
+
+./Pop-Rock/jack_off_jill/jack_off_jill_-_clear_hearts_grey_flowers:
+07 - Jack Off Jill - Vivica.MP3
+09 - Jack Off Jill - Cinnamon Spider.MP3
+10 - Jack Off Jill - Underjoyed.MP3
+13 - Jack Off Jill - Losing His Touch.MP3
+14 - Jack Off Jill - Clear Hearts Grey Flowers.MP3
+
+./Pop-Rock/lame_immortelle:
+lame_immortelle-als_die_liebe_starb-2003-fwyh
+lame_immortelle-zwielicht-2002-phr
+
+./Pop-Rock/lame_immortelle/lame_immortelle-als_die_liebe_starb-2003-fwyh:
+00-lame_immortelle-als_die_liebe_starb-2003-fwyh.sfv
+01-21_februar-fwyh.mp3
+05-aus_den_ruinen-fwyh.mp3
+08-betrayal-fwyh.mp3
+10-disharmony-fwyh.mp3
+
+./Pop-Rock/lame_immortelle/lame_immortelle-zwielicht-2002-phr:
+00-lame_immortelle-zwielicht-2002-phr.nfo
+00-lame_immortelle-zwielicht-2002-phr.sfv
+05-lame_immortelle-slut_(light_and_shadow)-phr.mp3
+09-lame_immortelle-forgive_me_(in_strict_confidence)-phr.mp3
+11-lame_immortelle-dead_actors_requiem_(act_two)-phr.mp3
+
+./Pop-Rock/lights_of_euphoria:
+lights_of_euphoria_-_blood_brothers
+lights_of_euphoria_-_voices
+
+./Pop-Rock/lights_of_euphoria/lights_of_euphoria_-_blood_brothers:
+00 - Lights Of Euphoria - Blood Brothers [1].jpg
+00 - Lights Of Euphoria - Blood Brothers [2].jpg
+00 - Lights Of Euphoria - Blood Brothers [6].jpg
+04 - Lights Of Euphoria - Blood Brother.mp3
+11 - Lights Of Euphoria - Taste Me.mp3
+
+./Pop-Rock/lights_of_euphoria/lights_of_euphoria_-_voices:
+04 - Lights Of Euphoria - Monument Of Destruction.mp3
+05 - Lights Of Euphoria - Temple Of Light.mp3
+08 - Lights Of Euphoria - Vision.mp3
+11 - Lights Of Euphoria - Subjection 2000 (Don't Forget).mp3
+13 - Lights Of Euphoria - Monument Of Destruction (Dark Illumination Remix).mp3
+
+./Pop-Rock/pink:
+1-Pink - Dear Mr. President(1).mp3
+2-Pink - Sober.mp3
+35-Pink - Raise Your Glass.mp3
+3-Pink - So What.mp3
+4-Pink - U _ Ur Hand.mp3
+AlbumArt_{5C307EDE-8241-46AE-B994-DBC97C557051}_Large.jpg
+AlbumArt_{5C307EDE-8241-46AE-B994-DBC97C557051}_Small.jpg
+AlbumArtSmall.jpg
+Folder.jpg
+
+./Pop-Rock/prick:
+prick - communique
+
+./Pop-Rock/prick/prick - communique:
+Prick -03- Tough.mp3
+Prick -04- Other People.mp3
+Prick -05- No Fair Fights.mp3
+Prick -08- I Apologise.mp3
+Prick -09- crack.mp3
+
+./Pop-Rock/radiohead:
+radiohead_-_creep.mp3
+radiohead_-_fake_plastic_trees.mp3
+radiohead_-_the_drugs_dont_work.mp3
+
+./Pop-Rock/smashing_pumpkins:
+AlbumArt_{38232DA6-4E7F-4287-A9BB-ED2A333D1864}_Large.jpg
+AlbumArt_{38232DA6-4E7F-4287-A9BB-ED2A333D1864}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+siamese_dream
+Smashing Pumkins - Landslide.mp3
+smashing_pumpkins_-_adore
+smashing_pumpkins_-_tonight_tonight.mp3
+smashing pumpkins-zero.mp3
+
+./Pop-Rock/smashing_pumpkins/siamese_dream:
+00. The Smashing Pumpkins - Siamese Dream.nfo
+01 - The Smashing Pumpkins - Cherub Rock - Siamese Dream.mp3
+02 - The Smashing Pumpkins - Quiet - Siamese Dream.mp3
+03 - The Smashing Pumpkins - Today - Siamese Dream.mp3
+04 - The Smashing Pumpkins - Hummer - Siamese Dream.mp3
+05 - The Smashing Pumpkins - Rocket - Siamese Dream.mp3
+06 - The Smashing Pumpkins - Disarm - Siamese Dream.mp3
+07 - The Smashing Pumpkins - Soma - Siamese Dream.mp3
+08 - The Smashing Pumpkins - Geek U.S.A. - Siamese Dream.mp3
+09 - The Smashing Pumpkins - Mayonaise - Siamese Dream.mp3
+10 - The Smashing Pumpkins - Spaceboy - Siamese Dream.mp3
+11 - The Smashing Pumpkins - Silverfuck - Siamese Dream.mp3
+12 - The Smashing Pumpkins - Sweet Sweet - Siamese Dream.mp3
+13 - The Smashing Pumpkins - Luna - Siamese Dream.mp3
+AlbumArt_{EA4D9E89-9A3D-4B46-B89E-B260BE4A6F18}_Large.jpg
+AlbumArt_{EA4D9E89-9A3D-4B46-B89E-B260BE4A6F18}_Small.jpg
+AlbumArtSmall.jpg
+Demons Eye Torrents.zip
+desktop.ini
+Folder.jpg
+KindMetal.com.url.url
+
+./Pop-Rock/smashing_pumpkins/smashing_pumpkins_-_adore:
+AlbumArt_{2E4E66CC-BA8F-4B85-A9D5-3A8B933DCAB0}_Large.jpg
+AlbumArt_{2E4E66CC-BA8F-4B85-A9D5-3A8B933DCAB0}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+The Smashing Pumpkins - 17.mp3
+The Smashing Pumpkins - Annie-Dog.mp3
+The Smashing Pumpkins - Appels + Oranjes.mp3
+The Smashing Pumpkins - Ava Adore.mp3
+The Smashing Pumpkins - Behold! The Night Mare.mp3
+The Smashing Pumpkins - Blank Page.mp3
+The Smashing Pumpkins - Crestfallen.mp3
+The Smashing Pumpkins - Daphne Descends.mp3
+The Smashing Pumpkins - For Martha.mp3
+The Smashing Pumpkins - Once upon a Time.mp3
+The Smashing Pumpkins - Perfect.mp3
+The Smashing Pumpkins - Pug.mp3
+The Smashing Pumpkins - Shame.mp3
+The Smashing Pumpkins - Tear.mp3
+The Smashing Pumpkins - The Tale of Dusty and Pistol Pete.mp3
+The Smashing Pumpkins - To Sheila.mp3
+
+./project_pitchfork:
+project_pitchfork_-_Alpha Omega (Tank Mix).mp3
+project_pitchfork_-_daimonion
+project_pitchfork_-_eon_eon
+project_pitchfork_-_timekiller
+project_pitchfork_-_trialog_(mcd)
+
+./project_pitchfork/project_pitchfork_-_daimonion:
+01_project_pitchfork - Daimonion (You Hear Me in Your Dreams).mp3
+06_project_pitchfork - The Clone.mp3
+08_project_pitchfork - Drone Assembly.mp3
+11_project_pitchfork - Citynight.mp3
+12_project_pitchfork - Last Call.mp3
+
+./project_pitchfork/project_pitchfork_-_eon_eon:
+Project Pitchfork - 01 - Carnival.mp3
+Project Pitchfork - 02 - Realm Center.mp3
+Project Pitchfork - 03 - Hunted.mp3
+Project Pitchfork - 04 - Resist.mp3
+Project Pitchfork - 06 - Karma Monster.mp3
+
+./project_pitchfork/project_pitchfork_-_timekiller:
+01-Time Killer (Radio Edit).mp3
+02-Time Killer (Philip Boa Remix).mp3
+06-Time Killer (Project Pitchfork Remix).mp3
+07-Time Killer (Video Edit Original).mp3
+08-Time Killer (Jaw Remix).mp3
+
+./project_pitchfork/project_pitchfork_-_trialog_(mcd):
+01_Behind the Fog.mp3
+02_Tal Der Dornen.mp3
+03_Inferno.mp3
+05_Trialog.mp3
+Project Pitchfork -- Trialog (MCD).sfv
+
+./psyclon_nine:
+2009 We The Fallen
+Psyclon Nine - 2003 - Divine Infekt
+Psyclon Nine - 2005 - INRI
+Psyclon Nine - 2006 - Crwn Thy Frnicatr
+
+./psyclon_nine/2009 We The Fallen:
+01- Soulless (The Makers Reflection).mp3
+02- We The Fallen.mp3
+03- Heartworm.mp3
+04- Thy Serpent Tongue.mp3
+05- Bloodwork.mp3
+06- The Derelict (God Forsaken).mp3
+07- Widowmaker.mp3
+08- There But For The Grace Of God.mp3
+09- Of Decay (An Exit).mp3
+10- Suicide Note Lullaby.mp3
+11- As One With The Flies.mp3
+12- Under The Judas Tree.mp3
+
+./psyclon_nine/Psyclon Nine - 2003 - Divine Infekt:
+01 - Divine Infekt.m4a
+02 - Tyranny.m4a
+03 - Clinik.m4a
+04 - Slaughter.m4a
+05 - Resurrekt.m4a
+06 - Payback.m4a
+07 - Genocide.m4a
+08 - Rusted.m4a
+09 - So Be It.m4a
+10 - As You Sleep.m4a
+11 - Divine Infekt (Tactical Sekt Remix).m4a
+
+./psyclon_nine/Psyclon Nine - 2005 - INRI:
+01 - INRI.m4a
+02 - Behind A Serrated Grin.m4a
+03 - Lamb Of God.m4a
+04 - Hymn To The Angels' Descent.m4a
+05 - Rape This World.m4a
+06 - The Feeble Mind.m4a
+07 - The Feeding.m4a
+08 - Requiem For The Christian Era.m4a
+09 - Faith - Disease.m4a
+10 - Harlot.m4a
+11 - The Unfortunate.m4a
+12 - Nothing Left.m4a
+13 - You Know What You Are.m4a
+
+./psyclon_nine/Psyclon Nine - 2006 - Crwn Thy Frnicatr:
+01 - Bellum In Abyssus.m4a
+02 - Parasitic.m4a
+03 - Better Than Suicide.m4a
+04 - Anaesthetic [For The Pathetic].m4a
+05 - The Room.m4a
+06 - Flesh Harvest.m4a
+07 - Scar Of The Deceiver.m4a
+08 - Crwn Thy Frnicatr.m4a
+09 - Visceral Holocaust.m4a
+10 - Proficiscor Of Terminus Vicis.m4a
+11 - The Purging [A Revelation Of Pain].m4a
+folder.jpg
+Thumbs.db
+
+./pzychobitch:
+pzychobitch_-_the_day_after
+pzychobitch_-_the_day_before_(promo)
+
+./pzychobitch/pzychobitch_-_the_day_after:
+01-the_day_after-fwyh.mp3
+03-upside_down-fwyh.mp3
+05-my_day_(day_after_version)-fwyh.mp3
+06-fitter_than_you_(vs_hanin_elias)-fwyh.mp3
+09-caress-fwyh.mp3
+
+./pzychobitch/pzychobitch_-_the_day_before_(promo):
+00-pzycho_bitch-the_day_before-promo-ep-2003-fwyh.nfo
+00-pzycho_bitch-the_day_before-promo-ep-2003-fwyh.sfv
+05-caress-fwyh.mp3
+06-my_day_(day_before-version)-fwyh.mp3
+07-life_could-fwyh.mp3
+
+./retrosic:
+desktop.ini
+messa_da_requiem
+the_retrosic_-_god_of_hell
+the_retrosic_-_god_of_hell(limited_box_set_bonux)
+
+./retrosic/messa_da_requiem:
+01 - Ground Zero.Mp3
+02 - Eat Me Alive.Mp3
+03 - Prevail.Mp3
+04 - We Become One.Mp3
+05_ t.o.d._i-cmg.mp3
+06 - Death Means Nothing At All.Mp3
+07_ t.o.d._ii-cmg.mp3
+
+./retrosic/the_retrosic_-_god_of_hell:
+01_the_storm.mp3
+02_maneater.mp3
+03_new_world_order.mp3
+04_tale_of_woe.mp3
+05_dragonfire.mp3
+06_elysium.mp3
+07_total_war.mp3
+08_antichrist.mp3
+09_sphere.mp3
+10_tears_in_rain.mp3
+AlbumArt_{E14C09E2-2D45-42D4-95A2-3E8C425050EE}_Large.jpg
+AlbumArt_{E14C09E2-2D45-42D4-95A2-3E8C425050EE}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+
+./retrosic/the_retrosic_-_god_of_hell(limited_box_set_bonux):
+000-the_retrosic-god_of_hell-limited_box_set-bonus_discs-2004-back.jpg
+000-the_retrosic-god_of_hell-limited_box_set-bonus_discs-2004-front.jpg
+000-the_retrosic-god_of_hell-limited_box_set-bonus_discs-2004-inside1.jpg
+000-the_retrosic-god_of_hell-limited_box_set-bonus_discs-2004-inside2.jpg
+000-the_retrosic-god_of_hell-limited_box_set-bonus_discs-2004-inside3.jpg
+000-the_retrosic-god_of_hell-limited_box_set-bonus_discs-2004-inside4.jpg
+000-the_retrosic-god_of_hell-limited_box_set-bonus_discs-2004.nfo
+000-the_retrosic-god_of_hell-limited_box_set-bonus_discs-2004.sfv
+101-tale_of_woe_(addicted).mp3
+102-maneater_(gramaphone).mp3
+103-elysium_(instrumental).mp3
+104-the_storm_(sirene).mp3
+105-passion_(first_sign).mp3
+201-ground_zero_(valley_of_death).mp3
+202-laughing_stock_(written_by_sitd).mp3
+203-hell_on_earth_(written_by_aslan_faction).mp3
+204-scream_(written_by_t.h.-industries).mp3
+205-mindsucker_(written_by_snow_in_china).mp3
+206-theres_no_tomorrow_(written_by_clan_of_xymox).mp3
+207-ground_zero_(modified_by_punto_omega).mp3
+
+./rosetta_stone:
+rosetta_stone_-_chemical_emissions
+rosetta_stone_-_the_tyranny_of_inaction
+
+./rosetta_stone/rosetta_stone_-_chemical_emissions:
+02 - Rosetta Stone - Cimmerian.mp3
+03 - Rosetta Stone - Shadow.mp3
+06 - Rosetta Stone - If Only _ Sometimes.mp3
+07 - Rosetta Stone - Chapter _ Verse.mp3
+10 - Rosetta Stone - Subterfuge.mp3
+
+./rosetta_stone/rosetta_stone_-_the_tyranny_of_inaction:
+02-friends_and_executioners-radial.mp3
+04-goods_gone-radial.mp3
+05-interference-radial.mp3
+06-one_angel-radial.mp3
+07-never-radial.mp3
+
+./skinny_puppy:
+desktop.ini
+skinny_puppy_-_last_rights
+skinny_puppy_-_remix_dys_temper
+skinny_puppy_-_the_greater_wrong_of_the_right
+skinny_puppy_-_the_process
+
+./skinny_puppy/skinny_puppy_-_last_rights:
+01 - Love in Vein.mp3
+02 - Killing Game.mp3
+03 - Knowhere.mp3
+04 - Mirror Saw.mp3
+05 - Inquisition.mp3
+06 - Scrapyard.mp3
+07 - Riverz End.mp3
+08 - Lust Chance.mp3
+09 - Circustance.mp3
+10 - Left Hand Shake (missing).mp3
+11 - Download.mp3
+AlbumArt_{62FFA2E0-7034-460F-99C3-8036B5522A9F}_Large.jpg
+AlbumArt_{62FFA2E0-7034-460F-99C3-8036B5522A9F}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+
+./skinny_puppy/skinny_puppy_-_remix_dys_temper:
+01 - Rodent  [Ken 'Hiwatt' Marshall Remix] [DDT Mix].mp3
+02 - Addiction  [Günter Schulz Remix] [Günter Schulz of Kmfdm Remix].mp3
+03 - Smothered Hope [Ogre and Mark Walk Remix].mp3
+04 - Killing Game [Autechre Remix].mp3
+05 - Love in Vein [Go Girl Trio Mix].mp3
+06 - Worlock [Eye of the Beholder Mix].mp3
+07 - Spasmolytic [Deftones Remix].mp3
+08 - Tin Omen [Adrian Sherwood Remix].mp3
+09 - Testure [God Lives Underwater Remix].mp3
+10 - Dig It [Mark Walk Remix].mp3
+11 - Assimilate [Chris Vrenna Remix].mp3
+12 - Censor [Guru Remix].mp3
+13 - Chainsaw [Josh Wink Remix].mp3
+AlbumArt_{232378FE-E13C-480C-A81E-1ADACA364FD6}_Large.jpg
+AlbumArt_{232378FE-E13C-480C-A81E-1ADACA364FD6}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+
+./skinny_puppy/skinny_puppy_-_the_greater_wrong_of_the_right:
+01 - Skinny Puppy - Immortal.mp3
+02 - Skinny Puppy - Pro-Test.mp3
+03 - Skinny Puppy - Empte.mp3
+05 - Skinny Puppy - Ghostman.mp3
+06 - Skinny Puppy - Downsizer.mp3
+07 - Skinny Puppy - Past Present.mp3
+08 - Skinny Puppy - Use Less.mp3
+09 - Skinny Puppy - Goneja.mp3
+10 - Skinny Puppy - Daddyuwarbash.mp3
+AlbumArt_{C132C722-7798-44CE-8501-09264490B7D8}_Large.jpg
+AlbumArt_{C132C722-7798-44CE-8501-09264490B7D8}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+
+./skinny_puppy/skinny_puppy_-_the_process:
+01 Skinny Puppy - Jahya.mp3
+02 Skinny Puppy - Death.mp3
+03 Skinny Puppy - Candle.mp3
+04 Skinny Puppy - Hardset Head.mp3
+05 Skinny Puppy - Cult.mp3
+06 Skinny Puppy - Process.mp3
+07 Skinny Puppy - Curcible.mp3
+08 Skinny Puppy - Blue Serge.mp3
+09 Skinny Puppy - Morter.mp3
+10 Skinny Puppy - Amnesia.mp3
+11 Skinny Puppy - Cellar Heat.mp3
+AlbumArt_{086DABB5-989D-4AD2-BEA7-AD8844448C6B}_Large.jpg
+AlbumArt_{086DABB5-989D-4AD2-BEA7-AD8844448C6B}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+
+./slipknot:
+slipknot_-_iowa-(full_retail)-2001-vile
+
+./slipknot/slipknot_-_iowa-(full_retail)-2001-vile:
+02_-_slipknot_-_people_equals_shit.mp3
+08_-_slipknot_-_left_behind.mp3
+09_-_slipknot_-_the_shape.mp3
+10_-_slipknot_-_i_am_hated.mp3
+slipknot_iowa_front.jpg
+
+./stromkern:
+desktop.ini
+Stromkern - Heretic I (Inquisition).mp3
+Stromkern - Heretic II (Visionary).mp3
+
+./suicide_commando:
+bind,_torture,_kill_(bonus_cd)
+suicide_commando_-_love_breeds_suicide
+
+./suicide_commando/bind,_torture,_kill_(bonus_cd):
+01 Conspiracy With The Devil (Asshole Mix).mp3
+02 Conspiracy With The Devil (R.I.P. Mix By Virtual Embrace).mp3
+03 Menschenfresser (Diskonnekted Remix).mp3
+04 Conspiracy With The Devil (Death-Pact Remix By Controlled Collapse).mp3
+05 Second Death.mp3
+
+./suicide_commando/suicide_commando_-_love_breeds_suicide:
+01 - Love Breeds Suicide (Re-Edit).mp3
+02 - Dein Herz Meine Gier.mp3
+03 - Dead Call.mp3
+04 - Love Breeds Suicide (Lights Of Euphoria Remix).mp3
+05 - Cry For Mother.mp3
+06 - Dein Herz Meine Gier (Arzt And Pfusch Tiz Remix).mp3
+07 - Love Breeds Suicide (Final Edit).mp3
+AlbumArt_{7DDA4628-567B-4AF2-9CE4-63ED7742E3D0}_Large.jpg
+AlbumArt_{7DDA4628-567B-4AF2-9CE4-63ED7742E3D0}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+
+./s.v.d:
+s.v.d._-_hope
+
+./s.v.d/s.v.d._-_hope:
+00 - S.V.D - Hope [FrontInside].jpg
+00 - S.V.D - Hope [Inlay3].jpg
+03 - Big Bad City.mp3
+04 - Wormwood.mp3
+09 - Hope.mp3
+
+./switchblade_symphony:
+desktop.ini
+switchblade_symphony_-_serpentine_gallery
+switchblade_symphony_-_three_calamities
+
+./switchblade_symphony/switchblade_symphony_-_serpentine_gallery:
+Switchblade Symphony - Track 01.mp3
+Switchblade Symphony - Track 02.mp3
+Switchblade Symphony - Track 05.mp3
+Switchblade Symphony - Track 06.mp3
+
+./switchblade_symphony/switchblade_symphony_-_three_calamities:
+Switchblade Symphony - Three Calamities - 03 - Naked Birthday.mp3
+Switchblade Symphony - Three Calamities - 07 - Therapy.mp3
+
+./tactical_sekt:
+Syncope
+tactical_sekt_-_burn_process
+tactical_sekt_-_geneticide
+
+./tactical_sekt/Syncope:
+desktop.ini
+Syncope CD 1
+Syncope CD 2
+
+./tactical_sekt/Syncope/Syncope CD 1:
+01 Syncope.mp3
+02 Dark Sky.mp3
+03 American Me.mp3
+04 Awaken the Ghost (Final Awakening).mp3
+05 Waiting For The World To End.mp3
+06 Bring me Violence.mp3
+07 Not Going to Work That Way.mp3
+08 Chosen One.mp3
+09 Steps to Dysfunction.mp3
+10 Not Entertained.mp3
+11 Beslan.mp3
+12 You´re Fired.mp3
+AlbumArt_{51F90803-2BB4-4083-A3A9-91BE90657126}_Large.jpg
+AlbumArt_{51F90803-2BB4-4083-A3A9-91BE90657126}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+Thumbs.db
+
+./tactical_sekt/Syncope/Syncope CD 2:
+01 Enslaved Existence.mp3
+02 Siege Engine.mp3
+03 Fleshcoated Technology.mp3
+04 Rudimentary Abhoratien.mp3
+05 Shadow Crawler.mp3
+06 Future Dead.mp3
+07 Dead Bodies.mp3
+08 Stone Hard Agony.mp3
+
+./tactical_sekt/tactical_sekt_-_burn_process:
+00-tactical_sekt-burn_process-2003-back-fwyh.jpg
+00-tactical_sekt-burn_process-2003-behindcd-fwyh.jpg
+00-tactical_sekt-burn_process-2003-cd-fwyh.jpg
+00-tactical_sekt-burn_process-2003-front-fwyh.jpg
+00-tactical_sekt-burn_process-2003-fwyh.nfo
+00-tactical_sekt-burn_process-2003-fwyh.sfv
+00-tactical_sekt-burn_process-2003-inlay1-fwyh.jpg
+00-tactical_sekt-burn_process-2003-inlay2-fwyh.jpg
+00-tactical_sekt-burn_process-2003-inlay3-fwyh.jpg
+01-burn_process-fwyh.mp3
+02-soulless-fwyh.mp3
+03-uncivil_liberties-fwyh.mp3
+04-forget_to_be_human-fwyh.mp3
+05-devils_work-fwyh.mp3
+06-the_hanging_garden-fwyh.mp3
+07-xfixiation-fwyh.mp3
+08-xfixiation_myer_burns_the_dancefloor_mix_-_haujobb-fwyh.mp3
+09-devils_work_accuser_remox_by_solitary_experiments-fwyh.mp3
+10-damage_limitation_limited_suffering_remix_by_dj_rexx_arkana-fwyh.mp3
+11-xfixiation_hellfire_mix_by_sitd-fwyh.mp3
+12-burn_process_destruction_mix_by_reality-fwyh.mp3
+Thumbs.db
+
+./tactical_sekt/tactical_sekt_-_geneticide:
+00-tactical_sekt-geneticide-2003-back-radial.jpg
+01. tactical sekt - capital fallacies.mp3
+02. tactical sekt - cold victim.mp3
+03. tactical sekt - the enemy within.mp3
+04. tactical sekt - vx.mp3
+05. tactical sekt - genetic mistrust.mp3
+06. tactical sekt - useless.mp3
+07. tactical sekt - faded prophecy.mp3
+08. tactical sekt - left for dead.mp3
+09. tactical sekt - without restraint.mp3
+10. tactical sekt - damage limitation.mp3
+11. tactical sekt - catatonic.mp3
+12. tactical sekt - uncleansed.mp3
+Tactical_Sekt_-_Geneticide-back.jpg
+Tactical_Sekt_-_Geneticide-front.jpg
+
+./various_artists:
+desktop.ini
+various artists_-_a_gothic_industrial_tribute_to_smashing_pumpkins
+various artists - the blackest album
+various artists - the blackest album 3
+various artists - virgin voices 2
+
+./various_artists/various artists_-_a_gothic_industrial_tribute_to_smashing_pumpkins:
+AlbumArt_{9B0AF3EF-8F75-451F-83A2-EDA8BC68FDFA}_Large.jpg
+V.A. - A Gothic Industrial Tribute To Smashing Pumpkins - 03 - Sigue Sigue Sputnik - Bullet with Butterfly Wings.mp3
+V.A. - A Gothic Industrial Tribute To Smashing Pumpkins - 07 - Electric Hellfire Club - God.mp3
+V.A. - A Gothic Industrial Tribute To Smashing Pumpkins - 08 - Pig - 1979.mp3
+V.A. - A Gothic Industrial Tribute To Smashing Pumpkins - 11 - Rosetta Stone - Eye.mp3
+
+./various_artists/various artists - the blackest album:
+02 - Die Krupps - Battery (Re-filtered by Filter Section).mp3
+03 - Razed in Black - The Thing That Should Not Be (Back in Black Mix).mp3
+05 - Hellsau - Master of Puppets.mp3
+08 - Godheads - Wherever I May Roam.mp3
+12 - In Strict Confidence - Sad But True.mp3
+
+./various_artists/various artists - the blackest album 3:
+01-K16-The Cure.Mp3
+02-Funker Vogt-Harvester Of Sorrow.Mp3
+07-Transmutator-Orion.Mp3
+09-Transistorhythm-King Nothing.Mp3
+11-Lunar Flux-Hero Of The Day.Mp3
+
+./various_artists/various artists - virgin voices 2:
+02 - switchblade symphony - lucky star.mp3
+03 - sique sique sputnik - ray of light.mp3
+06 - a flock of seagulls - this used to be my playground.mp3
+11 - loop guru - cherish.mp3
+13 - mark pistel with danger girl - deeper and deeper.mp3
+
+./veronicas:
+The Veronicas- Hook Me Up.mp3
+The Veronicas - Untouched.mp3
+The Veronicas - When it all falls apart.mp3
+
+./wolfsheim:
+AlbumArt_{F07A7CCC-EFC2-4D2B-889C-0C67C6694955}_Large.jpg
+AlbumArt_{F07A7CCC-EFC2-4D2B-889C-0C67C6694955}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+Wolfsheim_-_Casting Shadows
+Wolfsheim - Closer Still
+Wolfsheim - Dreaming Apes [1996]
+wolfsheim_-_find_youre_here-promo-cds-2003
+wolfsheim_-_kein_zurick
+wolfsheim_-_kuenstliche_welten_(ep)
+wolfsheim_-_once_in_a_lifetime_(mcd)
+Wolfsheim - Pop Killer
+wolfsheim_-_spectators
+wolfsheim_-_the_sparrows_and_the_nightingales.mp3
+
+./wolfsheim/Wolfsheim_-_Casting Shadows:
+01 Wolfsheim - Casting Shadows - Everyone Who Casts A Shadow.mp3
+02 Wolfsheim - Casting Shadows - Care For You.mp3
+03 Wolfsheim - Casting Shadows - I Won't Believe.mp3
+04 Wolfsheim - Casting Shadows - Kein Zurück.mp3
+05 Wolfsheim - Casting Shadows - And I....mp3
+06 Wolfsheim - Casting Shadows - Underneath The Veil.mp3
+07 Wolfsheim - Casting Shadows - Find You're Gone.mp3
+08 Wolfsheim - Casting Shadows - This Is For Love.mp3
+09 Wolfsheim - Casting Shadows - Wundervoll.mp3
+10 Wolfsheim - Casting Shadows - Approaching Lightspeed.mp3
+11 Wolfsheim - Casting Shadows - Time.mp3
+AlbumArt_{F772804F-94DA-4D05-B64C-4BC73CA472DC}_Large.jpg
+AlbumArt_{F772804F-94DA-4D05-B64C-4BC73CA472DC}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+
+./wolfsheim/Wolfsheim - Closer Still:
+01 - Wolfsheim - Closer Still (Longversion).mp3
+02 - Wolfsheim - Closer Still (Radio Edit).mp3
+03 - Wolfsheim - Closer Still (Instrumental).mp3
+04 - Wolfsheim - Tapir (Instrumental).mp3
+05 - Wolfsheim - Now I Fall (Factory Mix).mp3
+
+./wolfsheim/Wolfsheim - Dreaming Apes [1996]:
+01 - upstairs.mp3
+02 - traces of china.mp3
+03 - closer still.mp3
+04 - a new starsystem has been explored.mp3
+05 - india theme.mp3
+06 - a million miles.mp3
+07 - la danse des soleils.mp3
+08 - old man's valley.mp3
+09 - leave no deed undone.mp3
+10 - a rambling shadow.mp3
+11 - anyway.mp3
+12 - Übers jahr.mp3
+13 - old piano theme.mp3
+14 - a broken whisper.mp3
+Wolfsheim - Dreaming Apes [1996].m3u
+
+./wolfsheim/wolfsheim_-_find_youre_here-promo-cds-2003:
+00-wolfsheim-find_youre_here-promo-cds-2003-sdr.nfo
+00-wolfsheim-find_youre_here-promo-cds-2003-sdr.sfv
+01-find_youre_here-sdr.mp3
+02-find_youre_gone-sdr.mp3
+
+./wolfsheim/wolfsheim_-_kein_zurick:
+lowercase_letters
+Wolfsheim - 01 - Kein zurück.mp3
+Wolfsheim - 02 - And I.mp3
+Wolfsheim - 03 - IOU (exclusive track).mp3
+Wolfsheim - 04 - Kein zurück [o. pinelli mix].mp3
+Wolfsheim - 05 - Kein zurück [visit venus mix by mario von hacht].mp3
+
+./wolfsheim/wolfsheim_-_kuenstliche_welten_(ep):
+AlbumArt_{53DF347A-0F3F-4F74-9327-5821AED77F64}_Large.jpg
+AlbumArt_{53DF347A-0F3F-4F74-9327-5821AED77F64}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+Wolfsheim - Kuenstliche Welten [Maxi] - 01 - Kuenstliche Welten [Video-Radio-Edit].mp3
+Wolfsheim - Kuenstliche Welten [Maxi] - 02 - Kuenstliche Welten [Praha-Edit].mp3
+Wolfsheim - Kuenstliche Welten [Maxi] - 03 - Kuenstliche Welten [Club-Edit].mp3
+Wolfsheim - Kuenstliche Welten [Maxi] - 04 - F.mp3
+
+./wolfsheim/wolfsheim_-_once_in_a_lifetime_(mcd):
+AlbumArt_{3C040EB0-E942-41F4-92DC-AFB7733925B4}_Large.jpg
+AlbumArt_{3C040EB0-E942-41F4-92DC-AFB7733925B4}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+wolfsheim - once in a lifetime (maxi) - 01 - once in a lifetime.mp3
+wolfsheim - once in a lifetime (maxi) - 02 - heroin, she said.mp3
+wolfsheim - once in a lifetime (maxi) - 03 - love is strange.mp3
+wolfsheim - once in a lifetime (maxi) - 04 - once in a lifetime (extended).mp3
+
+./wolfsheim/Wolfsheim - Pop Killer:
+01 - wolfsheim - for you i'm bleeding.mp3
+02 - wolfsheim - tender days.mp3
+03 - wolfsheim - lovesong.mp3
+04 - wolfsheim - kaufraush.mp3
+05 - wolfsheim - entropy.mp3
+06 - wolfsheim - no happy view.mp3
+07 - wolfsheim - now i fall.mp3
+08 - wolfsheim - scars remain.mp3
+09 - wolfsheim - childhood cruel.mp3
+10 - wolfsheim - gates.mp3
+11 - wolfsheim - auf ein wort.mp3
+12 - wolfsheim - faith.mp3
+
+./wolfsheim/wolfsheim_-_spectators:
+01_wolfsheim_-_it's_hurting_for_the_first_time.mp3
+02_wolfsheim_-_kunstlicke_welten.mp3
+03_wolfsheim_-_touch.mp3
+04_wolfsheim_-_blind.mp3
+05_wolfsheim_-_once_in_a_lifetime.mp3
+06_wolfsheim_-_sleep_somehow.mp3
+07_wolfsheim_-_for_you.mp3
+08_wolfsheim_-_read_the_lines.mp3
+09_wolfsheim_-_i_don't_love_you_anymore.mp3
+10_wolfsheim_-_heroin,_she_said.mp3
+11_wolfsheim_-_e.mp3
+AlbumArt_{933D45BA-6495-4F97-A484-5059728FBF69}_Large.jpg
+AlbumArt_{933D45BA-6495-4F97-A484-5059728FBF69}_Small.jpg
+AlbumArtSmall.jpg
+desktop.ini
+Folder.jpg
+Thumbs.db
