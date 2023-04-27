@@ -1,0 +1,5 @@
+sudo dnf update
+sudo dnf upgrde --refresh
+sudo dnf --refresh upgrade
+sudo dnf system-upgrade download --releasever=38
+sudo dnf system-upgrade reboot
