@@ -40,11 +40,11 @@ S Shoulders
 	10 I-Y-T
 	Kb American swing
 	30 Upright Row/Shrug
-	20 Seated Fly
+	20/15 Seated Fly
 
 O cOre
 	Pike rollout
-
+	Plank
 	Swiss Ball
 	ATW taps, knees cross
 	Kb

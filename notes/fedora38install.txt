@@ -1,5 +1,11 @@
 ## add sudo rights
 
+sudo dnf update
+sudo dnf upgrde --refresh
+sudo dnf --refresh upgrade
+sudo dnf system-upgrade download --releasever=38
+sudo dnf system-upgrade reboot
+
 $ sudo usermod -aG wheel benr242
 $ sudo dnf upgrade
 
@@ -34,6 +40,9 @@ $ sudo hostnamectl set-hostname Seldon
 $ sudo dnf install gnome-tweaks gnome-extensions-app
 $ sudo dnf install php
 $ sudo dnf install mariadb
+
+## install LAMP
+https://www.digitalocean.com/community/tutorials/how-to-install-lamp-linux-apache-mysql-php-on-fedora
 
 ## install ProtonVPN
 ## install PhpStorm
