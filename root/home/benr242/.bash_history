@@ -1,1000 +1,1000 @@
-echo sudo dnf install gtk-gnutella
-echo sudo dnf install gtk-gnutella >> Repos/fedora/notes/newFedora.txt 
-cd Repos/fedora/notes/
-vi  newFedora.txt 
+vlc Good-Will-Hunting/Good.Will.Hunting.1997.1080p.BrRip.x264.YIFY.mp4 
 ..
-git status
-git add .
-git status
-git commit -m "note gnutella install"
-wo
-vi  notes/newFedora.txt 
 cd
-cd Repos/fedora/notes/
-vi newFedora.txt 
+sudo umount /mnt/WD-4T/
+ls /mnt/WD-4T/
+sudo fdisk -l
+sudo mount /dev/sdg1 /mnt/Seagate-2T/
+cd /mnt/Seagate-2T/Seagate/media/
+ls
+cd plex/Shows/The\ Last\ Kingdom\ \{tvdb\ 298566\}/
+ls
 cd
-cd Seagate/Shows/
+cd pitstop/
+ls
+ls Season\ 2/
+ls -l
+ls -lc
+cd Season\ 2/
+ls
+ls -l
+chmod 755 *
+ls -l
+..
+c
+sudo mv Season\ 2 /mnt/Seagate-2T/Seagate/media/plex/Shows/The\ Last\ Kingdom\ \{tvdb\ 298566\}/
+ls
+cd /mnt/Seagate-2T/Seagate/media/plex/
+ls -l
+cd Shows/
+ls -l
+cd The\ Last\ Kingdom\ \{tvdb\ 298566\}/
+ls -l
+cd Season\ 2/
+ls -l
+..
+sudo \rm Season\ 2/
+sudo \rm Season\ 2
 ls
 c
-ls -l
-mv Star\ Wars\ Andor Star\ Wars\ Andor\ \{tvdb\}
-ls -l
-mv Star\ Wars\ Andor\ \{tvdb\} Star\ Wars\ Andor\ \{tvdb\ 393189\}
-c
-ls -1
-wo
-pwd
+cd
+cd trans/
 ls
-ls -1
-cd Star\ Wars\ The\ Clone\ Wars\ \{tvdb\ 83268\}/
-cd season\ 1/
-ls -l
-xvpn 
+ls Shows/
+cd Shows/
+ls Foundation\ \{tvdb\ 366972\}/
+cd Foundation\ \{tvdb\ 366972\}/
+ls
+cd Foundation-2011-S01/
+ls
+..
+cd Firefly\ \{tvdb\ 78874\}/Season\ 01/
+ls
+..
+sudo dnf update
+xvpn-status 
 cd
 cd Media/
 ls
-cd Shows/
-mkdir Willow\ \{tvdb\ 393192\}
-c
+cd plex/
 ls
-cd Willow\ \{tvdb\ 393192\}/
-mkdir season\ 1
-cd season\ 1/
-cp -R /home/benr242/Downloads/Willow.S01E0* .
-c
-ls
-..
-cd Willow\ \{tvdb\ 393192\}/
-cd season\ 1/
-ls -l Willow.S01E01.720p.WEB.x265-MiNX\[TGx\]/Willow.S01E01.720p.WEB.x265-MiNX.mkv 
-..
-sudo chown -R plex:plex *
-cd season\ 1/Willow.S01E01.720p.WEB.x265-MiNX\[TGx\]/
-ls -l
-sudo chmod 755 *
-ls -l
-..
-cd Willow.S01E02.720p.WEB.x265-MiNX\[TGx\]/
-ls -l
-sudo chmod 755 Willow.S01E02.720p.WEB.x265-MiNX.mkv 
-ls -l
-..
-mv Willow\ \{tvdb\ 393192\} AAAWillow\ \{tvdb\ 393192\}
-mv AAAWillow\ \{tvdb\ 393192\} Willow\ \{tvdb\ 393192\}
-sudo cp -R Willow\ \{tvdb\ 393192\} /plex/Shows/
-cd /plex/Shows/
-ls
-pwd
-cd
-cd Seagate/Shows/
-c
-..
-ls
-vi Shows.txt 
-wo
-sudo dnf install clementine
-exit
-cd
-cd Seagate/Shows/
-sudo cp -Rfv Breaking\ Bad\ \{tvdb\ 81189\} /run/media/benr242/Seagate\ Portable\ Drive/Seagate/media/Shows/
-pwd
-ls 
-rm -Rf Breaking\ Bad\ \{tvdb\ 81189\}/
-sudo rm -Rf Breaking\ Bad\ \{tvdb\ 81189\}/
-ls
-..
-cd Media/Shows/
-ls
-sudo rm -Rf Breaking\ Bad\ \{tvdb\ 81189\}/
-cd
-cd Seagate/
-ls
-cd Movies/
-c
-ls
-..
-ls
-pwd
-cd Movies/
-ls
-pwd
-rm -Rf *
-sudo rm -Rf *
-ls
-..
 cd Shows/
 ls
+mkdir mrs\ davis
+mv mrs\ davis mrs\ davis\ \{tvdb\ 403623\}
+ls
+cd mrs\ davis\ \{tvdb\ 403623\}/
+ls
+cp -R /home/benr242/Downloads/Mrs.Davis.S01E0* .
+ls
 ..
-vi Shows.txt 
+cp -Rv mrs\ davis\ \{tvdb\ 403623\} /mnt/Seagate-2T/Seagate/media/plex/Shows/
+ls
 pwd
-cd Shows/
+sudo mv mrs\ davis\ \{tvdb\ 403623\} /mnt/Seagate-2T/Seagate/media/plex/Shows/
 ls
-sudo rm -Rf *
-..
-cd Movies/
-ls
-..
-vi Movies.txt 
-cd
-cd Downloads/
-ls
-rm -Rf Tombstone\ \(1993\)\ \[1080p\]/ St*
+sudo mvoooooooo -Rv mrs\ davis\ \{tvdb\ 403623\} /mnt/Seagate-2T/Seagate/media/plex/Shows/
+sudo mv -Rv mrs\ davis\ \{tvdb\ 403623\} /mnt/Seagate-2T/Seagate/media/plex/Shows/
+sudo mv -v mrs\ davis\ \{tvdb\ 403623\} /mnt/Seagate-2T/Seagate/media/plex/Shows/
 c
 ls
-rm -Rf Orphan*
+ls mrs\ davis\ \{tvdb\ 403623\}/
+sudo mv -v mrs\ davis\ \{tvdb\ 403623\} /mnt/Seagate-2T/Seagate/media/plex/Shows/
 c
+pwd
+cd /mnt/Seagate-2T/Seagate/media/plex/Shows/
 ls
-rm -Rf Game*
-c
+sudo rm mrs\ davis\ \{tvdb\ 403623\}
+sudo rm -Rf mrs\ davis\ \{tvdb\ 403623\}
 ls
-cd
-cd Seagate/
-vi Shows.txt 
-c
- xvpn 
-.
-c
-xvpn 
-cd Downloads/
-cp -R Severance\ Season\ 1\ Mp4\ 1080p /home/benr242/Seagate/Showss/
-cd
-cd Seagate/Shows/
-ls
-cd
-cd Downloads/
-cp -Rv Severance\ Season\ 1\ Mp4\ 1080p /home/benr242/Seagate/Showss/
-cd
-cd Seagate/Shows/
-ls
-cd
-cd Downloads/
-sudo cp -Rv Severance\ Season\ 1\ Mp4\ 1080p /home/benr242/Seagate/Showss/
-cd
-cd Seagate/Shows
+cd mrs\ davis\ \{tvdb\ 403623\}/
 ls
 ..
-ls -l
-cd
-cd Downloads/
-sudo cp -Rfv /plex/Shows/
-sudo cp -Rfv Severance\ Season\ 1\ Mp4\ 1080p /plex/Shows/
-c
-ls /plex/Shows/
-cd
-cd Downloads/
-sudo cp -Rfv Severance\ Season\ 1\ Mp4\ 1080p /home/benr242/Seagate/Showss/
-cd
-cd Seagate/Shows/
-c
+sudo mv mrs\ davis\ \{tvdb\ 403623\} Mrs\ Davis\ \{tvdb\ 403623\}
 ls
-cd 
-cd Downloads/
-cp -Rfv Severance\ Season\ 1\ Mp4\ 1080p /home/benr242/tmp/
-cd
-cd tmp/
-c
+pwd
+cd Mrs\ Davis\ \{tvdb\ 403623\}/
 ls
-sudo cp -Rfv Severance\ Season\ 1\ Mp4\ 1080p /home/benr242/Seagate/Shows/
-cd
-cd Seagate/Shows/
-c
-ls
-ls -l
-sudo chown -R plex:plex Severance\ Season\ 1\ Mp4\ 1080p
-ls -l
-sudo chmod -R 755 Severance\ Season\ 1\ Mp4\ 1080p/
-cd Severance\ Season\ 1\ Mp4\ 1080p/
-ls -l
-..
-ls
-sudo mv Severance\ Season\ 1\ Mp4\ 1080p Severance
-ls
-cd Severance/
 mkdir Season\ 1
-sudo mkdir Season\ 1
-ls
-sudo mv * Season\ 1/
-c
-ls
-..
-sudo cp -Rfv Severance /plex/Shows/
-cd /plex/Shows/
-c
-ls
-sudo rm -Rf Severance\ Season\ 1\ Mp4\ 1080p/
-c
-ls -l
-cd
-cd  Downloads/
-ls
-c
-ls | more
-sudo cp -Rfv Better\ Call\ Saul\ Season\ 5\ Complete\ 720p\ NF\ WEBRip\ x264\ \[i_c\] /home/benr242/Seagate/Shows/
-cd
-cd Seagate/Shows/
-c
-ls
-cd
-cd Downloads/
-sudo cp -Rfv Better.Call.Saul.S04.1080p.BluRay.x264-ROVERS\[rartv\] /home/benr242/Seagate/Shows/
-cd
-cd Seagate/Shows
-c
-ls
-ls /plex/Shows/Breaking\ Bad\ \{tvdb\ 81189\}/
-pwd
-ls
-sudo mkdir Season\ 4
-sudo mkdir Season\ 5
-c
-ls
-sudo mv Better.Call.Saul.S04.1080p.BluRay.x264-ROVERS\[rartv\] Season\ 4
-ls
-sudo mv Better\ Call\ Saul\ Season\ 5\ Complete\ 720p\ NF\ WEBRip\ x264\ \[i_c\] Season\ 5/
-c
-ls
-cd Season\ 4/
-ls
-sudo mv Better.Call.Saul.S04.1080p.BluRay.x264-ROVERS\[rartv\]/* .
-ls
-sudo rm Better.Call.Saul.S04.1080p.BluRay.x264-ROVERS\[rartv\]
-ls
-ls -l
-sudo chown plex:plex *
-ls
-ls -l
-sudo chmod 755 *
-ls
-ls -l
-ls
-sudo rmdir Better.Call.Saul.S04.1080p.BluRay.x264-ROVERS\[rartv\]/
-ls -l
-..
-cd Season\ 5/
-ls -l
-sudo mv Better\ Call\ Saul\ Season\ 5\ Complete\ 720p\ NF\ WEBRip\ x264\ \[i_c\]/* .
-ls -l
-sudo rmdir Better\ Call\ Saul\ Season\ 5\ Complete\ 720p\ NF\ WEBRip\ x264\ \[i_c\]/
-c
-ls -l
-sudo chmod plex:plex *
-sudo chmod * plex:plex *
-sudo chown plex:plex *
-ls -l
-sudo chmod 755 *
-ls -l
-..
-ls
-pwd
-sudo mkdir bb
-sudo mv Season\ * bb
-ls
-cd /plex/Shows/
-ls
-cd Breaking\ Bad\ \{tvdb\ 81189\}/
-ls
-ls Season\ 4/
-..
-pwd
-cd /home/benr242/Seagate/
-ls
-cd Shows
-ls
-sudo mv Severance Severance\ \{tvdb\ 371980\}
-ls
-sudo cp -Rf Severance\ \{tvdb\ 371980\} /plex/Shows/
-cd /plex/Shows/
-c
-ls -1
-sudo rm -Rf Severance
-ls -1
-cd
-cd Seagate/Shows
-c
-ls
-mkdir bcs
-ls
-cd /plex/Shows/Better\ Call\ Saul\ \{tvdb\ 273181\}/
-ls
-cd
-cd Seagate/Shows
-ls
-pwd
-cd
-cd Downloads/
-c
-ls Better*
-c
-ls | more
-sudo cp -Rvf Better* /home/benr242/Seagate/Shows/bcs/
-c
-cd
-cd Seagate/Shows
-ls
-ls Severance\ \{tvdb\ 371980\}/
-cd /plex/Shows/Severance\ \{tvdb\ 371980\}/
-ls
-cd
-cd Seagate/
-ls
-cd Shows
-ls
-cd bb/
-ls
-ls /plex/Shows/Breaking\ Bad\ \{tvdb\ 81189\}/
-..
-pwd
-cd bb/
-ls
-ls /plex/Shows/Breaking\ Bad\ \{tvdb\ 81189\}/
-..
-ls bcs/
-ls
-exit
-cd /run/media/benr242/Seagate\ Portable\ Drive/Seagate/media/Shows/
-c
-ls
-cd Breaking\ Bad\ \{tvdb\ 81189\}/
-c
-ls
-pwd
-cd
-wo
-cd Downloads/
-sudo cp -Rv El\ Camino\ A\ Breaking\ Bad\ Movie\ \(2019\)\ \[WEBRip\]\ \[1080p\]\ \[YTS.LT\] /home/benr242/Seagate/Movies/
-cd
-cd Seagate/Movies/
-c
-ls
-mv El\ Camino\ A\ Breaking\ Bad\ Movie\ \(2019\)\ \[WEBRip\]\ \[1080p\]\ \[YTS.LT\] El\ Camino
-sudo mv El\ Camino\ A\ Breaking\ Bad\ Movie\ \(2019\)\ \[WEBRi
-sudo mv El\ Camino\ A\ Breaking\ Bad\ Movie\ \(2019\)\ \[WEBRip\]\ \[1080p\]\ \[YTS.LT\] El\ Camino
-c
-ls
-cd El\ Camino/
-ls
-vlc El.Camino.A.Breaking.Bad.Movie.2019.1080p.WEBRip.x264-\[YTS.LT\].mp4 
-pwd
-..
-sudo cp -R El\ Camino /plex/Movies/
-xvpn 
-c
-xvpn 
-cd
-vi bin/external-log 
-cd bin/
-ls
-vi xvpn 
-expressvpn connect
-xvpn 
-expressvpn status
-expressvpn -h
-expressvpn connect
-expressvpn dsconnect
-expressvpn disconnect
-expressvpn connect
-xvpn 
-c
-cd 
-cd Downloads/
-ls Ozark.Season.1.XviD-AFG/
-sudo cp -R Ozark.Season.1.XviD-AFG /home/benr242/Seagate/Shows/
-cd
-cd Seagate/Shows/
-ls
-ls -1
-sudo mv Ozark.Season.1.XviD-AFG Ozark
-sudo mv Ozark Ozark\ \{tvdb\ 329089\}
-cd Ozark\ \{tvdb\ 329089\}/
-mkdir Season\ 1
-sudo mkdir Season\ 1
-sudo mv * Season\ 1/
-c
-ls
-sudo chown -R plex:plex Season\ 1/
-sudo chmod -R 755 Season\ 1/
-cd Season\ 1/
-c
-ls -l
-cd Ozark.S01E01.XviD-AFG/
-ls -l
-..
-sudo cp -R Ozark\ \{tvdb\ 329089\} /plex/Shows/
-wq
-wo
-c
-wo
-xvpn 
-expressvpn connect
-xvpn 
-c
-xvpn 
-wo
-xvpn 
-pwd
-cd
-cd Downloads/
-cp -R Wednesday.S01.COMPLETE.1080p.NF.WEB.H264-MIXED\[TGx\] /home/benr242/Seagate/Shows/
-cd
-cd Seagate/Shows/
-c
-ls
-sudo mv Wednesday.S01.COMPLETE.1080p.NF.WEB.H264-MIXED\[TGx\] Wednesday\ \{tvb\ 397060\}
-c
-ls -1
-cd Wednesday\ \{tvb\ 397060\}/
-ls -l
-sudo chown plex:plex *
-ls -l
-sudo chmod 755 *
-ls -l
-..
-sudo cp -R Wednesday\ \{tvb\ 397060\} /plex/Shows/
-cd Wednesday\ \{tvb\ 397060\}/
-pwd
-sudo mkdir Season\ 1
-ls
-sudo mv * Season\ 1/
+mv * Season\ 1/
 ls
 ls Season\ 1/
-cd /plex/Shows/
-sudo chown plex:plex *
-ls -l
-cd Wednesday\ \{tvb\ 397060\}/
-ls -l
-sudo chown plex:plex *
-ls -l
-xvpn 
 c
-xvpn 
+trl
+alias
 c
-cd
-cd Downloads/
-cp -R The* /home/benr242/Seagate/Movies/
-sudo cp -R The* /home/benr242/Seagate/Movies/
-cd
-cd Seagate/Movies/
+trl
+sudo fdisk -l
+sudo mount dev/sdb /mnt/Seagate-2T/
+sudo fdisk -l
 c
+sudo mount /dev/sdb1 /mnt/Seagate-2T/
+cd Software/
 ls
-mv The.Addams.Family.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG\[TGx\] The\ Addams\ Family\ (2019)
-mv The.Addams.Family.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG\[TGx\] The\ Addams\ Family\ \(2019\)
+cd Fedora/
 ls
-sudo mv The.Addams.Family.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG\[TGx\] The\ Addams\ Family\ \(2019\)
-ls
-sudo mv The\ Addams\ Family\ 2\ \(2021\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\] The\ Adams\ Family\ 2\ \(2021\)
-c
-ls -1
-sudo mv The\ Adams\ Family\ 2\ \(2021\) The\ Addams\ Family\ 2\ \(2021\)
-ls -1
-sudo chown -R plex:plex The\ Addams\ Family\ \(2019\)
-sudo chown -R plex:plex The\ Addams\ Family\ 2\ \(2021\)
-sudo chmod 755 -R The\ Addams\ Family\ \(2019\)
-sudo chmod 755 -R The\ Addams\ Family\ 2\ \(2021\)
-ls -l The\ Addams\ Family\ \(2019\)/
-ls -l The\ Addams\ Family\ 2\ \(2021\)/
-sudo cp -R The\ Addams\ Family\ * /plex/Movies/
-c
-cd /plex/Movies/
-ls -1
-sudo dnf upgrade
-cd /run/media/benr242/Seagate\ Portable\ Drive/Seagate/media/
-c
-pwd
-ls
-cd Movies/
-sudo cp -Rv /home/benr242/Seagate/Movies/* .
-c
-ls
-..
-cd Shows/
-pwd
-sudo cp -Rv /home/benr242/Seagate/Shows/* .
-ls
-ls Breaking\ Bad\ \{tvdb\ 81189\}/
-ls
-ls -1
-ls -1 >> /home/benr242/Seagate/Shows.txt 
-ls -1 > /home/benr242/Seagate/Shows.txt 
-..
-cd Movies/
-ls -1 
-ls -1 > /home/benr242/Seagate/Movies.txt 
-pwd
-cd
-cd Media/Shows/
-ls
-touch The\ Peripheral
-ls
-mv The\ Peripheral The\ Peripheral\ \*AZ
-ls
-mv The_Sandman The\ Sandman
-ls
-vi /home/benr242/Seagate/Shows.txt 
-cd Man-Fell-Earth/
-ls
-..
-ls /plex/Shows/The\ Man\ Who\ Fell\ To\ Earth\ \{tvdb\ 414721\}/
-pwd
-rm -Rf Man-Fell-Earth/
-wo
-cd
-cd Seagate/Shows
-ls
-cd bcs/
-ls
-sudo rm -Rf Better\ Call\ Saul\ Season\ 1\ \(1080p\ x265\ 10bit\ Joy\)
-c
-ls
-sudo mv Better.Call.Saul.S04.1080p.BluRay.x264-ROVERS\[rartv\] Season\ 4
-sudo mv Better\ Call\ Saul\ Season\ 2\ \(1080p\ x265\ 10bit\ Joy\) Season\ 2
-sudo mv Better\ Call\ Saul\ Season\ 3\ Complete\ 720p\ HDTV\ x264\ \[i_c\] Season\ 3
-sudo mv Better\ Call\ Saul\ Season\ 5\ Complete\ 720p\ NF\ WEBRip\ x264\ \[i_c\] Season\ 5
-c
-ls
-sudo cp * /plex/Shows/Better\ Call\ Saul\ \{tvdb\ 273181\}/
-sudo cp -Rf * /plex/Shows/Better\ Call\ Saul\ \{tvdb\ 273181\}/
-cd /plex/Shows/Better\ Call\ Saul\ \{tvdb\ 273181\}/
-c
-ls -1
-sudo mv season\ 1 Season\ 1
-ls -1
-exit
-cd /run/media/benr242/Seagate\ Portable\ Drive/Seagate/media/Shows/
-ls
-cd Breaking\ Bad\ \{tvdb\ 81189\}/
-ls
-..
-cd Better\ Call\ Saul\ \{tvdb\ 273181\}/
-ls
-c
-sudo cp -Rv /home/benr242/Seagate/Shows/bcs/Season\ * .
-ls -1
-..
-cd Movies/
-ls -1
-pwd
-..
-cd Shows/Breaking\ Bad\ \{tvdb\ 81189\}/
-c
-ls
-..
-ls
-sudo cp -Rfv /home/benr242/Seagate/Shows/Severance\ \{tvdb\ 371980\} 
-sudo cp -Rfv /home/benr242/Seagate/Shows/Severance\ \{tvdb\ 371980\} .
-pwd
-ls
-cd Battlestar\ Galactica\ \{tvdb\ 73545\}/
-c
-ls
-..
-cd Stranger\ Things\ \{tvdb\ 305288\}/
-ls
-..
-c
-ls The\ Sex\ Lives\ of\ College\ Girls\ \{tvdb\ 390161\}/
-..
-cd Shows/
-c
-ls -1 | more
-ls
-ls -1 | more
-cd
-c
-wo
-ls -1 /plex/Shows/
-xvpn 
-expressvpn connect
-xvpn
-c
-xvpn
-cd Downloads/
-sudo cp -R Firefly\ Complete\ Series\ -\ Sci-Fi\ 2002-2003\ Eng\ Subs\ 1080p\ \[H264-mp4\] /home/benr242/Seagate/Shows/
-cd
-cd Seagate/Shows
-ls
-sudo mv Firefly\ Complete\ Series\ -\ Sci-Fi\ 2002-2003\ Eng\ Subs\ 1080p\ \[H264-mp4\] Firefly
-cd Firefly/
-ls
-cd Firefly\ Complete\ Series\ 2002-2003/
-ls
-ls -l
-sudo chown plex:plex *
-ls -l
-sudo chmod 755 *
-ls
-ls -l
-..
-ls
-sudo mv Firefly\ Complete\ Series\ 2002-2003 Firefly
-ls
-sudo mv Firefly Firefly\ \{tvdb\ 78874\}
-ls
-mv INFO.nfo Firefly\ \{tvdb\ 78874\}/
-sudo mv Cover-Screens Firefly\ \{tvdb\ 78874\}/
-ls
-sudo mv INFO.nfo Firefly\ \{tvdb\ 78874\}/
-c
-ls
-sudo mv Subtitles\ -\ \[SRT-MicroDVD\] Firefly\ \{tvdb\ 78874\}/
-cd Firefly\ \{tvdb\ 78874\}/
-ls
-vlc 00\ Firefly\ Serenity\ -\ Pilot\ Film\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 
-pwd
-sudo rm -Rf /plex/Shows/Firefly\ \{tvdb\ 78874\}
-..
-ls
-sudo cp -Rfv Firefly\ \{tvdb\ 78874\} /plex/Shows/
-wo
-xvpn 
-pwd
-..
-ls
-sudo mv Firefly Firefly\ {tvdb\ 78874\}
-ls
-cd Firefly\ \{tvdb\ 78874\}/
-ls
-sudo rm Torrent\ *
-ls
-c
-ls
-sudo mv Firefly\ \{tvdb\ 78874\}/* .
-c
-ls
-sudo rm -Rf Cover-Screens/ Subtitles\ -\ \[SRT-MicroDVD\]/
-c
-ls
-pwd
-cd /plex/Shows/Firefly\ \{tvdb\ 78874\}/
-c
-ls
-pwd
-sudo mkdir Season\ 1
-ls
-sudo mv * Season\ 1/
-c
-ls
-cd
-cd Seagate/Shows
-ls
-cd Firefly\ \{tvdb\ 78874\}/
-ls
-sudo mkdir Season\ 1
-sudo mv * Season\ 1/
-c
-ls
-sudo dnf update
-c
-..
-pwd
-ls
-cd /plex/Shows/
-c
-ls
-cd Firefly\ \{tvdb\ 78874\}/
-ls
-cd Season\ 1/
-ls
-wo
-pwd
-cd
-cd Seagate/Shows
-ls
-sudo rm -R bcs/
-ls
-sudo rm -Rf bb/
-ls
-ls /plex/Shows/
-ls
-rm -Rf Severance\ \{tvdb\ 371980\}/
-sudo rm -Rf *
-ls
-cd ../Movies/
-ls
-cd
-cd Downloads/
-c
-ls | more
-cd /plex/
-cd Movies/
-ls
-pwd
-cd
-cd Downloads/
-cp -Rv The.Sex.Lives.Of.College.Girls.S01.1080p.WEBRip.x265\[eztv.re\] /home/benr242/Seagate/Shows/
-cd
-cd Seagate/Shows
-ls
-mv The.Sex.Lives.Of.College.Girls.S01.1080p.WEBRip.x265\[eztv.re\] The\ Sex\ Lives\ of\ College\ Girls
-c
-ls
-mv The\ Sex\ Lives\ of\ College\ Girls The\ Sex\ Lives\ of\ College\ Girls\ \{tvdb\ 390161\}
-ls
-sudo cp -R The\ Sex\ Lives\ of\ College\ Girls\ \{tvdb\ 390161\} /plex/Shows/
- cd The\ Sex\ Lives\ of\ College\ Girls\ \{tvdb\ 390161\}/
-ls -l
-sudo chown plex:plex *
-ls -l
-sudo chmod 755 *
-ls -l
-..
-sudo cp -R The\ Sex\ Lives\ of\ College\ Girls\ \{tvdb\ 390161\} /plex/Shows/
-sudo cp -R The\ Sex\ Lives\ of\ College\ Girls\ \{tvdb\ 390161\} /run/media/benr242/Seagate\ Portable\ Drive/Seagate/media/Shows/
-ls
-sudo rm -Rf *
-ls
-cd
-cd Media/Shows/
-ls
-ls -l House\ of\ the\ Dragon\ \(2022\)\ \{tvdb\ 371572\}/
-xvpn 
-ls /plex/Shows/
-pwd
-cd
-cd Downloads/
-sudo cp -Rv House.of.the.Dragon.S01.1080p.WEBRip.x265\[eztv.re\] The\ Peripheral\ \(2022\)\ Season\ 1\ S01\ \(1080p\ AMZN\ WEB-DL\ x265\ HEVC\ 10bit\ EAC3\ 5.1\ Ghost\) /home/benr242/Seagate/Shows/
-cd
-cd Seagate/Shows
-c
-ls
-sudo mv House.of.the.Dragon.S01.1080p.WEBRip.x265\[eztv.re\] House\ of\ the\ Dragon
-ls
-mv The\ Peripheral\ \(2022\)\ Season\ 1\ S01\ \(1080p\ AMZN\ WEB-DL\ x265\ HEVC\ 10bit\ EAC3\ 5.1\ Ghost\) The\ Peripheral
-cd The\ Peripheral/
-ls
-sudo chown plex:plex *
-ls -l
-sudo chmod 755 *
-ls -l
-mkdir Season\ 1
-ls
-ls -l
-mkdir Season\ 1
-sudo mkdir Season\ 1
-sudo mv * Season\ 1/
-ls
-..
-ls
-cd House\ of\ the\ Dragon/
-ls
-sudo mkdir Season\ 1
-sudo mv * Season\ 1/
-ls
-cd Season\ 1/
-ls -l
-sudo chown plex:plex *
-ls -l
-sudo chmod 755 *
-ls
-..
-pwd
-ls
-mv House\ of\ the\ Dragon House\ of\ the\ Dragon\ \{tvdb\ 371572\}
-ls
-sudo mv The\ Peripheral The\ Peripheral\ \{tvdb\ 349187\}
-ls
-pwd
-sudo rm -Rf /plex/Shows/House\ of\ the\ Dragon\ \(2022\)\ \{tvdb\ 371572\}
-sudo cp -R * /plex/Shows/
-ls /plex/Shows/
-pwd
-ls
-sudo cp -Rfv * /run/media/benr242/Seagate\ Portable\ Drive/Seagate/media/Shows/
+ls -lh
 cd
 cd Repos/fedora/
-git status
 ls
-ls -a
-wo
+cd notes/
+ls
+cp /mnt/Seagate-2T/Seagate/media/plex/mediaLog/* .
+ls
+git status
+mkdir mediaLog
+mv Music.txt Shows.txt Movies.txt mediaLog/
+ls
 git status
 git add .
 git status
+git commit -m "pre"
+git status
+ght
+git push 
+cd
+ls /mnt/Seagate-2T/
+sudo dnf update
+c
+sudo dnf update
+cd Downloads/
+ls
+ls The.Last.Kingdom.S02.1080p.BluRay.x264-SHORTBREHD\[rartv\]/
+ls /mnt/Seagate-2T/Seagate/media/plex/Shows/The\ Last\ Kingdom\ \{tvdb\ 298566\}/
+ls /mnt/Seagate-2T/Seagate/media/plex/Shows/The\ Last\ Kingdom\ \{tvdb\ 298566\}/Season\ 1/
+ls /mnt/Seagate-2T/Seagate/media/plex/Shows/The\ Last\ Kingdom\ \{tvdb\ 298566\}/Season\ 2/
+xvpn-status 
+ls
+ls The.Last.Kingdom.S02.1080p.BluRay.x264-SHORTBREHD\[rartv\]/
+ls Ghosted.2023.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/
+cp -R Ghosted.2023.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA ../pitstop/
+cd
+cd pitstop/
+ls
+mv Ghosted.2023.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA Ghosted\ \(2023/)
+mv Ghosted.2023.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA Ghosted\ \(2023\)
+ls
+ls -1
+sudo mv -v Ghosted\ \(2023\) /mnt/Seagate-2T/Seagate/media/plex/Movies/
+trl
+c
+trl
+tre
+trl
+ls Season\ 2/
+sudo rm -Rf /mnt/Seagate-2T/Seagate/media/plex/Shows/The\ Last\ Kingdom\ \{tvdb\ 298566\}/Season\ 2
+sudo mv -v Season\ 2 /mnt/Seagate-2T/Seagate/media/plex/Shows/The\ Last\ Kingdom\ \{tvdb\ 298566\}/
+ls
+cd /mnt/Seagate-2T/Seagate/media/plex/Shows/The\ Last\ Kingdom\ \{tvdb\ 298566\}/
+c
+ls
+ls Season\ 1/
+ls Season\ 2/
+vlc Season\ 2/The.Last.Kingdom.S02E05.1080p.BluRay.x264-SHORTBREHD.mkv 
+wo
+cd
+xvpn-status 
+expressvpn
+expressvpn connect 
+expressvpn disconnect 
+xvpn-status 
+expressvpn connect 
+xvpn-status 
+cd Downloads/
+cp -R Dungeons.and.Dragons.Honor.Among.Thieves.2023.CAM.c1nem4.x264-SUNSCREEN\[TGx\] ../pitstop/
+cd
+cd pitstop/
+ls
+mv Dungeons.and.Dragons.Honor.Among.Thieves.2023.CAM.c1nem4.x264-SUNSCREEN\[TGx\] Dungeons\ and\ Dragons\ Honor\ Among\ Thieves\ \)2023/)
+mv Dungeons.and.Dragons.Honor.Among.Thieves.2023.CAM.c1nem4.x264-SUNSCREEN\[TGx\] Dungeons\ and\ Dragons\ Honor\ Among\ Thieves\ \)2023\)
+ls
+mv Dungeons\ and\ Dragons\ Honor\ Among\ Thieves\ \)2023\) Dungeons\ and\ Dragons\ Honor\ Among\ Thieves\ \(2023\)/
+ls
+sudo mv Dungeons\ and\ Dragons\ Honor\ Among\ Thieves\ \(2023\) /mnt/Seagate-2T/Seagate/media/plex/Movies/
+cd /mnt/Seagate-2T/Seagate/media/plex/Movies/
+ls -1
+cd
+cd Downloads/
+c
+ls
+cp -R Dungeons.and.Dragons.Honor.Among.Thieves.2023.V2.1080p.HDCAM-C1NEM4\[TGx\] ../pitstop/
+cd
+cd pitstop/
+ls
+mv Dungeons.and.Dragons.Honor.Among.Thieves.2023.V2.1080p.HDCAM-C1NEM4\[TGx\] Dungeons\ and\ Dragons\ Honor\ Among\ Thieves\ \(2023\)
+ls
+sudo rm -Rf /mnt/Seagate-2T/Seagate/media/plex/Movies/Dungeons\ and\ Dragons\ Honor\ Among\ Thieves\ \(2023\)/
+ls
+sudo mv -v Dungeons\ and\ Dragons\ Honor\ Among\ Thieves\ \(2023\) /mnt/Seagate-2T/Seagate/media/plex/Movies/
+c
+ls
+ls /mnt/Seagate-2T/Seagate/media/plex/Shows/The\ Last\ Kingdom\ \{tvdb\ 298566\}/Season\ 2/
+ls
+rm -Rf The.Last.Kingdom.S02.1080p.BluRay.x264-SHORTBREHD\[rartv\]
+trl
+tre
+ls
+\rm -Rf The.Last.Kingdom.S02.1080p.BluRay.x264-SHORTBREHD\[rartv\]
+sudo \rm -Rf The.Last.Kingdom.S02.1080p.BluRay.x264-SHORTBREHD\[rartv\]
+ls
+c
+cd /mnt/Seagate-2T/Seagate/media/plex/Movies/
+sudo mv Dungeons\ and\ Dragons\ Honor\ Among\ Thieves\ \(2023\) Dungeons\ and\ Dragons\:\ Honor\ Among\ Thieves\ \(2023\)
+ls D*
+c
+ls -1
+cd
+c
+cd Repos/
+cd fedora/
+ls
+cd notes/
+ls
+vi newFedora.txt 
+cp newFedora.txt fedora38install.txt
+mv newFedora.txt fedora37install.txt
+git status
+git add .
+git status
+git ci -m "notes"
+git commit -m "notes"
+git status
+c
+ls /mnt/Seagate-2T/
+sudo mount dev/sdb1 /mnt/Seagate-2T/
+sudo mount /dev/sdb1 /mnt/Seagate-2T/
+ls /mnt/Seagate-2T/
+ls /mnt/Seagate-2T/Seagate/media/plex/Shows/
+sudo dnf update
+cat /etc/netconfig 
+uname -r
+c
+uname -r
+cat /etc/fedora-release 
+c
+cat /etc/fedora-release 
+l-
+ls
+cp fedora38.txt Repos/fedora/notes/
+cd
+cd Repos/fedora/
+c
+git status
+git add .
+git status
+git commit -m "cdeck"
+git status
+ght
+git push
+cat /etc/fedora-release 
+c
+ls
+vi notes/fedora38install.txt 
+vi notes/fedora38.txt 
+vi notes/fedora38install.txt 
+git status
+git add .
+git status
+sudo mount /dev/sdg1 /mnt/Seagate-2T/
+c
+df
+df -h
+c
+df -h
+c
+cd
+ls Downloads/
+cd Repos/fedora/
+ls
+cd root/home/benr242/
+vi .bash_aliases 
+cd
+c
+sudo mount /dev/sdg1 /mnt/Seagate-2T/
+sudo mount /dev/sdh1 /mnt/Seagate-2T/
+sudo mount /dev/sdi1 /mnt/Seagate-2T/
+sudo fdisk -l
+sudo mount /dev/sdj1 /mnt/Seagate-2T/
+ls /mnt/Seagate-2T/
+cd /mnt/Seagate-2T/
+ls
+..
+sudo mount /dev/sdk1 /mnt/Seagate-2T/
+dnf search lastpass
+sudo dnf search lastpass
+sudo dnf install lastpass-cli
+lastpass-cli
+c
+cd
+sudo dnf update
+c
+sudo mount /dev/sdl1 /mnt/Seagate-2T/
+sudo mount /dev/sdm1 /mnt/WD-4T/
+c
+cd /mnt/Seagate-2T/
+ls
+cd Seagate/
+ls
+sudo fdisk -l
+ls
+c
+..
+sudo fdisk -l
+c
+sudo fdisk -l
+sudo mount /dev/sdl1 WD-4T/
+c
+sudo mount /dev/sdl1 WD-4T/
+cd Seagate-2T/
+du -h
+du -hs
+c
+du -s
+du -sh
+..
+cd WD-4T/
+ls
+sudo fdisk -l
+cd
+sudo umount /mnt/Seagate-2T/
+exit
+c
+df -h
+c
+df -h
+cd WD-4T/WD/media/plex/Movies/
+c
+ls
+..
+ls
+df -h
+c
+df -h
+c
+df -h
+c
+df -h
+c
+df -h
+pwd
+..
+ls -
+ls -l
+sudo chown -R plex:plex WD-4T
+ls 
+ls -l
+chmod -R 777 WD-4T
+sudo chmod -R 777 WD-4T
+c
+ls -l
+sudo chmod -R 755 WD-4T
+ls -l
+sudo chown -R plex:plex Seagate-2T
+ls -l
+sudo chown -R plex:plex Seagate-2T
+ls -l
+sudo umount Seagate-2T/
+ls
+ls -l
+ls Seagate-2T/
+ls WD-4T/WD/media/plex/Movies/
+df -h
+c
+df
+c
+df -h
+du -hs WD-4T/WD/media/plex/Shows/Game\ of\ Thrones\ \{tvdb\ 121361\}/
+df -h
+ls WD-4T/WD/media/plex/Shows/Game\ of\ Thrones\ \{tvdb\ 121361\}/
+c
+mkdir tran
+sudo mkdir tran
+sudo mkdir tran/toSeagate
+sudo mkdir tran/toWD
+ls -l
+sudo chown -R benr242:benr242 tran
+cd tran/
+ls -l
+..
+c
+sudo mv tran pitstop
+ls
+c
+ls WD-4T/
+ls WD-4T/WD/
+sudo umount WD-4T/
+ls WD-4T/
+df
+df -h
+fdisk -l
+c
+sudo fdisk -l
+sudo mount /dev/sdb1 WD-4T/
+ls WD-4T/
+exit
+c
+sudo fdisk -l
+sudo mount /dev/sdc /mnt/WD-4T/
+c
+sudo mount /dev/sdc1 /mnt/WD-4T/
+sudo mount /dev/sdc /mnt/WD-4T/
+dmesg 
+sudo blockdev --rereadpt
+sudo blockdev --rereadpt /dev/sdc
+sudo mount /dev/sdc /mnt/WD-4T/
+wo
+sudo mount /dev/sdc /mnt/Seagate-2T/
+sudo mount /dev/sdb1 /mnt/Seagate-2T/
+sudo mount /dev/sdc1 /mnt/WD-4T/
+cd /mnt/Seagate-2T/Seagate/
+ls
+..
+cd WD-4T/
+ls
+mkdir WesternDigital
+sudo mkdir WesternDigital
+ls
+..
+sudo cp -Rv Seagate-2T/Seagate/* WD-4T/WesternDigital/
+cd Seagate-2T/
+df -h
+..
+sudo umount Seagate-2T/
+sudo umount WD-4T/
+df -h
+sudo mount /dev/sdb1 /mnt/WD-4T/
+cd WD-4T/
+ls
+..
+sudo umount WD-4T/
+df -h
+sudo mount /dev/sdc1 /mnt/Seagate-2T/
+ls Seagate-2T/
+ls WD-4T/
+cd Seagate-2T/
+c
+df -sh
+df -h
+du -sh
+..
+df -h
+c
+df -h
+sudo mount /dev/sdb1 WD-4T/
+cd WD-4T/
+ls
+..
+c
+df
+c
+df -h
+mkdir WD-4T/WD
+ls WD-4T/
+df
+df -h
+cp -Rv Seagate-2T/Seagate/* WD-4T/WD/
+cd
+ls
+exit
+c
+sudo fdisk -l
+sudo mount /dev/sdb1 /mnt/WD-4T/
+sudo dnf update
+xvpn-status 
+expressvpn 
+expressvpn disconnect 
+xvpn-status 
+expressvpn connect 
+xvpn-status 
+cd Downloads/
+ls
+ls -1
+ls VNV\ Nation\ Discography\ FLAC/
+ls VNV\ Nation\ Discography\ FLAC/Albums/
+ls
+ls -1
+cp -R VNV\ Nation\ Discography\ FLAC /mnt/pitstop/
+cd /mnt/pitstop/
+ls
+cd VNV\ Nation\ Discography\ FLAC/
+ls
+ls Albums/
+..
+ls
+mv VNV\ Nation\ Discography\ FLAC VNV\ Nation
+ls
+mv VNV\ Nation ../WD-4T/WD/media/plex/Music/
+sudo mv VNV\ Nation ../WD-4T/WD/media/plex/Music/
+ls
+..
+cd WD-4T/WD/media/plex/Music/VNV\ Nation/
+ls
+ls -1
+cd Albums/
+ls
+sudo updae plexserver
+sudo update plexserver*
+sudo install plexserver*
+sudo install plexserver
+c
+sudo install plex
+sudo dnf install plexserver
+sudo dnf update plex*
+sudo dnf update plexserver
+dnf searcd plex*
+sudo dnf search plex
+c
+sudo dnf search plex
+sudo dnf upgrade --refresh
+c
+sudo tee /etc/yum.repos.d/plex.repo<<EOF
+[Plexrepo]
+name=plexrepo
+baseurl=https://downloads.plex.tv/repo/rpm/\$basearch/
+enabled=1
+gpgkey=https://downloads.plex.tv/plex-keys/PlexSign.key
+gpgcheck=1
+EOF
+
+sudo dnf install plexmediaserver -y
+systemctl status plexmediaserver
+c
+systemctl status plexmediaserver
+c
+cd /mnt/WD-4T/WD/media/plex/Music/
+ls
+ls VNV\ Nation/
+cd VNV\ Nation/
+ls
+cd DVDs/
+ls
+cd 2009\ -\ Reformation\ 01/
+ls
+c
+cd Disc\ 1\ -\ Live/
+ls
+vlc 101-joy.flac 
+ls
+sudo dnf install amarok
+amarok
+amarok &
+c
+..
+cd Movies/
+ls
+c
+..
+cd
+cd Downloads/
+ls
+ls -1
+cd Dungeons.and.Dragons.Honor.Among.Thieves.2023.V2.1080p.HDCAM-C1NEM4\[TGx\]/
+ls
+vlc Dungeons.and.Dragons.Honor.Among.Thieves.2023.V2.1080p.HDCAM-C1NEM4.mp4 
+..
+ls
+ls -1
+ls
+rm -R Dungeons.and.Dragons.Honor.Among.Thieves.2023.V2.1080p.HDCAM-C1NEM4\[TGx\]
+ls
+c
+sudo mount /dev/sdg1 /mnt/Seagate-2T/
+cd /mnt/
+ls WD-4T/WD/media/plex/
+ls Seagate-2T/Seagate/media/plex/
+ls -l
+ls -l Seagate-2T/Seagate/media/plex/
+ls -l WD-4T/WD/media/plex/
+sudo umount WD-4T/
+ls -l WD-4T/WD/media/plex/
+sudo umount WD-4T/
+sudo umount /mnt/WD-4T/
+cd /mnt/
+ls
+c
+ls
+exit
+sudo fdisk -l
+wo
+exit
+sudo mount /dev/sdb1 /mnt/Seagate-2T/
+sudo 
+sudo fdisk -l
+sudo mount /dev/sdg1 /mnt/Seagate-2T/
+c
+sudo fdisk -l
+sudo mount /dev/sdh1 /mnt/Seagate-2T/
+sudo fdisk -l
+sudo mount /dev/sdi1 /mnt/Seagate-2T/
+sudo fdisk -l
+sudo mount /dev/sdj1 /mnt/Seagate-2T/
+wo
+c
+ls /mnt/Seagate-2T/
+wo
+sudo fdisk -l
+sudo mount /dev/sdk1 /mnt/Seagate-2T/
+.
+sudo fdisk -l
+sudo mount /dev/sdl1 /mnt/Seagate-2T/
+c
+sudo fdisk -l
+sudo mount /dev/sdm1 /mnt/Seagate-2T/
+wo
+.
+c
+sudo fdisk -l
+sudo mount /dev/sdn1 /mnt/Seagate-2T/
+wo
+sudo fdisk -l
+sudo mount /dev/sdo1 /mnt/Seagate-2T/
+sudo fdisk -l
+sudo mount /dev/sdp1 /mnt/Seagate-2T/
+exit
+c
+sudo fdisk -l
+sudo mount /dev/sdb1 /mnt/Seagate-2T/
+cd /mnt/
+ls Seagate-2T/Seagate/media/plex/Movies/
+sudo dnf update
+ls Seagate-2T/Seagate/media/plex/Shows/
+sudo fdisk -l
+sudo mount /dev/sdg1 /mnt/Seagate-2T/
+ls Seagate-2T/Seagate/media/plex/Shows/
+c
+sudo fdisk -l
+sudo mount /dev/sdh1 /mnt/Seagate-2T/
+sudo fdisk -l
+sudo mount /dev/sdi1 /mnt/Seagate-2T/
+sudo fdisk -l
+sudo mount /dev/sdj1 /mnt/Seagate-2T/
+.
+c
+cd /mnt/
+ls
+ls Seagate-2T/Seagate/media/plex/Shows/
+c
+sudo fdisk -l
+sudo mount /dev/sdk1 /mnt/Seagate-2T/
+sudo fdisk -l
+sudo mount /dev/sdl1 /mnt/Seagate-2T/
+c
+sudo fdisk -l
+sudo mount /dev/sdm1 /mnt/Seagate-2T/
+sudo fdisk -l
+sudo mount /dev/sdn1 /mnt/Seagate-2T/
+ls Seagate-2T/Seagate/media/plex/Shows/
+cd Seagate-2T/
+ls
+
+sudo fdisk -l
+sudo mount /dev/sdn1 /mnt/Seagate-2T/
+ls
+cd Seagate-2T/
+ls
+..
+exit
+wo
+exit
+c
+wo
+cd
+wo
+ls /mnt/Seagate-2T/
+ls /mnt/Seagate-2T/Seagate/
+ls /mnt/Seagate-2T/Seagate/media/plex/Shows/
+c
+ls /mnt/Seagate-2T/Seagate/media/plex/Shows/
+c
+xvpn-status 
+cd Software/
+c
+ls
+sudo rpm -Uvh expressvpn-3.49.0.28-1.x86_64.rpm 
+ls
+mkdir expressvpn
+mv expressvpn-3.* expressvpn
+ls
+..
+cd Downloads/
+ls
+sudo cp -R 22\ Jump\ Street\ \(2014\)\ \[1080p\] /mnt/Seagate-2T/Seagate/media/plex/Movies/
+cd /mnt/Seagate-2T/Seagate/media/plex/Movies/
+c
+ls -l
+xvpn-status 
+cp -Rv /home/benr242/Downloads/21\ Jump\ Street\ \(2012\)\ \[1080p\] .
+exit
+cd /mnt/
+sudo mount /dev/sdn1 /mnt/Seagate-2T/
+ls Seagate-2T/Seagate/media/plex/Shows/
+c
+ls Seagate-2T/Seagate/media/plex/Shows/
+sudo fdisk -l
+sudo mount /dev/sdo1 /mnt/Seagate-2T/
+sudo fdisk -l
+sudo mount /dev/sdp1 /mnt/Seagate-2T/
+c
+sudo fdisk -l
+sudo mount /dev/sdq1 /mnt/Seagate-2T/
+sudo fdisk -l
+sudo mount /dev/sdr1 /mnt/Seagate-2T/
+sudo fdisk -l
+sudo mount /dev/sds1 /mnt/Seagate-2T/
+c
+sudo fdisk -l
+sudo mount /dev/sdt1 /mnt/Seagate-2T/
+c
+sudo fdisk -l
+sudo mount /dev/sdu1 /mnt/Seagate-2T/
+sudo fdisk -l
+sudo mount /dev/sdv1 /mnt/Seagate-2T/
+c
+sudo fdisk -l
+sudo mount /dev/sdw1 /mnt/Seagate-2T/
+c
+sudo fdisk -l
+sudo mount /dev/sdx1 /mnt/Seagate-2T/
+sudo fdisk -l
+sudo mount /dev/sdy1 /mnt/Seagate-2T/
+c
+sudo fdisk -l
+sudo mount /dev/sdz1 /mnt/Seagate-2T/
+sudo fdisk -l
+sudo mount /dev/sdaa1 /mnt/Seagate-2T/
+cd Seagate-2T/Seagate/media/plex/Movies/
+ls
+ls -lh The\ Devils\ Advocate\ 1997\ UNRATED\ 1080p\ BluRay\ x264\ AAC\ -\ Ozlem/The\ Devils\ Advocate\ 1997\ UNRATED\ 1080p\ BluRay\ x264\ AAC\ -\ Ozlem.mp4 
+..
+c
+sudo fdisk -l
+sudo mount /dev/sdab1 /mnt/Seagate-2T/
+sudo fdisk -l
+sudo mount /dev/sdac1 /mnt/Seagate-2T/
+xvpn-status 
+c
+expressvpn
+expressvpn connect 
+xvpn-status 
+sudo fdisk -l
+sudo mount /dev/sdad1 /mnt/Seagate-2T/
+sudo fdisk -l
+sudo mount /dev/sdae1 /mnt/Seagate-2T/
+exit
+cd
+c
+ls
+vi Repos/fedora/notes/pat.txt 
+c
+ls -a
+mkdir git
+mv Repos git/
+cd git 
+vi PAT
+..
+exit
+cd
+c
+ls
+cd Repos/fedora/
+ls
+cd notes/
+ls
+vi fedora38.txt 
+ls
+ls howto/
+VI fedora38install.txt 
+vi fedora38install.txt 
+..
+git status
+git add .
+git status
+git co -m "check"
 git commit -m "check"
 git status
 git push origin main
-c
-xvpn 
-expressvpn connect
-xvpn 
-c
-xvpn 
-cd Downloads/
-sudo cp -R Station\ Eleven\ Season\ 1\ Mp4\ 1080p /home/benr242/Seagate/Shows/
-cd
-cd Seagate/Shows
-c
-ls
-sudo mv Station\ Eleven\ Season\ 1\ Mp4\ 1080p Station\ Eleven
-ls
-cd Station\ Eleven/
-ls
-sudo mkdir Season\ 1
-sudo chown plex:plex *
-ls -l
-sudo chmod 755 *
-ls -l
-sudo mv * Season\ 1/
-LS
-ls
-..
-ls
-ls -1
-sudo mv Station\ Eleven Station\ Eleven\ \{tvdb\ 366529\}
-ls -1
-sudo cp -R Station\ Eleven\ \{tvdb\ 366529\} /plex/Shows/
-cd Firefly\ \{tvdb\ 78874\}/
-c
-ls -l
-cd Season\ 1/
-ls -l
-vlc 02\ Firefly\ Bushwhacked\ -\ Episode\ 02\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 
-c
-ls -`
-ls -1
-vlc 12\ Firefly\ Heart\ Of\ Gold\ -\ Episode\ 12\ 2003\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 
-c
-ls -1
-vlc 07\ Firefly\ Out\ Of\ Gas\ -\ Episode\ 07\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 
-c
-sudo mv 07\ Firefly\ Out\ Of\ Gas\ -\ Episode\ 07\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 07\ Firefly\ \(2002\)\ -\ s01e07 Out\ Of\ Gas.mp4 
-sudo mv 07\ Firefly\ Out\ Of\ Gas\ -\ Episode\ 07\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 07\ Firefly\ \(2002\)\ -\ s01e07\ Out\ Of\ Gas.mp4 
-c
-ls -1
-..
-cd Season\ 1/
-ls
-ls Firefly\ \{tvdb\ 78874\}/
-sudo rmdir Firefly\ \{tvdb\ 78874\}/
-c
-ls -1
-sudo mv 07\ Firefly\ \(2002\)\ -\ s01e07\ Out\ Of\ Gas.mp4 Firefly\ \(2002\)\ -\ s01e07\ Out\ Of\ Gas.mp4 
-ls -1
-sudo mv Firefly\ \(2002\)\ -\ s01e07\ Out\ Of\ Gas.mp4 Firefly\ \(2002\)\ -\ s01e07\ -\ Out\ Of\ Gas.mp4 
-ls -1
-sudo mv 12\ Firefly\ Heart\ Of\ Gold\ -\ Episode\ 12\ 2003\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e12\ \-\ Heart\ of\ Gold.mp4 
-ls -1
-sudo mv 01\ Firefly\ The\ Train\ Job\ -\ Episode\ 01\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e01\ -\ The\ Train\ Job.mp4
-sudo mv 02\ Firefly\ Bushwhacked\ -\ Episode\ 02\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e02\ -\ Bushwhacked.mp4
-sudo mv 03\ Firefly\ Shindig\ -\ Episode\ 03\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e03\ -\ Shindig.mp4
-ls
-sudo mv 04\ Firefly\ Safe\ -\ Episode\ 04\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e04\ -\ Safe.mp4
-c
-ls -1
-sudo mv 05\ Firefly\ Our\ Mrs\ Reynolds\ -\ Episode\ 05\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e05\ 
-ls -1
-sudo mv Firefly\ \(2002\)\ -\ s01e05 Firefly\ \(2002\)\ -\ s01e05\ -\ Our\ Bs\ Renolds.mp4
-sudo mv Firefly\ \(2002\)\ -\ s01e05 Firefly\ \(2002\)\ -\ s01e05\ -\ Our\ Ms\ Renolds.mp4
-sudo mv Firefly\ \(2002\)\ -\ s01e05\  Firefly\ \(2002\)\ -\ s01e05\ -\ Our\ Ms\ Renolds.mp4
-ls -1
-sudo mv 06\ Firefly\ Jaynestown\ -\ Episode\ 06\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e06\ -\ Jaynestown.mp4
-ls -1
-sudo mv 08\ Firefly\ Ariel\ -\ Episode\ 08\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e08\ -\ Ariel.mp4
-sudo mv 09\ Firefly\ War\ Stories\ -\ Episode\ 09\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e09\ -\ War\ Stories.mp4
-sudo mv 10\ Firefly\ Trash\ -\ Episode\ 10\ 2003\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e10\ -\ Trash.mp4
-sudo mv 11\ Firefly\ The\ Message\ -\ Episode\ 11\ 2003\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e11\ -\ The\ Message.mp4
-sudo mv 13\ Firefly\ Objects\ In\ Space\ -\ Episode\ 13\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e13\ -\ Objects\ in\ Space.mp4
-c
-ls -1
-sudo mv 00\ Firefly\ Serenity\ -\ Pilot\ Film\ 2002\ Eng\ Subs\ 1080p\ \[H264-mp4\].mp4 Firefly\ \(2002\)\ -\ s01e14\ -\ Serenity.mp4
-c
-pwd
-ls -1
-pwd
-sudo rm -Rf /plex/Shows/Firefly\ \{tvdb\ 78874\}
-..
-sudo cp -Rf Firefly\ \{tvdb\ 78874\} /plex/Shows/
-c
-cd Firefly\ \{tvdb\ 78874\}/Season\ 1/
-ls -1
-pwd
-ls -1
-sudo mv Firefly\ \(2002\)\ -\ s01e14\ -\ Serenity.mp4 Firefly\ \(2002\)\ -\ s01e00\ -\ Serenity.mp4
-c
-ls -1
-pwd
-cd /plex/Shows/
-ls Firefly\ \{tvdb\ 78874\}/
-ls Firefly\ \{tvdb\ 78874\}/Season\ 1/
-cd Firefly\ \{tvdb\ 78874\}/Season\ 1/
-c
-ls -1
-sudo cp /home/benr242/Seagate/Shows/Firefly\ \{tvdb\ 78874\}/Season\ 1/Firefly\ \(2002\)\ -\ s01e00\ -\ Serenity.mp4 .
-c\
-c
-pwd
-ls -1
-sudo rm Firefly\ \(2002\)\ -\ s01e14\ -\ Serenity.mp4 
-pwd
-cd
-cd Seagate/Shows
-c
-ls
-cd Firefly\ \{tvdb\ 78874\}/
-ls -1
-ls -1 Season\ 1/
-cd Season\ 1/
-ls -1
-cp Firefly\ \(2002\)\ -\ s01e00\ -\ Serenity.mp4 Firefly\ \(2002\)\ -\ s01e14\ -\ Serenity.mp4
-sudo cp Firefly\ \(2002\)\ -\ s01e00\ -\ Serenity.mp4 Firefly\ \(2002\)\ -\ s01e14\ -\ Serenity.mp4
-c
-ls -1
-cd
-cd Repos/fedora/
-git status
-git push origin master
-git status
-c
-git status
-git push origin master
+vi /home/benr242/notes.txt 
 git push origin main
-git status
+git status 
 ls
-cd root/home/benr242
+cd root/home/benr242/
+mkdir git
+vi git/PAT
+git status 
+git add git/PAT 
+git status 
+pwd
+cd
+vi .bash_aliases 
 ls
-..
-cd notes/
-c
-ls
-..
-cd notes/
-vi pat.txt
-..
-git status
-git add .
-git commit -m "test"
-git status
-git push origin main
+vi .bash_aliases 
 wo
-xvpn 
-sudo dnf update
-cd 
-cd Downloads/
+vi git/Repos/fedora/notes/workout.txt 
+exit
 c
+wo
+cd /mnt/Seagate-2T/Seagate/media/plex/Shows/Foundation\ \{tvdb\ 366972\}/
 ls
-rm -Rf The*
-c
+cd Foundation-2011-S01/
 ls
-rm -Rf House.of.the.Dragon.S01.1080p.WEBRip.x265\[eztv.re\]/ Prey.2021.DUBBED.720p.NF.WEBRip.AAC2.0.X.264-EVO/
-ls
-c
-xvpn 
-ls
-xvpn 
-cd
-cd Seagate/Shows
-ls
-cd /plex/Shows/
-ls
-sudo cp -Rf Ozark\ \{tvdb\ 329089\} /home/benr242/Seagate/Shows/
-cd
-cd Seagate/Shows
-cd Ozark\ \{tvdb\ 329089\}/
-ls
-cd
-cd Downloads/
-ls
-cp -Rf Ozark.S02.720p.WEB.x264-METCON\[ettv\] /home/benr242/Seagate/Shows/
-rh
-cd
-cd Seagate/Shows
-c
-ls
-mv Ozark.S02.720p.WEB.x264-METCON\[ettv\] Ozark\ \{tvdb\ 329089\}/
-sudo mv Ozark.S02.720p.WEB.x264-METCON\[ettv\] Ozark\ \{tvdb\ 329089\}/
-cd Ozark\ \{tvdb\ 329089\}/
-c
-ls
-sudo mv Ozark.S02.720p.WEB.x264-METCON\[ettv\] Season\ 2
-ls
-cd Season\ 2/
-ls -l
-sudo chown plex:plex *
-ls -l
-sudo chmod 755 *
-ls -l
 ..
+cd The\ Wire\ \{tvdb\ 79126\}/
 ls
-sudo cp -R Season\ 2 /plex/Shows/Ozark\ \{tvdb\ 329089\}/
+..
+cd Foundation\ \{tvdb\ 366972\}/
+sudo mkdir Season\ 1
+c
+ls
+sudo mv Foundation-2011-S01/S01E* Season\ 1/
+sudo mkdir Season\ 2
+cd
+cd Downloads/
+ls
+ls Foundation.S02E01.1080p.WEB.H264-NHTFS\[TGx\]/
+sudo cp -R Foundation.S02E01.1080p.WEB.H264-NHTFS\[TGx\]/foundation.s02e01.1080p.web.h264-nhtfs.mkv /mnt/Seagate-2T/Seagate/media/plex/Shows/Foundation\ \{tvdb\ 366972\}/Season\ 2/
+c
+wo
+xvpn-status 
 pwd
-cd /plex/Shows/Firefly\ \{tvdb\ 78874\}/
-ls -l
-ls -l Season\ 1/
+ls
+cp -Rv Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG\[TGx\] /mnt/pitstop/
+cd /mnt/pitstop/
+ls
+mv Dungeons.and.Dragons.Honor.Among.Thieves.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG\[TGx\] Dungeons\ and\ Dragons\ Honor\ Among\ Thieves\ \(2023\)
+ls
+sudo mv Dungeons\ and\ Dragons\ Honor\ Among\ Thieves\ \(2023\) ../Seagate-2T/Seagate/media/plex/Movies/
+..
+cd Seagate-2T/Seagate/media/plex/Movies/
+c
+ls
+ls --more
+ls less
+ls -h
+ls --help
+ls | less
+c
+wo
+sudo dnf update
+wo
+cd
+cd Downloads/
+c
+ls
+cp -Rvf Barbie\ \(2023\)\ NEW\ 1080p\ HDTS\ x264\ ESub\ AAC\ -\ HushRips.mp4 /mnt/pitstop/
+cd /mnt/pitstop/
+ls -lh
+mv Barbie\ \(2023\)\ NEW\ 1080p\ HDTS\ x264\ ESub\ AAC\ -\ HushRips.mp4 Barbie\ \(2023\).mp4 
+ls -lh
+mv Barbie\ \(2023\).mp4 ../Seagate-2T/Seagate/media/plex/Movies/
+wo
+c
+wo
+xvpn-status 
+cd
+cd Software/
+ls
+sudo rpm -Uvh expressvpn-3.52.0.2-1.x86_64.rpm 
+mv expressvpn-3.52.0.2-1.x86_64.rpm expressvpn/
+ls expressvpn/
+cd /mnt/pitstop/
+vo
+wo
+xvpn-status 
+c
+cd /etc/
+ls
+vi fedora-release 
+cd /mnt/pitstop/
+c
+wo
+vi /home/benr242/.bash_aliases 
+xvpn-status 
+cd
+cd Downloads/
+ls
+cp -R Barbie\ 2023\ 720p\ HDTS\ X264\ AC3-AOC.mp4 /mnt/Seagate-2T/Seagate/media/plex/Movies/
+cd /mnt/Seagate-2T/Seagate/media/plex/Movies/
+c
+ls
+ls Ba*
+rm Barbie\ \(2023\).mp4 
+mv Barbie\ 2023\ 720p\ HDTS\ X264\ AC3-AOC.mp4 Barbie\ \(2023\).mp5
+pwd
+ls
+ls B*
+mv Barbie\ \(2023\).mp5 Barbie\ \(2023\).mp4
+c
+wo
+exit
+c
+sudo dnf update
+c
+sudo fdisk -l
+sudo mount /dev/sdb1 /mnt/Seagate-2T/
+sudo fdisk -l
+sudo mount /dev/sdg1 /mnt/Seagate-2T/
+c
+sudo fdisk -l
+sudo mount /dev/sdh1 /mnt/Seagate-2T/
+sudo fdisk -l
+sudo mount /dev/sdi1 /mnt/Seagate-2T/
+sudo fdisk -l
+sudo mount /dev/sdj1 /mnt/Seagate-2T/
+sudo fdisk -l
+sudo mount /dev/sdk1 /mnt/Seagate-2T/
+xvpn-status 
+sudo fdisk -l
+sudo mount /dev/sdl1 /mnt/Seagate-2T/
+c
+cd /mnt/Seagate-2T/
+ls
+..
+sudo fdisk -l
+sudo mount /dev/sdl1 /mnt/Seagate-2T/
+rm -Rf Seagate-2T/Seagate/media/plex/Movies/Dungeons\ and\ Dragons\:\ Honor\ Among\ Thieves\ \(2023\)
+sudo fdisk -l
+sudo mount /dev/sdm1 /mnt/Seagate-2T/
+c
+sudo fdisk -l
+sudo mount /dev/sdn1 /mnt/Seagate-2T/
+c
+sudo fdisk -l
+sudo mount /dev/sdo1 /mnt/Seagate-2T/
+sudo fdisk -l
+sudo mount /dev/sdp1 /mnt/Seagate-2T/
+c
+sudo fdisk -l
+sudo mount /dev/sdq1 /mnt/Seagate-2T/
+c
+sudo fdisk -l
+sudo mount /dev/sdr1 /mnt/Seagate-2T/
+c
+xvpn-status 
+expressvpn -h
+expressvpn connect
+xvpn-status 
+cd Seagate-2T/Seagate/media/plex/Shows/
+cd Foundation\ \{tvdb\ 366972\}/
+ls
+..
+.
+cd /mnt/
+ls
+gtop
+top
+sudo fdisk -l
+sudo mount /dev/sds1 /mnt/Seagate-2T/
+c
+sudo fdisk -l
+sudo mount /dev/sdt1 /mnt/Seagate-2T/
+sudo fdisk -l
+sudo mount /dev/sdu1 /mnt/Seagate-2T/
+c
+sudo fdisk -l
+sudo mount /dev/sdv1 /mnt/Seagate-2T/
+c
+sudo fdisk -l
+sudo mount /dev/sdw1 /mnt/Seagate-2T/
+c
+sudo fdisk -l
+sudo mount /dev/sdx1 /mnt/Seagate-2T/
+c
+sudo fdisk -l
+sudo mount /dev/sdy1 /mnt/Seagate-2T/
+c
+xvpn-status 
+c
+expressvpn
+expressvpn disconnect 
+expressvpn connect 
+c
+xvpn-status 
+sudo dnf update
+c
+sudo dnf update
+c
+sudo dnf update
+vi /etc/fedora-release 
+sudo dnf install httpd
+exit
+exit
