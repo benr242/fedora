@@ -68,7 +68,9 @@ L legs
 	swing
 	40+ Squat
 	15 Lunge
+	
 	V calves
+
 	&Biceps
 
 	K Kettlebell

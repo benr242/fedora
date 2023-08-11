@@ -1,1 +1,2 @@
+cat ~/TOK/GithubToken 
 cat ~/TOK/GithubToken | xclip

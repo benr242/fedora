@@ -37,6 +37,9 @@ $ sudo dnf install clementine
 ## change hostname
 $ sudo hostnamectl set-hostname Seldon
 
+## LAMP Stack
+https://computingforgeeks.com/how-to-install-lamp-stack-on-fedora/
+
 $ sudo dnf install gnome-tweaks gnome-extensions-app
 $ sudo dnf install php
 $ sudo dnf install mariadb
